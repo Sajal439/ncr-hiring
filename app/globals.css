@@ -1,0 +1,124 @@
+@import "tailwindcss";
+
+/**
+ * Dark mode by inverting the palette, not by annotating the components.
+ *
+ * There are 416 colour classes across this app. Writing a `dark:` variant for
+ * each would be a diff nobody could review and a permanent tax on every new
+ * line of markup — and it would drift, because the one someone forgets is
+ * invisible until a user in dark mode finds it.
+ *
+ * Tailwind v4 compiles every colour utility to `var(--color-…)`:
+ *
+ *     .bg-white       { background-color: var(--color-white) }
+ *     .text-neutral-900 { color: var(--color-neutral-900) }
+ *
+ * So redefining those variables under [data-theme="dark"] flips all 416 at
+ * once, and anything written later is dark-ready the moment it is written.
+ *
+ * The ramp is mirrored rather than merely darkened: 50 swaps with 950, 100
+ * with 900, and so on. That is what makes it work without touching markup —
+ * `bg-neutral-50` was chosen as "the faintest surface" and stays the faintest
+ * surface; `bg-neutral-900 text-white` was chosen as "inverted chip" and stays
+ * an inverted chip, now light-on-dark. The intent each class encoded survives.
+ *
+ * The dark end is warmed slightly off pure black. #000 next to a white map
+ * panel is harsh, and OLED-black backgrounds smear while scrolling.
+ */
+:root[data-theme="dark"] {
+  --color-white: #131316;
+  --color-black: #f5f5f7;
+
+  --color-neutral-50: #17171b;
+  --color-neutral-100: #1e1e23;
+  --color-neutral-200: #2a2a31;
+  --color-neutral-300: #4a4a55;
+  /* Brightened from a strict mirror of the light ramp. #71717d is the exact
+     inverse of neutral-400, and it measured 3.7:1 on the page background —
+     under the 4.5:1 small-text floor, on the class this design uses for most
+     of its secondary copy. The mirror is a starting point, not a contract. */
+  --color-neutral-400: #8a8a96;
+  --color-neutral-500: #91919d;
+  --color-neutral-600: #adadb8;
+  --color-neutral-700: #c4c4cd;
+  --color-neutral-800: #dcdce2;
+  --color-neutral-900: #f0f0f3;
+  --color-neutral-950: #fafafa;
+
+  /* Accent tints are backgrounds in this design (bg-indigo-50, bg-amber-50).
+     At their light values they glare on a dark surface, so the 50/100 steps
+     become deep tints while the text steps brighten to stay legible on them. */
+  --color-indigo-50: #1e1b3a;
+  --color-indigo-100: #272252;
+  --color-indigo-700: #a5a0ff;
+  --color-indigo-800: #c3bfff;
+  --color-amber-50: #2a2210;
+  --color-amber-100: #3a2f14;
+  --color-amber-200: #4a3c1a;
+  --color-amber-300: #5c4a20;
+  --color-amber-800: #f5c451;
+  --color-emerald-50: #0f2a20;
+  --color-emerald-800: #6ee7b7;
+  --color-orange-50: #2e1c0f;
+  --color-orange-100: #3d2513;
+  --color-orange-200: #4d2f18;
+  --color-orange-600: #fb923c;
+  --color-orange-700: #fdba74;
+  --color-red-50: #2e1417;
+  --color-red-700: #fca5a5;
+}
+
+/* One breakpoint below Tailwind's smallest. The header has to survive a 375px
+   phone, and `sm` (640px) is far too late to start making decisions about it. */
+@theme {
+  --breakpoint-xs: 400px;
+}
+
+/* Native scrollbars, form controls and the caret follow this, not our classes. */
+:root { color-scheme: light; }
+:root[data-theme="dark"] { color-scheme: dark; }
+
+body {
+  font-family: ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+}
+
+/* Leaflet paints its own panes above our header without this. */
+.leaflet-container {
+  z-index: 0;
+  background: #f8f8f6;
+}
+.leaflet-tooltip {
+  border: 0;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgb(0 0 0 / 0.12);
+  font-size: 12px;
+  padding: 6px 9px;
+}
+
+/**
+ * The basemap is a raster image, so it cannot follow the palette — a light map
+ * inside a dark app is the one thing that gives away a retrofitted dark mode.
+ * Inverting and rotating the hue back turns the OSM tiles into a dark map with
+ * roads and labels intact, which is what every dark map style does anyway.
+ * Markers are excluded, or the pins would invert too and lose their meaning.
+ */
+:root[data-theme="dark"] .leaflet-container {
+  background: #14141a;
+}
+:root[data-theme="dark"] .leaflet-tile-pane {
+  filter: invert(1) hue-rotate(180deg) brightness(0.92) contrast(0.92);
+}
+:root[data-theme="dark"] .leaflet-tooltip,
+:root[data-theme="dark"] .leaflet-popup-content-wrapper,
+:root[data-theme="dark"] .leaflet-popup-tip,
+:root[data-theme="dark"] .leaflet-control-zoom a {
+  background: #1e1e23;
+  color: #f0f0f3;
+}
+:root[data-theme="dark"] .leaflet-control-attribution {
+  background: rgb(30 30 35 / 0.8);
+  color: #91919d;
+}
+:root[data-theme="dark"] .leaflet-control-attribution a {
+  color: #adadb8;
+}

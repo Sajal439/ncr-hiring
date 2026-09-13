@@ -1,0 +1,99 @@
+# "We're hiring" posts from anyone hiring in NCR.
+#
+# This used to run the mapped-companies pass first and give it twice the
+# budget. That was backwards: filtering by companies already on the map means
+# the pass can only refresh what the job scraper already covers, and the whole
+# reason to read hiring posts is to reach the companies it does not.
+#
+# So discovery is the job now and gets the budget. The mapped pass is opt-in
+# via mapBudget, default 0, for when a targeted refresh is actually wanted.
+#
+# Separate from the daily refresh, and deliberately slower: a "we're hiring"
+# post stays relevant for well over a day, and this is the only other step that
+# spends Apify credit.
+#
+# The pool it writes is picked up by build-jobs.mjs on the next daily refresh,
+# so this workflow does not rebuild anything itself.
+
+name: Hiring posts
+
+on:
+  schedule:
+    # Every third day, after the daily refresh has had time to finish. Off the
+    # hour for the same reason it is: GitHub queues scheduled runs, and round
+    # times are where the queue is.
+    - cron: "23 2 */3 * *"
+  workflow_dispatch:
+    inputs:
+      discoverBudget:
+        description: "Max USD for the discovery pass (the one that finds new companies)"
+        default: "0.40"
+      mapBudget:
+        description: "Max USD for the mapped-companies pass — 0 to skip it"
+        default: "0"
+      companies:
+        description: "How many mapped companies to listen to, if mapBudget > 0"
+        default: "200"
+      since:
+        description: "Window: 24h, week, month"
+        default: "week"
+
+concurrency:
+  group: hr-posts
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  posts:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    env:
+      APIFY_TOKEN: ${{ secrets.APIFY_TOKEN }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+      - run: npm ci
+
+      # The job. Searches the city, screens afterwards, and writes any employer
+      # it finds that is not already on the map to candidates.json.
+      - name: Discover who is hiring in NCR
+        if: env.APIFY_TOKEN != ''
+        run: |
+          npx tsx scripts/fetch-hr-posts.mjs \
+            --mode=discover \
+            --budget=${{ github.event.inputs.discoverBudget || '0.40' }} \
+            --since=${{ github.event.inputs.since || 'week' }}
+
+      # Opt-in. Cheap and precise, but it can only ever return companies the
+      # board already has, so it does not run on a schedule.
+      - name: Refresh mapped companies
+        if: env.APIFY_TOKEN != '' && github.event.inputs.mapBudget != '' && github.event.inputs.mapBudget != '0'
+        run: |
+          npx tsx scripts/fetch-hr-posts.mjs \
+            --mode=map \
+            --companies=${{ github.event.inputs.companies || '200' }} \
+            --budget=${{ github.event.inputs.mapBudget }} \
+            --since=${{ github.event.inputs.since || 'week' }}
+
+      - name: Commit the pool
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add scripts/raw/posts/
+          if git diff --staged --quiet; then
+            echo "no new posts"
+          else
+            git commit -m "chore: hiring posts $(date -u +%Y-%m-%d)"
+            # Same reason as the daily refresh: a code commit landing while
+            # this runs would otherwise reject the push and discard a paid run.
+            for attempt in 1 2 3; do
+              git pull --rebase --autostash origin main && git push && break
+              echo "push attempt $attempt failed; retrying"
+              sleep 5
+            done
+          fi

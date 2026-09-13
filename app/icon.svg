@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <!--
+    A metro interchange: two lines crossing, with the white ring the maps use
+    where you can change trains.
+    
+    Not decoration. The Delhi Metro is why Gurugram, Noida and Delhi are one
+    job market instead of three — someone in Noida takes the Blue Line to an
+    office in Gurugram, which is the commute this board is built around.
+
+    Drawn on the axes rather than diagonally, which is the whole reason it is
+    legible: a favicon is rendered at 16px against a pixel grid, and diagonal
+    strokes antialias into a smudge at that size. The first version crossed at
+    45° and disappeared. Horizontal and vertical strokes stay crisp.
+
+    The dark ring around the white dot is doing real work too — without it the
+    dot merges into the strokes and the interchange reads as a blob.
+  -->
+  <rect width="32" height="32" rx="7" fill="#131316"/>
+  <g stroke-linecap="round" fill="none" stroke-width="5.5">
+    <path d="M16 5 L16 27" stroke="#F0C24B"/>
+    <path d="M5 16 L27 16" stroke="#3B82F6"/>
+  </g>
+  <circle cx="16" cy="16" r="6" fill="#131316"/>
+  <circle cx="16" cy="16" r="4.4" fill="#fff"/>
+</svg>

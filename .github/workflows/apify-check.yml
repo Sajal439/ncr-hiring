@@ -1,0 +1,24 @@
+# Verifies APIFY_TOKEN in about twenty seconds, without spending a cent.
+#
+# The daily refresh takes ~15 minutes before it even reaches the LinkedIn step,
+# which made every attempt to fix the 401 a fifteen-minute round trip. Run this
+# from the Actions tab instead: it checks the secret's shape and asks Apify who
+# the token belongs to, and nothing else.
+
+name: Check Apify token
+
+on: workflow_dispatch
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - name: Preflight
+        env:
+          APIFY_TOKEN: ${{ secrets.APIFY_TOKEN }}
+        run: node scripts/check-apify.mjs

@@ -1,0 +1,169 @@
+# Daily data refresh, run on GitHub's servers so it works with the laptop shut.
+# Commits updated data/*.json, which triggers a Vercel redeploy automatically
+# -- true only since 4 Sep, when the Vercel project was finally connected to this
+# repo. Before that the commits landed and production never moved.
+#
+# Cost: only the LinkedIn step spends Apify credit (~$0.49/day for a 24h delta,
+# hard-capped by --budget). Everything else is free.
+#
+# Required secret: APIFY_TOKEN
+# Optional secrets: ADZUNA_APP_ID, ADZUNA_APP_KEY
+
+name: Refresh data
+
+on:
+  schedule:
+    # 06:07 IST, not 07:30, and deliberately not on the hour.
+    #
+    # GitHub's scheduled runs are best-effort and queue behind everyone else's.
+    # "0 2" is a round time on a popular hour, and it showed: one morning this
+    # fired 4h51m late, the next it had not fired at all three hours in — on
+    # the day the site was being shared, with the board still on yesterday's
+    # data and the 8am digest unsent.
+    #
+    # An odd minute avoids the crowd, and starting 90 minutes early means an
+    # hour of queueing still lands the rebuild before the 07:30 the site
+    # promises. GitHub's own guidance is not to schedule on the hour.
+    - cron: "37 0 * * *"
+  workflow_dispatch:
+    inputs:
+      days:
+        description: "How many days of LinkedIn jobs to pull"
+        default: "1"
+      budget:
+        description: "Max USD to spend on the LinkedIn pull"
+        default: "0.90"
+
+concurrency:
+  group: refresh
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    # The `secrets` context cannot be used in a step-level `if`, so surface the
+    # ones we conditionally depend on as env vars first.
+    env:
+      APIFY_TOKEN: ${{ secrets.APIFY_TOKEN }}
+      ADZUNA_APP_ID: ${{ secrets.ADZUNA_APP_ID }}
+      ADZUNA_APP_KEY: ${{ secrets.ADZUNA_APP_KEY }}
+      SUBSCRIBERS_URL: ${{ secrets.SUBSCRIBERS_URL }}
+      SUBSCRIBERS_TOKEN: ${{ secrets.SUBSCRIBERS_TOKEN }}
+      SMTP_USER: ${{ secrets.SMTP_USER }}
+      SMTP_PASS: ${{ secrets.SMTP_PASS }}
+      RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
+      DIGEST_FROM: ${{ secrets.DIGEST_FROM }}
+      SITE_URL: ${{ vars.SITE_URL }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+      - run: npm ci
+
+      # 1. Drop roles that are filled or past their expiry. Free, and the step
+      #    that keeps the board worth returning to.
+      # Each source is allowed to fail without killing the run, but the failure
+      # must stay visible. `continue-on-error: true` reports the step green,
+      # which hid a 401 from the LinkedIn pull for a whole run.
+      - name: Validate open roles
+        id: validate
+        run: node scripts/validate-jobs.mjs || echo "VALIDATE_FAILED=1" >> "$GITHUB_ENV"
+
+      # 2. Free sources.
+      - name: Internshala
+        run: node scripts/fetch-internshala.mjs --pages=4 || echo "INTERNSHALA_FAILED=1" >> "$GITHUB_ENV"
+
+      - name: Adzuna
+        if: env.ADZUNA_APP_ID != ''
+        run: node scripts/fetch-adzuna.mjs --pages=4 || echo "ADZUNA_FAILED=1" >> "$GITHUB_ENV"
+
+      - name: Company career pages
+        run: |
+          { node scripts/discover-careers.mjs && node scripts/fetch-ats-jobs.mjs; } \
+            || echo "CAREERS_FAILED=1" >> "$GITHUB_ENV"
+
+      # 3. The one paid step. Capped so a bad run cannot drain credit.
+      - name: LinkedIn (last 24h)
+        if: env.APIFY_TOKEN != ''
+        run: |
+          node scripts/fetch-linkedin.mjs \
+            --days=${{ github.event.inputs.days || '1' }} \
+            --budget=${{ github.event.inputs.budget || '0.90' }} \
+            || echo "LINKEDIN_FAILED=1" >> "$GITHUB_ENV"
+
+      # 4. Rebuild everything the site reads.
+      # Before the rebuild, so anything approved overnight is merged by it
+      # rather than waiting a further day. Failing here must not stop the
+      # refresh — a submission can wait; the whole board going stale cannot.
+      - name: Publish approved submissions
+        if: env.SUBSCRIBERS_URL != ''
+        run: node scripts/publish-submissions.mjs || echo "PUBLISH_FAILED=1" >> "$GITHUB_ENV"
+
+      - name: Rebuild data
+        run: |
+          node scripts/build-from-linkedin.mjs
+          npx tsx scripts/build-jobs.mjs
+          node scripts/fetch-news.mjs
+
+      - name: Sanity check
+        run: |
+          node -e "
+          const c=require('./data/companies.json'), j=require('./data/jobs.json');
+          const roles=Object.values(j).flat().length;
+          if(c.length<500) throw new Error('companies collapsed to '+c.length);
+          if(roles<500) throw new Error('roles collapsed to '+roles);
+          console.log('ok: '+c.length+' companies, '+roles+' roles');
+          "
+
+      # 5. The digest, last, and only once the board has been checked — an
+      #    empty or collapsed dataset must never reach anyone's inbox. Silent
+      #    until the subscriber sheet and Resend are both configured.
+      - name: Send daily digest
+        if: env.SUBSCRIBERS_URL != '' && (env.SMTP_USER != '' || env.RESEND_API_KEY != '')
+        run: npx tsx scripts/send-digest.mjs || echo "DIGEST_FAILED=1" >> "$GITHUB_ENV"
+
+      - name: Report source failures
+        if: always()
+        run: |
+          failed=""
+          for s in VALIDATE INTERNSHALA ADZUNA CAREERS LINKEDIN PUBLISH DIGEST; do
+            var="${s}_FAILED"
+            [ -n "${!var:-}" ] && failed="$failed $s"
+          done
+          if [ -n "$failed" ]; then
+            echo "::warning title=Sources failed::$failed — data was rebuilt from what did succeed"
+            echo "### ⚠️ Failed sources:$failed" >> "$GITHUB_STEP_SUMMARY"
+            exit 1
+          fi
+          echo "all sources ok"
+
+      - name: Commit
+        if: always()
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/ scripts/raw/
+          if git diff --staged --quiet; then
+            echo "no changes"
+          else
+            git commit -m "chore: daily refresh $(date -u +%Y-%m-%d)"
+            # This job runs for 20 minutes and only touches data/ and
+            # scripts/raw/, so any commit pushed to main while it works is a
+            # guaranteed non-conflicting rebase — but a plain push rejects it
+            # and throws the whole refresh away. That happened on launch day:
+            # every source succeeded, the data was built, and the run failed at
+            # the last line because a code commit had landed meanwhile. The
+            # Apify pull is the paid step, so a discarded push costs real money
+            # as well as a day of freshness.
+            for attempt in 1 2 3; do
+              git pull --rebase --autostash origin main && git push && break
+              echo "push attempt $attempt failed; retrying"
+              sleep 5
+            done
+          fi

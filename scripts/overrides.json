@@ -1,0 +1,16 @@
+{
+  "_comment": "Hand corrections to the automatic startup/company tiering. Rules can catch hotels and audit firms, but not every consultancy that looks like a startup on paper. Add a slug to 'demote' to push it out of the startup tier, or to 'promote' to force it in. Re-run: node scripts/build-from-linkedin.mjs && npx tsx scripts/build-jobs.mjs",
+  "demote": [
+    "a-business-studio",
+    "everest-group",
+    "group-bayport",
+    "jakson-group",
+    "ozone-group",
+    "oliver-the-brandtech-group",
+    "ls-digital-group",
+    "bbdo-group-india",
+    "ace-group-india",
+    "people-tech-group-inc"
+  ],
+  "promote": []
+}
