@@ -16846,5 +16846,35 @@
     "domain": "mckinsey.com",
     "ats": null,
     "careers": null
+  },
+  {
+    "slug": "boxcraft-technologies",
+    "domain": "boxcraft.co.in",
+    "ats": null,
+    "careers": null
+  },
+  {
+    "slug": "omnipresent-robot-tech",
+    "domain": "omnipresenttech.com",
+    "ats": null,
+    "careers": "https://omnipresenttech.com/careers"
+  },
+  {
+    "slug": "innofarmsai",
+    "domain": "INNOFarms.AI",
+    "ats": null,
+    "careers": "https://INNOFarms.AI/careers"
+  },
+  {
+    "slug": "wyzard-ai",
+    "domain": "wyzard.ai",
+    "ats": null,
+    "careers": "https://wyzard.ai/careers"
+  },
+  {
+    "slug": "dhampur-bio-organics-ltd",
+    "domain": "dhampur.com",
+    "ats": null,
+    "careers": "https://www.dhampur.com/career-overview/"
   }
 ]
