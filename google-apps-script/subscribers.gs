@@ -37,7 +37,7 @@
  * GET is fine from curl.
  */
 
-const SHARED_TOKEN = "PUT_A_LONG_RANDOM_STRING_HERE";
+const SHARED_TOKEN = "6f1e994fd751515e950797b53988a74d0bdf36955ecf9d16";
 const SHEET_NAME = "subscribers";
 const ADS_SHEET = "ads";
 const SUBS_SHEET = "submissions";
