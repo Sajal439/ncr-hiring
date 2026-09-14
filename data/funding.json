@@ -1041,6 +1041,59 @@
       }
     ]
   },
+  "marketinc": {
+    "amount": "$15 Mn",
+    "title": "Fairdeal.Market Bags $15 Mn To Scale Its B2B Quick Commerce Platform",
+    "url": "https://inc42.com/buzz/fairdeal-market-bags-15-mn-to-scale-its-b2b-quick-commerce-platform/",
+    "date": "2026-05-26",
+    "source": "Inc42",
+    "history": [
+      {
+        "amount": "₹500 Cr",
+        "round": "IPO",
+        "title": "Infra.Market To Raise Pre-IPO Round Of ₹500 Cr At $2.6 Bn Valuation",
+        "url": "https://inc42.com/buzz/infra-market-to-raise-pre-ipo-round-of-%e2%82%b9500-cr-at-2-6-bn-valuation/",
+        "date": "2026-05-08",
+        "source": "Inc42"
+      },
+      {
+        "round": "Seed",
+        "title": "Market Intelligence Startup Mindcase Raises Seed Funding Led by Ajvc",
+        "url": "https://entrackr.com/snippets/market-intelligence-startup-mindcase-raises-seed-funding-led-by-ajvc-11069641",
+        "date": "2026-02-03",
+        "source": "Entrackr"
+      },
+      {
+        "amount": "$50 Mn",
+        "round": "IPO",
+        "title": "IPO-Bound Infra.Market Raises Additional $50 Mn Debt From Mars Growth Capital",
+        "url": "https://inc42.com/buzz/ipo-bound-infra-market-raises-additional-50-mn-debt-from-mars-growth-capital/",
+        "date": "2025-06-30",
+        "source": "Inc42"
+      },
+      {
+        "round": "IPO",
+        "title": "Market Scorecard: 13 Startups Raised Over INR 29K Cr Via IPOs In 2024",
+        "url": "https://inc42.com/features/market-scorecard-13-startups-raised-over-inr-29k-cr-via-ipos-in-2024/",
+        "date": "2025-01-02",
+        "source": "Inc42"
+      },
+      {
+        "amount": "$20 Mn",
+        "title": "Visa Processing Platform Atlys Raises $20 Mn To Boost Product Stack, Expand Market Footprint",
+        "url": "https://inc42.com/buzz/visa-processing-platform-atlys-raises-20-mn-to-boost-product-stack-expand-market-footprint/",
+        "date": "2024-09-24",
+        "source": "Inc42"
+      },
+      {
+        "round": "IPO",
+        "title": "IPO On The Cards? Physics Wallah Seeks Investment Bankers For Market Debut In 2025",
+        "url": "https://inc42.com/buzz/ipo-on-the-cards-physics-wallah-seeks-investment-bankers-for-market-debut-in-2025/",
+        "date": "2024-09-22",
+        "source": "Inc42"
+      }
+    ]
+  },
   "country-delight": {
     "round": "Debt",
     "title": "Exclusive Country Delight Raises Debt From Alteria Capital",
@@ -2701,14 +2754,6 @@
     "source": "Inc42",
     "history": []
   },
-  "atlys": {
-    "amount": "$20 Mn",
-    "title": "Visa Processing Platform Atlys Raises $20 Mn To Boost Product Stack, Expand Market Footprint",
-    "url": "https://inc42.com/buzz/visa-processing-platform-atlys-raises-20-mn-to-boost-product-stack-expand-market-footprint/",
-    "date": "2024-09-24",
-    "source": "Inc42",
-    "history": []
-  },
   "nutrabay": {
     "round": "Series A",
     "title": "D2c Retail Brand Nutrabay Raises 5 mn in Series a",
@@ -2875,6 +2920,14 @@
     "title": "Zyod Raises 3 5 mn in Seed Round Led by Lightspeed",
     "url": "https://entrackr.com/2023/04/zyod-raises-3-5-mn-in-seed-round-led-by-lightspeed/",
     "date": "2023-04-04",
+    "source": "Entrackr",
+    "history": []
+  },
+  "eazydiner": {
+    "amount": "₹40 Cr",
+    "title": "Eazydiner Raises rs 40 cr",
+    "url": "https://entrackr.com/2023/03/eazydiner-raises-rs-40-cr/",
+    "date": "2023-03-29",
     "source": "Entrackr",
     "history": []
   },

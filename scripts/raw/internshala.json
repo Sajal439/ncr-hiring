@@ -6355,5 +6355,31 @@
     "location": "Gurgaon",
     "url": "https://internshala.com/job/detail/fresher-finance-associate-job-in-gurgaon-at-registerkaro1789298258",
     "actively_hiring": true
+  },
+  {
+    "kind": "internship",
+    "title": "Android App Development",
+    "company": "Evaisan Innovations Private Limited",
+    "location": "Greater Noida",
+    "stipend": "₹ 20,000 - 40,000 /month",
+    "duration": "6 Months",
+    "url": "https://internshala.com/internship/detail/android-app-development-internship-in-greater-noida-at-evaisan-innovations-private-limited1789359857",
+    "actively_hiring": true
+  },
+  {
+    "kind": "job",
+    "title": "Personal Assistant",
+    "company": "Budding Mariners",
+    "location": "Delhi, Greater Noida, Jaipur",
+    "url": "https://internshala.com/job/detail/personal-assistant-job-in-multiple-locations-at-budding-mariners1789359289",
+    "actively_hiring": true
+  },
+  {
+    "kind": "job",
+    "title": "Creative Strategist",
+    "company": "Outgrow Media",
+    "location": "Delhi",
+    "url": "https://internshala.com/job/detail/creative-strategist-job-in-delhi-at-outgrow-media1789361993",
+    "actively_hiring": false
   }
 ]
