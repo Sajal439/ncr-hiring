@@ -6381,5 +6381,132 @@
     "location": "Delhi",
     "url": "https://internshala.com/job/detail/creative-strategist-job-in-delhi-at-outgrow-media1789361993",
     "actively_hiring": false
+  },
+  {
+    "kind": "internship",
+    "title": "Content and Social Media Marketing",
+    "company": "Bauer Bodoni",
+    "location": "Faridabad, Delhi",
+    "stipend": "₹ 5,000 - 10,000 /month",
+    "duration": "6 Months",
+    "url": "https://internshala.com/internship/detail/content-and-social-media-marketing-internship-in-multiple-locations-at-bauer-bodoni1789364749",
+    "actively_hiring": true
+  },
+  {
+    "kind": "internship",
+    "title": "Video Editing/Making",
+    "company": "Earth Calling Expeditions",
+    "location": "Delhi",
+    "stipend": "₹ 10,000 - 15,000 /month",
+    "duration": "3 Months",
+    "url": "https://internshala.com/internship/detail/video-editing-making-internship-in-delhi-at-earth-calling-expeditions1789363485",
+    "actively_hiring": true
+  },
+  {
+    "kind": "internship",
+    "title": "Software Development",
+    "company": "Namekart",
+    "stipend": "₹ 20,000 - 25,000 /month",
+    "duration": "6 Months",
+    "url": "https://internshala.com/internship/detail/software-development-internship-in-multiple-locations-at-namekart1789361996",
+    "actively_hiring": true
+  },
+  {
+    "kind": "internship",
+    "title": "Prompt Engineering",
+    "company": "Bauer Bodoni",
+    "location": "Faridabad",
+    "stipend": "₹ 5,000 - 12,000 /month",
+    "duration": "6 Months",
+    "url": "https://internshala.com/internship/detail/prompt-engineering-internship-in-faridabad-at-bauer-bodoni1789364290",
+    "actively_hiring": true
+  },
+  {
+    "kind": "internship",
+    "title": "Business Development (Sales)",
+    "company": "Bauer Bodoni",
+    "location": "Faridabad",
+    "stipend": "₹ 5,001 - 1,40,000 /month",
+    "duration": "6 Months",
+    "url": "https://internshala.com/internship/detail/business-development-sales-internship-in-faridabad-at-bauer-bodoni1789364157",
+    "actively_hiring": true
+  },
+  {
+    "kind": "internship",
+    "title": "Event Management",
+    "company": "Bauer Bodoni",
+    "location": "Faridabad",
+    "stipend": "₹ 5,000 - 20,000 /month",
+    "duration": "6 Months",
+    "url": "https://internshala.com/internship/detail/event-management-internship-in-faridabad-at-bauer-bodoni1789363953",
+    "actively_hiring": true
+  },
+  {
+    "kind": "internship",
+    "title": "Graphic Design",
+    "company": "Bauer Bodoni",
+    "location": "Faridabad",
+    "stipend": "₹ 10,000 - 15,000 /month",
+    "duration": "6 Months",
+    "url": "https://internshala.com/internship/detail/graphic-design-internship-in-faridabad-at-bauer-bodoni1789364008",
+    "actively_hiring": true
+  },
+  {
+    "kind": "internship",
+    "title": "Search Engine Optimization (SEO)",
+    "company": "Bauer Bodoni",
+    "location": "Faridabad",
+    "stipend": "₹ 5,000 - 10,000 /month",
+    "duration": "3 Months",
+    "url": "https://internshala.com/internship/detail/search-engine-optimization-seo-internship-in-faridabad-at-bauer-bodoni1789363548",
+    "actively_hiring": true
+  },
+  {
+    "kind": "job",
+    "title": "CRM Executive",
+    "company": "Optitech IOT, Unit Of A Paul Software Systems Private Limited",
+    "location": "Delhi",
+    "url": "https://internshala.com/job/detail/fresher-crm-executive-job-in-delhi-at-optitech-iot-unit-of-a-paul-software-systems-private-limited1789363346",
+    "actively_hiring": true
+  },
+  {
+    "kind": "job",
+    "title": "Business Development Trainee",
+    "company": "WWF-India",
+    "location": "Delhi, Hyderabad",
+    "url": "https://internshala.com/job/detail/fresher-business-development-trainee-job-in-multiple-locations-at-wwf-india1789364236",
+    "actively_hiring": true
+  },
+  {
+    "kind": "job",
+    "title": "Graphic & Motion Designer",
+    "company": "Fin Maverick",
+    "location": "Delhi, Gurgaon, Noida",
+    "url": "https://internshala.com/job/detail/graphic-motion-designer-job-in-multiple-locations-at-fin-maverick1789364229",
+    "actively_hiring": true
+  },
+  {
+    "kind": "job",
+    "title": "Associate Telecaller",
+    "company": "Delights Marketing Solutions (DMS)",
+    "location": "Delhi, Gurgaon, Noida",
+    "url": "https://internshala.com/job/detail/fresher-associate-telecaller-job-in-multiple-locations-at-delights-marketing-solutions-dms1789363710",
+    "actively_hiring": true
+  },
+  {
+    "kind": "job",
+    "title": "Assistant Manager",
+    "company": "Axis Bank",
+    "location": "Ahmedabad, Agra, Aligarh, Ajmer, Amritsar, Aurangabad, Faridabad, Bareilly, Bhilai, Bhubaneswar, Bilaspur, Chandigarh, Chennai, Coimbatore, Cuttack, Dehradun, Delhi, Dhanbad, Gandhinagar, Ghaziabad, Durgapur, Gorakhpur",
+    "url": "https://internshala.com/job/detail/fresher-assistant-manager-job-in-multiple-locations-at-axis-bank1781069041",
+    "actively_hiring": false
+  },
+  {
+    "kind": "job",
+    "title": "Customer Service Executive",
+    "company": "PopFly Design",
+    "location": "Gurgaon",
+    "url": "https://internshala.com/job/detail/fresher-customer-service-executive-job-in-gurgaon-at-popfly-design1788242394",
+    "actively_hiring": true
   }
 ]
