@@ -675,7 +675,7 @@
     "kind": "internship",
     "title": "GTM & Digital Marketing",
     "company": "Anuj Gupta",
-    "location": "Delhi",
+    "location": "Delhi, Noida",
     "stipend": "₹ 10,000 - 11,000 /month",
     "duration": "3 Months",
     "url": "https://internshala.com/internship/detail/gtm-digital-marketing-internship-in-delhi-at-anuj-gupta1788422895",
@@ -6286,6 +6286,74 @@
     "company": "Fuel Wings India Private Limited",
     "location": "Gurgaon",
     "url": "https://internshala.com/job/detail/business-development-associate-job-in-gurgaon-at-fuel-wings-india-private-limited1789199291",
+    "actively_hiring": true
+  },
+  {
+    "kind": "internship",
+    "title": "Telecalling",
+    "company": "KinderArt Impex",
+    "location": "Delhi",
+    "stipend": "₹ 15,000 - 27,000 /month",
+    "duration": "3 Months",
+    "url": "https://internshala.com/internship/detail/telecalling-internship-in-delhi-at-kinderart-impex1789035585",
+    "actively_hiring": true
+  },
+  {
+    "kind": "internship",
+    "title": "Recruitment Consultant",
+    "company": "QuickFlo",
+    "location": "Gurgaon",
+    "stipend": "₹ 10,000 - 20,000 /month",
+    "duration": "3 Months",
+    "url": "https://internshala.com/internship/detail/recruitment-consultant-internship-in-gurgaon-at-quickflo1789302124",
+    "actively_hiring": true
+  },
+  {
+    "kind": "job",
+    "title": "Graphic Designer",
+    "company": "Growify Digital",
+    "location": "Delhi",
+    "url": "https://internshala.com/job/detail/graphic-designer-job-in-delhi-at-growify-digital1789021182",
+    "actively_hiring": true
+  },
+  {
+    "kind": "job",
+    "title": "IT Recruiter/Technical Recruitment",
+    "company": "ASCLOUDSECURE",
+    "location": "Chennai, Delhi, Gurgaon, Indore, Pune, Hyderabad, Mumbai, Jaipur, Noida, Bangalore",
+    "url": "https://internshala.com/job/detail/fresher-it-recruiter-technical-recruitment-job-in-multiple-locations-at-ascloudsecure1789356115",
+    "actively_hiring": true
+  },
+  {
+    "kind": "job",
+    "title": "Senior Content Writer",
+    "company": "Coceptual Media",
+    "location": "Noida",
+    "url": "https://internshala.com/job/detail/senior-content-writer-job-in-noida-at-coceptual-media1789199126",
+    "actively_hiring": true
+  },
+  {
+    "kind": "job",
+    "title": "Change Management Executive",
+    "company": "Intellioz",
+    "location": "Noida",
+    "url": "https://internshala.com/job/detail/change-management-executive-job-in-noida-at-intellioz1787842739",
+    "actively_hiring": false
+  },
+  {
+    "kind": "job",
+    "title": "Corporate Sales Executive",
+    "company": "Heli Energy Private Limited",
+    "location": "Delhi",
+    "url": "https://internshala.com/job/detail/corporate-sales-executive-job-in-delhi-at-heli-energy-private-limited1787061685",
+    "actively_hiring": false
+  },
+  {
+    "kind": "job",
+    "title": "Finance Associate",
+    "company": "RegisterKaro",
+    "location": "Gurgaon",
+    "url": "https://internshala.com/job/detail/fresher-finance-associate-job-in-gurgaon-at-registerkaro1789298258",
     "actively_hiring": true
   }
 ]
