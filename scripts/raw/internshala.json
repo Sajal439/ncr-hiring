@@ -6862,5 +6862,224 @@
     "location": "Delhi, Ghaziabad, Noida, Greater Noida",
     "url": "https://internshala.com/job/detail/associate-content-writer-job-in-multiple-locations-at-tvl-media1789368732",
     "actively_hiring": true
+  },
+  {
+    "kind": "internship",
+    "title": "Business Development (Sales)",
+    "company": "Fabapps Lab Private Limited",
+    "stipend": "₹ 15,000 - 25,000 /month",
+    "duration": "3 Months",
+    "url": "https://internshala.com/internship/detail/business-development-sales-internship-in-multiple-locations-at-fabapps-lab-private-limited1789384565",
+    "actively_hiring": true
+  },
+  {
+    "kind": "internship",
+    "title": "Mobile App Development",
+    "company": "BigOHealth",
+    "location": "Delhi",
+    "stipend": "₹ 45,000 - 50,000 /month",
+    "duration": "3 Months",
+    "url": "https://internshala.com/internship/detail/mobile-app-development-internship-in-delhi-at-bigohealth1789446465",
+    "actively_hiring": true
+  },
+  {
+    "kind": "internship",
+    "title": "HR Intern – Recruitment & HR Operations",
+    "company": "INNOVISION Limited",
+    "location": "Gurgaon",
+    "stipend": "₹ 10,500 - 16,000 /month",
+    "duration": "3 Months",
+    "url": "https://internshala.com/internship/detail/hr-intern--recruitment-hr-operations-internship-in-gurgaon-at-innovision-limited1789398158",
+    "actively_hiring": false
+  },
+  {
+    "kind": "internship",
+    "title": "Mobile App Development",
+    "company": "Rakshak Securitas Pvt. Ltd.",
+    "location": "Delhi",
+    "stipend": "₹ 15,000 - 20,000 /month",
+    "duration": "6 Months",
+    "url": "https://internshala.com/internship/detail/mobile-app-development-internship-in-delhi-at-rakshak-securitas-pvt-ltd1789393806",
+    "actively_hiring": false
+  },
+  {
+    "kind": "internship",
+    "title": "Business Development Intern",
+    "company": "Rustic Stone",
+    "location": "Gurgaon",
+    "stipend": "₹ 13,500 - 25,000 /month",
+    "duration": "6 Months",
+    "url": "https://internshala.com/internship/detail/business-development-sales-internship-in-gurgaon-at-rustic-stone1789447207",
+    "actively_hiring": true
+  },
+  {
+    "kind": "internship",
+    "title": "Sales",
+    "company": "Times Internet Limited",
+    "location": "Noida",
+    "stipend": "₹ 15,000 - 20,000 /month",
+    "duration": "6 Months",
+    "url": "https://internshala.com/internship/detail/sales-internship-in-noida-at-times-internet-limited1789387990",
+    "actively_hiring": true
+  },
+  {
+    "kind": "internship",
+    "title": "Human Resources (HR)",
+    "company": "VALLABHI CAPITAL PRIVATE LIMITED",
+    "location": "Noida",
+    "stipend": "₹ 12,000 - 15,000 /month",
+    "duration": "6 Months",
+    "url": "https://internshala.com/internship/detail/human-resources-hr-internship-in-noida-at-vallabhi-capital-private-limited1789383489",
+    "actively_hiring": true
+  },
+  {
+    "kind": "internship",
+    "title": "Data Science",
+    "company": "VALLABHI CAPITAL PRIVATE LIMITED",
+    "location": "Noida",
+    "stipend": "₹ 12,000 - 15,000 /month",
+    "duration": "6 Months",
+    "url": "https://internshala.com/internship/detail/data-science-internship-in-noida-at-vallabhi-capital-private-limited1789388076",
+    "actively_hiring": true
+  },
+  {
+    "kind": "internship",
+    "title": "Wedding Planner",
+    "company": "Bauer Bodoni",
+    "location": "Faridabad",
+    "stipend": "₹ 5,000 - 8,000 /month",
+    "duration": "6 Months",
+    "url": "https://internshala.com/internship/detail/wedding-planner-internship-in-faridabad-at-bauer-bodoni1789384062",
+    "actively_hiring": true
+  },
+  {
+    "kind": "internship",
+    "title": "Field Operation",
+    "company": "GEMA Education Technology Private Limited",
+    "location": "Delhi",
+    "stipend": "₹ 10,000 /month",
+    "duration": "6 Months",
+    "url": "https://internshala.com/internship/detail/field-operation-internship-in-delhi-at-gema-education-technology-private-limited1789387936",
+    "actively_hiring": true
+  },
+  {
+    "kind": "job",
+    "title": "Social Media Content Creator (Female)",
+    "company": "360 Digital Idea",
+    "location": "Delhi",
+    "url": "https://internshala.com/job/detail/fresher-social-media-content-creator-female-job-in-delhi-at-360-digital-idea1789366173",
+    "actively_hiring": true
+  },
+  {
+    "kind": "job",
+    "title": "Database Support Engineer",
+    "company": "TechyBex Private Limited",
+    "location": "Delhi, Noida",
+    "url": "https://internshala.com/job/detail/fresher-database-support-engineer-job-in-multiple-locations-at-techybex-private-limited1789391533",
+    "actively_hiring": true
+  },
+  {
+    "kind": "job",
+    "title": "Business Development Associate",
+    "company": "MiM-Essay",
+    "location": "Delhi",
+    "url": "https://internshala.com/job/detail/business-development-associate-job-in-delhi-at-mim-essay1789410120",
+    "actively_hiring": true
+  },
+  {
+    "kind": "job",
+    "title": "Senior Accountant",
+    "company": "Saroj Education Group",
+    "location": "Delhi",
+    "url": "https://internshala.com/job/detail/senior-accountant-job-in-delhi-at-saroj-education-group1789388444",
+    "actively_hiring": true
+  },
+  {
+    "kind": "job",
+    "title": "Administration Specialist",
+    "company": "Puneet Kochhar",
+    "location": "Delhi",
+    "url": "https://internshala.com/job/detail/administration-specialist-job-in-delhi-at-puneet-kochhar1789391733",
+    "actively_hiring": true
+  },
+  {
+    "kind": "job",
+    "title": "Business Development Manager",
+    "company": "TVL Media",
+    "location": "Delhi, Ghaziabad, Greater Noida, Noida",
+    "url": "https://internshala.com/job/detail/fresher-business-development-manager-job-in-multiple-locations-at-tvl-media1789391274",
+    "actively_hiring": true
+  },
+  {
+    "kind": "job",
+    "title": "Business Development Manager",
+    "company": "SaveIN",
+    "location": "Delhi, Gurgaon, Pune, Hyderabad, Mumbai, Noida",
+    "url": "https://internshala.com/job/detail/fresher-business-development-manager-job-in-multiple-locations-at-savein1789389427",
+    "actively_hiring": true
+  },
+  {
+    "kind": "job",
+    "title": "Senior Digital Marketing Associate",
+    "company": "Misfit Souls",
+    "location": "Noida",
+    "url": "https://internshala.com/job/detail/senior-digital-marketing-associate-job-in-noida-at-misfit-souls1789384411",
+    "actively_hiring": false
+  },
+  {
+    "kind": "job",
+    "title": "Corporate Sales Executive",
+    "company": "Lane24 Design",
+    "location": "Delhi, Mumbai",
+    "url": "https://internshala.com/job/detail/corporate-sales-executive-job-in-multiple-locations-at-lane24-design1789385299",
+    "actively_hiring": false
+  },
+  {
+    "kind": "job",
+    "title": "Sales Manager",
+    "company": "Bluejay Worktech Private Limited",
+    "location": "Gurgaon",
+    "url": "https://internshala.com/job/detail/sales-manager-job-in-gurgaon-at-bluejay-worktech-private-limited1789383520",
+    "actively_hiring": false
+  },
+  {
+    "kind": "job",
+    "title": "Customer Service Associate",
+    "company": "RegisterKaro",
+    "location": "Gurgaon",
+    "url": "https://internshala.com/job/detail/customer-service-associate-job-in-gurgaon-at-registerkaro1789446979",
+    "actively_hiring": true
+  },
+  {
+    "kind": "job",
+    "title": "Human Resources (HR) Executive",
+    "company": "GAPL Group",
+    "location": "Faridabad, Gurgaon",
+    "url": "https://internshala.com/job/detail/human-resources-hr-executive-job-in-multiple-locations-at-gapl-group1789388873",
+    "actively_hiring": true
+  },
+  {
+    "kind": "job",
+    "title": "Distributor Lube Engineer",
+    "company": "GAPL Group",
+    "location": "Faridabad, Gurgaon, Noida",
+    "url": "https://internshala.com/job/detail/distributor-lube-engineer-job-in-multiple-locations-at-gapl-group1789386996",
+    "actively_hiring": true
+  },
+  {
+    "kind": "job",
+    "title": "Academic Counselor",
+    "company": "Digicrome Academy",
+    "location": "Noida",
+    "url": "https://internshala.com/job/detail/academic-counselor-job-in-noida-at-digicrome-academy1789391409",
+    "actively_hiring": true
+  },
+  {
+    "kind": "job",
+    "title": "Influencer Marketing Executive",
+    "company": "Astrotalk",
+    "location": "Noida",
+    "url": "https://internshala.com/job/detail/influencer-marketing-executive-job-in-noida-at-astrotalk1789388109",
+    "actively_hiring": true
   }
 ]

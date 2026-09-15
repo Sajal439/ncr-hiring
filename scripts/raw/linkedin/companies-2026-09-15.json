@@ -1,0 +1,6222 @@
+[
+  {
+    "companyName": "Innodata Inc.",
+    "location": "Noida, Uttar Pradesh, India",
+    "companyWebsite": "www.innodata.com",
+    "companyIndustry": "Business Consulting and Services",
+    "companyEmployeeCount": 8830,
+    "companyFoundedDate": "1988",
+    "dynamicFilterMatch": true,
+    "jobs": 2
+  },
+  {
+    "companyName": "7sailors.in",
+    "location": "Narela, Delhi, India",
+    "companyWebsite": "7sailors.in",
+    "companyIndustry": "Human Resources Services",
+    "companyEmployeeCount": 12,
+    "companyFoundedDate": "2023",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Euronics India",
+    "location": "Gurugram, Haryana, India",
+    "companyWebsite": "https://euronics.co.in/",
+    "companyIndustry": "Manufacturing",
+    "companyEmployeeCount": 643,
+    "companyFoundedDate": "2002",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Metasys Technologies",
+    "location": "Gurugram, Haryana, India",
+    "companyWebsite": "http://www.metasysinc.com",
+    "companyIndustry": "Professional Services",
+    "companyEmployeeCount": 300,
+    "companyFoundedDate": "2000",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "HuntingCube",
+    "location": "Bawana, Delhi, India",
+    "companyWebsite": "https://huntingcube.ai/",
+    "companyIndustry": "Human Resources Services",
+    "companyEmployeeCount": 245,
+    "companyFoundedDate": "",
+    "dynamicFilterMatch": true,
+    "jobs": 3
+  },
+  {
+    "companyName": "Collegedunia",
+    "location": "Gurugram, Haryana, India",
+    "companyWebsite": "",
+    "companyIndustry": "",
+    "companyEmployeeCount": null,
+    "companyFoundedDate": "",
+    "dynamicFilterMatch": true,
+    "jobs": 2
+  },
+  {
+    "companyName": "AiSensy",
+    "location": "Gurugram, Haryana, India",
+    "companyWebsite": "https://aisensy.com",
+    "companyIndustry": "Software Development",
+    "companyEmployeeCount": 187,
+    "companyFoundedDate": "2020",
+    "dynamicFilterMatch": true,
+    "jobs": 3
+  },
+  {
+    "companyName": "Cvent",
+    "location": "Gurugram, Haryana, India",
+    "companyWebsite": "https://utm.io/uowED",
+    "companyIndustry": "Software Development",
+    "companyEmployeeCount": 6827,
+    "companyFoundedDate": "1999",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Seventh Triangle",
+    "location": "Noida, Uttar Pradesh, India",
+    "companyWebsite": "https://www.seventhtriangle.com/",
+    "companyIndustry": "Information Technology & Services",
+    "companyEmployeeCount": 120,
+    "companyFoundedDate": "2018",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Real Jobs Consulting Services",
+    "location": "New Delhi, Delhi, India",
+    "companyWebsite": "http://www.realjobsconsultingservices.com",
+    "companyIndustry": "Staffing and Recruiting",
+    "companyEmployeeCount": 16,
+    "companyFoundedDate": "",
+    "dynamicFilterMatch": false,
+    "jobs": 2
+  },
+  {
+    "companyName": "Izzhaarkaro",
+    "location": "Delhi, India",
+    "companyWebsite": "",
+    "companyIndustry": "Design Services",
+    "companyEmployeeCount": 56,
+    "companyFoundedDate": "2014",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Wellversed",
+    "location": "Gurugram, Haryana, India",
+    "companyWebsite": "http://wellversed.in",
+    "companyIndustry": "Retail Health and Personal Care Products",
+    "companyEmployeeCount": 236,
+    "companyFoundedDate": "2018",
+    "dynamicFilterMatch": true,
+    "jobs": 10
+  },
+  {
+    "companyName": "Dentalkart",
+    "location": "Greater Delhi Area",
+    "companyWebsite": "https://www.dentalkart.com/",
+    "companyIndustry": "Medical Equipment Manufacturing",
+    "companyEmployeeCount": 470,
+    "companyFoundedDate": "2016",
+    "dynamicFilterMatch": true,
+    "jobs": 3
+  },
+  {
+    "companyName": "H20 Tech Labs Pvt Ltd",
+    "location": "New Delhi, Delhi, India",
+    "companyWebsite": "http://h2otechlabs.com/",
+    "companyIndustry": "E-Learning Providers",
+    "companyEmployeeCount": 6,
+    "companyFoundedDate": "",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Fresenius Medical Care",
+    "location": "Gurgaon, Haryana, India",
+    "companyWebsite": "http://www.freseniusmedicalcare.com",
+    "companyIndustry": "Krankenhäuser und Gesundheitseinrichtungen",
+    "companyEmployeeCount": 52201,
+    "companyFoundedDate": "",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "IDFC FIRST Bank",
+    "location": "Noida, Uttar Pradesh, India",
+    "companyWebsite": "http://www.idfcfirst.bank.in/",
+    "companyIndustry": "Banking",
+    "companyEmployeeCount": 54177,
+    "companyFoundedDate": "2015",
+    "dynamicFilterMatch": true,
+    "jobs": 2
+  },
+  {
+    "companyName": "Metalia India",
+    "location": "Sultanpur Majra, Delhi, India",
+    "companyWebsite": "https://metaliaindia.com",
+    "companyIndustry": "Building Construction",
+    "companyEmployeeCount": 27,
+    "companyFoundedDate": "2010",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Corridor Assets",
+    "location": "Gurugram, Haryana, India",
+    "companyWebsite": "www.corridorassets.com",
+    "companyIndustry": "Real Estate",
+    "companyEmployeeCount": 3,
+    "companyFoundedDate": "",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "ROAR Education",
+    "location": "Noida, Uttar Pradesh, India",
+    "companyWebsite": "roareducation.in",
+    "companyIndustry": "Higher Education",
+    "companyEmployeeCount": 12,
+    "companyFoundedDate": "2024",
+    "dynamicFilterMatch": true,
+    "jobs": 3
+  },
+  {
+    "companyName": "Numerical Analytics Instruments Private Limited",
+    "location": "Delhi, India",
+    "companyWebsite": "https://www.numerical-analytics.com/",
+    "companyIndustry": "Technology, Information and Media",
+    "companyEmployeeCount": 11,
+    "companyFoundedDate": "2008",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Policybazaar.com",
+    "location": "Gurugram, Haryana, India",
+    "companyWebsite": "http://www.policybazaar.com",
+    "companyIndustry": "Insurance",
+    "companyEmployeeCount": 14747,
+    "companyFoundedDate": "2008",
+    "dynamicFilterMatch": true,
+    "jobs": 4
+  },
+  {
+    "companyName": "Acquara Management Consultant",
+    "location": "Gurugram, Haryana, India",
+    "companyWebsite": "http://www.acquara.com",
+    "companyIndustry": "الاستشارات في مجال التعاقد الخارجي والتوريد إلى الخارج",
+    "companyEmployeeCount": 103,
+    "companyFoundedDate": "2010",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "XIHI Technology Private Limited",
+    "location": "Dadri, Uttar Pradesh, India",
+    "companyWebsite": "",
+    "companyIndustry": "Appliances, Electrical, and Electronics Manufacturing",
+    "companyEmployeeCount": 483,
+    "companyFoundedDate": "2015",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Learning Routes",
+    "location": "Noida, Uttar Pradesh, India",
+    "companyWebsite": "http://learningroutes.in/",
+    "companyIndustry": "E-Learning Providers",
+    "companyEmployeeCount": 284,
+    "companyFoundedDate": "2016",
+    "dynamicFilterMatch": true,
+    "jobs": 6
+  },
+  {
+    "companyName": "orchestrate consulting services",
+    "location": "Noida, Uttar Pradesh, India",
+    "companyWebsite": "",
+    "companyIndustry": "",
+    "companyEmployeeCount": 4,
+    "companyFoundedDate": "",
+    "dynamicFilterMatch": true,
+    "jobs": 2
+  },
+  {
+    "companyName": "Xergy",
+    "location": "Gurugram, Haryana, India",
+    "companyWebsite": "https://xergy.in/",
+    "companyIndustry": "Technology, Information and Internet",
+    "companyEmployeeCount": 5,
+    "companyFoundedDate": "",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "NEXTHIRE",
+    "location": "Delhi, India",
+    "companyWebsite": "www.nexthireconsulting.com",
+    "companyIndustry": "Internet Marketplace Platforms",
+    "companyEmployeeCount": 60,
+    "companyFoundedDate": "2021",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Michael Page",
+    "location": "Delhi, India",
+    "companyWebsite": "https://redirect.michaelpage.com/mp-home",
+    "companyIndustry": "Staffing and Recruiting",
+    "companyEmployeeCount": 18289,
+    "companyFoundedDate": "1976",
+    "dynamicFilterMatch": false,
+    "jobs": 2
+  },
+  {
+    "companyName": "Songdew",
+    "location": "Gurugram, Haryana, India",
+    "companyWebsite": "http://www.songdew.com",
+    "companyIndustry": "Musicians",
+    "companyEmployeeCount": 78,
+    "companyFoundedDate": "",
+    "dynamicFilterMatch": true,
+    "jobs": 2
+  },
+  {
+    "companyName": "Umanist NA",
+    "location": "New Delhi, Delhi, India",
+    "companyWebsite": "https://umaniststaffing.com/careers/",
+    "companyIndustry": "IT Services and IT Consulting",
+    "companyEmployeeCount": 16,
+    "companyFoundedDate": "2022",
+    "dynamicFilterMatch": true,
+    "jobs": 4
+  },
+  {
+    "companyName": "Rempact",
+    "location": "Ghaziabad, Uttar Pradesh, India",
+    "companyWebsite": "www.rempact.com",
+    "companyIndustry": "Professional Services",
+    "companyEmployeeCount": 4,
+    "companyFoundedDate": "",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "ERM",
+    "location": "New Delhi, Delhi, India",
+    "companyWebsite": "http://www.erm.com",
+    "companyIndustry": "Business Consulting and Services",
+    "companyEmployeeCount": 10812,
+    "companyFoundedDate": "",
+    "dynamicFilterMatch": true,
+    "jobs": 2
+  },
+  {
+    "companyName": "Social Synthesis",
+    "location": "Delhi, India",
+    "companyWebsite": "https://www.socialsynthesis.in/",
+    "companyIndustry": "Human Resources",
+    "companyEmployeeCount": 7,
+    "companyFoundedDate": "2019",
+    "dynamicFilterMatch": true,
+    "jobs": 2
+  },
+  {
+    "companyName": "Dr Bio",
+    "location": "Gurugram, Haryana, India",
+    "companyWebsite": "http://www.drbiod.com",
+    "companyIndustry": "Packaging & Containers",
+    "companyEmployeeCount": 16,
+    "companyFoundedDate": "2003",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Continental Device India Pvt. Ltd.",
+    "location": "New Delhi, Delhi, India",
+    "companyWebsite": "http://www.cdil.com",
+    "companyIndustry": "Semiconductors",
+    "companyEmployeeCount": 333,
+    "companyFoundedDate": "1964",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Republic World",
+    "location": "Noida, Uttar Pradesh, India",
+    "companyWebsite": "http://www.republicworld.com",
+    "companyIndustry": "Broadcast Media Production and Distribution",
+    "companyEmployeeCount": 1071,
+    "companyFoundedDate": "",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Hike Education",
+    "location": "Noida, Uttar Pradesh, India",
+    "companyWebsite": "http://www.hikeeducation.com",
+    "companyIndustry": "Education Administration Programs",
+    "companyEmployeeCount": 356,
+    "companyFoundedDate": "2014",
+    "dynamicFilterMatch": true,
+    "jobs": 2
+  },
+  {
+    "companyName": "Arrow Electronics",
+    "location": "Gurugram, Haryana, India",
+    "companyWebsite": "https://www.arrow.com/company",
+    "companyIndustry": "Technology, Information and Internet",
+    "companyEmployeeCount": 22330,
+    "companyFoundedDate": "1935",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "GrowthJockey",
+    "location": "Gurugram, Haryana, India",
+    "companyWebsite": "https://linktr.ee/growthjockey",
+    "companyIndustry": "Technology, Information and Media",
+    "companyEmployeeCount": 119,
+    "companyFoundedDate": "2020",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "EY",
+    "location": "Gurugram, Haryana, India",
+    "companyWebsite": "http://www.ey.com",
+    "companyIndustry": "Professional Services",
+    "companyEmployeeCount": 407253,
+    "companyFoundedDate": "",
+    "dynamicFilterMatch": true,
+    "jobs": 23
+  },
+  {
+    "companyName": "Macquarie Group",
+    "location": "Gurugram, Haryana, India",
+    "companyWebsite": "https://www.macquarie.com",
+    "companyIndustry": "Financial Services",
+    "companyEmployeeCount": 20809,
+    "companyFoundedDate": "1969",
+    "dynamicFilterMatch": true,
+    "jobs": 3
+  },
+  {
+    "companyName": "People Matters",
+    "location": "Gurugram, Haryana, India",
+    "companyWebsite": "http://peoplematters.in/",
+    "companyIndustry": "Media Production",
+    "companyEmployeeCount": 217,
+    "companyFoundedDate": "2009",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "ChargePoint",
+    "location": "Gurugram, Haryana, India",
+    "companyWebsite": "http://www.chargepoint.com",
+    "companyIndustry": "Electrical Equipment Manufacturing",
+    "companyEmployeeCount": 1431,
+    "companyFoundedDate": "2007",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Triterria",
+    "location": "Hauz Khas, Delhi, India",
+    "companyWebsite": "www.triterria.com",
+    "companyIndustry": "Research Services",
+    "companyEmployeeCount": 4,
+    "companyFoundedDate": "2025",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Ameriprise Financial Services, LLC",
+    "location": "Gurugram, Haryana, India",
+    "companyWebsite": "http://www.ameriprise.com/?cid=LinkedInHome",
+    "companyIndustry": "Financial Services",
+    "companyEmployeeCount": 17791,
+    "companyFoundedDate": "1894",
+    "dynamicFilterMatch": true,
+    "jobs": 2
+  },
+  {
+    "companyName": "NTT DATA North America",
+    "location": "Gurgaon, Haryana, India",
+    "companyWebsite": "https://www.nttdata.com/en-us/",
+    "companyIndustry": "IT Services and IT Consulting",
+    "companyEmployeeCount": 24140,
+    "companyFoundedDate": "",
+    "dynamicFilterMatch": true,
+    "jobs": 7
+  },
+  {
+    "companyName": "K.R. Mangalam University",
+    "location": "Gurugram, Haryana, India",
+    "companyWebsite": "",
+    "companyIndustry": "",
+    "companyEmployeeCount": null,
+    "companyFoundedDate": "",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "AXA XL",
+    "location": "Gurugram, Haryana, India",
+    "companyWebsite": "http://www.axaxl.com",
+    "companyIndustry": "Insurance",
+    "companyEmployeeCount": 10869,
+    "companyFoundedDate": "",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "American Express",
+    "location": "Gurugram, Haryana, India",
+    "companyWebsite": "https://www.americanexpress.com/",
+    "companyIndustry": "Financial Services",
+    "companyEmployeeCount": 98641,
+    "companyFoundedDate": "",
+    "dynamicFilterMatch": true,
+    "jobs": 3
+  },
+  {
+    "companyName": "Abbott",
+    "location": "Gurgaon, Haryana, India",
+    "companyWebsite": "https://www.abbott.com",
+    "companyIndustry": "Hospitals and Health Care",
+    "companyEmployeeCount": 152815,
+    "companyFoundedDate": "",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "University Living",
+    "location": "Noida, Uttar Pradesh, India",
+    "companyWebsite": "https://www.universityliving.com",
+    "companyIndustry": "Technology, Information and Internet",
+    "companyEmployeeCount": 389,
+    "companyFoundedDate": "2015",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "TravClan",
+    "location": "New Delhi, Delhi, India",
+    "companyWebsite": "http://www.travclan.com",
+    "companyIndustry": "Technology, Information and Internet",
+    "companyEmployeeCount": 326,
+    "companyFoundedDate": "2019",
+    "dynamicFilterMatch": true,
+    "jobs": 7
+  },
+  {
+    "companyName": "OrbiTouch HR (orbiTouch outsourcing pvt ltd)",
+    "location": "Delhi, India",
+    "companyWebsite": "http://www.orbiTouch-hr.com",
+    "companyIndustry": "Staffing and Recruiting",
+    "companyEmployeeCount": 45,
+    "companyFoundedDate": "2011",
+    "dynamicFilterMatch": false,
+    "jobs": 4
+  },
+  {
+    "companyName": "Accenture in India",
+    "location": "Gurugram, Haryana, India",
+    "companyWebsite": "http://www.accenture.com/india",
+    "companyIndustry": "IT Services and IT Consulting",
+    "companyEmployeeCount": 83601,
+    "companyFoundedDate": "1989",
+    "dynamicFilterMatch": true,
+    "jobs": 25
+  },
+  {
+    "companyName": "Aspire",
+    "location": "Gurgaon, Haryana, India",
+    "companyWebsite": "https://aspireapp.com/",
+    "companyIndustry": "Financial Services",
+    "companyEmployeeCount": 1166,
+    "companyFoundedDate": "2018",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Spectral Consultants",
+    "location": "Gurugram, Haryana, India",
+    "companyWebsite": "http://www.spectral.in",
+    "companyIndustry": "Executive Search Services",
+    "companyEmployeeCount": 68,
+    "companyFoundedDate": "2002",
+    "dynamicFilterMatch": true,
+    "jobs": 3
+  },
+  {
+    "companyName": "Clearwater Analytics",
+    "location": "Noida, Uttar Pradesh, India",
+    "companyWebsite": "http://www.cwan.com",
+    "companyIndustry": "Software Development",
+    "companyEmployeeCount": 3246,
+    "companyFoundedDate": "",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Hyatt Regency",
+    "location": "Gurgaon, Haryana, India",
+    "companyWebsite": "http://www.regency.hyatt.com",
+    "companyIndustry": "Hospitality",
+    "companyEmployeeCount": 17996,
+    "companyFoundedDate": "",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "FedEx",
+    "location": "Gurugram, Haryana, India",
+    "companyWebsite": "http://careers.fedex.com",
+    "companyIndustry": "Freight and Package Transportation",
+    "companyEmployeeCount": 198585,
+    "companyFoundedDate": "1973",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Acuity Analytics",
+    "location": "Gurugram, Haryana, India",
+    "companyWebsite": "https://www.acuityanalytics.com/",
+    "companyIndustry": "Financial Services",
+    "companyEmployeeCount": 7785,
+    "companyFoundedDate": "2003",
+    "dynamicFilterMatch": true,
+    "jobs": 3
+  },
+  {
+    "companyName": "Moody's Corporation",
+    "location": "Gurugram, Haryana, India",
+    "companyWebsite": "http://www.moodys.com",
+    "companyIndustry": "Financial Services",
+    "companyEmployeeCount": 15160,
+    "companyFoundedDate": "",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Rio Tinto",
+    "location": "Gurgaon, Haryana, India",
+    "companyWebsite": "http://www.riotinto.com",
+    "companyIndustry": "Mining",
+    "companyEmployeeCount": 40788,
+    "companyFoundedDate": "",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Crowe Capabilities Center – India",
+    "location": "Noida, Uttar Pradesh, India",
+    "companyWebsite": "http://www.crowe.com",
+    "companyIndustry": "Financial Services",
+    "companyEmployeeCount": 369,
+    "companyFoundedDate": "",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "CAREERBLOC ~",
+    "location": "New Delhi, Delhi, India",
+    "companyWebsite": "www.careerbloc.co.in",
+    "companyIndustry": "Professional Training and Coaching",
+    "companyEmployeeCount": 5,
+    "companyFoundedDate": "",
+    "dynamicFilterMatch": true,
+    "jobs": 8
+  },
+  {
+    "companyName": "PineQ Lab Technology",
+    "location": "Gurgaon, Haryana, India",
+    "companyWebsite": "http://www.pineqlab.com/",
+    "companyIndustry": "IT Services and IT Consulting",
+    "companyEmployeeCount": 59,
+    "companyFoundedDate": "",
+    "dynamicFilterMatch": true,
+    "jobs": 2
+  },
+  {
+    "companyName": "NTT DATA, Inc.",
+    "location": "Gurgaon, Haryana, India",
+    "companyWebsite": "https://services.global.ntt/",
+    "companyIndustry": "ITサービス・ITコンサルティング",
+    "companyEmployeeCount": 61410,
+    "companyFoundedDate": "",
+    "dynamicFilterMatch": true,
+    "jobs": 3
+  },
+  {
+    "companyName": "United Airlines India Knowledge Center",
+    "location": "Gurugram, Haryana, India",
+    "companyWebsite": "https://careers.united.com/us/en/india-knowledge-center",
+    "companyIndustry": "Airlines and Aviation",
+    "companyEmployeeCount": 47,
+    "companyFoundedDate": "",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Sopra Steria",
+    "location": "Noida, Uttar Pradesh, India",
+    "companyWebsite": "http://www.soprasteria.com",
+    "companyIndustry": "Services et conseil en informatique",
+    "companyEmployeeCount": 48667,
+    "companyFoundedDate": "",
+    "dynamicFilterMatch": true,
+    "jobs": 3
+  },
+  {
+    "companyName": "UnitedLex",
+    "location": "Gurgaon, Haryana, India",
+    "companyWebsite": "http://www.unitedlex.com",
+    "companyIndustry": "Legal Services",
+    "companyEmployeeCount": 1928,
+    "companyFoundedDate": "2006",
+    "dynamicFilterMatch": true,
+    "jobs": 2
+  },
+  {
+    "companyName": "Ramboll",
+    "location": "Noida, Uttar Pradesh, India",
+    "companyWebsite": "https://ramboll.com",
+    "companyIndustry": "Tekniktjenester",
+    "companyEmployeeCount": 18717,
+    "companyFoundedDate": "1945",
+    "dynamicFilterMatch": true,
+    "jobs": 3
+  },
+  {
+    "companyName": "Dow Jones",
+    "location": "Delhi, Delhi, India",
+    "companyWebsite": "http://www.dowjones.com",
+    "companyIndustry": "Online Media",
+    "companyEmployeeCount": 25979,
+    "companyFoundedDate": "",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "TrueBlue India",
+    "location": "Gurugram, Haryana, India",
+    "companyWebsite": "",
+    "companyIndustry": "",
+    "companyEmployeeCount": 150,
+    "companyFoundedDate": "",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Fidelity International",
+    "location": "Gurgaon, Haryana, India",
+    "companyWebsite": "http://www.fidelityinternational.com",
+    "companyIndustry": "Financial Services",
+    "companyEmployeeCount": 9956,
+    "companyFoundedDate": "1969",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Quadrafort Technologies",
+    "location": "Noida, Uttar Pradesh, India",
+    "companyWebsite": "http://www.quadrafort.com",
+    "companyIndustry": "IT Services and IT Consulting",
+    "companyEmployeeCount": 279,
+    "companyFoundedDate": "2020",
+    "dynamicFilterMatch": true,
+    "jobs": 2
+  },
+  {
+    "companyName": "NAB",
+    "location": "Gurgaon, Haryana, India",
+    "companyWebsite": "http://www.nab.com.au",
+    "companyIndustry": "Banking",
+    "companyEmployeeCount": 41234,
+    "companyFoundedDate": "",
+    "dynamicFilterMatch": true,
+    "jobs": 3
+  },
+  {
+    "companyName": "Flexiple",
+    "location": "Delhi, India",
+    "companyWebsite": "https://flexiple.com/?utm_source=linkedin&utm_medium=bio&utm_campaign=fli",
+    "companyIndustry": "Business Consulting and Services",
+    "companyEmployeeCount": 84,
+    "companyFoundedDate": "2016",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Clarivate",
+    "location": "Noida, Uttar Pradesh, India",
+    "companyWebsite": "https://www.clarivate.com/",
+    "companyIndustry": "Information Services",
+    "companyEmployeeCount": 11490,
+    "companyFoundedDate": "",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Mavin Ventures",
+    "location": "Delhi, India",
+    "companyWebsite": "https://mavin.vc/",
+    "companyIndustry": "Venture Capital and Private Equity Principals",
+    "companyEmployeeCount": 4,
+    "companyFoundedDate": "",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Agilent Technologies",
+    "location": "Gurugram, Haryana, India",
+    "companyWebsite": "http://www.agilent.com",
+    "companyIndustry": "Biotechnology Research",
+    "companyEmployeeCount": 18273,
+    "companyFoundedDate": "1999",
+    "dynamicFilterMatch": true,
+    "jobs": 2
+  },
+  {
+    "companyName": "Birlasoft",
+    "location": "Noida, Uttar Pradesh, India",
+    "companyWebsite": "https://www.birlasoft.com",
+    "companyIndustry": "IT Services and IT Consulting",
+    "companyEmployeeCount": 15505,
+    "companyFoundedDate": "",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Valueonshore ('VOS') Advisors",
+    "location": "Gurugram, Haryana, India",
+    "companyWebsite": "http://www.valueonshore.com",
+    "companyIndustry": "Business Consulting and Services",
+    "companyEmployeeCount": 457,
+    "companyFoundedDate": "2009",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Alight Solutions",
+    "location": "Noida, Uttar Pradesh, India",
+    "companyWebsite": "https://www.alight.com",
+    "companyIndustry": "Human Resources Services",
+    "companyEmployeeCount": 11364,
+    "companyFoundedDate": "",
+    "dynamicFilterMatch": true,
+    "jobs": 2
+  },
+  {
+    "companyName": "Optum India",
+    "location": "Gurgaon, Haryana, India",
+    "companyWebsite": "https://www.optum.in/",
+    "companyIndustry": "IT Services and IT Consulting",
+    "companyEmployeeCount": 2183,
+    "companyFoundedDate": "",
+    "dynamicFilterMatch": true,
+    "jobs": 4
+  },
+  {
+    "companyName": "Innovians Technologies",
+    "location": "Noida, Uttar Pradesh, India",
+    "companyWebsite": "http://innovianstechnologies.com",
+    "companyIndustry": "Professional Training and Coaching",
+    "companyEmployeeCount": 27,
+    "companyFoundedDate": "2012",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Eggoz Nutrition",
+    "location": "Gurugram, Haryana, India",
+    "companyWebsite": "http://www.eggoz.com",
+    "companyIndustry": "Food and Beverage Services",
+    "companyEmployeeCount": 218,
+    "companyFoundedDate": "2017",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Fundamento",
+    "location": "South Delhi, Delhi, India",
+    "companyWebsite": "https://fundamento.ai",
+    "companyIndustry": "Software Development",
+    "companyEmployeeCount": 62,
+    "companyFoundedDate": "2020",
+    "dynamicFilterMatch": true,
+    "jobs": 2
+  },
+  {
+    "companyName": "Andaaz Fashion",
+    "location": "Delhi, India",
+    "companyWebsite": "https://www.andaazfashion.co.uk",
+    "companyIndustry": "Retail Apparel and Fashion",
+    "companyEmployeeCount": 36,
+    "companyFoundedDate": "2009",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Creator City",
+    "location": "Noida, Uttar Pradesh, India",
+    "companyWebsite": "www.creatorcity.in",
+    "companyIndustry": "Marketing Services",
+    "companyEmployeeCount": 9,
+    "companyFoundedDate": "2025",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "NUDGE Asia",
+    "location": "South Delhi, Delhi, India",
+    "companyWebsite": "",
+    "companyIndustry": "Marketing Services",
+    "companyEmployeeCount": 22,
+    "companyFoundedDate": "2019",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Threatcop",
+    "location": "Noida, Uttar Pradesh, India",
+    "companyWebsite": "https://threatcop.com/",
+    "companyIndustry": "Computer and Network Security",
+    "companyEmployeeCount": 75,
+    "companyFoundedDate": "",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "PeakPals",
+    "location": "Greater Delhi Area",
+    "companyWebsite": "http://www.peakpals.in",
+    "companyIndustry": "Wellness and Fitness Services",
+    "companyEmployeeCount": 11,
+    "companyFoundedDate": "2020",
+    "dynamicFilterMatch": true,
+    "jobs": 2
+  },
+  {
+    "companyName": "CreateBytes",
+    "location": "Gurugram, Haryana, India",
+    "companyWebsite": "https://www.createbytes.com",
+    "companyIndustry": "IT Services and IT Consulting",
+    "companyEmployeeCount": 84,
+    "companyFoundedDate": "2019",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "INNOFarms.AI",
+    "location": "Gurugram, Haryana, India",
+    "companyWebsite": "https://www.INNOFarms.AI",
+    "companyIndustry": "Technology, Information and Internet",
+    "companyEmployeeCount": 14,
+    "companyFoundedDate": "2024",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Havas Media Network India",
+    "location": "Gurugram, Haryana, India",
+    "companyWebsite": "https://in.havas.com/",
+    "companyIndustry": "Advertising Services",
+    "companyEmployeeCount": 148,
+    "companyFoundedDate": "",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Natvora",
+    "location": "New Delhi, Delhi, India",
+    "companyWebsite": "",
+    "companyIndustry": "Food and Beverage Manufacturing",
+    "companyEmployeeCount": 1,
+    "companyFoundedDate": "2025",
+    "dynamicFilterMatch": true,
+    "jobs": 2
+  },
+  {
+    "companyName": "FcC",
+    "location": "New Delhi, Delhi, India",
+    "companyWebsite": "https://learnwithfcc.com/",
+    "companyIndustry": "E-Learning Providers",
+    "companyEmployeeCount": 5,
+    "companyFoundedDate": "2023",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "The Hyper Crew",
+    "location": "Ghaziabad, Uttar Pradesh, India",
+    "companyWebsite": "www.hypercrew.in",
+    "companyIndustry": "Marketing Services",
+    "companyEmployeeCount": 4,
+    "companyFoundedDate": "",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Pregrad",
+    "location": "Noida, Uttar Pradesh, India",
+    "companyWebsite": "http://www.pregrad.in",
+    "companyIndustry": "E-Learning Providers",
+    "companyEmployeeCount": 181,
+    "companyFoundedDate": "2021",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Cyfuture",
+    "location": "Noida, Uttar Pradesh, India",
+    "companyWebsite": "https://cyfuture.com",
+    "companyIndustry": "IT Services and IT Consulting",
+    "companyEmployeeCount": 1981,
+    "companyFoundedDate": "2001",
+    "dynamicFilterMatch": true,
+    "jobs": 4
+  },
+  {
+    "companyName": "ARGMAC",
+    "location": "Gurgaon, Haryana, India",
+    "companyWebsite": "https://argmac.com/",
+    "companyIndustry": "Manufacturing",
+    "companyEmployeeCount": 4,
+    "companyFoundedDate": "2020",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Xtreme Coolers Private Limited",
+    "location": "Delhi, India",
+    "companyWebsite": "http://xtremegaming.in",
+    "companyIndustry": "",
+    "companyEmployeeCount": 2,
+    "companyFoundedDate": "",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Moehair USA Inc",
+    "location": "Gurugram, Haryana, India",
+    "companyWebsite": "www.moehair.com",
+    "companyIndustry": "Personal Care Product Manufacturing",
+    "companyEmployeeCount": 34,
+    "companyFoundedDate": "2003",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Alponix Private Limited",
+    "location": "Faridabad, Haryana, India",
+    "companyWebsite": "https://alponix.com/",
+    "companyIndustry": "Marketing Services",
+    "companyEmployeeCount": 14,
+    "companyFoundedDate": "",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Techiegigs",
+    "location": "Noida, Uttar Pradesh, India",
+    "companyWebsite": "http://techiegigs.com",
+    "companyIndustry": "Education",
+    "companyEmployeeCount": 28,
+    "companyFoundedDate": "",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Wings on Fire Marketing",
+    "location": "Noida, Uttar Pradesh, India",
+    "companyWebsite": "www.wingsonfire.in",
+    "companyIndustry": "Marketing Services",
+    "companyEmployeeCount": 8,
+    "companyFoundedDate": "2022",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "CreateX Media",
+    "location": "Noida, Uttar Pradesh, India",
+    "companyWebsite": "https://createxagency.com/",
+    "companyIndustry": "Blogs",
+    "companyEmployeeCount": 14,
+    "companyFoundedDate": "2023",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Innovision Limited",
+    "location": "Gurgaon, Haryana, India",
+    "companyWebsite": "http://www.innovision.co.in",
+    "companyIndustry": "Security and Investigations",
+    "companyEmployeeCount": 637,
+    "companyFoundedDate": "2007",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "WapHire",
+    "location": "Noida, Uttar Pradesh, India",
+    "companyWebsite": "https://waphire.com/",
+    "companyIndustry": "Technology, Information and Internet",
+    "companyEmployeeCount": 1,
+    "companyFoundedDate": "2026",
+    "dynamicFilterMatch": true,
+    "jobs": 2
+  },
+  {
+    "companyName": "IMPRESIO STUDIO",
+    "location": "Noida, Uttar Pradesh, India",
+    "companyWebsite": "https://bit.ly/4rYJ3GM",
+    "companyIndustry": "Photography",
+    "companyEmployeeCount": 47,
+    "companyFoundedDate": "2015",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "WALLT",
+    "location": "Greater Delhi Area",
+    "companyWebsite": "www.wallt.in",
+    "companyIndustry": "Software Development",
+    "companyEmployeeCount": 7,
+    "companyFoundedDate": "2023",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "SocialAngel",
+    "location": "Noida, Uttar Pradesh, India",
+    "companyWebsite": "https://www.socialangel.org/",
+    "companyIndustry": "Philanthropic Fundraising Services",
+    "companyEmployeeCount": 21,
+    "companyFoundedDate": "2024",
+    "dynamicFilterMatch": true,
+    "jobs": 2
+  },
+  {
+    "companyName": "Wootz.work",
+    "location": "Gurugram, Haryana, India",
+    "companyWebsite": "https://www.wootz.work/",
+    "companyIndustry": "Manufacturing",
+    "companyEmployeeCount": 46,
+    "companyFoundedDate": "",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Bauer Bodoni",
+    "location": "Faridabad, Haryana, India",
+    "companyWebsite": "www.bauerbodoni.com",
+    "companyIndustry": "Events Services",
+    "companyEmployeeCount": 19,
+    "companyFoundedDate": "",
+    "dynamicFilterMatch": true,
+    "jobs": 8
+  },
+  {
+    "companyName": "Trilegal",
+    "location": "Gurugram, Haryana, India",
+    "companyWebsite": "http://www.trilegal.com",
+    "companyIndustry": "Law Practice",
+    "companyEmployeeCount": 1911,
+    "companyFoundedDate": "2000",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Purple Patch Events",
+    "location": "Gurgaon, Haryana, India",
+    "companyWebsite": "http://www.talkconcepts.in",
+    "companyIndustry": "Events Services",
+    "companyEmployeeCount": 42,
+    "companyFoundedDate": "2002",
+    "dynamicFilterMatch": true,
+    "jobs": 2
+  },
+  {
+    "companyName": "SAM WEB STUDIO",
+    "location": "Dwarka, Delhi, India",
+    "companyWebsite": "http://www.samwebstudio.com",
+    "companyIndustry": "IT Services and IT Consulting",
+    "companyEmployeeCount": 38,
+    "companyFoundedDate": "2012",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Absolute Veritas",
+    "location": "Faridabad, Haryana, India",
+    "companyWebsite": "https://www.absoluteveritas.com",
+    "companyIndustry": "International Trade and Development",
+    "companyEmployeeCount": 11,
+    "companyFoundedDate": "2019",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "IPQuad Partners",
+    "location": "Noida, Uttar Pradesh, India",
+    "companyWebsite": "http://www.ipquad.com",
+    "companyIndustry": "Legal Services",
+    "companyEmployeeCount": 53,
+    "companyFoundedDate": "2020",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Industry Live",
+    "location": "Noida, Uttar Pradesh, India",
+    "companyWebsite": "https://www.industrylive.in/",
+    "companyIndustry": "Events Services",
+    "companyEmployeeCount": 20,
+    "companyFoundedDate": "2021",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Cognitute",
+    "location": "Noida, Uttar Pradesh, India",
+    "companyWebsite": "https://cognitute.org",
+    "companyIndustry": "Business Consulting and Services",
+    "companyEmployeeCount": 38,
+    "companyFoundedDate": "2022",
+    "dynamicFilterMatch": true,
+    "jobs": 2
+  },
+  {
+    "companyName": "Journey Routers",
+    "location": "Saket, Delhi, India",
+    "companyWebsite": "https://www.journeyrouters.com/",
+    "companyIndustry": "Leisure, Travel & Tourism",
+    "companyEmployeeCount": 83,
+    "companyFoundedDate": "2017",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "AIRTH",
+    "location": "New Delhi, Delhi, India",
+    "companyWebsite": "https://airth.in/",
+    "companyIndustry": "Research Services",
+    "companyEmployeeCount": 38,
+    "companyFoundedDate": "2020",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Atithi Voyages",
+    "location": "New Delhi, Delhi, India",
+    "companyWebsite": "https://www.atithivoyages.com/",
+    "companyIndustry": "Travel Arrangements",
+    "companyEmployeeCount": 11,
+    "companyFoundedDate": "",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Backdropsource India",
+    "location": "Noida, Uttar Pradesh, India",
+    "companyWebsite": "www.backdropsource.in",
+    "companyIndustry": "Printing Services",
+    "companyEmployeeCount": 10,
+    "companyFoundedDate": "",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Acolyte Living",
+    "location": "Gurugram, Haryana, India",
+    "companyWebsite": "www.acolyteliving.com",
+    "companyIndustry": "Technology, Information and Internet",
+    "companyEmployeeCount": 19,
+    "companyFoundedDate": "2025",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Boston Consulting Group (BCG)",
+    "location": "Gurgaon, Haryana, India",
+    "companyWebsite": "http://www.bcg.com",
+    "companyIndustry": "Business Consulting and Services",
+    "companyEmployeeCount": 38889,
+    "companyFoundedDate": "1963",
+    "dynamicFilterMatch": true,
+    "jobs": 3
+  },
+  {
+    "companyName": "CloudBird Digital",
+    "location": "Noida, Uttar Pradesh, India",
+    "companyWebsite": "http://www.thecloudbird.com",
+    "companyIndustry": "Education",
+    "companyEmployeeCount": 71,
+    "companyFoundedDate": "2016",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "AIVeda",
+    "location": "Delhi, India",
+    "companyWebsite": "https://aiveda.io/",
+    "companyIndustry": "IT Services and IT Consulting",
+    "companyEmployeeCount": 28,
+    "companyFoundedDate": "2023",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Numoo HR",
+    "location": "Gurugram, Haryana, India",
+    "companyWebsite": "www.numoohr.com",
+    "companyIndustry": "Staffing and Recruiting",
+    "companyEmployeeCount": 8,
+    "companyFoundedDate": "",
+    "dynamicFilterMatch": false,
+    "jobs": 2
+  },
+  {
+    "companyName": "HYrEzy Tech Solutions",
+    "location": "Gurugram, Haryana, India",
+    "companyWebsite": "www.hyrezy.com",
+    "companyIndustry": "Technology, Information and Internet",
+    "companyEmployeeCount": 1,
+    "companyFoundedDate": "2025",
+    "dynamicFilterMatch": true,
+    "jobs": 5
+  },
+  {
+    "companyName": "Open Systems",
+    "location": "Noida, Uttar Pradesh, India",
+    "companyWebsite": "http://www.open-systems.com",
+    "companyIndustry": "Computer- und Netzwerksicherheit",
+    "companyEmployeeCount": 434,
+    "companyFoundedDate": "1990",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "FAMU National Alumni Association",
+    "location": "Gurugram, Haryana, India",
+    "companyWebsite": "http://famunaa.org",
+    "companyIndustry": "Non-profit Organizations",
+    "companyEmployeeCount": 16,
+    "companyFoundedDate": "",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Webologix Ltd/ INC",
+    "location": "Noida, Uttar Pradesh, India",
+    "companyWebsite": "http://www.webologics.com/",
+    "companyIndustry": "Staffing and Recruiting",
+    "companyEmployeeCount": 138,
+    "companyFoundedDate": "2009",
+    "dynamicFilterMatch": false,
+    "jobs": 2
+  },
+  {
+    "companyName": "Boost",
+    "location": "New Delhi, Delhi, India",
+    "companyWebsite": "",
+    "companyIndustry": "Marketing Services",
+    "companyEmployeeCount": 12,
+    "companyFoundedDate": "2017",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "RAPSYS TECHNOLOGIES PTE LTD",
+    "location": "New Delhi, Delhi, India",
+    "companyWebsite": "http://www.rapsystechnologies.com",
+    "companyIndustry": "Staffing and Recruiting",
+    "companyEmployeeCount": 62,
+    "companyFoundedDate": "2018",
+    "dynamicFilterMatch": false,
+    "jobs": 1
+  },
+  {
+    "companyName": "Assystem in India",
+    "location": "Gurugram, Haryana, India",
+    "companyWebsite": "http://www.assystemstup.com",
+    "companyIndustry": "Business Consulting and Services",
+    "companyEmployeeCount": 2045,
+    "companyFoundedDate": "1963",
+    "dynamicFilterMatch": true,
+    "jobs": 2
+  },
+  {
+    "companyName": "Erish Consultancy and Solutions Private Limited",
+    "location": "Ghaziabad, Uttar Pradesh, India",
+    "companyWebsite": "https://www.erishsolutions.com/",
+    "companyIndustry": "IT Services and IT Consulting",
+    "companyEmployeeCount": 6,
+    "companyFoundedDate": "2023",
+    "dynamicFilterMatch": true,
+    "jobs": 2
+  },
+  {
+    "companyName": "Chariot",
+    "location": "Greater Delhi Area",
+    "companyWebsite": "http://chariot.in",
+    "companyIndustry": "Research Services",
+    "companyEmployeeCount": 5,
+    "companyFoundedDate": "",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Bechtel Corporation",
+    "location": "Gurugram, Haryana, India",
+    "companyWebsite": "http://www.bechtel.com",
+    "companyIndustry": "Construction",
+    "companyEmployeeCount": 34346,
+    "companyFoundedDate": "1898",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Scoutit",
+    "location": "New Delhi, Delhi, India",
+    "companyWebsite": "https://www.scoutit.in/",
+    "companyIndustry": "Technology, Information and Internet",
+    "companyEmployeeCount": 16,
+    "companyFoundedDate": "2025",
+    "dynamicFilterMatch": true,
+    "jobs": 2
+  },
+  {
+    "companyName": "Innova ESI",
+    "location": "Noida, Uttar Pradesh, India",
+    "companyWebsite": "www.innovaesi.com",
+    "companyIndustry": "IT Services and IT Consulting",
+    "companyEmployeeCount": 73,
+    "companyFoundedDate": "2001",
+    "dynamicFilterMatch": true,
+    "jobs": 2
+  },
+  {
+    "companyName": "Adobe",
+    "location": "Noida, Uttar Pradesh, India",
+    "companyWebsite": "http://www.adobe.com",
+    "companyIndustry": "Software Development",
+    "companyEmployeeCount": 43059,
+    "companyFoundedDate": "1982",
+    "dynamicFilterMatch": true,
+    "jobs": 2
+  },
+  {
+    "companyName": "GlobalLogic",
+    "location": "Noida, Uttar Pradesh, India",
+    "companyWebsite": "http://www.globallogic.com",
+    "companyIndustry": "Software Development",
+    "companyEmployeeCount": 37244,
+    "companyFoundedDate": "",
+    "dynamicFilterMatch": true,
+    "jobs": 2
+  },
+  {
+    "companyName": "BigStep Technologies",
+    "location": "Gurugram, Haryana, India",
+    "companyWebsite": "http://www.bigsteptech.com/",
+    "companyIndustry": "Software Development",
+    "companyEmployeeCount": 205,
+    "companyFoundedDate": "2008",
+    "dynamicFilterMatch": true,
+    "jobs": 2
+  },
+  {
+    "companyName": "Altera Institute",
+    "location": "Gurugram, Haryana, India",
+    "companyWebsite": "",
+    "companyIndustry": "",
+    "companyEmployeeCount": null,
+    "companyFoundedDate": "",
+    "dynamicFilterMatch": true,
+    "jobs": 2
+  },
+  {
+    "companyName": "4 Way Technologies",
+    "location": "New Delhi, Delhi, India",
+    "companyWebsite": "http://4waytechnologies.com/",
+    "companyIndustry": "Information Technology & Services",
+    "companyEmployeeCount": 57,
+    "companyFoundedDate": "2012",
+    "dynamicFilterMatch": true,
+    "jobs": 2
+  },
+  {
+    "companyName": "ALLSTARSIT",
+    "location": "Delhi, India",
+    "companyWebsite": "https://www.allstarsit.com",
+    "companyIndustry": "IT Services and IT Consulting",
+    "companyEmployeeCount": 370,
+    "companyFoundedDate": "2004",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Runmap Infotech Private Ltd.",
+    "location": "Delhi, India",
+    "companyWebsite": "http://www.runmapglobal.com",
+    "companyIndustry": "IT Services and IT Consulting",
+    "companyEmployeeCount": 49,
+    "companyFoundedDate": "2009",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Daxko",
+    "location": "Noida, Uttar Pradesh, India",
+    "companyWebsite": "http://www.daxko.com",
+    "companyIndustry": "Software Development",
+    "companyEmployeeCount": 893,
+    "companyFoundedDate": "1998",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "PanScience Innovations (PSI)",
+    "location": "New Delhi, Delhi, India",
+    "companyWebsite": "www.panscience.xyz",
+    "companyIndustry": "Venture Capital and Private Equity Principals",
+    "companyEmployeeCount": 59,
+    "companyFoundedDate": "2022",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Indixpert",
+    "location": "Gurugram, Haryana, India",
+    "companyWebsite": "https://www.indixpert.com/",
+    "companyIndustry": "IT Services and IT Consulting",
+    "companyEmployeeCount": 67,
+    "companyFoundedDate": "2023",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Conduent",
+    "location": "Noida, Uttar Pradesh, India",
+    "companyWebsite": "https://www.conduent.com",
+    "companyIndustry": "Business Consulting and Services",
+    "companyEmployeeCount": 39555,
+    "companyFoundedDate": "2017",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "NXP Semiconductors",
+    "location": "Noida, Uttar Pradesh, India",
+    "companyWebsite": "http://www.nxp.com",
+    "companyIndustry": "Productie halfgeleiders",
+    "companyEmployeeCount": 22588,
+    "companyFoundedDate": "2006",
+    "dynamicFilterMatch": true,
+    "jobs": 3
+  },
+  {
+    "companyName": "BillCut",
+    "location": "New Delhi, Delhi, India",
+    "companyWebsite": "https://www.billcut.com/",
+    "companyIndustry": "Financial Services",
+    "companyEmployeeCount": 45,
+    "companyFoundedDate": "",
+    "dynamicFilterMatch": true,
+    "jobs": 2
+  },
+  {
+    "companyName": "MongoDB",
+    "location": "Gurugram, Haryana, India",
+    "companyWebsite": "http://www.mongodb.com",
+    "companyIndustry": "Software Development",
+    "companyEmployeeCount": 8037,
+    "companyFoundedDate": "2007",
+    "dynamicFilterMatch": true,
+    "jobs": 3
+  },
+  {
+    "companyName": "Skyleaf Consultants LLP",
+    "location": "Delhi, India",
+    "companyWebsite": "http://www.skyleafglobal.com",
+    "companyIndustry": "Staffing and Recruiting",
+    "companyEmployeeCount": 65,
+    "companyFoundedDate": "2009",
+    "dynamicFilterMatch": false,
+    "jobs": 1
+  },
+  {
+    "companyName": "Restroworks",
+    "location": "Delhi, India",
+    "companyWebsite": "http://www.restroworks.com",
+    "companyIndustry": "Software Development",
+    "companyEmployeeCount": 185,
+    "companyFoundedDate": "2012",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Zorba AI",
+    "location": "Gurugram, Haryana, India",
+    "companyWebsite": "http://www.zorbaconsulting.in",
+    "companyIndustry": "IT Services and IT Consulting",
+    "companyEmployeeCount": 32,
+    "companyFoundedDate": "2016",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "BeFiSc",
+    "location": "Noida, Uttar Pradesh, India",
+    "companyWebsite": "https://www.befisc.com/",
+    "companyIndustry": "Financial Services",
+    "companyEmployeeCount": 70,
+    "companyFoundedDate": "2023",
+    "dynamicFilterMatch": true,
+    "jobs": 2
+  },
+  {
+    "companyName": "NeoXam",
+    "location": "Noida, Uttar Pradesh, India",
+    "companyWebsite": "http://www.neoxam.com",
+    "companyIndustry": "Développement de logiciels",
+    "companyEmployeeCount": 655,
+    "companyFoundedDate": "2014",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "UST",
+    "location": "Gurugram, Haryana, India",
+    "companyWebsite": "http://www.ust.com",
+    "companyIndustry": "IT Services and IT Consulting",
+    "companyEmployeeCount": 40959,
+    "companyFoundedDate": "",
+    "dynamicFilterMatch": true,
+    "jobs": 2
+  },
+  {
+    "companyName": "Gartner",
+    "location": "Gurgaon, Haryana, India",
+    "companyWebsite": "https://gtnr.it/3vpPW81",
+    "companyIndustry": "Information Services",
+    "companyEmployeeCount": 22044,
+    "companyFoundedDate": "",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Neuraleap Group",
+    "location": "Noida, Uttar Pradesh, India",
+    "companyWebsite": "http://www.neuraleap.co",
+    "companyIndustry": "Outsourcing and Offshoring Consulting",
+    "companyEmployeeCount": 40,
+    "companyFoundedDate": "2020",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "AU SMALL FINANCE BANK",
+    "location": "Greater Delhi Area",
+    "companyWebsite": "https://www.au.bank.in/",
+    "companyIndustry": "Banking",
+    "companyEmployeeCount": 34638,
+    "companyFoundedDate": "",
+    "dynamicFilterMatch": true,
+    "jobs": 3
+  },
+  {
+    "companyName": "Tata Consultancy Services",
+    "location": "Noida, Uttar Pradesh, India",
+    "companyWebsite": "https://www.tcs.com/",
+    "companyIndustry": "IT Services and IT Consulting",
+    "companyEmployeeCount": 728351,
+    "companyFoundedDate": "1968",
+    "dynamicFilterMatch": true,
+    "jobs": 2
+  },
+  {
+    "companyName": "Mace",
+    "location": "Noida, Uttar Pradesh, India",
+    "companyWebsite": "http://www.macegroup.com",
+    "companyIndustry": "Construction",
+    "companyEmployeeCount": 10050,
+    "companyFoundedDate": "1990",
+    "dynamicFilterMatch": true,
+    "jobs": 4
+  },
+  {
+    "companyName": "Talentiser",
+    "location": "Gurugram, Haryana, India",
+    "companyWebsite": "http://www.talentiser.com",
+    "companyIndustry": "Human Resources Services",
+    "companyEmployeeCount": 105,
+    "companyFoundedDate": "2014",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Sultan Chand & Sons (P) Ltd",
+    "location": "New Delhi, Delhi, India",
+    "companyWebsite": "https://sultan-chand.com/",
+    "companyIndustry": "Book and Periodical Publishing",
+    "companyEmployeeCount": 82,
+    "companyFoundedDate": "1950",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "CLIRNET",
+    "location": "Delhi, India",
+    "companyWebsite": "http://www.clirnet.com",
+    "companyIndustry": "Medical Practices",
+    "companyEmployeeCount": 317,
+    "companyFoundedDate": "2015",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Impetus Career Consultants",
+    "location": "Gurugram, Haryana, India",
+    "companyWebsite": "http://www.impetusconsultants.com",
+    "companyIndustry": "Human Resources Services",
+    "companyEmployeeCount": 44,
+    "companyFoundedDate": "2005",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Ground Zero",
+    "location": "Noida, Uttar Pradesh, India",
+    "companyWebsite": "http://groundzero.community/",
+    "companyIndustry": "Human Resources Services",
+    "companyEmployeeCount": 41,
+    "companyFoundedDate": "2023",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "ALLEN",
+    "location": "Gurugram, Haryana, India",
+    "companyWebsite": "http://www.allen.ac.in/",
+    "companyIndustry": "Education Administration Programs",
+    "companyEmployeeCount": 13481,
+    "companyFoundedDate": "",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Suroskie",
+    "location": "Ghaziabad, Uttar Pradesh, India",
+    "companyWebsite": "https://suroskie.com/",
+    "companyIndustry": "Personal Care Product Manufacturing",
+    "companyEmployeeCount": 38,
+    "companyFoundedDate": "2020",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Delhivery",
+    "location": "Gurugram, Haryana, India",
+    "companyWebsite": "https://www.delhivery.com/",
+    "companyIndustry": "Transportation, Logistics, Supply Chain and Storage",
+    "companyEmployeeCount": 34716,
+    "companyFoundedDate": "2011",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "SolarSquare",
+    "location": "Gurugram, Haryana, India",
+    "companyWebsite": "http://solarsquare.link/homes-lkd",
+    "companyIndustry": "Renewables & Environment",
+    "companyEmployeeCount": 2852,
+    "companyFoundedDate": "",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Redington Limited",
+    "location": "Gurugram, Haryana, India",
+    "companyWebsite": "https://redingtongroup.com",
+    "companyIndustry": "IT Services and IT Consulting",
+    "companyEmployeeCount": 5624,
+    "companyFoundedDate": "",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "RAJYOG INTERNATIONAL PRIVATE LIMITED",
+    "location": "Gurugram, Haryana, India",
+    "companyWebsite": "http://www.rajyoginternational.com",
+    "companyIndustry": "Mining",
+    "companyEmployeeCount": 146,
+    "companyFoundedDate": "1995",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Loop Subscriptions",
+    "location": "Gurugram, Haryana, India",
+    "companyWebsite": "https://www.loopwork.co/?utm_medium=linkedin&utm_source=profile&utm_campaign=view",
+    "companyIndustry": "Technology, Information and Internet",
+    "companyEmployeeCount": 121,
+    "companyFoundedDate": "2021",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Spectacom Global",
+    "location": "Gurugram, Haryana, India",
+    "companyWebsite": "https://spectacom.in/",
+    "companyIndustry": "Health and Human Services",
+    "companyEmployeeCount": 49,
+    "companyFoundedDate": "2012",
+    "dynamicFilterMatch": true,
+    "jobs": 2
+  },
+  {
+    "companyName": "IHG Hotels & Resorts",
+    "location": "Gurgaon, Haryana, India",
+    "companyWebsite": "http://www.ihgplc.com",
+    "companyIndustry": "Hospitality",
+    "companyEmployeeCount": 19446,
+    "companyFoundedDate": "",
+    "dynamicFilterMatch": true,
+    "jobs": 2
+  },
+  {
+    "companyName": "iDesign.Market",
+    "location": "Delhi, India",
+    "companyWebsite": "https://www.idesign.market/",
+    "companyIndustry": "Architecture and Planning",
+    "companyEmployeeCount": 33,
+    "companyFoundedDate": "",
+    "dynamicFilterMatch": true,
+    "jobs": 2
+  },
+  {
+    "companyName": "Lutron Electronics",
+    "location": "Gurgaon, Haryana, India",
+    "companyWebsite": "http://www.lutron.com",
+    "companyIndustry": "Appliances, Electrical, and Electronics Manufacturing",
+    "companyEmployeeCount": 3374,
+    "companyFoundedDate": "",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Manav Rachna International Institute of Research & Studies",
+    "location": "Faridabad, Haryana, India",
+    "companyWebsite": "",
+    "companyIndustry": "",
+    "companyEmployeeCount": null,
+    "companyFoundedDate": "",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Marriott International",
+    "location": "Delhi, Delhi, India",
+    "companyWebsite": "http://www.marriott.com",
+    "companyIndustry": "Hospitality",
+    "companyEmployeeCount": 244240,
+    "companyFoundedDate": "",
+    "dynamicFilterMatch": true,
+    "jobs": 6
+  },
+  {
+    "companyName": "Jajabor Brand Consultancy",
+    "location": "New Delhi, Delhi, India",
+    "companyWebsite": "http://www.jajabor.io/",
+    "companyIndustry": "Marketing Services",
+    "companyEmployeeCount": 64,
+    "companyFoundedDate": "",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "PwC India",
+    "location": "Gurugram, Haryana, India",
+    "companyWebsite": "http://www.pwc.in",
+    "companyIndustry": "Business Consulting and Services",
+    "companyEmployeeCount": 29707,
+    "companyFoundedDate": "",
+    "dynamicFilterMatch": true,
+    "jobs": 4
+  },
+  {
+    "companyName": "Hi Tours Group",
+    "location": "Gurugram, Haryana, India",
+    "companyWebsite": "https://www.hi.tours/",
+    "companyIndustry": "Travel Arrangements",
+    "companyEmployeeCount": 154,
+    "companyFoundedDate": "1997",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Aanchal Group",
+    "location": "New Delhi, Delhi, India",
+    "companyWebsite": "https://aanchalgroup.com/",
+    "companyIndustry": "Advertising Services",
+    "companyEmployeeCount": 30,
+    "companyFoundedDate": "",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "ShepHertz Technologies",
+    "location": "Gurugram, Haryana, India",
+    "companyWebsite": "http://www.shephertz.com",
+    "companyIndustry": "Software Development",
+    "companyEmployeeCount": 112,
+    "companyFoundedDate": "2010",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Jacobs",
+    "location": "Gurgaon, Haryana, India",
+    "companyWebsite": "http://www.jacobs.com",
+    "companyIndustry": "Business Consulting and Services",
+    "companyEmployeeCount": 66970,
+    "companyFoundedDate": "",
+    "dynamicFilterMatch": true,
+    "jobs": 7
+  },
+  {
+    "companyName": "Applied Felts India Pvt. Ltd.",
+    "location": "Faridabad, Haryana, India",
+    "companyWebsite": "https://appliedfeltsindia.in/",
+    "companyIndustry": "Manufacturing",
+    "companyEmployeeCount": 6,
+    "companyFoundedDate": "2005",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Armstrong Fluid Technology",
+    "location": "Gurugram, Haryana, India",
+    "companyWebsite": "http://www.armstrongfluidtechnology.com",
+    "companyIndustry": "Industrial Machinery Manufacturing",
+    "companyEmployeeCount": 1270,
+    "companyFoundedDate": "1934",
+    "dynamicFilterMatch": true,
+    "jobs": 2
+  },
+  {
+    "companyName": "Techies Group",
+    "location": "Noida, Uttar Pradesh, India",
+    "companyWebsite": "www.techies-group.com",
+    "companyIndustry": "IT Services and IT Consulting",
+    "companyEmployeeCount": 10,
+    "companyFoundedDate": "2024",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Dario",
+    "location": "Gurugram, Haryana, India",
+    "companyWebsite": "http://www.dariohealth.com/",
+    "companyIndustry": "Hospitals and Health Care",
+    "companyEmployeeCount": 249,
+    "companyFoundedDate": "",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Vecmocon Technologies",
+    "location": "Noida, Uttar Pradesh, India",
+    "companyWebsite": "http://www.vecmocon.com",
+    "companyIndustry": "Embedded Software Products",
+    "companyEmployeeCount": 213,
+    "companyFoundedDate": "2016",
+    "dynamicFilterMatch": true,
+    "jobs": 3
+  },
+  {
+    "companyName": "Ontic",
+    "location": "Noida, Uttar Pradesh, India",
+    "companyWebsite": "http://www.ontic.ai/",
+    "companyIndustry": "Software Development",
+    "companyEmployeeCount": 368,
+    "companyFoundedDate": "",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "ideazmeet",
+    "location": "Delhi, India",
+    "companyWebsite": "https://www.ideazmeet.com",
+    "companyIndustry": "Manufacturing",
+    "companyEmployeeCount": 22,
+    "companyFoundedDate": "2022",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "D&D Healthcare",
+    "location": "Noida, Uttar Pradesh, India",
+    "companyWebsite": "www.agvahealthtech.com",
+    "companyIndustry": "Hospitals and Health Care",
+    "companyEmployeeCount": 94,
+    "companyFoundedDate": "2017",
+    "dynamicFilterMatch": true,
+    "jobs": 2
+  },
+  {
+    "companyName": "CITiLIGHT",
+    "location": "Gurugram, Haryana, India",
+    "companyWebsite": "www.citilight.co",
+    "companyIndustry": "Technology, Information and Internet",
+    "companyEmployeeCount": 15,
+    "companyFoundedDate": "2012",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "SMC India",
+    "location": "Delhi, India",
+    "companyWebsite": "smc-india.com",
+    "companyIndustry": "Facilities Services",
+    "companyEmployeeCount": 776,
+    "companyFoundedDate": "2008",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Right Advisors Private Limited",
+    "location": "New Delhi, Delhi, India",
+    "companyWebsite": "http://rightadvisors.com",
+    "companyIndustry": "Human Resources Services",
+    "companyEmployeeCount": 254,
+    "companyFoundedDate": "2009",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Graygraph Technologies Pvt Ltd",
+    "location": "Noida, Uttar Pradesh, India",
+    "companyWebsite": "http://www.graygraph.com",
+    "companyIndustry": "Information Technology & Services",
+    "companyEmployeeCount": 629,
+    "companyFoundedDate": "2015",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Indian Startup School",
+    "location": "Gurugram, Haryana, India",
+    "companyWebsite": "https://indianstartupschool.org",
+    "companyIndustry": "Venture Capital and Private Equity Principals",
+    "companyEmployeeCount": 18,
+    "companyFoundedDate": "2025",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "importerr.com",
+    "location": "Noida, Uttar Pradesh, India",
+    "companyWebsite": "http://www.importerr.com",
+    "companyIndustry": "Wholesale Import and Export",
+    "companyEmployeeCount": 7,
+    "companyFoundedDate": "2025",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Cashfree",
+    "location": "Gurugram, Haryana, India",
+    "companyWebsite": "http://www.cashfree.com",
+    "companyIndustry": "Financial Services",
+    "companyEmployeeCount": 978,
+    "companyFoundedDate": "2015",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Safe Security",
+    "location": "Delhi, Delhi, India",
+    "companyWebsite": "https://safe.security",
+    "companyIndustry": "Computer and Network Security",
+    "companyEmployeeCount": 1261,
+    "companyFoundedDate": "2012",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Vrinda Global",
+    "location": "Noida, Uttar Pradesh, India",
+    "companyWebsite": "https://vrindaglobal.com/",
+    "companyIndustry": "Staffing and Recruiting",
+    "companyEmployeeCount": 556,
+    "companyFoundedDate": "2006",
+    "dynamicFilterMatch": false,
+    "jobs": 3
+  },
+  {
+    "companyName": "Tigris Mobility Pvt Ltd",
+    "location": "Sonipat, Haryana, India",
+    "companyWebsite": "https://www.tigrismobility.com",
+    "companyIndustry": "Motor Vehicle Manufacturing",
+    "companyEmployeeCount": 25,
+    "companyFoundedDate": "2023",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Bloom Companies, LLC",
+    "location": "Gurugram, Haryana, India",
+    "companyWebsite": "http://www.bloomcos.com",
+    "companyIndustry": "Civil Engineering",
+    "companyEmployeeCount": 336,
+    "companyFoundedDate": "1998",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "LG Electronics",
+    "location": "Noida, Uttar Pradesh, India",
+    "companyWebsite": "https://www.lg.com/global/newsroom/",
+    "companyIndustry": "가전제품, 전기 및 전자제품 제조",
+    "companyEmployeeCount": 65298,
+    "companyFoundedDate": "",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Bitwarden",
+    "location": "Delhi, Delhi, India",
+    "companyWebsite": "https://bitwarden.com/",
+    "companyIndustry": "Software Development",
+    "companyEmployeeCount": 281,
+    "companyFoundedDate": "2015",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Arcadis",
+    "location": "Noida, Uttar Pradesh, India",
+    "companyWebsite": "http://www.arcadis.com",
+    "companyIndustry": "Professionele services",
+    "companyEmployeeCount": 42597,
+    "companyFoundedDate": "",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Tripare AI",
+    "location": "Gurugram, Haryana, India",
+    "companyWebsite": "https://www.tripare.ai/",
+    "companyIndustry": "Technology, Information and Internet",
+    "companyEmployeeCount": 10,
+    "companyFoundedDate": "",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Emerson",
+    "location": "Noida, Uttar Pradesh, India",
+    "companyWebsite": "http://www.emerson.com",
+    "companyIndustry": "Automation Machinery Manufacturing",
+    "companyEmployeeCount": 52335,
+    "companyFoundedDate": "",
+    "dynamicFilterMatch": true,
+    "jobs": 2
+  },
+  {
+    "companyName": "GE Vernova",
+    "location": "Noida, Uttar Pradesh, India",
+    "companyWebsite": "https://linktree.com/gevernova",
+    "companyIndustry": "Energy Technology",
+    "companyEmployeeCount": 70792,
+    "companyFoundedDate": "",
+    "dynamicFilterMatch": true,
+    "jobs": 3
+  },
+  {
+    "companyName": "STMicroelectronics",
+    "location": "Noida, Uttar Pradesh, India",
+    "companyWebsite": "https://www.st.com?src=linkedin",
+    "companyIndustry": "Herstellung von Halbleitern",
+    "companyEmployeeCount": 36152,
+    "companyFoundedDate": "1987",
+    "dynamicFilterMatch": true,
+    "jobs": 3
+  },
+  {
+    "companyName": "Future Tech Design",
+    "location": "Gurugram, Haryana, India",
+    "companyWebsite": "http://www.ftdplm.com",
+    "companyIndustry": "IT System Design Services",
+    "companyEmployeeCount": 260,
+    "companyFoundedDate": "2009",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "WSP in India",
+    "location": "Noida, Uttar Pradesh, India",
+    "companyWebsite": "http://www.wsp.com",
+    "companyIndustry": "Professional Services",
+    "companyEmployeeCount": 3900,
+    "companyFoundedDate": "1959",
+    "dynamicFilterMatch": true,
+    "jobs": 18
+  },
+  {
+    "companyName": "Buro Happold",
+    "location": "Gurugram, Haryana, India",
+    "companyWebsite": "http://www.burohappold.com",
+    "companyIndustry": "Construction",
+    "companyEmployeeCount": 3828,
+    "companyFoundedDate": "1976",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Mott MacDonald",
+    "location": "Noida, Uttar Pradesh, India",
+    "companyWebsite": "https://mottmac.com",
+    "companyIndustry": "Civil Engineering",
+    "companyEmployeeCount": 24860,
+    "companyFoundedDate": "1989",
+    "dynamicFilterMatch": true,
+    "jobs": 4
+  },
+  {
+    "companyName": "Barco",
+    "location": "Noida, Uttar Pradesh, India",
+    "companyWebsite": "http://www.barco.com",
+    "companyIndustry": "Technology, Information and Media",
+    "companyEmployeeCount": 4677,
+    "companyFoundedDate": "1934",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Milliman India",
+    "location": "Gurgaon, Haryana, India",
+    "companyWebsite": "https://www.milliman.com/",
+    "companyIndustry": "Business Consulting and Services",
+    "companyEmployeeCount": 54,
+    "companyFoundedDate": "1947",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "TRACTEBEL",
+    "location": "Gurugram, Haryana, India",
+    "companyWebsite": "https://www.tractebel-engie.com",
+    "companyIndustry": "Engineering Services",
+    "companyEmployeeCount": 7179,
+    "companyFoundedDate": "",
+    "dynamicFilterMatch": true,
+    "jobs": 3
+  },
+  {
+    "companyName": "Bain & Company",
+    "location": "Delhi, Delhi, India",
+    "companyWebsite": "http://www.bain.com",
+    "companyIndustry": "Business Consulting and Services",
+    "companyEmployeeCount": 24927,
+    "companyFoundedDate": "",
+    "dynamicFilterMatch": true,
+    "jobs": 2
+  },
+  {
+    "companyName": "Anaplan",
+    "location": "Gurgaon, Haryana, India",
+    "companyWebsite": "https://www.anaplan.com/",
+    "companyIndustry": "Software Development",
+    "companyEmployeeCount": 3064,
+    "companyFoundedDate": "",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "IPS-Integrated Project Services",
+    "location": "Sarita Vihar, Delhi, India",
+    "companyWebsite": "https://www.ipsdb.com",
+    "companyIndustry": "Business Consulting and Services",
+    "companyEmployeeCount": 3945,
+    "companyFoundedDate": "1989",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Transsion",
+    "location": "Noida, Uttar Pradesh, India",
+    "companyWebsite": "https://www.transsion.com/en/about#introduction",
+    "companyIndustry": "电信业",
+    "companyEmployeeCount": 7453,
+    "companyFoundedDate": "",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Ericsson",
+    "location": "Noida, Uttar Pradesh, India",
+    "companyWebsite": "http://www.ericsson.com",
+    "companyIndustry": "Telekommunikation",
+    "companyEmployeeCount": 106976,
+    "companyFoundedDate": "1876",
+    "dynamicFilterMatch": true,
+    "jobs": 7
+  },
+  {
+    "companyName": "ScratchNest",
+    "location": "Noida, Uttar Pradesh, India",
+    "companyWebsite": "https://scratchnest.com/",
+    "companyIndustry": "Appliances, Electrical, and Electronics Manufacturing",
+    "companyEmployeeCount": 20,
+    "companyFoundedDate": "2019",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Payoneer",
+    "location": "Gurugram, Haryana, India",
+    "companyWebsite": "http://www.payoneer.com",
+    "companyIndustry": "Financial Services",
+    "companyEmployeeCount": 3292,
+    "companyFoundedDate": "2005",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Fareportal",
+    "location": "Gurugram, Haryana, India",
+    "companyWebsite": "http://www.fareportal.com",
+    "companyIndustry": "Technology, Information and Internet",
+    "companyEmployeeCount": 3106,
+    "companyFoundedDate": "2002",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "ETAP Software",
+    "location": "Delhi, India",
+    "companyWebsite": "https://etap.com/",
+    "companyIndustry": "Software Development",
+    "companyEmployeeCount": 621,
+    "companyFoundedDate": "1986",
+    "dynamicFilterMatch": true,
+    "jobs": 2
+  },
+  {
+    "companyName": "Foundever",
+    "location": "Gurgaon, Haryana, India",
+    "companyWebsite": "https://foundever.com/?utm_source=LinkedIn&utm_medium=Organic&utm_campaign=2025_Q3_Global_&utm_content=Webpage",
+    "companyIndustry": "Outsourcing and Offshoring Consulting",
+    "companyEmployeeCount": 100198,
+    "companyFoundedDate": "",
+    "dynamicFilterMatch": true,
+    "jobs": 2
+  },
+  {
+    "companyName": "MKS Inc.",
+    "location": "Manesar, Haryana, India",
+    "companyWebsite": "http://www.mks.com/",
+    "companyIndustry": "Semiconductor Manufacturing",
+    "companyEmployeeCount": 4744,
+    "companyFoundedDate": "",
+    "dynamicFilterMatch": true,
+    "jobs": 2
+  },
+  {
+    "companyName": "TeamViewer",
+    "location": "Noida, Uttar Pradesh, India",
+    "companyWebsite": "http://www.teamviewer.com",
+    "companyIndustry": "Softwareentwicklung",
+    "companyEmployeeCount": 2819,
+    "companyFoundedDate": "",
+    "dynamicFilterMatch": true,
+    "jobs": 2
+  },
+  {
+    "companyName": "McCormick & Company",
+    "location": "Gurugram, Haryana, India",
+    "companyWebsite": "http://www.mccormickcorporation.com",
+    "companyIndustry": "Food and Beverage Manufacturing",
+    "companyEmployeeCount": 9296,
+    "companyFoundedDate": "1889",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Uplers",
+    "location": "Noida, Uttar Pradesh, India",
+    "companyWebsite": "https://www.uplers.com/",
+    "companyIndustry": "Technology, Information and Internet",
+    "companyEmployeeCount": 1122,
+    "companyFoundedDate": "2021",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Arabelle Solutions",
+    "location": "Noida, Uttar Pradesh, India",
+    "companyWebsite": "",
+    "companyIndustry": "Production d’électricité",
+    "companyEmployeeCount": 2468,
+    "companyFoundedDate": "2024",
+    "dynamicFilterMatch": true,
+    "jobs": 2
+  },
+  {
+    "companyName": "Indication Instruments Limited",
+    "location": "Faridabad, Haryana, India",
+    "companyWebsite": "https://www.indicationinstruments.com",
+    "companyIndustry": "Motor Vehicle Manufacturing",
+    "companyEmployeeCount": 424,
+    "companyFoundedDate": "1976",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Travel Junky",
+    "location": "New Delhi, Delhi, India",
+    "companyWebsite": "https://www.traveljunky.in/",
+    "companyIndustry": "Travel Arrangements",
+    "companyEmployeeCount": 71,
+    "companyFoundedDate": "2017",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "BMA Conventions",
+    "location": "Gurugram, Haryana, India",
+    "companyWebsite": "bmaconventions.com",
+    "companyIndustry": "Events Services",
+    "companyEmployeeCount": 52,
+    "companyFoundedDate": "2023",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Trademo",
+    "location": "Gurugram, Haryana, India",
+    "companyWebsite": "https://www.trademo.com?utm_source=social+media&utm_medium=linkedin&utm_campaign=product+page",
+    "companyIndustry": "Software Development",
+    "companyEmployeeCount": 155,
+    "companyFoundedDate": "2020",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Omnipresent Robot Tech",
+    "location": "Noida, Uttar Pradesh, India",
+    "companyWebsite": "http://www.omnipresenttech.com/",
+    "companyIndustry": "Aviation and Aerospace Component Manufacturing",
+    "companyEmployeeCount": 57,
+    "companyFoundedDate": "2010",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Wyzard ai",
+    "location": "Gurugram, Haryana, India",
+    "companyWebsite": "https://wyzard.ai/",
+    "companyIndustry": "Software Development",
+    "companyEmployeeCount": 38,
+    "companyFoundedDate": "2024",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "TQL LOGISTICS PVT LTD",
+    "location": "New Delhi, Delhi, India",
+    "companyWebsite": "www.tqllogistic.com",
+    "companyIndustry": "Transportation, Logistics, Supply Chain and Storage",
+    "companyEmployeeCount": 36,
+    "companyFoundedDate": "2021",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Rage Coffee",
+    "location": "Delhi, Delhi, India",
+    "companyWebsite": "https://ragecoffee.com/",
+    "companyIndustry": "Food and Beverage Services",
+    "companyEmployeeCount": 52,
+    "companyFoundedDate": "2018",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Career Point Edutech Limited",
+    "location": "Gurgaon, Haryana, India",
+    "companyWebsite": "https://cpedutech.in",
+    "companyIndustry": "Education Administration Programs",
+    "companyEmployeeCount": 1398,
+    "companyFoundedDate": "1993",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "NEO INFRA FINTECH INCLUSION PVT LTD",
+    "location": "Noida, Uttar Pradesh, India",
+    "companyWebsite": "https://nifipayments.com",
+    "companyIndustry": "Financial Services",
+    "companyEmployeeCount": 13,
+    "companyFoundedDate": "2022",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Lyallpur Emporium",
+    "location": "Noida, Uttar Pradesh, India",
+    "companyWebsite": "http://lyallpuremporium.com/",
+    "companyIndustry": "Textile Manufacturing",
+    "companyEmployeeCount": 58,
+    "companyFoundedDate": "1965",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Rentokil Initial",
+    "location": "Delhi, India",
+    "companyWebsite": "http://www.rentokil-initial.com",
+    "companyIndustry": "Environmental Services",
+    "companyEmployeeCount": 12780,
+    "companyFoundedDate": "1925",
+    "dynamicFilterMatch": true,
+    "jobs": 2
+  },
+  {
+    "companyName": "Fruitose Global",
+    "location": "New Delhi, Delhi, India",
+    "companyWebsite": "https://fruitose.in/",
+    "companyIndustry": "Retail",
+    "companyEmployeeCount": null,
+    "companyFoundedDate": "1986",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Travel Buddy",
+    "location": "Gurugram, Haryana, India",
+    "companyWebsite": "https://www.beatravelbuddy.com",
+    "companyIndustry": "Social Networking Platforms",
+    "companyEmployeeCount": 62,
+    "companyFoundedDate": "",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Sonu Labels",
+    "location": "Delhi, India",
+    "companyWebsite": "",
+    "companyIndustry": "Fashion Accessories Manufacturing",
+    "companyEmployeeCount": null,
+    "companyFoundedDate": "1995",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "NavMarg Overseas Pvt Ltd",
+    "location": "Delhi, India",
+    "companyWebsite": "https://www.navmarg.com/",
+    "companyIndustry": "Transportation, Logistics, Supply Chain and Storage",
+    "companyEmployeeCount": 2,
+    "companyFoundedDate": "2025",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Kriscel Tech Pvt. Ltd.",
+    "location": "New Delhi, Delhi, India",
+    "companyWebsite": "https://kriscel.com/",
+    "companyIndustry": "IT System Custom Software Development",
+    "companyEmployeeCount": 4,
+    "companyFoundedDate": "",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Vedic Voyages",
+    "location": "New Delhi, Delhi, India",
+    "companyWebsite": "https://www.vedicvoyages.com/",
+    "companyIndustry": "Travel Arrangements",
+    "companyEmployeeCount": 3,
+    "companyFoundedDate": "2023",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Tech Data APAC",
+    "location": "New Delhi, Delhi, India",
+    "companyWebsite": "https://www.techdata.com/apac",
+    "companyIndustry": "IT Services and IT Consulting",
+    "companyEmployeeCount": 913,
+    "companyFoundedDate": "",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "RK Destinations",
+    "location": "New Delhi, Delhi, India",
+    "companyWebsite": "rkdestinations.in",
+    "companyIndustry": "Events Services",
+    "companyEmployeeCount": 9,
+    "companyFoundedDate": "2023",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "HireFlexperts",
+    "location": "Noida, Uttar Pradesh, India",
+    "companyWebsite": "www.hireflexperts.com",
+    "companyIndustry": "Staffing and Recruiting",
+    "companyEmployeeCount": 8,
+    "companyFoundedDate": "2022",
+    "dynamicFilterMatch": false,
+    "jobs": 1
+  },
+  {
+    "companyName": "Logistics Shakti",
+    "location": "New Delhi, Delhi, India",
+    "companyWebsite": "https://logisticshakti.com/",
+    "companyIndustry": "Marketing Services",
+    "companyEmployeeCount": 9,
+    "companyFoundedDate": "",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Aptita",
+    "location": "Noida, Uttar Pradesh, India",
+    "companyWebsite": "https://aptita.com/",
+    "companyIndustry": "Human Resources Services",
+    "companyEmployeeCount": 43,
+    "companyFoundedDate": "2016",
+    "dynamicFilterMatch": true,
+    "jobs": 2
+  },
+  {
+    "companyName": "StoreBlaze",
+    "location": "Gurugram, Haryana, India",
+    "companyWebsite": "www.storeblaze.in",
+    "companyIndustry": "Transportation, Logistics, Supply Chain and Storage",
+    "companyEmployeeCount": null,
+    "companyFoundedDate": "2026",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Head Field Solutions Pvt. Ltd.",
+    "location": "Noida, Uttar Pradesh, India",
+    "companyWebsite": "http://www.headfield.com",
+    "companyIndustry": "Staffing and Recruiting",
+    "companyEmployeeCount": 874,
+    "companyFoundedDate": "2005",
+    "dynamicFilterMatch": false,
+    "jobs": 1
+  },
+  {
+    "companyName": "SBL Specialty Coatings Pvt. Ltd.",
+    "location": "Gurgaon, Haryana, India",
+    "companyWebsite": "http://www.sblcoatings.com",
+    "companyIndustry": "Consumer Goods",
+    "companyEmployeeCount": 115,
+    "companyFoundedDate": "",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "IndiaMART InterMESH Limited",
+    "location": "Meerut, Uttar Pradesh, India",
+    "companyWebsite": "https://www.indiamart.com/",
+    "companyIndustry": "Technology, Information and Internet",
+    "companyEmployeeCount": 19379,
+    "companyFoundedDate": "1999",
+    "dynamicFilterMatch": true,
+    "jobs": 2
+  },
+  {
+    "companyName": "Innovatives",
+    "location": "Ghaziabad, Uttar Pradesh, India",
+    "companyWebsite": "https://www.innovativesfabric.com/",
+    "companyIndustry": "Textile Manufacturing",
+    "companyEmployeeCount": null,
+    "companyFoundedDate": "2010",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Blingbird",
+    "location": "Gurugram, Haryana, India",
+    "companyWebsite": "https://www.blingbird-luxury.com",
+    "companyIndustry": "Travel Arrangements",
+    "companyEmployeeCount": 8,
+    "companyFoundedDate": "2018",
+    "dynamicFilterMatch": true,
+    "jobs": 2
+  },
+  {
+    "companyName": "Rosier Foods",
+    "location": "Noida, Uttar Pradesh, India",
+    "companyWebsite": "http://rosierfoods.com",
+    "companyIndustry": "",
+    "companyEmployeeCount": 41,
+    "companyFoundedDate": "",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Anton Paar India",
+    "location": "Gurugram, Haryana, India",
+    "companyWebsite": "https://www.anton-paar.com",
+    "companyIndustry": "Measuring and Control Instrument Manufacturing",
+    "companyEmployeeCount": 192,
+    "companyFoundedDate": "2009",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Redial Clinic",
+    "location": "New Delhi, Delhi, India",
+    "companyWebsite": "https://redialclinic.com/",
+    "companyIndustry": "Hospitals and Health Care",
+    "companyEmployeeCount": 14,
+    "companyFoundedDate": "2012",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Holiday Tribe",
+    "location": "Gurugram, Haryana, India",
+    "companyWebsite": "https://holidaytribe.com/",
+    "companyIndustry": "Technology, Information and Internet",
+    "companyEmployeeCount": 157,
+    "companyFoundedDate": "2023",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Allegan Global Solutions",
+    "location": "Noida, Uttar Pradesh, India",
+    "companyWebsite": "alleganglobalsolutions.com",
+    "companyIndustry": "Events Services",
+    "companyEmployeeCount": 13,
+    "companyFoundedDate": "",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "BuyBuyCart",
+    "location": "Noida, Uttar Pradesh, India",
+    "companyWebsite": "https://buybuycart.com/",
+    "companyIndustry": "Retail",
+    "companyEmployeeCount": 38,
+    "companyFoundedDate": "2021",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "RegisterKaro",
+    "location": "Delhi, India",
+    "companyWebsite": "http://www.RegisterKaro.in",
+    "companyIndustry": "Financial Services",
+    "companyEmployeeCount": 413,
+    "companyFoundedDate": "",
+    "dynamicFilterMatch": true,
+    "jobs": 2
+  },
+  {
+    "companyName": "Telepie Technology",
+    "location": "New Delhi, Delhi, India",
+    "companyWebsite": "https://telepie.com/",
+    "companyIndustry": "Media and Telecommunications",
+    "companyEmployeeCount": 5,
+    "companyFoundedDate": "2024",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "URBANMISTRII STUDIO",
+    "location": "Delhi, India",
+    "companyWebsite": "www.urbanmistrii.com",
+    "companyIndustry": "Architecture and Planning",
+    "companyEmployeeCount": 12,
+    "companyFoundedDate": "2017",
+    "dynamicFilterMatch": true,
+    "jobs": 2
+  },
+  {
+    "companyName": "Nothing Else Matters",
+    "location": "Gurugram, Haryana, India",
+    "companyWebsite": "https://www.nothingelsematters.in",
+    "companyIndustry": "Advertising Services",
+    "companyEmployeeCount": 209,
+    "companyFoundedDate": "2017",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Hiring Point Solutions",
+    "location": "Gurugram, Haryana, India",
+    "companyWebsite": "",
+    "companyIndustry": "Business Consulting and Services",
+    "companyEmployeeCount": 7,
+    "companyFoundedDate": "2018",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Larsen & Toubro",
+    "location": "Dadri, Uttar Pradesh, India",
+    "companyWebsite": "https://www.larsentoubro.com/",
+    "companyIndustry": "Executive Offices",
+    "companyEmployeeCount": 145014,
+    "companyFoundedDate": "",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Infoble Technologies",
+    "location": "Gurugram, Haryana, India",
+    "companyWebsite": "https://www.infoble.in",
+    "companyIndustry": "Technology, Information and Internet",
+    "companyEmployeeCount": 2,
+    "companyFoundedDate": "2019",
+    "dynamicFilterMatch": true,
+    "jobs": 2
+  },
+  {
+    "companyName": "OWOW",
+    "location": "Gurugram, Haryana, India",
+    "companyWebsite": "https://owowtalents.com/",
+    "companyIndustry": "Technology, Information and Internet",
+    "companyEmployeeCount": 55,
+    "companyFoundedDate": "2024",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Grade Learner Academy",
+    "location": "Noida, Uttar Pradesh, India",
+    "companyWebsite": "http://gradelearner.com/",
+    "companyIndustry": "Education",
+    "companyEmployeeCount": 17,
+    "companyFoundedDate": "2019",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "bludesign",
+    "location": "Noida, Uttar Pradesh, India",
+    "companyWebsite": "https://bludesign.in/",
+    "companyIndustry": "Interior Design",
+    "companyEmployeeCount": 5,
+    "companyFoundedDate": "2024",
+    "dynamicFilterMatch": true,
+    "jobs": 2
+  },
+  {
+    "companyName": "Design Sense Architects",
+    "location": "Delhi, India",
+    "companyWebsite": "http://designsensearchitects.com",
+    "companyIndustry": "Architecture and Planning",
+    "companyEmployeeCount": 6,
+    "companyFoundedDate": "",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "JB Group of Companies",
+    "location": "New Delhi, Delhi, India",
+    "companyWebsite": "https://jbgroupindia.com",
+    "companyIndustry": "Business Consulting and Services",
+    "companyEmployeeCount": 18,
+    "companyFoundedDate": "",
+    "dynamicFilterMatch": true,
+    "jobs": 2
+  },
+  {
+    "companyName": "Bizaarambh",
+    "location": "Noida, Uttar Pradesh, India",
+    "companyWebsite": "https://www.bizaarambh.com",
+    "companyIndustry": "Business Consulting and Services",
+    "companyEmployeeCount": 2,
+    "companyFoundedDate": "2025",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "The Loom",
+    "location": "Delhi, India",
+    "companyWebsite": "http://www.theloom.in",
+    "companyIndustry": "Apparel & Fashion",
+    "companyEmployeeCount": 123,
+    "companyFoundedDate": "2015",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Hatch",
+    "location": "Gurugram, Haryana, India",
+    "companyWebsite": "http://www.hatch.com",
+    "companyIndustry": "Professional Services",
+    "companyEmployeeCount": 11573,
+    "companyFoundedDate": "1955",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Weekday (YC W21)",
+    "location": "Delhi, India",
+    "companyWebsite": "http://weekday.works/companies",
+    "companyIndustry": "Human Resources Services",
+    "companyEmployeeCount": 248,
+    "companyFoundedDate": "2021",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Dhammatek Limited",
+    "location": "Noida, Uttar Pradesh, India",
+    "companyWebsite": "https://www.dhammatek.co.uk",
+    "companyIndustry": "Business Supplies & Equipment",
+    "companyEmployeeCount": 34,
+    "companyFoundedDate": "2006",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Dezine Innovation",
+    "location": "Gurugram, Haryana, India",
+    "companyWebsite": "http://www.dezineinnovation.com",
+    "companyIndustry": "Architecture and Planning",
+    "companyEmployeeCount": 12,
+    "companyFoundedDate": "1994",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Beyond Border Consultants",
+    "location": "Delhi, India",
+    "companyWebsite": "https://beyondborderconsultants.com",
+    "companyIndustry": "Business Consulting and Services",
+    "companyEmployeeCount": 1,
+    "companyFoundedDate": "",
+    "dynamicFilterMatch": true,
+    "jobs": 5
+  },
+  {
+    "companyName": "Abracadabra",
+    "location": "Faridabad, Haryana, India",
+    "companyWebsite": "http://abracadabrakids.com/",
+    "companyIndustry": "Manufacturing",
+    "companyEmployeeCount": 13,
+    "companyFoundedDate": "2008",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Effora | Beauty & Wellness",
+    "location": "Noida, Uttar Pradesh, India",
+    "companyWebsite": "www.effora.in",
+    "companyIndustry": "Retail Health and Personal Care Products",
+    "companyEmployeeCount": 3,
+    "companyFoundedDate": "2024",
+    "dynamicFilterMatch": true,
+    "jobs": 3
+  },
+  {
+    "companyName": "Aparna Kaushik Design Group",
+    "location": "Noida, Uttar Pradesh, India",
+    "companyWebsite": "http://aparnakaushik.com",
+    "companyIndustry": "Architecture and Planning",
+    "companyEmployeeCount": 71,
+    "companyFoundedDate": "2009",
+    "dynamicFilterMatch": true,
+    "jobs": 2
+  },
+  {
+    "companyName": "Cruffin Premium Cakes",
+    "location": "Gurugram, Haryana, India",
+    "companyWebsite": "https://www.instagram.com/cruffinindia/",
+    "companyIndustry": "Food and Beverage Services",
+    "companyEmployeeCount": 16,
+    "companyFoundedDate": "2023",
+    "dynamicFilterMatch": true,
+    "jobs": 2
+  },
+  {
+    "companyName": "At Buzz",
+    "location": "South Delhi, Delhi, India",
+    "companyWebsite": "https://atbuzz.in/",
+    "companyIndustry": "Marketing Services",
+    "companyEmployeeCount": 1,
+    "companyFoundedDate": "2021",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Fin Maverick",
+    "location": "Delhi, India",
+    "companyWebsite": "https://www.finmaverick.com",
+    "companyIndustry": "Education",
+    "companyEmployeeCount": 3,
+    "companyFoundedDate": "",
+    "dynamicFilterMatch": true,
+    "jobs": 2
+  },
+  {
+    "companyName": "Shemrock Group Of Schools",
+    "location": "Rohini, Delhi, India",
+    "companyWebsite": "",
+    "companyIndustry": "",
+    "companyEmployeeCount": null,
+    "companyFoundedDate": "",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "ROI HUNT Performance Marketing Company",
+    "location": "Noida, Uttar Pradesh, India",
+    "companyWebsite": "https://www.roihunt.com/",
+    "companyIndustry": "Advertising Services",
+    "companyEmployeeCount": 31,
+    "companyFoundedDate": "2018",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "IDigitalPreneur",
+    "location": "Dwarka, Delhi, India",
+    "companyWebsite": "http://www.idigitalpreneur.com",
+    "companyIndustry": "E-Learning Providers",
+    "companyEmployeeCount": 6671,
+    "companyFoundedDate": "2020",
+    "dynamicFilterMatch": true,
+    "jobs": 2
+  },
+  {
+    "companyName": "SiteRecon",
+    "location": "Noida, Uttar Pradesh, India",
+    "companyWebsite": "https://www.siterecon.ai",
+    "companyIndustry": "Software Development",
+    "companyEmployeeCount": 118,
+    "companyFoundedDate": "2020",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "NH Studio",
+    "location": "Delhi, India",
+    "companyWebsite": "https://NHstudio.in",
+    "companyIndustry": "Architecture and Planning",
+    "companyEmployeeCount": 8,
+    "companyFoundedDate": "",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Aumraa",
+    "location": "Gurugram, Haryana, India",
+    "companyWebsite": "www.aumrafaithtech.com",
+    "companyIndustry": "Technology, Information and Internet",
+    "companyEmployeeCount": 7,
+    "companyFoundedDate": "2025",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "HealthKart",
+    "location": "Gurugram, Haryana, India",
+    "companyWebsite": "https://www.healthkart.com",
+    "companyIndustry": "Technology, Information and Internet",
+    "companyEmployeeCount": 1422,
+    "companyFoundedDate": "2011",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Cura Ayurvedic & Unani Limited",
+    "location": "Ghaziabad, Uttar Pradesh, India",
+    "companyWebsite": "https://curaayurved.com",
+    "companyIndustry": "Pharmaceutical Manufacturing",
+    "companyEmployeeCount": 33,
+    "companyFoundedDate": "1999",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "The 4th Column",
+    "location": "New Delhi, Delhi, India",
+    "companyWebsite": "https://4thcolumn.com/",
+    "companyIndustry": "Marketing Services",
+    "companyEmployeeCount": 2,
+    "companyFoundedDate": "2026",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Saloni Jain",
+    "location": "South Delhi, Delhi, India",
+    "companyWebsite": "www.salonijain.in",
+    "companyIndustry": "Retail Apparel and Fashion",
+    "companyEmployeeCount": 4,
+    "companyFoundedDate": "2019",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "NUUK",
+    "location": "Gurugram, Haryana, India",
+    "companyWebsite": "www.nuuk.in",
+    "companyIndustry": "Appliances, Electrical, and Electronics Manufacturing",
+    "companyEmployeeCount": 100,
+    "companyFoundedDate": "2023",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "GPM Architects and Planners",
+    "location": "South Delhi, Delhi, India",
+    "companyWebsite": "https://gpmindia.com/",
+    "companyIndustry": "Architecture and Planning",
+    "companyEmployeeCount": 190,
+    "companyFoundedDate": "1980",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "kwazi.",
+    "location": "New Delhi, Delhi, India",
+    "companyWebsite": "http://www.kwazi.in",
+    "companyIndustry": "Design Services",
+    "companyEmployeeCount": 10,
+    "companyFoundedDate": "2018",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Suparshva Swabs (I)",
+    "location": "Delhi, India",
+    "companyWebsite": "http://www.tulipshygiene.com",
+    "companyIndustry": "Manufacturing",
+    "companyEmployeeCount": 52,
+    "companyFoundedDate": "1999",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Affluent Technology Limited",
+    "location": "Noida, Uttar Pradesh, India",
+    "companyWebsite": "https://www.affluent-tech.com/",
+    "companyIndustry": "Technology, Information and Internet",
+    "companyEmployeeCount": 115,
+    "companyFoundedDate": "2008",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Umbrette",
+    "location": "Gurugram, Haryana, India",
+    "companyWebsite": "http://umbrette.com",
+    "companyIndustry": "Design Services",
+    "companyEmployeeCount": 23,
+    "companyFoundedDate": "2019",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Home Crayons",
+    "location": "Panipat, Haryana, India",
+    "companyWebsite": "http://www.homecrayons.com",
+    "companyIndustry": "Retail Furniture and Home Furnishings",
+    "companyEmployeeCount": 2,
+    "companyFoundedDate": "2021",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "AJ ARKIDESIGNS PRIVATE LIMITED",
+    "location": "South Delhi, Delhi, India",
+    "companyWebsite": "",
+    "companyIndustry": "Construction",
+    "companyEmployeeCount": 7,
+    "companyFoundedDate": "",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Metaguise",
+    "location": "Gurugram, Haryana, India",
+    "companyWebsite": "https://metaguise.com/",
+    "companyIndustry": "Building Construction",
+    "companyEmployeeCount": 64,
+    "companyFoundedDate": "",
+    "dynamicFilterMatch": true,
+    "jobs": 2
+  },
+  {
+    "companyName": "Bombay Musk",
+    "location": "Gurugram, Haryana, India",
+    "companyWebsite": "www.bombaymusk.com",
+    "companyIndustry": "Retail Luxury Goods and Jewelry",
+    "companyEmployeeCount": 16,
+    "companyFoundedDate": "2024",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "GUS Global Services India Pvt. Ltd.",
+    "location": "Delhi, India",
+    "companyWebsite": "https://www.gusindia.global/",
+    "companyIndustry": "Education Administration Programs",
+    "companyEmployeeCount": 404,
+    "companyFoundedDate": "",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "The Brand Bee",
+    "location": "Gurugram, Haryana, India",
+    "companyWebsite": "https://thebrandbee.com/",
+    "companyIndustry": "Marketing Services",
+    "companyEmployeeCount": 105,
+    "companyFoundedDate": "2012",
+    "dynamicFilterMatch": true,
+    "jobs": 2
+  },
+  {
+    "companyName": "InVispa IT Solution Pvt Ltd",
+    "location": "New Delhi, Delhi, India",
+    "companyWebsite": "http://www.invispaitsolution.in",
+    "companyIndustry": "IT Services and IT Consulting",
+    "companyEmployeeCount": 10,
+    "companyFoundedDate": "2017",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "SBA Design N Code LLP",
+    "location": "Delhi, Delhi, India",
+    "companyWebsite": "www.sba-dnc.com",
+    "companyIndustry": "Architecture and Planning",
+    "companyEmployeeCount": 13,
+    "companyFoundedDate": "",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "LIXIL",
+    "location": "Gurugram, Haryana, India",
+    "companyWebsite": "http://www.lixil.com",
+    "companyIndustry": "製造業",
+    "companyEmployeeCount": 10859,
+    "companyFoundedDate": "",
+    "dynamicFilterMatch": true,
+    "jobs": 5
+  },
+  {
+    "companyName": "Buzytech IT Solutions Pvt Ltd",
+    "location": "Noida, Uttar Pradesh, India",
+    "companyWebsite": "http://www.buzytech.com",
+    "companyIndustry": "IT Services and IT Consulting",
+    "companyEmployeeCount": 40,
+    "companyFoundedDate": "2011",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Practido - Olympiad Practice",
+    "location": "Panipat, Haryana, India",
+    "companyWebsite": "",
+    "companyIndustry": "Education",
+    "companyEmployeeCount": 3,
+    "companyFoundedDate": "",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Talent Affair",
+    "location": "New Delhi, Delhi, India",
+    "companyWebsite": "",
+    "companyIndustry": "Human Resources Services",
+    "companyEmployeeCount": 5,
+    "companyFoundedDate": "",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "FanTV AI",
+    "location": "Noida, Uttar Pradesh, India",
+    "companyWebsite": "https://fantv.in/",
+    "companyIndustry": "Technology, Information and Internet",
+    "companyEmployeeCount": 13,
+    "companyFoundedDate": "",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "DKG Labs",
+    "location": "New Delhi, Delhi, India",
+    "companyWebsite": "https://www.dkgrouplabs.com",
+    "companyIndustry": "IT Services and IT Consulting",
+    "companyEmployeeCount": 27,
+    "companyFoundedDate": "2009",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Saday Sadev",
+    "location": "Delhi, Delhi, India",
+    "companyWebsite": "http://www.sadaysadev.org",
+    "companyIndustry": "Non-profit Organizations",
+    "companyEmployeeCount": 152,
+    "companyFoundedDate": "2020",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Newtimes Group of Companies",
+    "location": "Gurugram, Haryana, India",
+    "companyWebsite": "http://newtimesgroup.com",
+    "companyIndustry": "Retail Apparel and Fashion",
+    "companyEmployeeCount": 771,
+    "companyFoundedDate": "",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "AEC Digital",
+    "location": "Gurugram, Haryana, India",
+    "companyWebsite": "http://www.aecdsl.com",
+    "companyIndustry": "Architecture and Planning",
+    "companyEmployeeCount": 101,
+    "companyFoundedDate": "2013",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Lingo Solution Pvt. Ltd.",
+    "location": "Noida, Uttar Pradesh, India",
+    "companyWebsite": "http://www.lingosolution.com",
+    "companyIndustry": "Translation and Localization",
+    "companyEmployeeCount": 30,
+    "companyFoundedDate": "2012",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Evarastaffing",
+    "location": "Delhi, India",
+    "companyWebsite": "",
+    "companyIndustry": "",
+    "companyEmployeeCount": null,
+    "companyFoundedDate": "",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "tobbo",
+    "location": "New Delhi, Delhi, India",
+    "companyWebsite": "",
+    "companyIndustry": "Technology, Information and Internet",
+    "companyEmployeeCount": null,
+    "companyFoundedDate": "2025",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Hyatt",
+    "location": "Gurgaon, Haryana, India",
+    "companyWebsite": "",
+    "companyIndustry": "",
+    "companyEmployeeCount": null,
+    "companyFoundedDate": "",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "SpeedMart",
+    "location": "Gurugram, Haryana, India",
+    "companyWebsite": "",
+    "companyIndustry": "Outsourcing and Offshoring Consulting",
+    "companyEmployeeCount": 44,
+    "companyFoundedDate": "2017",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Hilti India",
+    "location": "Gurugram, Haryana, India",
+    "companyWebsite": "https://www.hilti.in/",
+    "companyIndustry": "Construction",
+    "companyEmployeeCount": 1525,
+    "companyFoundedDate": "1997",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Ipsita Mondal Design Co.",
+    "location": "Gurgaon, Haryana, India",
+    "companyWebsite": "http://www.imdesign.co.in",
+    "companyIndustry": "Architecture and Planning",
+    "companyEmployeeCount": 3,
+    "companyFoundedDate": "2014",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Optus Housing",
+    "location": "Delhi, India",
+    "companyWebsite": "",
+    "companyIndustry": "Real Estate",
+    "companyEmployeeCount": 30,
+    "companyFoundedDate": "1986",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Éclat Maison",
+    "location": "Delhi, India",
+    "companyWebsite": "www.eclatmaison.in",
+    "companyIndustry": "Retail",
+    "companyEmployeeCount": null,
+    "companyFoundedDate": "2023",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "GamblingCareers.com",
+    "location": "Gurugram, Haryana, India",
+    "companyWebsite": "www.gamblingcareers.com",
+    "companyIndustry": "Gambling Facilities and Casinos",
+    "companyEmployeeCount": 30,
+    "companyFoundedDate": "2023",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "MAS Rollpro Technologies Pvt Ltd",
+    "location": "Delhi, India",
+    "companyWebsite": "www.masrollpro.com",
+    "companyIndustry": "Industrial Machinery Manufacturing",
+    "companyEmployeeCount": 20,
+    "companyFoundedDate": "",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "YUZI",
+    "location": "Noida, Uttar Pradesh, India",
+    "companyWebsite": "www.yuzi.in",
+    "companyIndustry": "Retail Luxury Goods and Jewelry",
+    "companyEmployeeCount": 5,
+    "companyFoundedDate": "",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Infopro Learning, Inc",
+    "location": "Noida, Uttar Pradesh, India",
+    "companyWebsite": "http://www.infoprolearning.com",
+    "companyIndustry": "Professional Training and Coaching",
+    "companyEmployeeCount": 653,
+    "companyFoundedDate": "1994",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "NM Corp",
+    "location": "Gurugram, Haryana, India",
+    "companyWebsite": "www.nmcorp.in",
+    "companyIndustry": "Architecture and Planning",
+    "companyEmployeeCount": 15,
+    "companyFoundedDate": "",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "EazyGrad",
+    "location": "New Delhi, Delhi, India",
+    "companyWebsite": "https://www.eazygrad.com/",
+    "companyIndustry": "Education Administration Programs",
+    "companyEmployeeCount": 24,
+    "companyFoundedDate": "2021",
+    "dynamicFilterMatch": true,
+    "jobs": 2
+  },
+  {
+    "companyName": "McLine Studios",
+    "location": "New Delhi, Delhi, India",
+    "companyWebsite": "www.mclinestudios.com",
+    "companyIndustry": "Architecture and Planning",
+    "companyEmployeeCount": 110,
+    "companyFoundedDate": "",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "AFRY",
+    "location": "Noida, Uttar Pradesh, India",
+    "companyWebsite": "https://www.afry.com",
+    "companyIndustry": "Ingenjörstjänster",
+    "companyEmployeeCount": 20016,
+    "companyFoundedDate": "",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Talent Corner HR Services Pvt Ltd",
+    "location": "Delhi, India",
+    "companyWebsite": "http://www.talentcorner.in",
+    "companyIndustry": "Business Consulting and Services",
+    "companyEmployeeCount": 1113,
+    "companyFoundedDate": "2002",
+    "dynamicFilterMatch": true,
+    "jobs": 2
+  },
+  {
+    "companyName": "Dawn Digital Pvt. Ltd",
+    "location": "New Delhi, Delhi, India",
+    "companyWebsite": "http://www.dawndigitalindia.com",
+    "companyIndustry": "Animation and Post-production",
+    "companyEmployeeCount": 277,
+    "companyFoundedDate": "2001",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Socomec Group",
+    "location": "Gurugram, Haryana, India",
+    "companyWebsite": "",
+    "companyIndustry": "",
+    "companyEmployeeCount": null,
+    "companyFoundedDate": "",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Job24by7",
+    "location": "Delhi, India",
+    "companyWebsite": "www.job24by7.com",
+    "companyIndustry": "Human Resources Services",
+    "companyEmployeeCount": 41,
+    "companyFoundedDate": "2019",
+    "dynamicFilterMatch": true,
+    "jobs": 2
+  },
+  {
+    "companyName": "University of Alaska Fairbanks Petroleum Engineering",
+    "location": "Civil Lines, Delhi, India",
+    "companyWebsite": "",
+    "companyIndustry": "",
+    "companyEmployeeCount": null,
+    "companyFoundedDate": "",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Deloitte",
+    "location": "Gurugram, Haryana, India",
+    "companyWebsite": "http://www.deloitte.com/",
+    "companyIndustry": "Business Consulting and Services",
+    "companyEmployeeCount": 533697,
+    "companyFoundedDate": "1845",
+    "dynamicFilterMatch": true,
+    "jobs": 2
+  },
+  {
+    "companyName": "KRS Educreations Pvt Ltd.",
+    "location": "Delhi, India",
+    "companyWebsite": "",
+    "companyIndustry": "",
+    "companyEmployeeCount": null,
+    "companyFoundedDate": "",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "ArchLane",
+    "location": "Delhi, India",
+    "companyWebsite": "www.thearchlane.com",
+    "companyIndustry": "Architecture and Planning",
+    "companyEmployeeCount": 2,
+    "companyFoundedDate": "2023",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "ITS Deligh",
+    "location": "New Delhi, Delhi, India",
+    "companyWebsite": "",
+    "companyIndustry": "",
+    "companyEmployeeCount": null,
+    "companyFoundedDate": "",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Cog Culture",
+    "location": "Gurugram, Haryana, India",
+    "companyWebsite": "http://www.cogculture.agency",
+    "companyIndustry": "Advertising Services",
+    "companyEmployeeCount": 180,
+    "companyFoundedDate": "2012",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "The Staffing Guild",
+    "location": "New Delhi, Delhi, India",
+    "companyWebsite": "",
+    "companyIndustry": "Business Consulting and Services",
+    "companyEmployeeCount": 19,
+    "companyFoundedDate": "2023",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "ExtraHike",
+    "location": "Noida, Uttar Pradesh, India",
+    "companyWebsite": "",
+    "companyIndustry": "",
+    "companyEmployeeCount": null,
+    "companyFoundedDate": "",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "DenZ",
+    "location": "Noida, Uttar Pradesh, India",
+    "companyWebsite": "denzlabel.com",
+    "companyIndustry": "Retail Apparel and Fashion",
+    "companyEmployeeCount": 11,
+    "companyFoundedDate": "2025",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Standard Chartered India",
+    "location": "Delhi, India",
+    "companyWebsite": "https://www.sc.com/in/",
+    "companyIndustry": "Banking",
+    "companyEmployeeCount": 2797,
+    "companyFoundedDate": "",
+    "dynamicFilterMatch": true,
+    "jobs": 2
+  },
+  {
+    "companyName": "Confidential",
+    "location": "Gurugram, Haryana, India",
+    "companyWebsite": "https://www.indiamart.com/company/1722196/",
+    "companyIndustry": "Language Schools",
+    "companyEmployeeCount": 6106,
+    "companyFoundedDate": "2022",
+    "dynamicFilterMatch": true,
+    "jobs": 3
+  },
+  {
+    "companyName": "Auraa Talents",
+    "location": "Gurgaon, Haryana, India",
+    "companyWebsite": "http://www.auraa.in",
+    "companyIndustry": "Advertising Services",
+    "companyEmployeeCount": 28,
+    "companyFoundedDate": "2008",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Fly High Visas Private Limited",
+    "location": "Noida, Uttar Pradesh, India",
+    "companyWebsite": "www.flyhighvisas.com",
+    "companyIndustry": "Education",
+    "companyEmployeeCount": 24,
+    "companyFoundedDate": "2015",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "MSMENXT",
+    "location": "Manesar, Haryana, India",
+    "companyWebsite": "https://msmenxt.com",
+    "companyIndustry": "IT Services and IT Consulting",
+    "companyEmployeeCount": 1,
+    "companyFoundedDate": "",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "S&P Global",
+    "location": "Gurugram, Haryana, India",
+    "companyWebsite": "http://www.spglobal.com",
+    "companyIndustry": "Financial Services",
+    "companyEmployeeCount": 40355,
+    "companyFoundedDate": "",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "CollabKaroo",
+    "location": "Delhi, India",
+    "companyWebsite": "https://collabkaroo.com/",
+    "companyIndustry": "Consumer Services",
+    "companyEmployeeCount": 7,
+    "companyFoundedDate": "2025",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "KYCKART",
+    "location": "Gurugram, Haryana, India",
+    "companyWebsite": "https://kyckart.com/",
+    "companyIndustry": "Financial Services",
+    "companyEmployeeCount": 12,
+    "companyFoundedDate": "2021",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Jubilant Ingrevia Limited",
+    "location": "Noida, Uttar Pradesh, India",
+    "companyWebsite": "https://www.jubilantingrevia.com",
+    "companyIndustry": "Chemical Manufacturing",
+    "companyEmployeeCount": 1874,
+    "companyFoundedDate": "2021",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "GameShame",
+    "location": "Delhi, India",
+    "companyWebsite": "",
+    "companyIndustry": "ألعاب الكمبيوتر",
+    "companyEmployeeCount": 1,
+    "companyFoundedDate": "2025",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "AXENTRA OS",
+    "location": "Rohtak, Haryana, India",
+    "companyWebsite": "https://axentraai.com/",
+    "companyIndustry": "Software Development",
+    "companyEmployeeCount": 71,
+    "companyFoundedDate": "2016",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "D Succeed Learners Private Limited",
+    "location": "West Delhi, Delhi, India",
+    "companyWebsite": "https://www.dsucceedlearners.com/",
+    "companyIndustry": "Professional Training and Coaching",
+    "companyEmployeeCount": 46,
+    "companyFoundedDate": "2022",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Naukripay group",
+    "location": "Greater Delhi Area",
+    "companyWebsite": "www.naukripay.com",
+    "companyIndustry": "Human Resources Services",
+    "companyEmployeeCount": 25,
+    "companyFoundedDate": "2021",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "VisionSure",
+    "location": "New Delhi, Delhi, India",
+    "companyWebsite": "https://bevisionsure.com/",
+    "companyIndustry": "Wellness and Fitness Services",
+    "companyEmployeeCount": 11,
+    "companyFoundedDate": "2024",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Intileo Technologies LLP",
+    "location": "Delhi, Delhi, India",
+    "companyWebsite": "https://www.intileo.com/",
+    "companyIndustry": "Software Development",
+    "companyEmployeeCount": 110,
+    "companyFoundedDate": "2016",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Taboola",
+    "location": "Gurugram, Haryana, India",
+    "companyWebsite": "http://www.taboola.com",
+    "companyIndustry": "Software Development",
+    "companyEmployeeCount": 2015,
+    "companyFoundedDate": "2007",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Jasiel Creations",
+    "location": "Gurugram, Haryana, India",
+    "companyWebsite": "https://jasielcreations.com",
+    "companyIndustry": "Technology, Information and Media",
+    "companyEmployeeCount": 33,
+    "companyFoundedDate": "2009",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "RIA Insurance",
+    "location": "New Delhi, Delhi, India",
+    "companyWebsite": "https://www.ria.insure",
+    "companyIndustry": "Insurance",
+    "companyEmployeeCount": 36,
+    "companyFoundedDate": "2019",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "ETRUCKLOAD LOGISTICS PVT LTD",
+    "location": "West Delhi, Delhi, India",
+    "companyWebsite": "www.etruckloads.in",
+    "companyIndustry": "Transportation, Logistics, Supply Chain and Storage",
+    "companyEmployeeCount": null,
+    "companyFoundedDate": "2021",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "MIRAGGIO",
+    "location": "Delhi, India",
+    "companyWebsite": "http://www.miraggiolife.com",
+    "companyIndustry": "Retail Apparel and Fashion",
+    "companyEmployeeCount": 125,
+    "companyFoundedDate": "2019",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "adidas",
+    "location": "Gurgaon, Haryana, India",
+    "companyWebsite": "http://www.adidas-group.com/",
+    "companyIndustry": "Sportartikel",
+    "companyEmployeeCount": 68692,
+    "companyFoundedDate": "",
+    "dynamicFilterMatch": true,
+    "jobs": 2
+  },
+  {
+    "companyName": "The Staffing Guild India",
+    "location": "New Delhi, Delhi, India",
+    "companyWebsite": "",
+    "companyIndustry": "",
+    "companyEmployeeCount": null,
+    "companyFoundedDate": "",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "LambdaTest is now TestMu AI",
+    "location": "Noida, Uttar Pradesh, India",
+    "companyWebsite": "",
+    "companyIndustry": "",
+    "companyEmployeeCount": null,
+    "companyFoundedDate": "",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "BetterDrones",
+    "location": "Noida, Uttar Pradesh, India",
+    "companyWebsite": "http://betterdrones.in/",
+    "companyIndustry": "Aviation & Aerospace",
+    "companyEmployeeCount": 41,
+    "companyFoundedDate": "2019",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Hubhawks",
+    "location": "Gurugram, Haryana, India",
+    "companyWebsite": "http://www.hubhawks.com",
+    "companyIndustry": "Book Publishing",
+    "companyEmployeeCount": 74,
+    "companyFoundedDate": "2020",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Metis Capital Management Ltd.",
+    "location": "Defence Colony, Delhi, India",
+    "companyWebsite": "",
+    "companyIndustry": "",
+    "companyEmployeeCount": null,
+    "companyFoundedDate": "",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "OpenAI",
+    "location": "Delhi, India",
+    "companyWebsite": "",
+    "companyIndustry": "",
+    "companyEmployeeCount": null,
+    "companyFoundedDate": "",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Kensara",
+    "location": "Greater Delhi Area",
+    "companyWebsite": "kensara.in",
+    "companyIndustry": "Legal Services",
+    "companyEmployeeCount": 3,
+    "companyFoundedDate": "2025",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "ASSA ABLOY Group",
+    "location": "Gurugram, Haryana, India",
+    "companyWebsite": "https://www.assaabloy.com/group/en",
+    "companyIndustry": "Byggmaterial, partihandel",
+    "companyEmployeeCount": 12944,
+    "companyFoundedDate": "",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "The Design Village",
+    "location": "Noida, Uttar Pradesh, India",
+    "companyWebsite": "http://thedesignvillage.org",
+    "companyIndustry": "Higher Education",
+    "companyEmployeeCount": 83,
+    "companyFoundedDate": "2014",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "WPP Media",
+    "location": "Gurgaon, Haryana, India",
+    "companyWebsite": "http://WPPmedia.com?utm_source=linkedin",
+    "companyIndustry": "Advertising Services",
+    "companyEmployeeCount": 28943,
+    "companyFoundedDate": "",
+    "dynamicFilterMatch": true,
+    "jobs": 2
+  },
+  {
+    "companyName": "VAYUZ Technologies",
+    "location": "Noida, Uttar Pradesh, India",
+    "companyWebsite": "www.vayuz.com",
+    "companyIndustry": "IT Services and IT Consulting",
+    "companyEmployeeCount": 127,
+    "companyFoundedDate": "2015",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Viable Outsource Solution",
+    "location": "Dadri, Uttar Pradesh, India",
+    "companyWebsite": "https://viableoutsourcesolution.com/",
+    "companyIndustry": "Outsourcing and Offshoring Consulting",
+    "companyEmployeeCount": 36,
+    "companyFoundedDate": "2018",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Manav Rachna Educational Institutions",
+    "location": "Faridabad, Haryana, India",
+    "companyWebsite": "",
+    "companyIndustry": "",
+    "companyEmployeeCount": null,
+    "companyFoundedDate": "",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "SBNRI",
+    "location": "Gurugram, Haryana, India",
+    "companyWebsite": "https://www.sbnri.com",
+    "companyIndustry": "Financial Services",
+    "companyEmployeeCount": 63,
+    "companyFoundedDate": "2020",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Google",
+    "location": "Gurugram, Haryana, India",
+    "companyWebsite": "https://goo.gle/3DLEokh",
+    "companyIndustry": "Software Development",
+    "companyEmployeeCount": 294133,
+    "companyFoundedDate": "",
+    "dynamicFilterMatch": true,
+    "jobs": 4
+  },
+  {
+    "companyName": "Antal International",
+    "location": "Noida, Uttar Pradesh, India",
+    "companyWebsite": "http://www.antal.com",
+    "companyIndustry": "Staffing and Recruiting",
+    "companyEmployeeCount": 2278,
+    "companyFoundedDate": "1993",
+    "dynamicFilterMatch": false,
+    "jobs": 1
+  },
+  {
+    "companyName": "Wellbeing Nutrition",
+    "location": "Gurugram, Haryana, India",
+    "companyWebsite": "https://www.wellbeingnutrition.com",
+    "companyIndustry": "Wellness and Fitness Services",
+    "companyEmployeeCount": 193,
+    "companyFoundedDate": "2019",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Axtria - Ingenious Insights",
+    "location": "Gurgaon, Haryana, India",
+    "companyWebsite": "https://www.axtria.com",
+    "companyIndustry": "Software Development",
+    "companyEmployeeCount": 3651,
+    "companyFoundedDate": "2010",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "RTS International",
+    "location": "Delhi, India",
+    "companyWebsite": "http://www.rtsinternational.com",
+    "companyIndustry": "Financial Services",
+    "companyEmployeeCount": 105,
+    "companyFoundedDate": "",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Foreignerds Inc.",
+    "location": "Noida, Uttar Pradesh, India",
+    "companyWebsite": "http://www.foreignerds.com",
+    "companyIndustry": "Outsourcing and Offshoring Consulting",
+    "companyEmployeeCount": 55,
+    "companyFoundedDate": "2013",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Triptokart",
+    "location": "New Delhi, Delhi, India",
+    "companyWebsite": "https://triptokart.com/",
+    "companyIndustry": "Travel Arrangements",
+    "companyEmployeeCount": 4,
+    "companyFoundedDate": "2019",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Omni Hire Recruitment Solutions",
+    "location": "Gurugram, Haryana, India",
+    "companyWebsite": "https://omnihire.in",
+    "companyIndustry": "Staffing and Recruiting",
+    "companyEmployeeCount": 3,
+    "companyFoundedDate": "2022",
+    "dynamicFilterMatch": false,
+    "jobs": 1
+  },
+  {
+    "companyName": "V2U Logistics",
+    "location": "Noida, Uttar Pradesh, India",
+    "companyWebsite": "https://v2ulogistics.com/",
+    "companyIndustry": "Transportation, Logistics, Supply Chain and Storage",
+    "companyEmployeeCount": 10,
+    "companyFoundedDate": "",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Spyne",
+    "location": "Gurugram, Haryana, India",
+    "companyWebsite": "",
+    "companyIndustry": "Technology, Information and Internet",
+    "companyEmployeeCount": 330,
+    "companyFoundedDate": "2018",
+    "dynamicFilterMatch": true,
+    "jobs": 2
+  },
+  {
+    "companyName": "The Learning Company",
+    "location": "Noida, Uttar Pradesh, India",
+    "companyWebsite": "https://thelearningcompany.net/",
+    "companyIndustry": "Education",
+    "companyEmployeeCount": 63,
+    "companyFoundedDate": "",
+    "dynamicFilterMatch": true,
+    "jobs": 3
+  },
+  {
+    "companyName": "TaskVocal.ai",
+    "location": "Noida, Uttar Pradesh, India",
+    "companyWebsite": "https://taskvocal.ai",
+    "companyIndustry": "Technology, Information and Internet",
+    "companyEmployeeCount": null,
+    "companyFoundedDate": "",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Tide",
+    "location": "Greater Delhi Area",
+    "companyWebsite": "https://www.tide.co",
+    "companyIndustry": "Financial Services",
+    "companyEmployeeCount": 3459,
+    "companyFoundedDate": "2015",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "DAV & KAPS",
+    "location": "Greater Noida Omicron, India",
+    "companyWebsite": "www.davandkaps.in",
+    "companyIndustry": "Manufacturing",
+    "companyEmployeeCount": 21,
+    "companyFoundedDate": "",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "airtel",
+    "location": "Gurugram, Haryana, India",
+    "companyWebsite": "https://careers.airtel.com/",
+    "companyIndustry": "Telecommunications",
+    "companyEmployeeCount": 101350,
+    "companyFoundedDate": "",
+    "dynamicFilterMatch": true,
+    "jobs": 3
+  },
+  {
+    "companyName": "SkillsNCR",
+    "location": "Gurugram, Haryana, India",
+    "companyWebsite": "https://www.skillsncr.com/",
+    "companyIndustry": "Education",
+    "companyEmployeeCount": 1,
+    "companyFoundedDate": "2023",
+    "dynamicFilterMatch": true,
+    "jobs": 2
+  },
+  {
+    "companyName": "Thermo Fisher Scientific",
+    "location": "Gurgaon, Haryana, India",
+    "companyWebsite": "https://www.thermofisher.com",
+    "companyIndustry": "Biotechnology Research",
+    "companyEmployeeCount": 96071,
+    "companyFoundedDate": "",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "WIRTGEN GROUP",
+    "location": "Delhi, India",
+    "companyWebsite": "https://www.wirtgen-group.com",
+    "companyIndustry": "Maschinenbau",
+    "companyEmployeeCount": 2479,
+    "companyFoundedDate": "",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Morghil's",
+    "location": "Greater Delhi Area",
+    "companyWebsite": "https://morghils.com/",
+    "companyIndustry": "Retail Apparel and Fashion",
+    "companyEmployeeCount": null,
+    "companyFoundedDate": "",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "GoodEnough Energy",
+    "location": "Noida, Uttar Pradesh, India",
+    "companyWebsite": "https://goodenough.energy/",
+    "companyIndustry": "Renewable Energy Equipment Manufacturing",
+    "companyEmployeeCount": 63,
+    "companyFoundedDate": "2023",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Studio Design Box",
+    "location": "Gurugram, Haryana, India",
+    "companyWebsite": "http://studiodesignbox.com",
+    "companyIndustry": "Architecture and Planning",
+    "companyEmployeeCount": 20,
+    "companyFoundedDate": "2012",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Grey Diagnostic's",
+    "location": "New Delhi, Delhi, India",
+    "companyWebsite": "",
+    "companyIndustry": "",
+    "companyEmployeeCount": null,
+    "companyFoundedDate": "",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Pickyourtrail",
+    "location": "Gurugram, Haryana, India",
+    "companyWebsite": "https://pickyourtrail.com/",
+    "companyIndustry": "Travel Arrangements",
+    "companyEmployeeCount": 701,
+    "companyFoundedDate": "2014",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Aeroaids Corporation",
+    "location": "New Delhi, Delhi, India",
+    "companyWebsite": "",
+    "companyIndustry": "",
+    "companyEmployeeCount": null,
+    "companyFoundedDate": "",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "AlgoSec",
+    "location": "New Delhi, Delhi, India",
+    "companyWebsite": "https://www.algosec.com/?utm_source=SocialMedia&utm_medium=linkedin",
+    "companyIndustry": "Computer and Network Security",
+    "companyEmployeeCount": 569,
+    "companyFoundedDate": "2004",
+    "dynamicFilterMatch": true,
+    "jobs": 2
+  },
+  {
+    "companyName": "Savvytree",
+    "location": "New Delhi, Delhi, India",
+    "companyWebsite": "https://savvytree.in/",
+    "companyIndustry": "Advertising Services",
+    "companyEmployeeCount": 41,
+    "companyFoundedDate": "2020",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "THIRD EYE PRODUCTIONS PRIVATE LIMITED",
+    "location": "Noida, Uttar Pradesh, India",
+    "companyWebsite": "www.thethirdeyeproduction.in",
+    "companyIndustry": "Marketing Services",
+    "companyEmployeeCount": 3,
+    "companyFoundedDate": "2021",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "DREAM FLY VACATION",
+    "location": "Model Town, Delhi, India",
+    "companyWebsite": "http://www.dreamflyvacation.com/index.html",
+    "companyIndustry": "Travel Arrangements",
+    "companyEmployeeCount": 20,
+    "companyFoundedDate": "2014",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Concept Spaces",
+    "location": "Gurugram, Haryana, India",
+    "companyWebsite": "https://conceptspaces.in/",
+    "companyIndustry": "Interior Design",
+    "companyEmployeeCount": 1,
+    "companyFoundedDate": "",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Caprileo Tech PVT LTD",
+    "location": "Noida, Uttar Pradesh, India",
+    "companyWebsite": "",
+    "companyIndustry": "Technology, Information and Internet",
+    "companyEmployeeCount": null,
+    "companyFoundedDate": "",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "TVL MEDIA",
+    "location": "Noida, Uttar Pradesh, India",
+    "companyWebsite": "http://www.tvlmedia.in",
+    "companyIndustry": "Marketing Services",
+    "companyEmployeeCount": 20,
+    "companyFoundedDate": "2020",
+    "dynamicFilterMatch": true,
+    "jobs": 3
+  },
+  {
+    "companyName": "Shield AI",
+    "location": "Delhi, Delhi, India",
+    "companyWebsite": "https://shield.ai/",
+    "companyIndustry": "Defense and Space Manufacturing",
+    "companyEmployeeCount": 1918,
+    "companyFoundedDate": "2015",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Chaahat Homes Infratech Pvt. Ltd.",
+    "location": "Gurugram, Haryana, India",
+    "companyWebsite": "",
+    "companyIndustry": "",
+    "companyEmployeeCount": null,
+    "companyFoundedDate": "",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "SEAD Realty | Nirvaana Hills",
+    "location": "Gurugram, Haryana, India",
+    "companyWebsite": "nirvaanahills.com",
+    "companyIndustry": "Real Estate",
+    "companyEmployeeCount": 29,
+    "companyFoundedDate": "1999",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Truevisory Realty",
+    "location": "Noida, Uttar Pradesh, India",
+    "companyWebsite": "https://truevisoryrealty.in/",
+    "companyIndustry": "Real Estate",
+    "companyEmployeeCount": 196,
+    "companyFoundedDate": "",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Prefer not to say",
+    "location": "Greater Delhi Area",
+    "companyWebsite": "",
+    "companyIndustry": "",
+    "companyEmployeeCount": null,
+    "companyFoundedDate": "",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "MOCA Advertising",
+    "location": "Gurugram, Haryana, India",
+    "companyWebsite": "http://www.moca-tech.com",
+    "companyIndustry": "广告服务",
+    "companyEmployeeCount": 60,
+    "companyFoundedDate": "2012",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "APSR Infotech",
+    "location": "Dadri, Uttar Pradesh, India",
+    "companyWebsite": "https://apsrinfotech.com",
+    "companyIndustry": "IT Services and IT Consulting",
+    "companyEmployeeCount": 20,
+    "companyFoundedDate": "2020",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "BLUORNG",
+    "location": "Gurugram, Haryana, India",
+    "companyWebsite": "",
+    "companyIndustry": "",
+    "companyEmployeeCount": null,
+    "companyFoundedDate": "",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Asian Paints",
+    "location": "Delhi, Delhi, India",
+    "companyWebsite": "http://www.asianpaints.com",
+    "companyIndustry": "Manufacturing",
+    "companyEmployeeCount": 28306,
+    "companyFoundedDate": "",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "assistara",
+    "location": "Noida, Uttar Pradesh, India",
+    "companyWebsite": "http://www.assistara.com",
+    "companyIndustry": "Business Consulting and Services",
+    "companyEmployeeCount": 16,
+    "companyFoundedDate": "",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Jain Expositions Pvt. Ltd.",
+    "location": "New Delhi, Delhi, India",
+    "companyWebsite": "",
+    "companyIndustry": "",
+    "companyEmployeeCount": null,
+    "companyFoundedDate": "",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Tederic Machinery",
+    "location": "Delhi, India",
+    "companyWebsite": "https://www.tedericglobal.com/",
+    "companyIndustry": "机械制造业",
+    "companyEmployeeCount": 92,
+    "companyFoundedDate": "",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Interior Elements India",
+    "location": "Noida, Uttar Pradesh, India",
+    "companyWebsite": "http://www.interior-elements.com",
+    "companyIndustry": "Office Furniture and Fixtures Manufacturing",
+    "companyEmployeeCount": 14,
+    "companyFoundedDate": "2019",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Mom's Belief",
+    "location": "Gurugram, Haryana, India",
+    "companyWebsite": "http://www.momsbelief.com",
+    "companyIndustry": "Hospitals and Health Care",
+    "companyEmployeeCount": 403,
+    "companyFoundedDate": "2018",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Erekrut... Recruitment Made Easy",
+    "location": "Delhi, India",
+    "companyWebsite": "https://www.erekrut.com",
+    "companyIndustry": "Technology, Information and Internet",
+    "companyEmployeeCount": 519,
+    "companyFoundedDate": "2019",
+    "dynamicFilterMatch": true,
+    "jobs": 3
+  },
+  {
+    "companyName": "Lochan & Co",
+    "location": "Noida, Uttar Pradesh, India",
+    "companyWebsite": "https://www.lochanco.com/",
+    "companyIndustry": "Financial Services",
+    "companyEmployeeCount": 300,
+    "companyFoundedDate": "1987",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "V-Guard",
+    "location": "Gurugram, Haryana, India",
+    "companyWebsite": "",
+    "companyIndustry": "",
+    "companyEmployeeCount": null,
+    "companyFoundedDate": "",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Buildorz",
+    "location": "Dwarka, Delhi, India",
+    "companyWebsite": "",
+    "companyIndustry": "",
+    "companyEmployeeCount": null,
+    "companyFoundedDate": "",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Rupeek",
+    "location": "New Delhi, Delhi, India",
+    "companyWebsite": "https://www.rupeek.com/",
+    "companyIndustry": "Financial Services",
+    "companyEmployeeCount": 1681,
+    "companyFoundedDate": "2015",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Vzy",
+    "location": "Noida, Uttar Pradesh, India",
+    "companyWebsite": "https://vzy.zone/",
+    "companyIndustry": "Entertainment Providers",
+    "companyEmployeeCount": 32,
+    "companyFoundedDate": "",
+    "dynamicFilterMatch": true,
+    "jobs": 2
+  },
+  {
+    "companyName": "IBM",
+    "location": "Gurgaon, Haryana, India",
+    "companyWebsite": "",
+    "companyIndustry": "",
+    "companyEmployeeCount": null,
+    "companyFoundedDate": "",
+    "dynamicFilterMatch": true,
+    "jobs": 2
+  },
+  {
+    "companyName": "VRIDANTA ADVISORY",
+    "location": "Gurgaon, Haryana, India",
+    "companyWebsite": "",
+    "companyIndustry": "Real Estate",
+    "companyEmployeeCount": 4,
+    "companyFoundedDate": "2026",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "noon",
+    "location": "Gurugram, Haryana, India",
+    "companyWebsite": "http://www.noon.com",
+    "companyIndustry": "البيع بالتجزئة",
+    "companyEmployeeCount": 49049,
+    "companyFoundedDate": "",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Kratikal",
+    "location": "Noida, Uttar Pradesh, India",
+    "companyWebsite": "",
+    "companyIndustry": "",
+    "companyEmployeeCount": null,
+    "companyFoundedDate": "",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "EcoVerva",
+    "location": "Gurugram, Haryana, India",
+    "companyWebsite": "",
+    "companyIndustry": "",
+    "companyEmployeeCount": null,
+    "companyFoundedDate": "",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Utilities One Group",
+    "location": "Gurugram, Haryana, India",
+    "companyWebsite": "http://www.utilitiesone.com",
+    "companyIndustry": "Utilities",
+    "companyEmployeeCount": 321,
+    "companyFoundedDate": "2016",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Dover Corporation",
+    "location": "New Delhi, Delhi, India",
+    "companyWebsite": "",
+    "companyIndustry": "",
+    "companyEmployeeCount": null,
+    "companyFoundedDate": "",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "UnfilterStory",
+    "location": "Gurugram, Haryana, India",
+    "companyWebsite": "https://www.instagram.com/unfilterstory_india?igsh=MWY0Mm9zOGp6djZpMA==",
+    "companyIndustry": "Broadcast Media Production and Distribution",
+    "companyEmployeeCount": 6,
+    "companyFoundedDate": "2025",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Scatec ASA",
+    "location": "Delhi, Delhi, India",
+    "companyWebsite": "http://www.scatec.com",
+    "companyIndustry": "Fornybar energiproduksjon",
+    "companyEmployeeCount": 1509,
+    "companyFoundedDate": "2007",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Aim Ladder",
+    "location": "Delhi, India",
+    "companyWebsite": "",
+    "companyIndustry": "",
+    "companyEmployeeCount": null,
+    "companyFoundedDate": "",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Placenest Services Private Limited",
+    "location": "Gurugram, Haryana, India",
+    "companyWebsite": "https://www.placenestservices.com/",
+    "companyIndustry": "Human Resources Services",
+    "companyEmployeeCount": 4,
+    "companyFoundedDate": "2023",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Sirion",
+    "location": "Gurugram, Haryana, India",
+    "companyWebsite": "https://www.sirion.ai",
+    "companyIndustry": "Software Development",
+    "companyEmployeeCount": 1172,
+    "companyFoundedDate": "2012",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "BRAND & BUTTER",
+    "location": "Noida, Uttar Pradesh, India",
+    "companyWebsite": "brandandbutter.in",
+    "companyIndustry": "Marketing Services",
+    "companyEmployeeCount": 2,
+    "companyFoundedDate": "2025",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "PlanetSpark",
+    "location": "Gurugram, Haryana, India",
+    "companyWebsite": "https://shorturl.at/xFOY0",
+    "companyIndustry": "Education",
+    "companyEmployeeCount": 5810,
+    "companyFoundedDate": "2017",
+    "dynamicFilterMatch": true,
+    "jobs": 2
+  },
+  {
+    "companyName": "EdifyChamps",
+    "location": "Gurugram, Haryana, India",
+    "companyWebsite": "",
+    "companyIndustry": "",
+    "companyEmployeeCount": null,
+    "companyFoundedDate": "",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Decathlon",
+    "location": "Gurgaon, Haryana, India",
+    "companyWebsite": "https://www.decathlon-united.media/",
+    "companyIndustry": "Fabrication d’articles de sport",
+    "companyEmployeeCount": 42754,
+    "companyFoundedDate": "",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "eSec Forte® Technologies",
+    "location": "Gurugram, Haryana, India",
+    "companyWebsite": "https://www.esecforte.com",
+    "companyIndustry": "Computer and Network Security",
+    "companyEmployeeCount": 342,
+    "companyFoundedDate": "2011",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Honeywell Technologies",
+    "location": "Gurugram, Haryana, India",
+    "companyWebsite": "",
+    "companyIndustry": "",
+    "companyEmployeeCount": null,
+    "companyFoundedDate": "",
+    "dynamicFilterMatch": true,
+    "jobs": 2
+  },
+  {
+    "companyName": "Amitoje India",
+    "location": "Delhi, India",
+    "companyWebsite": "",
+    "companyIndustry": "",
+    "companyEmployeeCount": null,
+    "companyFoundedDate": "",
+    "dynamicFilterMatch": true,
+    "jobs": 2
+  },
+  {
+    "companyName": "Xerox",
+    "location": "Hauz Khas, Delhi, India",
+    "companyWebsite": "http://www.xerox.com",
+    "companyIndustry": "Business Consulting and Services",
+    "companyEmployeeCount": 47980,
+    "companyFoundedDate": "",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Aryatech Marine and Offshore Services",
+    "location": "Delhi, India",
+    "companyWebsite": "http://www.aryatech.net",
+    "companyIndustry": "Oil and Gas",
+    "companyEmployeeCount": 38,
+    "companyFoundedDate": "2007",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Arista Networks",
+    "location": "Delhi, Delhi, India",
+    "companyWebsite": "http://www.arista.com",
+    "companyIndustry": "Computer Networking Products",
+    "companyEmployeeCount": 5830,
+    "companyFoundedDate": "2004",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "KAAPRO",
+    "location": "New Delhi, Delhi, India",
+    "companyWebsite": "http://www.kaapro.co.in",
+    "companyIndustry": "Staffing and Recruiting",
+    "companyEmployeeCount": 139,
+    "companyFoundedDate": "2010",
+    "dynamicFilterMatch": false,
+    "jobs": 1
+  },
+  {
+    "companyName": "BT Group",
+    "location": "Delhi, India",
+    "companyWebsite": "https://www.bt.com/about",
+    "companyIndustry": "Telecommunications",
+    "companyEmployeeCount": 73860,
+    "companyFoundedDate": "",
+    "dynamicFilterMatch": true,
+    "jobs": 2
+  },
+  {
+    "companyName": "TÜV SÜD",
+    "location": "Noida, Uttar Pradesh, India",
+    "companyWebsite": "http://www.tuvsud.com",
+    "companyIndustry": "Öffentliche Sicherheit",
+    "companyEmployeeCount": 18548,
+    "companyFoundedDate": "",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "EnCharge AI",
+    "location": "Greater Delhi Area",
+    "companyWebsite": "https://enchargeai.com/",
+    "companyIndustry": "Embedded Software Products",
+    "companyEmployeeCount": 113,
+    "companyFoundedDate": "2022",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "DLF Hospitality",
+    "location": "Gurugram, Haryana, India",
+    "companyWebsite": "https://www.dlfhospitality.com/",
+    "companyIndustry": "Hospitality",
+    "companyEmployeeCount": 825,
+    "companyFoundedDate": "",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Algoscale",
+    "location": "Noida, Uttar Pradesh, India",
+    "companyWebsite": "https://algoscale.com",
+    "companyIndustry": "Software Development",
+    "companyEmployeeCount": 61,
+    "companyFoundedDate": "2014",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Baveja Gupta & Co",
+    "location": "Noida, Uttar Pradesh, India",
+    "companyWebsite": "",
+    "companyIndustry": "",
+    "companyEmployeeCount": null,
+    "companyFoundedDate": "",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Interactive Bees",
+    "location": "Delhi, India",
+    "companyWebsite": "http://www.interactivebees.com",
+    "companyIndustry": "Technology, Information and Internet",
+    "companyEmployeeCount": 111,
+    "companyFoundedDate": "2008",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "finspectra",
+    "location": "Noida, Uttar Pradesh, India",
+    "companyWebsite": "https://www.finspectra.com",
+    "companyIndustry": "Software Development",
+    "companyEmployeeCount": 36,
+    "companyFoundedDate": "2017",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Sunshine by LISSUN",
+    "location": "Delhi, India",
+    "companyWebsite": "",
+    "companyIndustry": "",
+    "companyEmployeeCount": null,
+    "companyFoundedDate": "",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "The Global Energy Alliance for People and Planet",
+    "location": "New Delhi, Delhi, India",
+    "companyWebsite": "",
+    "companyIndustry": "",
+    "companyEmployeeCount": null,
+    "companyFoundedDate": "",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Turner & Townsend",
+    "location": "Greater Delhi Area",
+    "companyWebsite": "",
+    "companyIndustry": "",
+    "companyEmployeeCount": null,
+    "companyFoundedDate": "",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Nokia",
+    "location": "Gurugram, Haryana, India",
+    "companyWebsite": "https://www.nokia.com",
+    "companyIndustry": "Televiestintä",
+    "companyEmployeeCount": 100496,
+    "companyFoundedDate": "",
+    "dynamicFilterMatch": true,
+    "jobs": 3
+  },
+  {
+    "companyName": "Alvarez & Marsal",
+    "location": "Gurugram, Haryana, India",
+    "companyWebsite": "http://www.alvarezandmarsal.com",
+    "companyIndustry": "Business Consulting and Services",
+    "companyEmployeeCount": 14337,
+    "companyFoundedDate": "",
+    "dynamicFilterMatch": true,
+    "jobs": 3
+  },
+  {
+    "companyName": "Affle",
+    "location": "Gurugram, Haryana, India",
+    "companyWebsite": "https://www.affle.com",
+    "companyIndustry": "Software Development",
+    "companyEmployeeCount": 446,
+    "companyFoundedDate": "2005",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "HouseEazy",
+    "location": "Noida, Uttar Pradesh, India",
+    "companyWebsite": "https://www.houseeazy.com/",
+    "companyIndustry": "Real Estate",
+    "companyEmployeeCount": 182,
+    "companyFoundedDate": "2021",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Pegasus",
+    "location": "Noida, Uttar Pradesh, India",
+    "companyWebsite": "https://www.pegasusforkids.com/",
+    "companyIndustry": "Book and Periodical Publishing",
+    "companyEmployeeCount": 52,
+    "companyFoundedDate": "2008",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "St. Regis Hotels & Resorts",
+    "location": "Delhi, Delhi, India",
+    "companyWebsite": "http://www.stregis.com",
+    "companyIndustry": "Hospitality",
+    "companyEmployeeCount": 4158,
+    "companyFoundedDate": "",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "MakeMyTrip",
+    "location": "Gurgaon, Haryana, India",
+    "companyWebsite": "https://careers.makemytrip.com/",
+    "companyIndustry": "Technology, Information and Internet",
+    "companyEmployeeCount": 7550,
+    "companyFoundedDate": "2000",
+    "dynamicFilterMatch": true,
+    "jobs": 2
+  },
+  {
+    "companyName": "VARITE INC",
+    "location": "Gurugram, Haryana, India",
+    "companyWebsite": "http://www.varite.com",
+    "companyIndustry": "Information Technology & Services",
+    "companyEmployeeCount": 732,
+    "companyFoundedDate": "2000",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "McDermott International, Ltd",
+    "location": "Gurgaon, Haryana, India",
+    "companyWebsite": "http://www.mcdermott.com/",
+    "companyIndustry": "Oil and Gas",
+    "companyEmployeeCount": 23535,
+    "companyFoundedDate": "",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "BioBrain Insights",
+    "location": "Gurgaon, Haryana, India",
+    "companyWebsite": "https://biobrain.io?referrer=linkedin",
+    "companyIndustry": "Technology, Information and Internet",
+    "companyEmployeeCount": 53,
+    "companyFoundedDate": "2021",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Reckitt",
+    "location": "Gurugram, Haryana, India",
+    "companyWebsite": "http://www.reckitt.com",
+    "companyIndustry": "Manufacturing",
+    "companyEmployeeCount": 34363,
+    "companyFoundedDate": "",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Aviate",
+    "location": "Noida, Uttar Pradesh, India",
+    "companyWebsite": "http://www.aviate.jobs",
+    "companyIndustry": "Technology, Information and Internet",
+    "companyEmployeeCount": 9,
+    "companyFoundedDate": "2019",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Aeris",
+    "location": "Noida, Uttar Pradesh, India",
+    "companyWebsite": "http://www.aeris.com/",
+    "companyIndustry": "Software Development",
+    "companyEmployeeCount": 484,
+    "companyFoundedDate": "1992",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Kroll",
+    "location": "New Delhi, Delhi, India",
+    "companyWebsite": "https://www.kroll.com",
+    "companyIndustry": "Business Consulting and Services",
+    "companyEmployeeCount": 7235,
+    "companyFoundedDate": "",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Nature Portfolio",
+    "location": "Delhi, Delhi, India",
+    "companyWebsite": "https://www.nature.com/nature-portfolio",
+    "companyIndustry": "Book and Periodical Publishing",
+    "companyEmployeeCount": 973,
+    "companyFoundedDate": "",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "HCLTech",
+    "location": "Noida, Uttar Pradesh, India",
+    "companyWebsite": "http://www.hcltech.com",
+    "companyIndustry": "IT Services and IT Consulting",
+    "companyEmployeeCount": 259405,
+    "companyFoundedDate": "",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Pfizer",
+    "location": "Delhi, Delhi, India",
+    "companyWebsite": "https://www.pfizer.com/?source=Linkedin",
+    "companyIndustry": "Pharmaceutical Manufacturing",
+    "companyEmployeeCount": 108224,
+    "companyFoundedDate": "",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "RSM US LLP",
+    "location": "Gurugram, Haryana, India",
+    "companyWebsite": "https://rsmus.com/",
+    "companyIndustry": "Accounting",
+    "companyEmployeeCount": 19587,
+    "companyFoundedDate": "1926",
+    "dynamicFilterMatch": true,
+    "jobs": 4
+  },
+  {
+    "companyName": "Finova",
+    "location": "Gurugram, Haryana, India",
+    "companyWebsite": "https://www.finova.tech/",
+    "companyIndustry": "Software Development",
+    "companyEmployeeCount": 494,
+    "companyFoundedDate": "1996",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Archetype",
+    "location": "Noida, Uttar Pradesh, India",
+    "companyWebsite": "https://www.archetype.co",
+    "companyIndustry": "Marketing Services",
+    "companyEmployeeCount": 1030,
+    "companyFoundedDate": "2019",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Pehchaan The Street School - HR Internship",
+    "location": "New Delhi, Delhi, India",
+    "companyWebsite": "",
+    "companyIndustry": "Non-profit Organizations",
+    "companyEmployeeCount": 128,
+    "companyFoundedDate": "",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Stryker",
+    "location": "Gurugram, Haryana, India",
+    "companyWebsite": "http://www.stryker.com",
+    "companyIndustry": "Medical Equipment Manufacturing",
+    "companyEmployeeCount": 52127,
+    "companyFoundedDate": "",
+    "dynamicFilterMatch": true,
+    "jobs": 2
+  },
+  {
+    "companyName": "Harish Bedi & Associates",
+    "location": "Delhi, India",
+    "companyWebsite": "",
+    "companyIndustry": "Financial Services",
+    "companyEmployeeCount": 1,
+    "companyFoundedDate": "",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "AirBuddy Aerospace",
+    "location": "Noida, Uttar Pradesh, India",
+    "companyWebsite": "https://www.airbuddy.in",
+    "companyIndustry": "Aviation & Aerospace",
+    "companyEmployeeCount": 10,
+    "companyFoundedDate": "2022",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "DGTLmart Technologies Private Limited",
+    "location": "Faridabad, Haryana, India",
+    "companyWebsite": "http://www.dgtlmart.com",
+    "companyIndustry": "Technology, Information and Internet",
+    "companyEmployeeCount": 91,
+    "companyFoundedDate": "2015",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Alibaba Group",
+    "location": "Greater Delhi Area",
+    "companyWebsite": "http://www.alibabagroup.com",
+    "companyIndustry": "软件开发",
+    "companyEmployeeCount": 86332,
+    "companyFoundedDate": "",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "HRorion",
+    "location": "Greater Delhi Area",
+    "companyWebsite": "https://hrorion.com/",
+    "companyIndustry": "Human Resources Services",
+    "companyEmployeeCount": 3,
+    "companyFoundedDate": "",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "GreenTree Advisory Services Pvt Ltd",
+    "location": "Gurugram, Haryana, India",
+    "companyWebsite": "https://www.green-tree.in",
+    "companyIndustry": "Human Resources",
+    "companyEmployeeCount": 75,
+    "companyFoundedDate": "2008",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Hack2skill",
+    "location": "Noida, Uttar Pradesh, India",
+    "companyWebsite": "http://www.hack2skill.com",
+    "companyIndustry": "Technology, Information and Internet",
+    "companyEmployeeCount": 145,
+    "companyFoundedDate": "",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "C A A S & ASSOCIATES",
+    "location": "Ghaziabad, Uttar Pradesh, India",
+    "companyWebsite": "www.caasassociates.com",
+    "companyIndustry": "Professional Services",
+    "companyEmployeeCount": 4,
+    "companyFoundedDate": "2025",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "JSNGA & Co.",
+    "location": "Delhi, India",
+    "companyWebsite": "http://www.jsnga.in",
+    "companyIndustry": "Financial Services",
+    "companyEmployeeCount": 8,
+    "companyFoundedDate": "2017",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Alyssum Global Services",
+    "location": "Noida, Uttar Pradesh, India",
+    "companyWebsite": "https://alyssum.global/",
+    "companyIndustry": "IT Services and IT Consulting",
+    "companyEmployeeCount": 40,
+    "companyFoundedDate": "2018",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "McCain Foods",
+    "location": "Gurgaon, Haryana, India",
+    "companyWebsite": "https://www.mccain.com",
+    "companyIndustry": "Food and Beverage Manufacturing",
+    "companyEmployeeCount": 11912,
+    "companyFoundedDate": "1957",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "The Sachdev Group (TSG Automotive)",
+    "location": "Delhi, India",
+    "companyWebsite": "http://thesachdevgroup.com",
+    "companyIndustry": "Automotive",
+    "companyEmployeeCount": 78,
+    "companyFoundedDate": "1996",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Cushman & Wakefield",
+    "location": "Gurgaon, Haryana, India",
+    "companyWebsite": "http://www.cushmanwakefield.com",
+    "companyIndustry": "Real Estate",
+    "companyEmployeeCount": 48864,
+    "companyFoundedDate": "",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "GreenHonchos",
+    "location": "Noida, Uttar Pradesh, India",
+    "companyWebsite": "https://www.greenhonchos.com",
+    "companyIndustry": "Business Consulting and Services",
+    "companyEmployeeCount": 184,
+    "companyFoundedDate": "2012",
+    "dynamicFilterMatch": true,
+    "jobs": 2
+  },
+  {
+    "companyName": "PHOENIX CONTACT (I) Pvt. Ltd.",
+    "location": "Palwal, Haryana, India",
+    "companyWebsite": "http://www.phoenixcontact.co.in",
+    "companyIndustry": "Automation Machinery Manufacturing",
+    "companyEmployeeCount": 264,
+    "companyFoundedDate": "1993",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "SIG Group",
+    "location": "Gurugram, Haryana, India",
+    "companyWebsite": "http://www.sig.biz",
+    "companyIndustry": "Herstellung von Verpackungen und Behältnissen",
+    "companyEmployeeCount": 4756,
+    "companyFoundedDate": "1853",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Oswal Sunil & Company",
+    "location": "Delhi, India",
+    "companyWebsite": "www.oswalsunil.com",
+    "companyIndustry": "Business Consulting and Services",
+    "companyEmployeeCount": 60,
+    "companyFoundedDate": "1999",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "MatBook",
+    "location": "Gurugram, Haryana, India",
+    "companyWebsite": "https://www.thematbook.com/",
+    "companyIndustry": "Technology, Information and Internet",
+    "companyEmployeeCount": 15,
+    "companyFoundedDate": "2023",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "PEPPY",
+    "location": "Greater Delhi Area",
+    "companyWebsite": "https://www.peppyforall.com/",
+    "companyIndustry": "Retail Health and Personal Care Products",
+    "companyEmployeeCount": 42,
+    "companyFoundedDate": "2023",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Mercados Energy Markets India",
+    "location": "Gurugram, Haryana, India",
+    "companyWebsite": "https://mercadosemi.in/",
+    "companyIndustry": "Business Consulting and Services",
+    "companyEmployeeCount": 214,
+    "companyFoundedDate": "",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Aerosend",
+    "location": "Gurugram, Haryana, India",
+    "companyWebsite": "https://www.aerosend.io",
+    "companyIndustry": "Software Development",
+    "companyEmployeeCount": 8,
+    "companyFoundedDate": "",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Pellet Drum Productions",
+    "location": "New Delhi, Delhi, India",
+    "companyWebsite": "",
+    "companyIndustry": "Musicians",
+    "companyEmployeeCount": 6,
+    "companyFoundedDate": "",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "MetaMorph",
+    "location": "Gurugram, Haryana, India",
+    "companyWebsite": "https://metamorph.work/",
+    "companyIndustry": "Human Resources Services",
+    "companyEmployeeCount": 85,
+    "companyFoundedDate": "2015",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "MantraCare",
+    "location": "Delhi, India",
+    "companyWebsite": "https://mantra.care/",
+    "companyIndustry": "Mental Health Care",
+    "companyEmployeeCount": 1934,
+    "companyFoundedDate": "",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "VariableWork™",
+    "location": "Ghaziabad, Uttar Pradesh, India",
+    "companyWebsite": "www.variablework.com",
+    "companyIndustry": "Business Consulting and Services",
+    "companyEmployeeCount": 7,
+    "companyFoundedDate": "2026",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "DSV - Global Transport and Logistics",
+    "location": "Noida, Uttar Pradesh, India",
+    "companyWebsite": "https://www.dsv.com",
+    "companyIndustry": "Transport, logistik, forsyningkæde og opbevaring",
+    "companyEmployeeCount": 64291,
+    "companyFoundedDate": "1976",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "PinnacleU",
+    "location": "Gurugram, Haryana, India",
+    "companyWebsite": "http://pinnacleu.in/",
+    "companyIndustry": "Human Resources Services",
+    "companyEmployeeCount": 33,
+    "companyFoundedDate": "2020",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Cadence",
+    "location": "Noida, Uttar Pradesh, India",
+    "companyWebsite": "http://www.cadence.com",
+    "companyIndustry": "Software Development",
+    "companyEmployeeCount": 11772,
+    "companyFoundedDate": "",
+    "dynamicFilterMatch": true,
+    "jobs": 2
+  },
+  {
+    "companyName": "StarZen",
+    "location": "Gurugram, Haryana, India",
+    "companyWebsite": "https://starzen.in",
+    "companyIndustry": "Business Consulting and Services",
+    "companyEmployeeCount": 118,
+    "companyFoundedDate": "",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "NatWest Group",
+    "location": "Gurugram, Haryana, India",
+    "companyWebsite": "https://jobs.natwestgroup.com/",
+    "companyIndustry": "Banking",
+    "companyEmployeeCount": 44434,
+    "companyFoundedDate": "",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "ShipsKart",
+    "location": "Noida, Uttar Pradesh, India",
+    "companyWebsite": "http://www.shipskart.com",
+    "companyIndustry": "Maritime Transportation",
+    "companyEmployeeCount": 87,
+    "companyFoundedDate": "2017",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Syneos Health",
+    "location": "Gurgaon, Haryana, India",
+    "companyWebsite": "http://www.syneoshealth.com",
+    "companyIndustry": "Biotechnology Research",
+    "companyEmployeeCount": 23982,
+    "companyFoundedDate": "",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "SecNinjaz Technologies LLP",
+    "location": "Delhi, India",
+    "companyWebsite": "https://www.secninjaz.com",
+    "companyIndustry": "Technology, Information and Internet",
+    "companyEmployeeCount": 65,
+    "companyFoundedDate": "2016",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Alignerr",
+    "location": "Delhi, Delhi, India",
+    "companyWebsite": "",
+    "companyIndustry": "",
+    "companyEmployeeCount": null,
+    "companyFoundedDate": "",
+    "dynamicFilterMatch": true,
+    "jobs": 2
+  },
+  {
+    "companyName": "Leena AI",
+    "location": "Gurugram, Haryana, India",
+    "companyWebsite": "https://leena.ai/",
+    "companyIndustry": "Software Development",
+    "companyEmployeeCount": 312,
+    "companyFoundedDate": "2018",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Group Bayport",
+    "location": "Gurugram, Haryana, India",
+    "companyWebsite": "https://www.groupbayport.com/",
+    "companyIndustry": "Printing Services",
+    "companyEmployeeCount": 1168,
+    "companyFoundedDate": "2007",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Phronesis Company",
+    "location": "Gurgaon, Haryana, India",
+    "companyWebsite": "https://www.the-phronesis.com",
+    "companyIndustry": "خدمات الإعلانات",
+    "companyEmployeeCount": 9,
+    "companyFoundedDate": "2023",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "DigiLantern",
+    "location": "Noida, Uttar Pradesh, India",
+    "companyWebsite": "http://www.digilantern.com/",
+    "companyIndustry": "IT Services and IT Consulting",
+    "companyEmployeeCount": 111,
+    "companyFoundedDate": "2014",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Sanjay Saraf Educational Institute Pvt Ltd (SSEI)",
+    "location": "Delhi, India",
+    "companyWebsite": "http://www.ssei.co.in/",
+    "companyIndustry": "Education",
+    "companyEmployeeCount": 135,
+    "companyFoundedDate": "",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "EXL",
+    "location": "Noida, Uttar Pradesh, India",
+    "companyWebsite": "http://www.exlservice.com",
+    "companyIndustry": "Business Consulting and Services",
+    "companyEmployeeCount": 60883,
+    "companyFoundedDate": "",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Baker Tilly US",
+    "location": "Gurugram, Haryana, India",
+    "companyWebsite": "http://www.bakertilly.com",
+    "companyIndustry": "Accounting",
+    "companyEmployeeCount": 10531,
+    "companyFoundedDate": "",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Kuehne+Nagel",
+    "location": "Gurgaon, Haryana, India",
+    "companyWebsite": "http://www.kuehne-nagel.com",
+    "companyIndustry": "Transport, Logistik, Lieferkette und Lagerhaltung",
+    "companyEmployeeCount": 53151,
+    "companyFoundedDate": "1890",
+    "dynamicFilterMatch": true,
+    "jobs": 2
+  },
+  {
+    "companyName": "Axalta",
+    "location": "Gurugram, Haryana, India",
+    "companyWebsite": "http://www.axalta.com",
+    "companyIndustry": "Chemical Manufacturing",
+    "companyEmployeeCount": 7820,
+    "companyFoundedDate": "2013",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "VaynerX",
+    "location": "Gurugram, Haryana, India",
+    "companyWebsite": "http://vaynerx.com",
+    "companyIndustry": "Advertising Services",
+    "companyEmployeeCount": 213,
+    "companyFoundedDate": "",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "R Systems",
+    "location": "Noida, Uttar Pradesh, India",
+    "companyWebsite": "https://www.rsystems.com/",
+    "companyIndustry": "IT Services and IT Consulting",
+    "companyEmployeeCount": 6780,
+    "companyFoundedDate": "1993",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "CLOUDSUFI",
+    "location": "Gautam Buddha Nagar, Uttar Pradesh, India",
+    "companyWebsite": "https://www.cloudsufi.com/",
+    "companyIndustry": "Software Development",
+    "companyEmployeeCount": 191,
+    "companyFoundedDate": "2019",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "MG",
+    "location": "Delhi, India",
+    "companyWebsite": "https://mindtelglobal.com/",
+    "companyIndustry": "Education",
+    "companyEmployeeCount": 68,
+    "companyFoundedDate": "",
+    "dynamicFilterMatch": true,
+    "jobs": 2
+  },
+  {
+    "companyName": "Oncare",
+    "location": "Delhi, India",
+    "companyWebsite": "https://www.oncarecancer.com/",
+    "companyIndustry": "Hospitals and Health Care",
+    "companyEmployeeCount": 100,
+    "companyFoundedDate": "2023",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Programmers.io",
+    "location": "Delhi, India",
+    "companyWebsite": "https://programmers.io/",
+    "companyIndustry": "IT Services and IT Consulting",
+    "companyEmployeeCount": 1287,
+    "companyFoundedDate": "2012",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "BUMBOO",
+    "location": "New Delhi, Delhi, India",
+    "companyWebsite": "http://www.getbumboo.com",
+    "companyIndustry": "Packaging and Containers Manufacturing",
+    "companyEmployeeCount": 18,
+    "companyFoundedDate": "2019",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "PTC",
+    "location": "Gurugram, Haryana, India",
+    "companyWebsite": "http://ptc.co/VLED30oHtEh",
+    "companyIndustry": "Software Development",
+    "companyEmployeeCount": 8230,
+    "companyFoundedDate": "",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "OneSpan",
+    "location": "Noida, Uttar Pradesh, India",
+    "companyWebsite": "https://www.onespan.com",
+    "companyIndustry": "Software Development",
+    "companyEmployeeCount": 672,
+    "companyFoundedDate": "",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "EliteRecruitments",
+    "location": "Gurugram, Haryana, India",
+    "companyWebsite": "https://eliterecruitments.com/",
+    "companyIndustry": "Human Resources Services",
+    "companyEmployeeCount": 51,
+    "companyFoundedDate": "2014",
+    "dynamicFilterMatch": true,
+    "jobs": 2
+  },
+  {
+    "companyName": "Flix",
+    "location": "Gurugram, Haryana, India",
+    "companyWebsite": "https://global.flixbus.com/privacy-policy-social-media-1?vt=85",
+    "companyIndustry": "Softwareentwicklung",
+    "companyEmployeeCount": 2637,
+    "companyFoundedDate": "2011",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Atain",
+    "location": "Gurugram, Haryana, India",
+    "companyWebsite": "www.atain.com",
+    "companyIndustry": "IT Services and IT Consulting",
+    "companyEmployeeCount": 1934,
+    "companyFoundedDate": "1998",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Cosmofeed",
+    "location": "Gurugram, Haryana, India",
+    "companyWebsite": "https://www.cosmofeed.com/",
+    "companyIndustry": "Technology, Information and Internet",
+    "companyEmployeeCount": 153,
+    "companyFoundedDate": "2021",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Saroj Education Group",
+    "location": "Delhi, India",
+    "companyWebsite": "http://www.seglko.org",
+    "companyIndustry": "Higher Education",
+    "companyEmployeeCount": 34,
+    "companyFoundedDate": "1997",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "SITA",
+    "location": "Delhi, India",
+    "companyWebsite": "http://www.sita.aero",
+    "companyIndustry": "IT-Dienstleistungen und IT-Beratung",
+    "companyEmployeeCount": 9029,
+    "companyFoundedDate": "",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Siemens",
+    "location": "Gurugram, Haryana, India",
+    "companyWebsite": "http://www.siemens.com",
+    "companyIndustry": "Herstellung von Automatisierungsanlagen",
+    "companyEmployeeCount": 278175,
+    "companyFoundedDate": "",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Growth Valley Community",
+    "location": "Gurugram, Haryana, India",
+    "companyWebsite": "https://growthvalleycommunity.com",
+    "companyIndustry": "Education",
+    "companyEmployeeCount": 30,
+    "companyFoundedDate": "",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Amber Enterprises India Limited",
+    "location": "Gurugram, Haryana, India",
+    "companyWebsite": "https://ambergroupindia.com",
+    "companyIndustry": "Manufacturing",
+    "companyEmployeeCount": 1742,
+    "companyFoundedDate": "1990",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "SoftwareOne",
+    "location": "Gurgaon, Haryana, India",
+    "companyWebsite": "https://www.softwareone.com",
+    "companyIndustry": "IT-Dienstleistungen und IT-Beratung",
+    "companyEmployeeCount": 12290,
+    "companyFoundedDate": "",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Aires",
+    "location": "Delhi, India",
+    "companyWebsite": "",
+    "companyIndustry": "Retail",
+    "companyEmployeeCount": 4,
+    "companyFoundedDate": "2025",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "People, Jobs, and News",
+    "location": "Delhi, India",
+    "companyWebsite": "https://headsupcorporation.com/",
+    "companyIndustry": "IT Services and IT Consulting",
+    "companyEmployeeCount": 3,
+    "companyFoundedDate": "",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Wood",
+    "location": "Gurugram, Haryana, India",
+    "companyWebsite": "http://www.woodgroup.com",
+    "companyIndustry": "Professional Services",
+    "companyEmployeeCount": 34552,
+    "companyFoundedDate": "1912",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Virohan",
+    "location": "Gurugram, Haryana, India",
+    "companyWebsite": "",
+    "companyIndustry": "",
+    "companyEmployeeCount": null,
+    "companyFoundedDate": "",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Amity University, Noida",
+    "location": "Noida, Uttar Pradesh, India",
+    "companyWebsite": "",
+    "companyIndustry": "",
+    "companyEmployeeCount": null,
+    "companyFoundedDate": "",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "TEALIM DENTAL SCIENCE PVT. LTD.",
+    "location": "Gautam Buddha Nagar, Uttar Pradesh, India",
+    "companyWebsite": "TEALIM.COM",
+    "companyIndustry": "Medical Equipment Manufacturing",
+    "companyEmployeeCount": 2,
+    "companyFoundedDate": "",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Occams Advisory",
+    "location": "Delhi, India",
+    "companyWebsite": "http://www.occamsadvisory.com",
+    "companyIndustry": "Business Consulting and Services",
+    "companyEmployeeCount": 106,
+    "companyFoundedDate": "2012",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Corenza",
+    "location": "Delhi, India",
+    "companyWebsite": "https://www.corenza.co/",
+    "companyIndustry": "Staffing and Recruiting",
+    "companyEmployeeCount": 66,
+    "companyFoundedDate": "2019",
+    "dynamicFilterMatch": false,
+    "jobs": 1
+  },
+  {
+    "companyName": "NSN STUDIO DIVINE",
+    "location": "Gurugram, Haryana, India",
+    "companyWebsite": "https://nsnstudiodivine.com/",
+    "companyIndustry": "Interior Design",
+    "companyEmployeeCount": 12,
+    "companyFoundedDate": "2001",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Troovy",
+    "location": "Gurugram, Haryana, India",
+    "companyWebsite": "troovyfoods.com",
+    "companyIndustry": "تولید مواد غذایی و آشامیدنی",
+    "companyEmployeeCount": 58,
+    "companyFoundedDate": "2021",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "LENS Corporation",
+    "location": "Gurugram, Haryana, India",
+    "companyWebsite": "https://www.lenscorp.ai",
+    "companyIndustry": "Research Services",
+    "companyEmployeeCount": 75,
+    "companyFoundedDate": "2016",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Jupitice Justice Technologies",
+    "location": "Gurugram, Haryana, India",
+    "companyWebsite": "https://jupitice.com/?utm_source=linkedin&utm_medium=bio&utm_campaign=page_visit",
+    "companyIndustry": "Information Technology & Services",
+    "companyEmployeeCount": 202,
+    "companyFoundedDate": "",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "UNI",
+    "location": "Delhi, India",
+    "companyWebsite": "https://uni.xyz/",
+    "companyIndustry": "Architecture and Planning",
+    "companyEmployeeCount": 214,
+    "companyFoundedDate": "2018",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Washdro",
+    "location": "Delhi, India",
+    "companyWebsite": "",
+    "companyIndustry": "Laundry and Drycleaning Services",
+    "companyEmployeeCount": 2,
+    "companyFoundedDate": "2026",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "IncorpX",
+    "location": "Gurugram, Haryana, India",
+    "companyWebsite": "https://www.incorpx.io/",
+    "companyIndustry": "Business Consulting and Services",
+    "companyEmployeeCount": 16,
+    "companyFoundedDate": "",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "TalesByDora",
+    "location": "Ghaziabad, Uttar Pradesh, India",
+    "companyWebsite": "talesbydora.com",
+    "companyIndustry": "Hospitality",
+    "companyEmployeeCount": 8,
+    "companyFoundedDate": "2019",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Zafify",
+    "location": "Gurugram, Haryana, India",
+    "companyWebsite": "https://www.zafify.com/",
+    "companyIndustry": "Human Resources Services",
+    "companyEmployeeCount": 38,
+    "companyFoundedDate": "2025",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Schneider Electric",
+    "location": "Delhi, India",
+    "companyWebsite": "https://www.se.com/",
+    "companyIndustry": "Fabrication de machines d’automatisation",
+    "companyEmployeeCount": 88681,
+    "companyFoundedDate": "",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Lee Group (Lee Brothers Fencing)",
+    "location": "Hauz Khas, Delhi, India",
+    "companyWebsite": "http://www.leebrosfencing.com.au",
+    "companyIndustry": "Construction",
+    "companyEmployeeCount": 46,
+    "companyFoundedDate": "1948",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "AKGVG & Associates",
+    "location": "Gurugram, Haryana, India",
+    "companyWebsite": "https://www.akgvg.com",
+    "companyIndustry": "Accounting",
+    "companyEmployeeCount": 362,
+    "companyFoundedDate": "2000",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Ciena",
+    "location": "Gurugram, Haryana, India",
+    "companyWebsite": "http://www.ciena.com",
+    "companyIndustry": "Telecommunications",
+    "companyEmployeeCount": 10650,
+    "companyFoundedDate": "1992",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Digiad Multimedia",
+    "location": "New Delhi, Delhi, India",
+    "companyWebsite": "http://www.digiadmultimedia.com/",
+    "companyIndustry": "Software Development",
+    "companyEmployeeCount": 9,
+    "companyFoundedDate": "2013",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Lehenga Lovestory",
+    "location": "Noida, Uttar Pradesh, India",
+    "companyWebsite": "",
+    "companyIndustry": "Retail Apparel and Fashion",
+    "companyEmployeeCount": 5,
+    "companyFoundedDate": "2025",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Hitachi Energy",
+    "location": "Gurgaon, Haryana, India",
+    "companyWebsite": "http://www.hitachienergy.com",
+    "companyIndustry": "Versorgungsdienstleistungen",
+    "companyEmployeeCount": 38026,
+    "companyFoundedDate": "",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Blue Tick Brand",
+    "location": "New Delhi, Delhi, India",
+    "companyWebsite": "www.bluetickbrand.com",
+    "companyIndustry": "Marketing Services",
+    "companyEmployeeCount": null,
+    "companyFoundedDate": "2022",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "SmartQ",
+    "location": "Delhi, India",
+    "companyWebsite": "http://www.thesmartq.com/",
+    "companyIndustry": "Hospitality",
+    "companyEmployeeCount": 921,
+    "companyFoundedDate": "2015",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Sage",
+    "location": "Gurugram, Haryana, India",
+    "companyWebsite": "https://www.sagepub.com/",
+    "companyIndustry": "Book and Periodical Publishing",
+    "companyEmployeeCount": 3348,
+    "companyFoundedDate": "1965",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "RLG Systems India Private Limited",
+    "location": "Noida, Uttar Pradesh, India",
+    "companyWebsite": "https://www.rev-log.com/in",
+    "companyIndustry": "Environmental Services",
+    "companyEmployeeCount": 83,
+    "companyFoundedDate": "2017",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "ONE STOP MERCHANDISING PVT LTD",
+    "location": "New Delhi, Delhi, India",
+    "companyWebsite": "https://www.1stopmerchandisingsolutions.com/",
+    "companyIndustry": "Advertising Services",
+    "companyEmployeeCount": 4,
+    "companyFoundedDate": "2022",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "True Organics",
+    "location": "Gurugram, Haryana, India",
+    "companyWebsite": "https://www.mytrueorganics.com",
+    "companyIndustry": "Food and Beverage Manufacturing",
+    "companyEmployeeCount": 5,
+    "companyFoundedDate": "2024",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Mane Consulting",
+    "location": "Gurgaon, Haryana, India",
+    "companyWebsite": "https://www.mane.com.au",
+    "companyIndustry": "IT Services and IT Consulting",
+    "companyEmployeeCount": 9,
+    "companyFoundedDate": "2016",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Nutrabay",
+    "location": "Gurugram, Haryana, India",
+    "companyWebsite": "https://nutrabay.com",
+    "companyIndustry": "Wellness and Fitness Services",
+    "companyEmployeeCount": 221,
+    "companyFoundedDate": "2016",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Bytesview Analytics",
+    "location": "Noida, Uttar Pradesh, India",
+    "companyWebsite": "https://www.bytesview.com",
+    "companyIndustry": "Software Development",
+    "companyEmployeeCount": 31,
+    "companyFoundedDate": "2019",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "RediMinds, Inc",
+    "location": "Gurugram, Haryana, India",
+    "companyWebsite": "rediminds.com",
+    "companyIndustry": "Information Services",
+    "companyEmployeeCount": 74,
+    "companyFoundedDate": "2016",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "UNISON INTERNATIONAL CONSULTING (The Recruitment Company)",
+    "location": "Gurugram, Haryana, India",
+    "companyWebsite": "https://unisoninternational.net/",
+    "companyIndustry": "Staffing and Recruiting",
+    "companyEmployeeCount": 248,
+    "companyFoundedDate": "",
+    "dynamicFilterMatch": false,
+    "jobs": 1
+  },
+  {
+    "companyName": "OYELA",
+    "location": "Gurugram, Haryana, India",
+    "companyWebsite": "https://www.oyela.in/",
+    "companyIndustry": "Retail Apparel and Fashion",
+    "companyEmployeeCount": 45,
+    "companyFoundedDate": "2021",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Asahi India Glass Limited (AIS)",
+    "location": "Bawal, Haryana, India",
+    "companyWebsite": "http://www.aisglass.com/",
+    "companyIndustry": "Glass, Ceramics and Concrete Manufacturing",
+    "companyEmployeeCount": 3884,
+    "companyFoundedDate": "1984",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Otis Elevator Co.",
+    "location": "New Delhi, Delhi, India",
+    "companyWebsite": "http://www.otis.com",
+    "companyIndustry": "Consumer Services",
+    "companyEmployeeCount": 31129,
+    "companyFoundedDate": "1853",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Shop&Yours",
+    "location": "Gurugram, Haryana, India",
+    "companyWebsite": "www.shopandyours.com",
+    "companyIndustry": "Retail Apparel and Fashion",
+    "companyEmployeeCount": 2,
+    "companyFoundedDate": "",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Zepcruit",
+    "location": "Noida, Uttar Pradesh, India",
+    "companyWebsite": "https://www.zepcruit.ai",
+    "companyIndustry": "Technology, Information and Internet",
+    "companyEmployeeCount": 8,
+    "companyFoundedDate": "2024",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Kaufman Rossin",
+    "location": "Gurugram, Haryana, India",
+    "companyWebsite": "http://www.kaufmanrossin.com",
+    "companyIndustry": "Accounting",
+    "companyEmployeeCount": 804,
+    "companyFoundedDate": "1962",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Fujitsu",
+    "location": "Noida, Uttar Pradesh, India",
+    "companyWebsite": "https://global.fujitsu/",
+    "companyIndustry": "ITサービス・ITコンサルティング",
+    "companyEmployeeCount": 59490,
+    "companyFoundedDate": "",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "The Economist",
+    "location": "Gurugram, Haryana, India",
+    "companyWebsite": "http://www.economist.com",
+    "companyIndustry": "Newspaper Publishing",
+    "companyEmployeeCount": 6893,
+    "companyFoundedDate": "1843",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Renrui HR Services India Private Limited",
+    "location": "Gurugram, Haryana, India",
+    "companyWebsite": "https://rhrint.in/",
+    "companyIndustry": "Human Resources",
+    "companyEmployeeCount": 31,
+    "companyFoundedDate": "2020",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Revolut",
+    "location": "Gurgaon, Haryana, India",
+    "companyWebsite": "https://www.revolut.com",
+    "companyIndustry": "Financial Services",
+    "companyEmployeeCount": 20356,
+    "companyFoundedDate": "2015",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Wealth Redefine",
+    "location": "Noida, Uttar Pradesh, India",
+    "companyWebsite": "http://www.wealthredefine.in",
+    "companyIndustry": "Financial Services",
+    "companyEmployeeCount": 24,
+    "companyFoundedDate": "2013",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Sparrow Interactive Pvt. Ltd.",
+    "location": "Noida, Uttar Pradesh, India",
+    "companyWebsite": "http://www.sparrowi.com",
+    "companyIndustry": "Design Services",
+    "companyEmployeeCount": 178,
+    "companyFoundedDate": "1996",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "ONESTA Engineering Services Private Limited",
+    "location": "Greater Delhi Area",
+    "companyWebsite": "https://www.onesta.co.in/",
+    "companyIndustry": "IT Services and IT Consulting",
+    "companyEmployeeCount": 5,
+    "companyFoundedDate": "2017",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "NVIDIA",
+    "location": "New Delhi, Delhi, India",
+    "companyWebsite": "http://www.nvidia.com",
+    "companyIndustry": "Computer Hardware Manufacturing",
+    "companyEmployeeCount": 52022,
+    "companyFoundedDate": "1993",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Cubastion Consulting",
+    "location": "Gurgaon, Haryana, India",
+    "companyWebsite": "https://www.cubastion.com/",
+    "companyIndustry": "IT Services and IT Consulting",
+    "companyEmployeeCount": 466,
+    "companyFoundedDate": "2006",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "RHI Magnesita",
+    "location": "Tijara, Rajasthan, India",
+    "companyWebsite": "http://www.rhimagnesita.com",
+    "companyIndustry": "Fertigung",
+    "companyEmployeeCount": 9842,
+    "companyFoundedDate": "",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "CODINGGEMS",
+    "location": "Noida, Uttar Pradesh, India",
+    "companyWebsite": "codinggems.in",
+    "companyIndustry": "Education",
+    "companyEmployeeCount": 2,
+    "companyFoundedDate": "2020",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Ativir Financial Consultants Private Limited",
+    "location": "Delhi, India",
+    "companyWebsite": "ativiradvisory.com",
+    "companyIndustry": "Financial Services",
+    "companyEmployeeCount": 32,
+    "companyFoundedDate": "",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "Knowlettwoods® LLP",
+    "location": "Noida, Uttar Pradesh, India",
+    "companyWebsite": "https://www.knowledgewoods.com",
+    "companyIndustry": "Professional Training and Coaching",
+    "companyEmployeeCount": 43,
+    "companyFoundedDate": "2007",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "PRATHAM Test Prep",
+    "location": "New Delhi, Delhi, India",
+    "companyWebsite": "http://www.PrathamOnline.com",
+    "companyIndustry": "Education Administration Programs",
+    "companyEmployeeCount": 211,
+    "companyFoundedDate": "2008",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "S & S BROKERAGE INC",
+    "location": "Gurugram, Haryana, India",
+    "companyWebsite": "https://www.sandsbrokerageinc.com/",
+    "companyIndustry": "Transportation, Logistics, Supply Chain and Storage",
+    "companyEmployeeCount": 358,
+    "companyFoundedDate": "2011",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  },
+  {
+    "companyName": "H&M",
+    "location": "Gurgaon, Haryana, India",
+    "companyWebsite": "https://career.hm.com/",
+    "companyIndustry": "Detaljhandel",
+    "companyEmployeeCount": 87894,
+    "companyFoundedDate": "1947",
+    "dynamicFilterMatch": true,
+    "jobs": 1
+  }
+]

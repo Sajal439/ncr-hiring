@@ -1,17 +1,17 @@
 {
-  "the-knot-worldwide": [
-    {
-      "title": "Account Executive, Core",
-      "url": "https://job-boards.greenhouse.io/theknotworldwide/jobs/5406517008",
-      "location": "Gurugram, Haryana, India",
-      "source": "careers"
-    }
-  ],
   "xebia-india": [
     {
       "title": "Senior Backend Lead",
       "url": "https://job-boards.greenhouse.io/xebiaapac/jobs/5591727004",
       "location": "Bangalore; Gurgaon",
+      "source": "careers"
+    }
+  ],
+  "the-knot-worldwide": [
+    {
+      "title": "Account Executive, Core",
+      "url": "https://job-boards.greenhouse.io/theknotworldwide/jobs/5406517008",
+      "location": "Gurugram, Haryana, India",
       "source": "careers"
     }
   ],
@@ -70,6 +70,20 @@
       "title": "Finance Project Coordinator",
       "url": "https://careers.smartrecruiters.com/Ergomed/744000147199784",
       "location": "Noida, in",
+      "source": "careers"
+    }
+  ],
+  "athena-education": [
+    {
+      "title": "Associate/ Associate Manager - Writing",
+      "url": "https://jobs.lever.co/athena-education/8f9cb4b5-155f-4eae-8f77-ef801a4110da",
+      "location": "Gurugram",
+      "source": "careers"
+    },
+    {
+      "title": "Technical Director- Writing",
+      "url": "https://jobs.lever.co/athena-education/4b1432e7-7ed4-4502-9441-506861d6ebe9",
+      "location": "Gurugram",
       "source": "careers"
     }
   ],
@@ -141,46 +155,6 @@
       "source": "careers"
     }
   ],
-  "athena-education": [
-    {
-      "title": "Associate/ Associate Manager - Writing",
-      "url": "https://jobs.lever.co/athena-education/8f9cb4b5-155f-4eae-8f77-ef801a4110da",
-      "location": "Gurugram",
-      "source": "careers"
-    },
-    {
-      "title": "Technical Director- Writing",
-      "url": "https://jobs.lever.co/athena-education/4b1432e7-7ed4-4502-9441-506861d6ebe9",
-      "location": "Gurugram",
-      "source": "careers"
-    }
-  ],
-  "ontic": [
-    {
-      "title": "Staff Engineer - UI",
-      "url": "https://jobs.ashbyhq.com/Ontic/e3c570d0-688d-4385-99fd-9f5fb6643e61",
-      "location": "Noida, India",
-      "source": "careers"
-    },
-    {
-      "title": "Software Engineer",
-      "url": "https://jobs.ashbyhq.com/Ontic/0426253f-e03c-4d57-be4c-ea02fdab7097",
-      "location": "Noida / Pune",
-      "source": "careers"
-    },
-    {
-      "title": "Senior Software Engineer - UI",
-      "url": "https://jobs.ashbyhq.com/Ontic/800142fe-93e2-42fd-9af4-0084ea813a41",
-      "location": "Noida, India",
-      "source": "careers"
-    },
-    {
-      "title": "Manager, Product Design",
-      "url": "https://jobs.ashbyhq.com/Ontic/d47d7285-75bd-43cb-87e4-f06070249283",
-      "location": "Noida, India",
-      "source": "careers"
-    }
-  ],
   "map": [
     {
       "title": "AEM - UI EDS - Consultant",
@@ -218,6 +192,40 @@
       "title": "Sales Manager – Media Sales & Advertising Sales( 4-8 yrs)",
       "url": "https://careers.smartrecruiters.com/Wizikey/744000147203109",
       "location": "Gurugram, in",
+      "source": "careers"
+    }
+  ],
+  "ontic": [
+    {
+      "title": "Staff Engineer - UI",
+      "url": "https://jobs.ashbyhq.com/Ontic/e3c570d0-688d-4385-99fd-9f5fb6643e61",
+      "location": "Noida, India",
+      "source": "careers"
+    },
+    {
+      "title": "Software Engineer",
+      "url": "https://jobs.ashbyhq.com/Ontic/0426253f-e03c-4d57-be4c-ea02fdab7097",
+      "location": "Noida / Pune",
+      "source": "careers"
+    },
+    {
+      "title": "Senior Software Engineer - UI",
+      "url": "https://jobs.ashbyhq.com/Ontic/800142fe-93e2-42fd-9af4-0084ea813a41",
+      "location": "Noida, India",
+      "source": "careers"
+    },
+    {
+      "title": "Manager, Product Design",
+      "url": "https://jobs.ashbyhq.com/Ontic/d47d7285-75bd-43cb-87e4-f06070249283",
+      "location": "Noida, India",
+      "source": "careers"
+    }
+  ],
+  "alimentiv": [
+    {
+      "title": "Clinical Operations Lead (Clinical Trial Manager) (India)",
+      "url": "https://jobs.lever.co/alimentiv-2/45f2764e-337f-4145-b09f-35c47f31518a",
+      "location": "Delhi",
       "source": "careers"
     }
   ],
@@ -345,11 +353,11 @@
       "source": "careers"
     }
   ],
-  "alimentiv": [
+  "smart-working": [
     {
-      "title": "Clinical Operations Lead (Clinical Trial Manager) (India)",
-      "url": "https://jobs.lever.co/alimentiv-2/45f2764e-337f-4145-b09f-35c47f31518a",
-      "location": "Delhi",
+      "title": "Lead PHP/Symfony Engineer (Remote, Full-Time) - [HR191]",
+      "url": "https://jobs.lever.co/smart-working-solutions/eb63f1a9-443b-48a4-88ec-99c8516a8c06",
+      "location": "Noida",
       "source": "careers"
     }
   ],
@@ -364,14 +372,6 @@
       "title": "Survey Programming Consultant",
       "url": "https://careers.smartrecruiters.com/Cint/744000148325771",
       "location": "Gurugram, in",
-      "source": "careers"
-    }
-  ],
-  "smart-working": [
-    {
-      "title": "Lead PHP/Symfony Engineer (Remote, Full-Time) - [HR191]",
-      "url": "https://jobs.lever.co/smart-working-solutions/eb63f1a9-443b-48a4-88ec-99c8516a8c06",
-      "location": "Noida",
       "source": "careers"
     }
   ],
@@ -408,6 +408,12 @@
     }
   ],
   "shield-ai": [
+    {
+      "title": "Autonomy Specialist, India (R6015)",
+      "url": "https://jobs.lever.co/shieldai/3964b72e-ae5a-4a9f-a197-1ef07854644d",
+      "location": "New Delhi",
+      "source": "careers"
+    },
     {
       "title": "Chief of Staff, AI Hive (R5599)",
       "url": "https://jobs.lever.co/shieldai/a0e81787-f1f0-4bd0-be97-49039b3bed07",

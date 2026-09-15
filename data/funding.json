@@ -743,14 +743,62 @@
     "source": "Inc42",
     "history": []
   },
-  "razorpay": {
+  "troovy": {
+    "amount": "₹200 Cr",
+    "title": "Exclusive Snack Brand Troovy to Raise up to rs 200 cr Led by Adia",
+    "url": "https://entrackr.com/exclusive/exclusive-snack-brand-troovy-to-raise-up-to-rs-200-cr-led-by-adia-12042730",
+    "date": "2026-06-16",
+    "source": "Entrackr",
+    "history": [
+      {
+        "round": "Series A",
+        "title": "Snack Brand Troovy Raises 5 mn in Series a Led by Fireside And Sharrp Ventures",
+        "url": "https://entrackr.com/snippets/snack-brand-troovy-raises-5-mn-in-series-a-led-by-fireside-and-sharrp-ventures-11015748",
+        "date": "2026-01-20",
+        "source": "Entrackr"
+      },
+      {
+        "amount": "₹20 Cr",
+        "title": "D2C Brand Troovy Raises INR 20 Cr To Bolster Its Quick Commerce Play",
+        "url": "https://inc42.com/buzz/d2c-brand-troovy-raises-inr-20-cr-to-bolster-its-quick-commerce-play/",
+        "date": "2025-05-07",
+        "source": "Inc42"
+      },
+      {
+        "amount": "₹20 Cr",
+        "round": "Pre Series A",
+        "title": "Troovy Raises rs 20 cr in Pre Series a Round Led by Fireside Ventures",
+        "url": "https://entrackr.com/snippets/troovy-raises-rs-20-cr-in-pre-series-a-round-led-by-fireside-ventures-9039471",
+        "date": "2025-05-06",
+        "source": "Entrackr"
+      }
+    ]
+  },
+  "confidential": {
     "amount": "$600 Mn",
     "round": "IPO",
     "title": "Razorpay Files Confidential IPO Papers To Raise $600 Mn",
     "url": "https://inc42.com/buzz/razorpay-files-confidential-ipo-papers-to-raise-600-mn/",
     "date": "2026-06-15",
     "source": "Inc42",
-    "history": []
+    "history": [
+      {
+        "amount": "₹600800 Cr",
+        "round": "IPO",
+        "title": "Rediff Files Confidential Ipo Papers Targets rs 600800 cr Fundraise",
+        "url": "https://entrackr.com/news/rediff-files-confidential-ipo-papers-targets-rs-600800-cr-fundraise-11442381",
+        "date": "2026-04-01",
+        "source": "Entrackr"
+      },
+      {
+        "amount": "₹11000 Cr",
+        "round": "IPO",
+        "title": "Zepto Board Approves rs 11000 cr Raise Ahead of Confidential Ipo Filing",
+        "url": "https://entrackr.com/news/zepto-board-approves-rs-11000-cr-raise-ahead-of-confidential-ipo-filing-10947108",
+        "date": "2025-12-25",
+        "source": "Entrackr"
+      }
+    ]
   },
   "exponent-energy": {
     "round": "Series B",
@@ -1875,6 +1923,30 @@
       }
     ]
   },
+  "houseeazy": {
+    "amount": "₹150 Cr",
+    "round": "Series B",
+    "title": "Houseeazy Raises rs 150 cr in Series b Round Led by Accel",
+    "url": "https://entrackr.com/news/houseeazy-raises-rs-150-cr-in-series-b-round-led-by-accel-10560758",
+    "date": "2025-10-14",
+    "source": "Entrackr",
+    "history": [
+      {
+        "round": "Series A",
+        "title": "Exclusive Proptech Startup Houseeazy Raises 4 mn in Series a",
+        "url": "https://entrackr.com/2024/08/exclusive-proptech-startup-houseeazy-raises-4-mn-in-series-a/",
+        "date": "2024-08-26",
+        "source": "Entrackr"
+      },
+      {
+        "round": "Seed",
+        "title": "Houseeazy Raises 1 mn in a Seed Round",
+        "url": "https://entrackr.com/2023/12/houseeazy-raises-1-mn-in-a-seed-round/",
+        "date": "2023-12-19",
+        "source": "Entrackr"
+      }
+    ]
+  },
   "curefoods": {
     "amount": "₹160 Cr",
     "round": "IPO",
@@ -2058,6 +2130,57 @@
         "url": "https://entrackr.com/2024/07/payu-backed-vayana-network-raises-20-mn-in-series-d/",
         "date": "2024-07-30",
         "source": "Entrackr"
+      }
+    ]
+  },
+  "boost": {
+    "amount": "$7.2 Mn",
+    "title": "Reveal Healthtech Raises $7.2 Mn To Boost AI-Led Clinical Solutions",
+    "url": "https://inc42.com/buzz/reveal-healthtech-raises-7-2-mn-to-boost-ai-led-clinical-solutions/",
+    "date": "2025-09-04",
+    "source": "Inc42",
+    "history": [
+      {
+        "amount": "$4.8 Mn",
+        "title": "Zango Bags $4.8 Mn To Boost AI-Native Compliance Tools",
+        "url": "https://inc42.com/buzz/zango-bags-4-8-mn-to-boost-ai-native-compliance-tools/",
+        "date": "2025-07-01",
+        "source": "Inc42"
+      },
+      {
+        "amount": "$2 Mn",
+        "title": "Zenergize Bags $2 Mn To Boost Production Of &#8216;Made in India' EV Fast Chargers",
+        "url": "https://inc42.com/buzz/zenergize-bags-2-mn-to-boost-production-of-made-in-india-ev-fast-chargers/",
+        "date": "2025-05-15",
+        "source": "Inc42"
+      },
+      {
+        "amount": "$100 Mn",
+        "title": "Zepto Gets Domestic Shareholding Boost In $100 Mn Round",
+        "url": "https://inc42.com/buzz/zepto-gets-domestic-shareholding-boost-in-100-mn-round/",
+        "date": "2025-05-12",
+        "source": "Inc42"
+      },
+      {
+        "amount": "$10 Mn",
+        "title": "M1xchange Raises $10 Mn To Boost Supply Chain Financing For MSMEs",
+        "url": "https://inc42.com/buzz/m1xchange-raises-10-mn-to-boost-supply-chain-financing-for-msmes/",
+        "date": "2025-05-12",
+        "source": "Inc42"
+      },
+      {
+        "amount": "₹85 Cr",
+        "title": "Insurance Samadhan Secures rs 85 cr to Boost Tech Infrastructure",
+        "url": "https://entrackr.com/snippets/insurance-samadhan-secures-rs-85-cr-to-boost-tech-infrastructure-9040178",
+        "date": "2025-05-06",
+        "source": "Entrackr"
+      },
+      {
+        "amount": "$2.5 Mn",
+        "title": "Fuel Aggregator Startup Nawgati Bags $2.5 Mn To Boost Fleet Management Offerings",
+        "url": "https://inc42.com/buzz/fuel-aggregator-startup-nawgati-bags-2-5-mn-to-boost-fleet-management-offerings/",
+        "date": "2025-05-06",
+        "source": "Inc42"
       }
     ]
   },
@@ -2436,6 +2559,14 @@
       }
     ]
   },
+  "matbook": {
+    "round": "Pre Seed",
+    "title": "Matbook Raises 750k in Pre Seed Round",
+    "url": "https://entrackr.com/snippets/matbook-raises-750k-in-pre-seed-round-8984090",
+    "date": "2025-04-21",
+    "source": "Entrackr",
+    "history": []
+  },
   "tonbo-imaging": {
     "round": "IPO",
     "title": "Tonbo Imaging Raises 21 mn in Pre Ipo Round",
@@ -2668,6 +2799,14 @@
       }
     ]
   },
+  "bumboo": {
+    "round": "Angel",
+    "title": "Waste Management Startup Bumboo Raises Angel Funding",
+    "url": "https://entrackr.com/snippets/waste-management-startup-bumboo-raises-angel-funding-7756269",
+    "date": "2024-12-03",
+    "source": "Entrackr",
+    "history": []
+  },
   "neysa": {
     "round": "Series A",
     "title": "Generative ai Startup Neysa Raises 30 mn in Series a",
@@ -2760,6 +2899,14 @@
     "title": "Whatfix Inches Closer To Unicorn Status With $125 Mn Funding From Warburg Pincus, Others",
     "url": "https://inc42.com/buzz/whatfix-inches-closer-to-unicorn-status-with-125-mn-funding-from-warburg-pincus-others/",
     "date": "2024-09-25",
+    "source": "Inc42",
+    "history": []
+  },
+  "finova": {
+    "amount": "₹800 Cr",
+    "title": "Finova Capital Seeks To Raise INR 800 Cr In A Mix Of Primary &#038; Secondary Deal",
+    "url": "https://inc42.com/buzz/finova-capital-seeks-to-raise-inr-800-cr-in-a-mix-of-primary-secondary-deal/",
+    "date": "2024-09-13",
     "source": "Inc42",
     "history": []
   },
