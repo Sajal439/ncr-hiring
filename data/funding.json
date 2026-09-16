@@ -1,4 +1,12 @@
 {
+  "firi": {
+    "amount": "$3 Mn",
+    "title": "Beauty quick commerce startup Firi raises $3 Mn led by 360 ONE Asset",
+    "url": "https://entrackr.com/snippets/beauty-quick-commerce-startup-firi-raises-3-mn-led-by-360-one-asset-12538816",
+    "date": "Wed, 16 Sep 2026 09:41:15 +0530",
+    "source": "Entrackr",
+    "history": []
+  },
   "lenskart": {
     "amount": "₹8 Cr",
     "title": "Lenskart increases stake in AjnaLens parent to 9% with Rs 8 Cr investment",
@@ -68,6 +76,15 @@
         "source": "Entrackr"
       }
     ]
+  },
+  "sorry-sugar": {
+    "amount": "$1 Mn",
+    "round": "Seed",
+    "title": "Beverage brand Sorry Sugar raises $1 Mn in seed round",
+    "url": "https://entrackr.com/snippets/beverage-brand-sorry-sugar-raises-1-mn-in-seed-round-12506729",
+    "date": "Tue, 08 Sep 2026 15:17:21 +0530",
+    "source": "Entrackr",
+    "history": []
   },
   "yoga-clean-air": {
     "amount": "₹20 Cr",
@@ -606,6 +623,22 @@
       }
     ]
   },
+  "alienkind": {
+    "amount": "$3.2 Mn",
+    "title": "Gen Z-Focused Cafe Chain Alienkind Bags $3.2 Mn To Expand Footprint",
+    "url": "https://inc42.com/buzz/gen-z-focused-cafe-chain-alienkind-bags-3-2-mn-to-expand-footprint/",
+    "date": "2026-06-26",
+    "source": "Inc42",
+    "history": [
+      {
+        "round": "Seed",
+        "title": "Juice Brand Alienkind Raises 12 mn in Seed Round",
+        "url": "https://entrackr.com/snippets/juice-brand-alienkind-raises-12-mn-in-seed-round-8924648",
+        "date": "2025-04-04",
+        "source": "Entrackr"
+      }
+    ]
+  },
   "amazon-india": {
     "amount": "$13 Bn",
     "title": "Amazon Announces Additional $13 Bn Investment In India To Boost AI, Cloud Infra",
@@ -743,6 +776,23 @@
     "source": "Inc42",
     "history": []
   },
+  "fmcg": {
+    "round": "Seed",
+    "title": "Korean Fmcg Startup Gimi Michi Raises 1 mn Seed Round Led by Indiaquotient",
+    "url": "https://entrackr.com/snippets/korean-fmcg-startup-gimi-michi-raises-1-mn-seed-round-led-by-indiaquotient-12043369",
+    "date": "2026-06-16",
+    "source": "Entrackr",
+    "history": [
+      {
+        "amount": "₹14 Cr",
+        "round": "Bridge",
+        "title": "Fmcg Startup Mitra Raises rs 14 cr in Bridge Round Led by Bestvantage",
+        "url": "https://entrackr.com/snippets/fmcg-startup-mitra-raises-rs-14-cr-in-bridge-round-led-by-bestvantage-9682768",
+        "date": "2025-08-21",
+        "source": "Entrackr"
+      }
+    ]
+  },
   "troovy": {
     "amount": "₹200 Cr",
     "title": "Exclusive Snack Brand Troovy to Raise up to rs 200 cr Led by Adia",
@@ -774,31 +824,14 @@
       }
     ]
   },
-  "confidential": {
+  "razorpay": {
     "amount": "$600 Mn",
     "round": "IPO",
     "title": "Razorpay Files Confidential IPO Papers To Raise $600 Mn",
     "url": "https://inc42.com/buzz/razorpay-files-confidential-ipo-papers-to-raise-600-mn/",
     "date": "2026-06-15",
     "source": "Inc42",
-    "history": [
-      {
-        "amount": "₹600800 Cr",
-        "round": "IPO",
-        "title": "Rediff Files Confidential Ipo Papers Targets rs 600800 cr Fundraise",
-        "url": "https://entrackr.com/news/rediff-files-confidential-ipo-papers-targets-rs-600800-cr-fundraise-11442381",
-        "date": "2026-04-01",
-        "source": "Entrackr"
-      },
-      {
-        "amount": "₹11000 Cr",
-        "round": "IPO",
-        "title": "Zepto Board Approves rs 11000 cr Raise Ahead of Confidential Ipo Filing",
-        "url": "https://entrackr.com/news/zepto-board-approves-rs-11000-cr-raise-ahead-of-confidential-ipo-filing-10947108",
-        "date": "2025-12-25",
-        "source": "Entrackr"
-      }
-    ]
+    "history": []
   },
   "exponent-energy": {
     "round": "Series B",
@@ -2215,6 +2248,23 @@
       }
     ]
   },
+  "unicommerce": {
+    "amount": "₹20 Cr",
+    "title": "Unicommerce To Raise INR 20 Cr From Parent AceVector",
+    "url": "https://inc42.com/buzz/unicommerce-to-raise-inr-20-cr-from-parent-acevector/",
+    "date": "2025-09-01",
+    "source": "Inc42",
+    "history": [
+      {
+        "amount": "₹276.5 Cr",
+        "round": "IPO",
+        "title": "Unicommerce Sets IPO Price Band At INR 102-108, Aims To Raise Over INR 276.5 Cr",
+        "url": "https://inc42.com/buzz/unicommerce-sets-ipo-price-band-at-inr-102-108-aims-to-raise-over-inr-276-5-cr/",
+        "date": "2024-08-01",
+        "source": "Inc42"
+      }
+    ]
+  },
   "vutto": {
     "round": "Series A",
     "title": "Used Two Wheeler Marketplace Vutto Raises 7 mn in Series a Round",
@@ -2462,6 +2512,14 @@
         "source": "Entrackr"
       }
     ]
+  },
+  "pedalstart": {
+    "round": "Series F",
+    "title": "Pedalstart Concludes Multi City Event Series Founder Investor Fusion",
+    "url": "https://entrackr.com/snippets/pedalstart-concludes-multi-city-event-series-founder-investor-fusion-9356822",
+    "date": "2025-06-12",
+    "source": "Entrackr",
+    "history": []
   },
   "vecmocon": {
     "round": "Series A",
@@ -3015,6 +3073,14 @@
     "source": "Entrackr",
     "history": []
   },
+  "baaz-bikes": {
+    "round": "Series A",
+    "title": "Baaz Bikes Raises 8 mn in Series a Round",
+    "url": "https://entrackr.com/2023/11/baaz-bikes-raises-8-mn-in-series-a-round/",
+    "date": "2023-11-21",
+    "source": "Entrackr",
+    "history": []
+  },
   "dressfolk": {
     "round": "Seed",
     "title": "All in Capital Leads rs 3 3 cr Seed Round in Dressfolk",
@@ -3060,6 +3126,14 @@
     "title": "Credgenics Raises 50 mn in Series b From Westbridge Accel And Others",
     "url": "https://entrackr.com/2023/08/credgenics-raises-50-mn-in-series-b-from-westbridge-accel-and-others/",
     "date": "2023-08-09",
+    "source": "Entrackr",
+    "history": []
+  },
+  "rannkly": {
+    "round": "Seed",
+    "title": "Rannkly Raises 185k in Seed Round",
+    "url": "https://entrackr.com/2023/06/rannkly-raises-185k-in-seed-round/",
+    "date": "2023-06-27",
     "source": "Entrackr",
     "history": []
   },
@@ -3228,6 +3302,14 @@
     "title": "Fintech Startup Enkash Raises 20 mn in Series b",
     "url": "https://entrackr.com/2022/04/fintech-startup-enkash-raises-20-mn-in-series-b/",
     "date": "2022-04-04",
+    "source": "Entrackr",
+    "history": []
+  },
+  "skillbee": {
+    "round": "Seed",
+    "title": "Skillbee Raises 3 2 mn in Seed Round",
+    "url": "https://entrackr.com/2022/03/skillbee-raises-3-2-mn-in-seed-round/",
+    "date": "2022-03-23",
     "source": "Entrackr",
     "history": []
   },
