@@ -4911,7 +4911,7 @@
     "company": "Team Car Delight",
     "location": "Delhi",
     "stipend": "₹ 15,000 - 18,000 /month",
-    "duration": "6 Months",
+    "duration": "3 Months",
     "url": "https://internshala.com/internship/detail/female-anchor-internship-in-delhi-at-team-car-delight1788956660",
     "actively_hiring": true
   },
@@ -4980,7 +4980,7 @@
     "company": "Team Car Delight",
     "location": "Delhi",
     "stipend": "₹ 10,000 - 12,000 /month",
-    "duration": "4 Months",
+    "duration": "3 Months",
     "url": "https://internshala.com/internship/detail/social-media-marketing-internship-in-delhi-at-team-car-delight1788949538",
     "actively_hiring": true
   },
@@ -6551,7 +6551,7 @@
   },
   {
     "kind": "internship",
-    "title": "Talent Acquisition",
+    "title": "Talent Acquisition (Human Resource)",
     "company": "Biz Staffing Comrade Private Limited",
     "location": "Delhi",
     "stipend": "₹ 6,000 - 10,000 /month",
@@ -7755,6 +7755,478 @@
     "company": "Bosscoder Academy",
     "location": "Noida",
     "url": "https://internshala.com/job/detail/graphic-designer-job-in-noida-at-bosscoder-academy1789457111",
+    "actively_hiring": true
+  },
+  {
+    "kind": "internship",
+    "title": "Business Development (Sales)",
+    "company": "Absoft IT Solutions",
+    "location": "Gurgaon, Pune",
+    "stipend": "₹ 12,000 - 12,001 /month",
+    "duration": "3 Months",
+    "url": "https://internshala.com/internship/detail/business-development-sales-internship-in-multiple-locations-at-absoft-it-solutions1789545058",
+    "actively_hiring": true
+  },
+  {
+    "kind": "internship",
+    "title": "Project Management",
+    "company": "Blinkit",
+    "location": "Delhi, Gurgaon, Noida",
+    "stipend": "₹ 25,000 /month",
+    "duration": "2 Months",
+    "url": "https://internshala.com/internship/detail/project-management-internship-in-multiple-locations-at-blinkit1789584294",
+    "actively_hiring": false
+  },
+  {
+    "kind": "internship",
+    "title": "Videography",
+    "company": "Urban Darji",
+    "location": "Delhi",
+    "stipend": "₹ 10,000 - 14,000 /month",
+    "duration": "2 Months",
+    "url": "https://internshala.com/internship/detail/videography-internship-in-delhi-at-urban-darji1789548670",
+    "actively_hiring": false
+  },
+  {
+    "kind": "internship",
+    "title": "Digital Marketing",
+    "company": "Illumix Led Lightning Private Limited",
+    "location": "Delhi",
+    "stipend": "₹ 5,000 - 12,000 /month",
+    "duration": "6 Months",
+    "url": "https://internshala.com/internship/detail/digital-marketing-internship-in-delhi-at-illumix-led-lightning-private-limited1789621243",
+    "actively_hiring": true
+  },
+  {
+    "kind": "internship",
+    "title": "Java Development",
+    "company": "Onelap Telematics Private Limited",
+    "location": "Noida",
+    "stipend": "₹ 20,000 - 25,000 /month",
+    "duration": "6 Months",
+    "url": "https://internshala.com/internship/detail/java-development-internship-in-noida-at-onelap-telematics-private-limited1789619931",
+    "actively_hiring": true
+  },
+  {
+    "kind": "internship",
+    "title": "Social Media Content Creator (Female)",
+    "company": "360 Digital Idea",
+    "location": "Delhi",
+    "stipend": "₹ 5,000 - 10,000 /month",
+    "duration": "6 Months",
+    "url": "https://internshala.com/internship/detail/social-media-content-creator-female-internship-in-delhi-at-360-digital-idea1789539133",
+    "actively_hiring": true
+  },
+  {
+    "kind": "internship",
+    "title": "Creative Content & Video",
+    "company": "Times Internet Limited",
+    "location": "Noida",
+    "stipend": "₹ 20,000 - 25,000 /month",
+    "duration": "6 Months",
+    "url": "https://internshala.com/internship/detail/creative-content-video-internship-in-noida-at-times-internet-limited1789561185",
+    "actively_hiring": true
+  },
+  {
+    "kind": "internship",
+    "title": "Trainee - Live Entertainment (Activities)",
+    "company": "Bookmyshow",
+    "location": "Noida",
+    "stipend": "₹ 11,249 - 11,250 /month",
+    "duration": "6 Months",
+    "url": "https://internshala.com/internship/detail/trainee-live-entertainment-activities-internship-in-noida-at-bookmyshow1789561320",
+    "actively_hiring": true
+  },
+  {
+    "kind": "internship",
+    "title": "Tally Accountant",
+    "company": "AKSA AND ASSOCIATES",
+    "location": "Delhi",
+    "stipend": "₹ 8,000 - 16,000 /month",
+    "duration": "6 Months",
+    "url": "https://internshala.com/internship/detail/tally-accountant-internship-in-delhi-at-aksa-and-associates1789549456",
+    "actively_hiring": true
+  },
+  {
+    "kind": "internship",
+    "title": "UI/UX Design",
+    "company": "Web3Task",
+    "stipend": "₹ 5,000 - 10,000 /month",
+    "duration": "3 Months",
+    "url": "https://internshala.com/internship/detail/ui-ux-design-internship-in-multiple-locations-at-web3task1789556983",
+    "actively_hiring": true
+  },
+  {
+    "kind": "internship",
+    "title": "Video Editing/Making",
+    "company": "Trakaff",
+    "location": "Delhi",
+    "stipend": "₹ 4,000 - 5,000 /month",
+    "duration": "6 Months",
+    "url": "https://internshala.com/internship/detail/video-editing-making-internship-in-delhi-at-trakaff1789544514",
+    "actively_hiring": true
+  },
+  {
+    "kind": "internship",
+    "title": "Human Resources (HR)",
+    "company": "DPI Infotech",
+    "location": "Delhi",
+    "stipend": "₹ 5,000 - 12,000 /month",
+    "duration": "6 Months",
+    "url": "https://internshala.com/internship/detail/human-resources-hr-internship-in-delhi-at-dpi-infotech1789545368",
+    "actively_hiring": true
+  },
+  {
+    "kind": "internship",
+    "title": "Graphic Design",
+    "company": "Trakaff",
+    "location": "Delhi",
+    "stipend": "₹ 4,000 - 5,000 /month",
+    "duration": "6 Months",
+    "url": "https://internshala.com/internship/detail/graphic-design-internship-in-delhi-at-trakaff1789544570",
+    "actively_hiring": true
+  },
+  {
+    "kind": "internship",
+    "title": "Digital Marketing",
+    "company": "GiiRa",
+    "location": "Gurgaon",
+    "stipend": "₹ 8,000 - 10,000 /month",
+    "duration": "6 Months",
+    "url": "https://internshala.com/internship/detail/digital-marketing-internship-in-gurgaon-at-giira1789548174",
+    "actively_hiring": true
+  },
+  {
+    "kind": "internship",
+    "title": "Amazon PPC",
+    "company": "ExpGrowth Business Solutions LLP",
+    "location": "Delhi",
+    "stipend": "₹ 8,000 - 20,000 /month",
+    "duration": "3 Months",
+    "url": "https://internshala.com/internship/detail/amazon-ppc-internship-in-delhi-at-expgrowth-business-solutions-llp1788952041",
+    "actively_hiring": true
+  },
+  {
+    "kind": "internship",
+    "title": "IT Operations & Systems",
+    "company": "Keenheads Technologies Private Limited",
+    "location": "Greater Noida, Noida, Bangalore",
+    "stipend": "₹ 17,000 /month",
+    "duration": "6 Months",
+    "url": "https://internshala.com/internship/detail/it-operations-systems-internship-in-multiple-locations-at-keenheads-technologies-private-limited1789561010",
+    "actively_hiring": true
+  },
+  {
+    "kind": "internship",
+    "title": "Business Development (Sales)",
+    "company": "Adex Media Hub",
+    "location": "Noida",
+    "stipend": "₹ 8,000 - 17,000 /month",
+    "duration": "3 Months",
+    "url": "https://internshala.com/internship/detail/business-development-sales-internship-in-noida-at-adex-media-hub1789557163",
+    "actively_hiring": true
+  },
+  {
+    "kind": "internship",
+    "title": "Human Resources (HR)",
+    "company": "Adex Media Hub",
+    "location": "Noida",
+    "stipend": "₹ 6,000 - 12,000 /month",
+    "duration": "3 Months",
+    "url": "https://internshala.com/internship/detail/human-resources-hr-internship-in-noida-at-adex-media-hub1789561203",
+    "actively_hiring": true
+  },
+  {
+    "kind": "internship",
+    "title": "Video Editing/Making",
+    "company": "Leaf Studios",
+    "location": "Noida",
+    "stipend": "₹ 15,000 - 20,000 /month",
+    "duration": "3 Months",
+    "url": "https://internshala.com/internship/detail/video-editing-making-internship-in-noida-at-leaf-studios1789488181",
+    "actively_hiring": true
+  },
+  {
+    "kind": "internship",
+    "title": "AI Video Editor",
+    "company": "Uboard India Limited",
+    "location": "Delhi",
+    "stipend": "₹ 8,000 - 12,000 /month",
+    "duration": "6 Months",
+    "url": "https://internshala.com/internship/detail/ai-video-editor-internship-in-delhi-at-uboard-india-limited1789544894",
+    "actively_hiring": true
+  },
+  {
+    "kind": "internship",
+    "title": "Accounts",
+    "company": "Adventist Development And Relief Agency",
+    "location": "Gurgaon",
+    "stipend": "₹ 10,000 - 15,000 /month",
+    "duration": "6 Months",
+    "url": "https://internshala.com/internship/detail/accounts-internship-in-gurgaon-at-adventist-development-and-relief-agency1789552874",
+    "actively_hiring": true
+  },
+  {
+    "kind": "internship",
+    "title": "Content Writing",
+    "company": "Trakaff",
+    "location": "Delhi",
+    "stipend": "₹ 4,000 - 5,000 /month",
+    "duration": "6 Months",
+    "url": "https://internshala.com/internship/detail/content-writing-internship-in-delhi-at-trakaff1789544542",
+    "actively_hiring": true
+  },
+  {
+    "kind": "internship",
+    "title": "Inside Sales",
+    "company": "Stirring Minds",
+    "location": "Delhi",
+    "stipend": "₹ 8,000 - 15,000 /month",
+    "duration": "6 Months",
+    "url": "https://internshala.com/internship/detail/inside-sales-internship-in-delhi-at-stirring-minds1789534223",
+    "actively_hiring": true
+  },
+  {
+    "kind": "internship",
+    "title": "Customer Service/Customer Support",
+    "company": "Leaf Studios",
+    "location": "Noida",
+    "stipend": "₹ 10,000 - 15,000 /month",
+    "duration": "3 Months",
+    "url": "https://internshala.com/internship/detail/customer-service-customer-support-internship-in-noida-at-leaf-studios1789548270",
+    "actively_hiring": true
+  },
+  {
+    "kind": "internship",
+    "title": "Generalist (Sales)",
+    "company": "Stirring Minds",
+    "location": "Delhi",
+    "stipend": "₹ 8,000 - 15,000 /month",
+    "duration": "6 Months",
+    "url": "https://internshala.com/internship/detail/generalist-sales-internship-in-delhi-at-stirring-minds1789534491",
+    "actively_hiring": true
+  },
+  {
+    "kind": "internship",
+    "title": "Content and Social Media Marketing",
+    "company": "Pleza",
+    "location": "Noida",
+    "stipend": "₹ 15,000 - 20,000 /month",
+    "duration": "3 Months",
+    "url": "https://internshala.com/internship/detail/content-and-social-media-marketing-internship-in-noida-at-pleza1789538019",
+    "actively_hiring": true
+  },
+  {
+    "kind": "internship",
+    "title": "Finance Apprentice",
+    "company": "KLM E&M Line Maintenance India Private Limited",
+    "location": "Gurgaon",
+    "stipend": "₹ 25,000 /month",
+    "duration": "6 Months",
+    "url": "https://internshala.com/internship/detail/finance-apprentice-internship-in-gurgaon-at-klm-e-m-line-maintenance-india-private-limited1788766658",
+    "actively_hiring": true
+  },
+  {
+    "kind": "internship",
+    "title": "Marketing",
+    "company": "Winway Consultancy Services Private Limited",
+    "stipend": "₹ 35,000 /month",
+    "duration": "6 Months",
+    "url": "https://internshala.com/internship/detail/marketing-internship-in-multiple-locations-at-winway-consultancy-services-private-limited1789534577",
+    "actively_hiring": true
+  },
+  {
+    "kind": "internship",
+    "title": "Creative Design & Video Editing – Social Media, UI/UX & Brand",
+    "company": "Art Of Puja",
+    "location": "Gurgaon, Delhi",
+    "stipend": "₹ 10,000 - 12,500 /month",
+    "duration": "3 Months",
+    "url": "https://internshala.com/internship/detail/creative-design-video-editing--social-media-ui-ux-brand-internship-in-multiple-locations-at-art-of-puja1789545225",
+    "actively_hiring": true
+  },
+  {
+    "kind": "internship",
+    "title": "Finance",
+    "company": "Crossing Hurdles",
+    "location": "Gurgaon",
+    "stipend": "₹ 20,000 - 20,002 /month",
+    "duration": "3 Months",
+    "url": "https://internshala.com/internship/detail/finance-internship-in-gurgaon-at-crossing-hurdles1789544791",
+    "actively_hiring": true
+  },
+  {
+    "kind": "internship",
+    "title": "Operations",
+    "company": "GoMechanic",
+    "location": "Gurgaon",
+    "stipend": "₹ 5,000 - 10,000 /month",
+    "duration": "3 Months",
+    "url": "https://internshala.com/internship/detail/operations-internship-in-gurgaon-at-gomechanic1789545154",
+    "actively_hiring": true
+  },
+  {
+    "kind": "internship",
+    "title": "Photoshop Editor",
+    "company": "ConsultBae",
+    "location": "Gurgaon",
+    "stipend": "₹ 10,000 - 12,000 /month",
+    "duration": "6 Months",
+    "url": "https://internshala.com/internship/detail/photoshop-editor-internship-in-gurgaon-at-consultbae1789555314",
+    "actively_hiring": true
+  },
+  {
+    "kind": "internship",
+    "title": "Lead Generation",
+    "company": "Absoft IT Solutions",
+    "location": "Gurgaon",
+    "stipend": "₹ 20,000 - 20,001 /month",
+    "duration": "6 Months",
+    "url": "https://internshala.com/internship/detail/marketing-outreach-internship-in-gurgaon-at-absoft-it-solutions1787546891",
+    "actively_hiring": true
+  },
+  {
+    "kind": "job",
+    "title": "Automobile Journalist/Correspondent",
+    "company": "Team Car Delight",
+    "location": "Delhi",
+    "url": "https://internshala.com/job/detail/automobile-journalist-correspondent-job-in-delhi-at-team-car-delight1788954120",
+    "actively_hiring": true
+  },
+  {
+    "kind": "job",
+    "title": "Study Abroad Counsellor",
+    "company": "Skillbee India Private Limited",
+    "location": "Delhi",
+    "url": "https://internshala.com/job/detail/study-abroad-counsellor-job-in-delhi-at-skillbee-india-private-limited1787548584",
+    "actively_hiring": true
+  },
+  {
+    "kind": "job",
+    "title": "Videographer",
+    "company": "Team Car Delight",
+    "location": "Delhi",
+    "url": "https://internshala.com/job/detail/videographer-job-in-delhi-at-team-car-delight1788934137",
+    "actively_hiring": true
+  },
+  {
+    "kind": "job",
+    "title": "Sales Executive",
+    "company": "Dhun Solutions",
+    "location": "Delhi, Bihar, Uttar Pradesh",
+    "url": "https://internshala.com/job/detail/sales-executive-job-in-multiple-locations-at-dhun-solutions1789042966",
+    "actively_hiring": true
+  },
+  {
+    "kind": "job",
+    "title": "Founding SDR",
+    "company": "SalesMonk",
+    "location": "Gurgaon",
+    "url": "https://internshala.com/job/detail/founding-sdr-job-in-gurgaon-at-salesmonk1789546880",
+    "actively_hiring": true
+  },
+  {
+    "kind": "job",
+    "title": "Business Development Associate",
+    "company": "Big Beautiful Buys",
+    "location": "Delhi, Gurgaon, Noida",
+    "url": "https://internshala.com/job/detail/fresher-business-development-associate-job-in-multiple-locations-at-big-beautiful-buys1789553028",
+    "actively_hiring": false
+  },
+  {
+    "kind": "job",
+    "title": "Business Development Executive (BDE)",
+    "company": "PlanetSpark",
+    "location": "Delhi, Ghaziabad, Gurgaon",
+    "url": "https://internshala.com/job/detail/fresher-business-development-executive-bde-job-in-multiple-locations-at-planetspark1789547289",
+    "actively_hiring": true
+  },
+  {
+    "kind": "job",
+    "title": "Corporate Sales Specialist",
+    "company": "I.T. Solutions India Private Limited",
+    "location": "Chandigarh, Delhi, Mumbai, Jaipur",
+    "url": "https://internshala.com/job/detail/corporate-sales-specialist-job-in-multiple-locations-at-it-solutions-india-private-limited1789545001",
+    "actively_hiring": true
+  },
+  {
+    "kind": "job",
+    "title": "Associate - Account Management",
+    "company": "Kraftshala",
+    "location": "Gurgaon",
+    "url": "https://internshala.com/job/detail/fresher-associate-account-management-job-in-gurgaon-at-kraftshala1789566358",
+    "actively_hiring": true
+  },
+  {
+    "kind": "job",
+    "title": "Tele-Sales Executive (voice Process)",
+    "company": "BlueRose Publishers Private Limited",
+    "location": "Noida",
+    "url": "https://internshala.com/job/detail/fresher-tele-sales-executive-voice-process-job-in-noida-at-bluerose-publishers-private-limited1789471451",
+    "actively_hiring": true
+  },
+  {
+    "kind": "job",
+    "title": "Video Editor",
+    "company": "HTNM Private Limited",
+    "location": "Faridabad",
+    "url": "https://internshala.com/job/detail/video-editor-job-in-faridabad-at-htnm-private-limited1789460311",
+    "actively_hiring": false
+  },
+  {
+    "kind": "job",
+    "title": "Hardware Design Engineer",
+    "company": "IoTfy Solutions Private Limited",
+    "location": "Delhi",
+    "url": "https://internshala.com/job/detail/hardware-design-engineer-job-in-delhi-at-iotfy-solutions-private-limited1789554878",
+    "actively_hiring": true
+  },
+  {
+    "kind": "job",
+    "title": "Software Engineer",
+    "company": "Zaptics Research",
+    "location": "Noida",
+    "url": "https://internshala.com/job/detail/software-engineer-job-in-noida-at-zaptics-research1789457863",
+    "actively_hiring": true
+  },
+  {
+    "kind": "job",
+    "title": "Business Development Associate",
+    "company": "Kapable.club",
+    "location": "Delhi",
+    "url": "https://internshala.com/job/detail/fresher-business-development-associate-job-in-delhi-at-kapableclub1789476869",
+    "actively_hiring": true
+  },
+  {
+    "kind": "job",
+    "title": "E-commerce Executive",
+    "company": "Seasoul Cosmetics Private Limited",
+    "location": "Gurgaon",
+    "url": "https://internshala.com/job/detail/fresher-e-commerce-executive-job-in-gurgaon-at-seasoul-cosmetics-private-limited1789560366",
+    "actively_hiring": true
+  },
+  {
+    "kind": "job",
+    "title": "Warehouse Operations Executive",
+    "company": "Art Of Puja",
+    "location": "Gurgaon, Delhi",
+    "url": "https://internshala.com/job/detail/warehouse-operations-executive-job-in-multiple-locations-at-art-of-puja1789549645",
+    "actively_hiring": true
+  },
+  {
+    "kind": "job",
+    "title": "Customer Service Associate",
+    "company": "Coral Bling Services Private Limited",
+    "location": "Gurgaon",
+    "url": "https://internshala.com/job/detail/customer-service-associate-job-in-gurgaon-at-coral-bling-services-private-limited1789558174",
+    "actively_hiring": true
+  },
+  {
+    "kind": "job",
+    "title": "Business Associate",
+    "company": "MK Enterprises",
+    "location": "Faridabad, Delhi, Ghaziabad, Gurgaon, Noida",
+    "url": "https://internshala.com/job/detail/business-associate-job-in-multiple-locations-at-mk-enterprises1789547254",
     "actively_hiring": true
   }
 ]

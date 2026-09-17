@@ -1,12 +1,4 @@
 {
-  "alimentiv": [
-    {
-      "title": "Clinical Operations Lead (Clinical Trial Manager) (India)",
-      "url": "https://jobs.lever.co/alimentiv-2/45f2764e-337f-4145-b09f-35c47f31518a",
-      "location": "Delhi",
-      "source": "careers"
-    }
-  ],
   "the-knot-worldwide": [
     {
       "title": "Account Executive, Core",
@@ -141,6 +133,40 @@
       "source": "careers"
     }
   ],
+  "ontic": [
+    {
+      "title": "Staff Engineer - UI",
+      "url": "https://jobs.ashbyhq.com/Ontic/e3c570d0-688d-4385-99fd-9f5fb6643e61",
+      "location": "Noida, India",
+      "source": "careers"
+    },
+    {
+      "title": "Software Engineer",
+      "url": "https://jobs.ashbyhq.com/Ontic/0426253f-e03c-4d57-be4c-ea02fdab7097",
+      "location": "Noida / Pune",
+      "source": "careers"
+    },
+    {
+      "title": "Senior Software Engineer - UI",
+      "url": "https://jobs.ashbyhq.com/Ontic/800142fe-93e2-42fd-9af4-0084ea813a41",
+      "location": "Noida, India",
+      "source": "careers"
+    },
+    {
+      "title": "Manager, Product Design",
+      "url": "https://jobs.ashbyhq.com/Ontic/d47d7285-75bd-43cb-87e4-f06070249283",
+      "location": "Noida, India",
+      "source": "careers"
+    }
+  ],
+  "primevigilance": [
+    {
+      "title": "Finance Project Coordinator",
+      "url": "https://careers.smartrecruiters.com/Ergomed/744000147199784",
+      "location": "Noida, in",
+      "source": "careers"
+    }
+  ],
   "map": [
     {
       "title": "AEM - UI EDS - Consultant",
@@ -161,43 +187,17 @@
       "source": "careers"
     }
   ],
-  "welocalize": [
+  "athena-education": [
     {
-      "title": "Associate Project Manager- Gen AI Operations",
-      "url": "https://jobs.lever.co/weloglobal/b1e0450f-3f8e-4c0d-8db5-f2e40278f8fa",
-      "location": "Gurgaon, India",
+      "title": "Associate/ Associate Manager - Writing",
+      "url": "https://jobs.lever.co/athena-education/8f9cb4b5-155f-4eae-8f77-ef801a4110da",
+      "location": "Gurugram",
       "source": "careers"
     },
     {
-      "title": "Associate Technical Publication Engineer",
-      "url": "https://jobs.lever.co/weloglobal/7903f79a-fe0f-46e3-ac8b-83b607574453",
-      "location": "Gurgaon, India",
-      "source": "careers"
-    },
-    {
-      "title": "Hindi Linguist",
-      "url": "https://jobs.lever.co/weloglobal/b1209960-15d0-4bca-883f-0304548215c0",
-      "location": "Gurgaon, India",
-      "source": "careers"
-    },
-    {
-      "title": "IT Support Engineer",
-      "url": "https://jobs.lever.co/weloglobal/952e6188-856a-490a-bf4d-d7e2b0ff484f",
-      "location": "Gurgaon, India",
-      "source": "careers"
-    },
-    {
-      "title": "Senior Project Manager - Generative AI Data Operations",
-      "url": "https://jobs.lever.co/weloglobal/38fe5666-344b-4917-bdfa-88a0bfcc4bf4",
-      "location": "Gurgaon, India",
-      "source": "careers"
-    }
-  ],
-  "primevigilance": [
-    {
-      "title": "Finance Project Coordinator",
-      "url": "https://careers.smartrecruiters.com/Ergomed/744000147199784",
-      "location": "Noida, in",
+      "title": "Technical Director- Writing",
+      "url": "https://jobs.lever.co/athena-education/4b1432e7-7ed4-4502-9441-506861d6ebe9",
+      "location": "Gurugram",
       "source": "careers"
     }
   ],
@@ -218,6 +218,86 @@
       "title": "Sales Manager – Media Sales & Advertising Sales( 4-8 yrs)",
       "url": "https://careers.smartrecruiters.com/Wizikey/744000147203109",
       "location": "Gurugram, in",
+      "source": "careers"
+    }
+  ],
+  "interpath": [
+    {
+      "title": "AI - Centre of Excellence Lead, India",
+      "url": "https://apply.workable.com/j/06DB6B028D",
+      "location": "Gurugram, India",
+      "source": "careers"
+    },
+    {
+      "title": "Artificial Intelligence PMO Lead - Assistant Manager",
+      "url": "https://apply.workable.com/j/5C216A1B44",
+      "location": "Gurugram, India",
+      "source": "careers"
+    },
+    {
+      "title": "Artificial Intelligence Support - Senior Associate",
+      "url": "https://apply.workable.com/j/3762060F64",
+      "location": "Gurugram, India",
+      "source": "careers"
+    },
+    {
+      "title": "Assistant Manager - Business Development & Pitch Support | Financial Services",
+      "url": "https://apply.workable.com/j/928DA16D66",
+      "location": "Gurugram, India",
+      "source": "careers"
+    },
+    {
+      "title": "Data Engineer - Assistant Manager",
+      "url": "https://apply.workable.com/j/0D8A60AECB",
+      "location": "Gurugram, India",
+      "source": "careers"
+    },
+    {
+      "title": "Financial Due Diligence | TS | Financial Services | Associate Director",
+      "url": "https://apply.workable.com/j/B89D9B56F7",
+      "location": "Gurugram, India",
+      "source": "careers"
+    },
+    {
+      "title": "Financial Due Diligence | TS | Manager",
+      "url": "https://apply.workable.com/j/D5B1FF4C82",
+      "location": "Gurugram, India",
+      "source": "careers"
+    },
+    {
+      "title": "Financial Due Diligence | TS | Senior Associate",
+      "url": "https://apply.workable.com/j/4D1ECD3796",
+      "location": "Gurugram, India",
+      "source": "careers"
+    },
+    {
+      "title": "Integrations - Assistant Manager",
+      "url": "https://apply.workable.com/j/EC62C1AE39",
+      "location": "Gurugram, India",
+      "source": "careers"
+    },
+    {
+      "title": "Procurement Consulting - Cost Engineering - Manager",
+      "url": "https://apply.workable.com/j/DD4CA43546",
+      "location": "Gurugram, India",
+      "source": "careers"
+    },
+    {
+      "title": "Senior .NET Developer",
+      "url": "https://apply.workable.com/j/E9EE99A7BE",
+      "location": "Gurugram, India",
+      "source": "careers"
+    },
+    {
+      "title": "Value Creation - Strategy - Associate Director",
+      "url": "https://apply.workable.com/j/CFEF194C8F",
+      "location": "Gurugram, India",
+      "source": "careers"
+    },
+    {
+      "title": "Value Creation | Data and Analytics | Assistant Manager",
+      "url": "https://apply.workable.com/j/3D19B5AC22",
+      "location": "Gurugram, India",
       "source": "careers"
     }
   ],
@@ -277,6 +357,68 @@
       "source": "careers"
     }
   ],
+  "smart-working": [
+    {
+      "title": "Lead PHP/Symfony Engineer (Remote, Full-Time) - [HR191]",
+      "url": "https://jobs.lever.co/smart-working-solutions/eb63f1a9-443b-48a4-88ec-99c8516a8c06",
+      "location": "Noida",
+      "source": "careers"
+    }
+  ],
+  "cint": [
+    {
+      "title": "Scrum Master / Delivery Coach",
+      "url": "https://careers.smartrecruiters.com/Cint/744000148535525",
+      "location": "Gurugram, in",
+      "source": "careers"
+    },
+    {
+      "title": "Survey Programming Consultant",
+      "url": "https://careers.smartrecruiters.com/Cint/744000148325771",
+      "location": "Gurugram, in",
+      "source": "careers"
+    }
+  ],
+  "alimentiv": [
+    {
+      "title": "Clinical Operations Lead (Clinical Trial Manager) (India)",
+      "url": "https://jobs.lever.co/alimentiv-2/45f2764e-337f-4145-b09f-35c47f31518a",
+      "location": "Delhi",
+      "source": "careers"
+    }
+  ],
+  "welocalize": [
+    {
+      "title": "Associate Project Manager- Gen AI Operations",
+      "url": "https://jobs.lever.co/weloglobal/b1e0450f-3f8e-4c0d-8db5-f2e40278f8fa",
+      "location": "Gurgaon, India",
+      "source": "careers"
+    },
+    {
+      "title": "Associate Technical Publication Engineer",
+      "url": "https://jobs.lever.co/weloglobal/7903f79a-fe0f-46e3-ac8b-83b607574453",
+      "location": "Gurgaon, India",
+      "source": "careers"
+    },
+    {
+      "title": "Hindi Linguist",
+      "url": "https://jobs.lever.co/weloglobal/b1209960-15d0-4bca-883f-0304548215c0",
+      "location": "Gurgaon, India",
+      "source": "careers"
+    },
+    {
+      "title": "IT Support Engineer",
+      "url": "https://jobs.lever.co/weloglobal/952e6188-856a-490a-bf4d-d7e2b0ff484f",
+      "location": "Gurgaon, India",
+      "source": "careers"
+    },
+    {
+      "title": "Senior Project Manager - Generative AI Data Operations",
+      "url": "https://jobs.lever.co/weloglobal/38fe5666-344b-4917-bdfa-88a0bfcc4bf4",
+      "location": "Gurgaon, India",
+      "source": "careers"
+    }
+  ],
   "shield-ai": [
     {
       "title": "Chief of Staff, AI Hive (R5599)",
@@ -287,6 +429,12 @@
     {
       "title": "Field Marketing Manager, India",
       "url": "https://jobs.lever.co/shieldai/28136dd4-edd8-4da6-a6a1-7ce139654c96",
+      "location": "New Delhi",
+      "source": "careers"
+    },
+    {
+      "title": "Senior Proposal Manager",
+      "url": "https://jobs.lever.co/shieldai/8a7a6074-0334-4f08-a6d7-303580f5fb01",
       "location": "New Delhi",
       "source": "careers"
     },
@@ -330,136 +478,6 @@
       "title": "Technical Program Manager",
       "url": "https://jobs.lever.co/shieldai/b851f198-4599-488c-8366-ad4af0a18dd4",
       "location": "New Delhi",
-      "source": "careers"
-    }
-  ],
-  "interpath": [
-    {
-      "title": "AI - Centre of Excellence Lead, India",
-      "url": "https://apply.workable.com/j/06DB6B028D",
-      "location": "Gurugram, India",
-      "source": "careers"
-    },
-    {
-      "title": "Artificial Intelligence / Tech Engineer - Manager",
-      "url": "https://apply.workable.com/j/6F6D72E3B6",
-      "location": "Gurugram, India",
-      "source": "careers"
-    },
-    {
-      "title": "Artificial Intelligence PMO Lead - Assistant Manager",
-      "url": "https://apply.workable.com/j/5C216A1B44",
-      "location": "Gurugram, India",
-      "source": "careers"
-    },
-    {
-      "title": "Artificial Intelligence Support - Senior Associate",
-      "url": "https://apply.workable.com/j/3762060F64",
-      "location": "Gurugram, India",
-      "source": "careers"
-    },
-    {
-      "title": "Associate Director | Transaction Services | Financial Services",
-      "url": "https://apply.workable.com/j/B89D9B56F7",
-      "location": "Gurugram, India",
-      "source": "careers"
-    },
-    {
-      "title": "Data Engineer - Assistant Manager",
-      "url": "https://apply.workable.com/j/0D8A60AECB",
-      "location": "Gurugram, India",
-      "source": "careers"
-    },
-    {
-      "title": "Integrations - Assistant Manager",
-      "url": "https://apply.workable.com/j/EC62C1AE39",
-      "location": "Gurugram, India",
-      "source": "careers"
-    },
-    {
-      "title": "Procurement Consulting - Cost Engineering - Manager",
-      "url": "https://apply.workable.com/j/DD4CA43546",
-      "location": "Gurugram, India",
-      "source": "careers"
-    },
-    {
-      "title": "Senior .NET Developer",
-      "url": "https://apply.workable.com/j/E9EE99A7BE",
-      "location": "Gurugram, India",
-      "source": "careers"
-    },
-    {
-      "title": "Value Creation - Strategy - Associate Director",
-      "url": "https://apply.workable.com/j/CFEF194C8F",
-      "location": "Gurugram, India",
-      "source": "careers"
-    },
-    {
-      "title": "Value Creation | Data and Analytics | Assistant Manager",
-      "url": "https://apply.workable.com/j/3D19B5AC22",
-      "location": "Gurugram, India",
-      "source": "careers"
-    }
-  ],
-  "ontic": [
-    {
-      "title": "Staff Engineer - UI",
-      "url": "https://jobs.ashbyhq.com/Ontic/e3c570d0-688d-4385-99fd-9f5fb6643e61",
-      "location": "Noida, India",
-      "source": "careers"
-    },
-    {
-      "title": "Software Engineer",
-      "url": "https://jobs.ashbyhq.com/Ontic/0426253f-e03c-4d57-be4c-ea02fdab7097",
-      "location": "Noida / Pune",
-      "source": "careers"
-    },
-    {
-      "title": "Senior Software Engineer - UI",
-      "url": "https://jobs.ashbyhq.com/Ontic/800142fe-93e2-42fd-9af4-0084ea813a41",
-      "location": "Noida, India",
-      "source": "careers"
-    },
-    {
-      "title": "Manager, Product Design",
-      "url": "https://jobs.ashbyhq.com/Ontic/d47d7285-75bd-43cb-87e4-f06070249283",
-      "location": "Noida, India",
-      "source": "careers"
-    }
-  ],
-  "cint": [
-    {
-      "title": "Scrum Master / Delivery Coach",
-      "url": "https://careers.smartrecruiters.com/Cint/744000148535525",
-      "location": "Gurugram, in",
-      "source": "careers"
-    },
-    {
-      "title": "Survey Programming Consultant",
-      "url": "https://careers.smartrecruiters.com/Cint/744000148325771",
-      "location": "Gurugram, in",
-      "source": "careers"
-    }
-  ],
-  "athena-education": [
-    {
-      "title": "Associate/ Associate Manager - Writing",
-      "url": "https://jobs.lever.co/athena-education/8f9cb4b5-155f-4eae-8f77-ef801a4110da",
-      "location": "Gurugram",
-      "source": "careers"
-    },
-    {
-      "title": "Technical Director- Writing",
-      "url": "https://jobs.lever.co/athena-education/4b1432e7-7ed4-4502-9441-506861d6ebe9",
-      "location": "Gurugram",
-      "source": "careers"
-    }
-  ],
-  "smart-working": [
-    {
-      "title": "Lead PHP/Symfony Engineer (Remote, Full-Time) - [HR191]",
-      "url": "https://jobs.lever.co/smart-working-solutions/eb63f1a9-443b-48a4-88ec-99c8516a8c06",
-      "location": "Noida",
       "source": "careers"
     }
   ]

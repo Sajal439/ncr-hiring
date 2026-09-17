@@ -1,10 +1,10 @@
 {
   "firi": {
     "amount": "$3 Mn",
-    "title": "Beauty quick commerce startup Firi raises $3 Mn led by 360 ONE Asset",
-    "url": "https://entrackr.com/snippets/beauty-quick-commerce-startup-firi-raises-3-mn-led-by-360-one-asset-12538816",
-    "date": "Wed, 16 Sep 2026 09:41:15 +0530",
-    "source": "Entrackr",
+    "title": "Firi Bags $3 Mn To Expand Beauty Quick Commerce Platform",
+    "url": "https://inc42.com/buzz/firi-bags-3-mn-to-expand-beauty-quick-commerce-platform/",
+    "date": "Wed, 16 Sep 2026 05:16:08 +0000",
+    "source": "Inc42",
     "history": []
   },
   "lenskart": {
@@ -76,15 +76,6 @@
         "source": "Entrackr"
       }
     ]
-  },
-  "sorry-sugar": {
-    "amount": "$1 Mn",
-    "round": "Seed",
-    "title": "Beverage brand Sorry Sugar raises $1 Mn in seed round",
-    "url": "https://entrackr.com/snippets/beverage-brand-sorry-sugar-raises-1-mn-in-seed-round-12506729",
-    "date": "Tue, 08 Sep 2026 15:17:21 +0530",
-    "source": "Entrackr",
-    "history": []
   },
   "yoga-clean-air": {
     "amount": "₹20 Cr",
@@ -2834,6 +2825,14 @@
       }
     ]
   },
+  "bizom": {
+    "round": "Series B",
+    "title": "Pavestone Leads 12 mn Series b Round in Bizom",
+    "url": "https://entrackr.com/snippets/pavestone-leads-12-mn-series-b-round-in-bizom-8449556",
+    "date": "2024-12-18",
+    "source": "Entrackr",
+    "history": []
+  },
   "google-india": {
     "round": "Series B",
     "title": "Google Backed Spacetech Startup Pixxel Raises 24 mn More in Series b",
@@ -2991,6 +2990,22 @@
     "date": "2024-08-26",
     "source": "Entrackr",
     "history": []
+  },
+  "titan-capital": {
+    "amount": "₹200 Cr",
+    "title": "Titan Capital Winners Fund Raises Target Corpus of rs 200 cr",
+    "url": "https://entrackr.com/2024/08/titan-capital-winners-fund-raises-target-corpus-of-rs-200-cr/",
+    "date": "2024-08-21",
+    "source": "Entrackr",
+    "history": [
+      {
+        "round": "Pre Series A",
+        "title": "Titan Capital Backed Anveshan Raises 2 mn in Pre Series a",
+        "url": "https://entrackr.com/2022/09/titan-capital-backed-anveshan-raises-2-mn-in-pre-series-a/",
+        "date": "2022-09-08",
+        "source": "Entrackr"
+      }
+    ]
   },
   "innoviti": {
     "round": "Series E",
