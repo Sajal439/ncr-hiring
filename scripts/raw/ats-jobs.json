@@ -159,6 +159,20 @@
       "source": "careers"
     }
   ],
+  "athena-education": [
+    {
+      "title": "Associate/ Associate Manager - Writing",
+      "url": "https://jobs.lever.co/athena-education/8f9cb4b5-155f-4eae-8f77-ef801a4110da",
+      "location": "Gurugram",
+      "source": "careers"
+    },
+    {
+      "title": "Technical Director- Writing",
+      "url": "https://jobs.lever.co/athena-education/4b1432e7-7ed4-4502-9441-506861d6ebe9",
+      "location": "Gurugram",
+      "source": "careers"
+    }
+  ],
   "primevigilance": [
     {
       "title": "Finance Project Coordinator",
@@ -184,20 +198,6 @@
       "title": "Senior QA Engineer (automation) Contractor",
       "url": "https://job-boards.greenhouse.io/map/jobs/8630694002",
       "location": "New Delhi, India",
-      "source": "careers"
-    }
-  ],
-  "athena-education": [
-    {
-      "title": "Associate/ Associate Manager - Writing",
-      "url": "https://jobs.lever.co/athena-education/8f9cb4b5-155f-4eae-8f77-ef801a4110da",
-      "location": "Gurugram",
-      "source": "careers"
-    },
-    {
-      "title": "Technical Director- Writing",
-      "url": "https://jobs.lever.co/athena-education/4b1432e7-7ed4-4502-9441-506861d6ebe9",
-      "location": "Gurugram",
       "source": "careers"
     }
   ],
@@ -301,6 +301,14 @@
       "source": "careers"
     }
   ],
+  "smart-working": [
+    {
+      "title": "Lead PHP/Symfony Engineer (Remote, Full-Time) - [HR191]",
+      "url": "https://jobs.lever.co/smart-working-solutions/eb63f1a9-443b-48a4-88ec-99c8516a8c06",
+      "location": "Noida",
+      "source": "careers"
+    }
+  ],
   "alphasense": [
     {
       "title": "Cloud Support Engineer",
@@ -357,14 +365,6 @@
       "source": "careers"
     }
   ],
-  "smart-working": [
-    {
-      "title": "Lead PHP/Symfony Engineer (Remote, Full-Time) - [HR191]",
-      "url": "https://jobs.lever.co/smart-working-solutions/eb63f1a9-443b-48a4-88ec-99c8516a8c06",
-      "location": "Noida",
-      "source": "careers"
-    }
-  ],
   "cint": [
     {
       "title": "Scrum Master / Delivery Coach",
@@ -376,14 +376,6 @@
       "title": "Survey Programming Consultant",
       "url": "https://careers.smartrecruiters.com/Cint/744000148325771",
       "location": "Gurugram, in",
-      "source": "careers"
-    }
-  ],
-  "alimentiv": [
-    {
-      "title": "Clinical Operations Lead (Clinical Trial Manager) (India)",
-      "url": "https://jobs.lever.co/alimentiv-2/45f2764e-337f-4145-b09f-35c47f31518a",
-      "location": "Delhi",
       "source": "careers"
     }
   ],
@@ -465,12 +457,6 @@
     {
       "title": "Staff Software Engineer, Autonomy Applications Engineering",
       "url": "https://jobs.lever.co/shieldai/20ba2fbb-f9b3-4408-ac5c-7809a8446ea3",
-      "location": "New Delhi",
-      "source": "careers"
-    },
-    {
-      "title": "Staff Systems Administrator (R4697)",
-      "url": "https://jobs.lever.co/shieldai/9cb8bd80-678d-439c-aa4f-abed77975d38",
       "location": "New Delhi",
       "source": "careers"
     },

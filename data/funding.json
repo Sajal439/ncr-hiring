@@ -1,10 +1,19 @@
 {
+  "factrika": {
+    "amount": "₹8.9 Cr",
+    "round": "Seed",
+    "title": "Info Edge leads Rs 8.9 Cr seed round in Factrika",
+    "url": "https://entrackr.com/snippets/info-edge-leads-rs-89-cr-seed-round-in-factrika-12544954",
+    "date": "Thu, 17 Sep 2026 16:46:56 +0530",
+    "source": "Entrackr",
+    "history": []
+  },
   "firi": {
     "amount": "$3 Mn",
-    "title": "Firi Bags $3 Mn To Expand Beauty Quick Commerce Platform",
-    "url": "https://inc42.com/buzz/firi-bags-3-mn-to-expand-beauty-quick-commerce-platform/",
-    "date": "Wed, 16 Sep 2026 05:16:08 +0000",
-    "source": "Inc42",
+    "title": "Beauty quick commerce startup Firi raises $3 Mn led by 360 ONE Asset",
+    "url": "https://entrackr.com/snippets/beauty-quick-commerce-startup-firi-raises-3-mn-led-by-360-one-asset-12538816",
+    "date": "Wed, 16 Sep 2026 09:41:15 +0530",
+    "source": "Entrackr",
     "history": []
   },
   "lenskart": {
@@ -57,23 +66,6 @@
         "url": "https://inc42.com/buzz/ipo-bound-lenskarts-peyush-bansal-to-acquire-2-stake-from-investors/",
         "date": "2025-07-05",
         "source": "Inc42"
-      }
-    ]
-  },
-  "rentomojo": {
-    "amount": "₹376 Cr",
-    "round": "IPO",
-    "title": "Rentomojo raises Rs 376 Cr from anchor investors ahead of IPO",
-    "url": "https://entrackr.com/news/rentomojo-raises-rs-376-cr-from-anchor-investors-ahead-of-ipo-12509513",
-    "date": "Wed, 09 Sep 2026 11:35:58 +0530",
-    "source": "Entrackr",
-    "history": [
-      {
-        "amount": "₹150 Cr",
-        "title": "Rentomojo Files Drhp to Raise rs 150 cr Via Fresh Issue",
-        "url": "https://entrackr.com/news/rentomojo-files-drhp-to-raise-rs-150-cr-via-fresh-issue-11429333",
-        "date": "2026-03-28",
-        "source": "Entrackr"
       }
     ]
   },
@@ -1454,6 +1446,14 @@
       }
     ]
   },
+  "rentomojo": {
+    "amount": "₹150 Cr",
+    "title": "Rentomojo Files Drhp to Raise rs 150 cr Via Fresh Issue",
+    "url": "https://entrackr.com/news/rentomojo-files-drhp-to-raise-rs-150-cr-via-fresh-issue-11429333",
+    "date": "2026-03-28",
+    "source": "Entrackr",
+    "history": []
+  },
   "euler-motors": {
     "round": "Series E",
     "title": "Euler Motors Raises 47 mn in Series e Round Led by Lightrock",
@@ -1599,6 +1599,14 @@
     "title": "Deeptech Iot Startup Datoms Raises rs 25 cr in Series a Led by Big Capital Jsc",
     "url": "https://entrackr.com/snippets/deeptech-iot-startup-datoms-raises-rs-25-cr-in-series-a-led-by-big-capital-jsc-11146538",
     "date": "2026-02-23",
+    "source": "Entrackr",
+    "history": []
+  },
+  "pluto": {
+    "round": "Seed",
+    "title": "Pluto Mobility Raises 2 mn in Seed Round",
+    "url": "https://entrackr.com/snippets/pluto-mobility-raises-2-mn-in-seed-round-11132728",
+    "date": "2026-02-19",
     "source": "Entrackr",
     "history": []
   },
@@ -2934,6 +2942,14 @@
         "source": "Inc42"
       }
     ]
+  },
+  "carefi": {
+    "round": "Debt",
+    "title": "Healthcare-Focussed Fintech Startup Care.fi Bags Debt Funding From Wint Wealth, Caspian Debt",
+    "url": "https://inc42.com/buzz/healthcare-focussed-fintech-startup-care-fi-bags-debt-funding-from-wint-wealth-caspian-debt/",
+    "date": "2024-09-26",
+    "source": "Inc42",
+    "history": []
   },
   "homelane": {
     "amount": "₹225 Cr",
