@@ -1012,7 +1012,7 @@
     "lng": 77.0879407318849,
     "approx": true,
     "hiring": true,
-    "openJobs": 164,
+    "openJobs": 163,
     "domain": "accenture.com",
     "teamSize": "1001-5000",
     "careersUrl": "https://accenture.com/us-en/careers"
@@ -1678,7 +1678,8 @@
     "openJobs": 1,
     "domain": "adionatravels.com",
     "founded": 2013,
-    "teamSize": "51-200"
+    "teamSize": "51-200",
+    "careersUrl": "https://adionatravels.com/life-at-adiona/"
   },
   {
     "slug": "aditya-birla-chemicals",
@@ -1727,7 +1728,8 @@
     "hiring": true,
     "openJobs": 1,
     "domain": "abfrl.com",
-    "teamSize": "5000+"
+    "teamSize": "5000+",
+    "careersUrl": "https://www.abfrl.com/careers/"
   },
   {
     "slug": "aditya-birla-health-insurance-company-limited",
@@ -2279,7 +2281,7 @@
     "lng": 77.23127982773643,
     "approx": true,
     "hiring": true,
-    "openJobs": 2,
+    "openJobs": 3,
     "domain": "aeccglobal.com",
     "founded": 2008,
     "teamSize": "201-500",
@@ -2360,7 +2362,8 @@
     "openJobs": 1,
     "domain": "aerobay.in",
     "founded": 2019,
-    "teamSize": "51-200"
+    "teamSize": "51-200",
+    "careersUrl": "https://aerobay.in/careers"
   },
   {
     "slug": "aerogen",
@@ -3169,7 +3172,8 @@
     "hiring": true,
     "openJobs": 2,
     "domain": "airbrickinfra.com",
-    "teamSize": "51-200"
+    "teamSize": "51-200",
+    "careersUrl": "https://airbrickinfra.com/careers/"
   },
   {
     "slug": "airbuddy-aerospace",
@@ -4108,7 +4112,8 @@
     "openJobs": 1,
     "domain": "alletec.com",
     "founded": 2000,
-    "teamSize": "201-500"
+    "teamSize": "201-500",
+    "careersUrl": "https://alletec.com/life-at-alletec/"
   },
   {
     "slug": "alliance-network",
@@ -4127,7 +4132,8 @@
     "hiring": true,
     "openJobs": 1,
     "domain": "alliancenetworkcompany.com",
-    "teamSize": "11-50"
+    "teamSize": "11-50",
+    "careersUrl": "https://alliancenetworkcompany.com/careers"
   },
   {
     "slug": "allianz-partners",
@@ -4707,7 +4713,7 @@
     "teamSize": "5000+",
     "tier": "startup",
     "hiring": true,
-    "openJobs": 13
+    "openJobs": 14
   },
   {
     "slug": "ambak",
@@ -5522,7 +5528,8 @@
     "openJobs": 1,
     "domain": "angelbot.ai",
     "founded": 2024,
-    "teamSize": "11-50"
+    "teamSize": "11-50",
+    "careersUrl": "https://angelbot.ai/careers/"
   },
   {
     "slug": "ani-clothing",
@@ -5645,7 +5652,7 @@
     "lng": 77.07052944728485,
     "approx": true,
     "hiring": true,
-    "openJobs": 5,
+    "openJobs": 4,
     "domain": "antino.com",
     "founded": 2018,
     "teamSize": "201-500",
@@ -6272,7 +6279,7 @@
     "lng": 77.34572262543112,
     "approx": true,
     "hiring": true,
-    "openJobs": 2,
+    "openJobs": 3,
     "domain": "archetype.co",
     "founded": 2019,
     "teamSize": "1001-5000"
@@ -6389,7 +6396,7 @@
     "tier": "startup",
     "hiring": true,
     "careersUrl": "https://www.aristocrat.com/life-at-aristocrat/",
-    "openJobs": 19
+    "openJobs": 21
   },
   {
     "slug": "arket",
@@ -6692,7 +6699,7 @@
     "lng": 77.09472900741743,
     "approx": true,
     "hiring": true,
-    "openJobs": 8,
+    "openJobs": 9,
     "domain": "ascendion.com",
     "founded": 2022,
     "teamSize": "5000+",
@@ -7139,7 +7146,7 @@
     "lng": 77.34940486265553,
     "approx": true,
     "hiring": true,
-    "openJobs": 14,
+    "openJobs": 15,
     "domain": "astrotalk.com",
     "founded": 2017,
     "teamSize": "1001-5000",
@@ -8401,8 +8408,7 @@
     "lat": 28.494047815141137,
     "lng": 77.06142916841351,
     "approx": true,
-    "hiring": true,
-    "openJobs": 1,
+    "hiring": false,
     "domain": "baiinfo.in",
     "teamSize": "51-200",
     "careersUrl": "https://baiinfo.in/career/"
@@ -8968,7 +8974,7 @@
     "lng": 77.06467207850046,
     "approx": true,
     "hiring": true,
-    "openJobs": 5,
+    "openJobs": 7,
     "domain": "beanhr.com",
     "founded": 2014,
     "teamSize": "51-200",
@@ -8991,7 +8997,8 @@
     "hiring": true,
     "openJobs": 1,
     "domain": "beanlycoffee.com",
-    "teamSize": "51-200"
+    "teamSize": "51-200",
+    "careersUrl": "https://beanlycoffee.com/pages/careers"
   },
   {
     "slug": "bearing-traders-india-pvt-ltd",
@@ -9756,7 +9763,7 @@
     "lng": 77.38649119865285,
     "approx": true,
     "hiring": true,
-    "openJobs": 5,
+    "openJobs": 7,
     "domain": "biglanguage.com",
     "founded": 2019,
     "teamSize": "501-1000",
@@ -10178,8 +10185,7 @@
     "lat": 28.551063707110465,
     "lng": 77.23013106851664,
     "approx": true,
-    "hiring": true,
-    "openJobs": 1,
+    "hiring": false,
     "domain": "birbal.tech",
     "founded": 2022,
     "teamSize": "11-50",
@@ -11169,7 +11175,7 @@
     "lng": 77.16713759761218,
     "approx": true,
     "hiring": true,
-    "openJobs": 2,
+    "openJobs": 3,
     "founded": 2017,
     "teamSize": "11-50"
   },
@@ -12656,8 +12662,7 @@
     "lat": 28.54368388414259,
     "lng": 77.38180456039805,
     "approx": true,
-    "hiring": true,
-    "openJobs": 1,
+    "hiring": false,
     "domain": "cadopt.com",
     "founded": 2014,
     "teamSize": "201-500",
@@ -13039,7 +13044,8 @@
     "openJobs": 1,
     "domain": "carefi.in",
     "founded": 2021,
-    "teamSize": "51-200"
+    "teamSize": "51-200",
+    "careersUrl": "https://www.linkedin.com/company/care-fi/jobs/"
   },
   {
     "slug": "career-launcher",
@@ -13059,7 +13065,8 @@
     "openJobs": 1,
     "domain": "careerlauncher.com",
     "founded": 1995,
-    "teamSize": "1001-5000"
+    "teamSize": "1001-5000",
+    "careersUrl": "https://www.careerlauncher.com/"
   },
   {
     "slug": "career-point-edutech-limited",
@@ -13200,7 +13207,7 @@
     "lng": 77.22765245832719,
     "approx": true,
     "hiring": true,
-    "openJobs": 2,
+    "openJobs": 1,
     "domain": "carpl.ai",
     "founded": 2018,
     "teamSize": "51-200",
@@ -13944,7 +13951,8 @@
     "openJobs": 1,
     "domain": "cherishx.com",
     "founded": 2015,
-    "teamSize": "51-200"
+    "teamSize": "51-200",
+    "careersUrl": "https://cherishx.com/careers"
   },
   {
     "slug": "chillax-holiday-pvt-ltd",
@@ -14184,7 +14192,7 @@
     "lng": 77.07112137402318,
     "approx": true,
     "hiring": true,
-    "openJobs": 2,
+    "openJobs": 3,
     "domain": "cint.com",
     "teamSize": "501-1000",
     "careersUrl": "https://careers.smartrecruiters.com/Cint?__hstc=76629258.d27ce6328f805645d7c2a3391fa11fd9.1655295312508.1656513387322.1656516193727.6&#038;__hssc=76629258.11.1656516193727&#038;__hsfp=3919350010"
@@ -14797,7 +14805,8 @@
     "openJobs": 1,
     "domain": "clientassociates.com",
     "founded": 2002,
-    "teamSize": "201-500"
+    "teamSize": "201-500",
+    "careersUrl": "https://clientassociates.com/careers"
   },
   {
     "slug": "clifford-chance",
@@ -14891,8 +14900,7 @@
     "lat": 28.612660256704043,
     "lng": 77.17926317054386,
     "approx": true,
-    "hiring": true,
-    "openJobs": 1,
+    "hiring": false,
     "domain": "closerugc.com",
     "founded": 2022,
     "teamSize": "11-50"
@@ -16002,8 +16010,7 @@
     "lat": 28.568845062992175,
     "lng": 77.38501302917524,
     "approx": true,
-    "hiring": true,
-    "openJobs": 1,
+    "hiring": false,
     "domain": "swiftchat.ai",
     "founded": 2014,
     "teamSize": "501-1000",
@@ -16295,8 +16302,7 @@
     "lat": 28.609815737670125,
     "lng": 77.18669035238008,
     "approx": true,
-    "hiring": true,
-    "openJobs": 1,
+    "hiring": false,
     "domain": "CosMic-IT.com",
     "founded": 2011,
     "teamSize": "51-200"
@@ -16861,7 +16867,7 @@
     "lng": 77.37708349422226,
     "approx": true,
     "hiring": true,
-    "openJobs": 2,
+    "openJobs": 3,
     "domain": "credgenics.com",
     "founded": 2018,
     "teamSize": "501-1000",
@@ -17356,7 +17362,8 @@
     "openJobs": 1,
     "domain": "cultureholidays.com",
     "founded": 1999,
-    "teamSize": "51-200"
+    "teamSize": "51-200",
+    "careersUrl": "https://cultureholidays.com/careers"
   },
   {
     "slug": "cumin-co",
@@ -18218,8 +18225,7 @@
     "lat": 28.47980574479885,
     "lng": 77.10930406416597,
     "approx": true,
-    "hiring": true,
-    "openJobs": 1,
+    "hiring": false,
     "domain": "themvp.in",
     "founded": 2015,
     "teamSize": "11-50",
@@ -20367,7 +20373,8 @@
     "hiring": true,
     "openJobs": 1,
     "domain": "domino-printing.com",
-    "teamSize": "1001-5000"
+    "teamSize": "1001-5000",
+    "careersUrl": "https://domino-printing.com/en-gb/careers/domino-careers"
   },
   {
     "slug": "donaldson",
@@ -20544,8 +20551,7 @@
     "lat": 28.46089211833274,
     "lng": 77.11999054100599,
     "approx": true,
-    "hiring": true,
-    "openJobs": 1,
+    "hiring": false,
     "domain": "drmorepenhome.com",
     "teamSize": "11-50"
   },
@@ -20729,7 +20735,7 @@
     "lng": 77.19495289030411,
     "approx": true,
     "hiring": true,
-    "openJobs": 2,
+    "openJobs": 1,
     "domain": "drishtiias.com",
     "teamSize": "1001-5000",
     "careersUrl": "https://www.drishtiias.com/careers"
@@ -20778,8 +20784,7 @@
     "lat": 28.464299332144016,
     "lng": 77.111276935147,
     "approx": true,
-    "hiring": true,
-    "openJobs": 1,
+    "hiring": false,
     "domain": "droneverse.in",
     "founded": 2022,
     "teamSize": "51-200",
@@ -20944,7 +20949,8 @@
     "openJobs": 1,
     "domain": "dyneton.com",
     "founded": 2009,
-    "teamSize": "11-50"
+    "teamSize": "11-50",
+    "careersUrl": "https://dyneton.com/careers.html"
   },
   {
     "slug": "dynotech-instruments-pvt-ltd",
@@ -21019,7 +21025,8 @@
     "openJobs": 1,
     "domain": "dzylo.ai",
     "founded": 2020,
-    "teamSize": "11-50"
+    "teamSize": "11-50",
+    "careersUrl": "https://dzylo.ai/careers"
   },
   {
     "slug": "e-infotech-solutions",
@@ -21966,8 +21973,7 @@
     "lat": 28.435248135748996,
     "lng": 77.10230440660304,
     "approx": true,
-    "hiring": true,
-    "openJobs": 1,
+    "hiring": false,
     "domain": "electronicafinance.com",
     "founded": 1990,
     "teamSize": "1001-5000",
@@ -22459,7 +22465,8 @@
     "lat": 28.567627395751718,
     "lng": 77.33725517129476,
     "approx": true,
-    "hiring": false,
+    "hiring": true,
+    "openJobs": 1,
     "domain": "empor.in",
     "founded": 2016,
     "teamSize": "51-200"
@@ -23425,7 +23432,7 @@
     "lng": 77.04663531944038,
     "approx": true,
     "hiring": true,
-    "openJobs": 2,
+    "openJobs": 3,
     "domain": "euphoricthought.com",
     "founded": 2018,
     "teamSize": "51-200",
@@ -23887,7 +23894,8 @@
     "openJobs": 1,
     "domain": "expatria.in",
     "founded": 2008,
-    "teamSize": "11-50"
+    "teamSize": "11-50",
+    "careersUrl": "https://expatria.in/careers.php"
   },
   {
     "slug": "expedia-group",
@@ -24051,8 +24059,7 @@
     "lat": 28.60204349861356,
     "lng": 77.35256581156038,
     "approx": true,
-    "hiring": true,
-    "openJobs": 1,
+    "hiring": false,
     "domain": "expostandservice.com",
     "founded": 2008,
     "teamSize": "51-200",
@@ -24485,7 +24492,7 @@
     "lng": 77.03995782598051,
     "approx": true,
     "hiring": true,
-    "openJobs": 3,
+    "openJobs": 2,
     "domain": "farsighttechnologies.com",
     "founded": 2017,
     "teamSize": "51-200",
@@ -24608,7 +24615,8 @@
     "openJobs": 1,
     "domain": "favcy.in",
     "founded": 2015,
-    "teamSize": "51-200"
+    "teamSize": "51-200",
+    "careersUrl": "https://www.favcy.in/careers"
   },
   {
     "slug": "faym",
@@ -25246,7 +25254,8 @@
     "openJobs": 1,
     "domain": "fizzpr.com",
     "founded": 2010,
-    "teamSize": "11-50"
+    "teamSize": "11-50",
+    "careersUrl": "https://fizzpr.com/Careers.html"
   },
   {
     "slug": "flags-communications-pvt-ltd",
@@ -25866,7 +25875,7 @@
     "lng": 77.07690600395641,
     "approx": true,
     "hiring": true,
-    "openJobs": 5,
+    "openJobs": 6,
     "domain": "fortinet.com",
     "teamSize": "5000+",
     "careersUrl": "https://fortinet.com/corporate/careers"
@@ -25918,7 +25927,8 @@
     "openJobs": 1,
     "domain": "fitt-iitd.in",
     "founded": 1992,
-    "teamSize": "51-200"
+    "teamSize": "51-200",
+    "careersUrl": "https://fitt-iitd.in/career"
   },
   {
     "slug": "fourth-partner-energy",
@@ -27881,7 +27891,7 @@
     "tier": "startup",
     "hiring": true,
     "careersUrl": "https://google.com/careers",
-    "openJobs": 8
+    "openJobs": 9
   },
   {
     "slug": "google-operations-center",
@@ -28327,8 +28337,7 @@
     "lat": 28.556493745120072,
     "lng": 77.2049024324359,
     "approx": true,
-    "hiring": true,
-    "openJobs": 1,
+    "hiring": false,
     "founded": 2009,
     "teamSize": "11-50"
   },
@@ -28430,7 +28439,7 @@
     "lng": 77.17817665398078,
     "approx": true,
     "hiring": true,
-    "openJobs": 3,
+    "openJobs": 2,
     "domain": "graystone-capital.com",
     "founded": 2010,
     "teamSize": "51-200"
@@ -29284,7 +29293,7 @@
     "lng": 77.3343831635665,
     "approx": true,
     "hiring": true,
-    "openJobs": 4,
+    "openJobs": 5,
     "domain": "hack2skill.com",
     "teamSize": "51-200",
     "careersUrl": "https://hack2skill.com/career"
@@ -29727,7 +29736,7 @@
     "lng": 77.34389416956358,
     "approx": true,
     "hiring": true,
-    "openJobs": 3,
+    "openJobs": 4,
     "domain": "hclfoundation.org",
     "teamSize": "501-1000"
   },
@@ -29777,7 +29786,7 @@
     "founded": 1976,
     "teamSize": "5000+",
     "tier": "startup",
-    "openJobs": 69,
+    "openJobs": 71,
     "hiring": true,
     "careersUrl": "https://hcltech.com/career-shaper"
   },
@@ -29819,7 +29828,7 @@
     "lng": 77.06867772603984,
     "approx": true,
     "hiring": true,
-    "openJobs": 13,
+    "openJobs": 12,
     "domain": "headsupfortails.com",
     "founded": 2008,
     "teamSize": "501-1000",
@@ -29918,7 +29927,7 @@
     "lng": 77.23966692766541,
     "approx": true,
     "hiring": true,
-    "openJobs": 3,
+    "openJobs": 2,
     "domain": "healthy18.com",
     "founded": 2012,
     "teamSize": "11-50",
@@ -30574,7 +30583,7 @@
     "lng": 77.33291135564909,
     "approx": true,
     "hiring": true,
-    "openJobs": 4,
+    "openJobs": 3,
     "domain": "hirealpha.co.in",
     "founded": 2023,
     "teamSize": "11-50",
@@ -31050,7 +31059,7 @@
     "lng": 77.20478438550704,
     "approx": true,
     "hiring": true,
-    "openJobs": 2,
+    "openJobs": 3,
     "domain": "hildevelopers.com",
     "teamSize": "11-50",
     "careersUrl": "https://hildevelopers.com/careers"
@@ -31894,7 +31903,7 @@
     "lng": 77.23216452566817,
     "approx": true,
     "hiring": true,
-    "openJobs": 2,
+    "openJobs": 3,
     "domain": "icf.com",
     "founded": 1969,
     "teamSize": "5000+",
@@ -33979,7 +33988,7 @@
     "lng": 77.34878335808602,
     "approx": true,
     "hiring": true,
-    "openJobs": 8,
+    "openJobs": 9,
     "domain": "innodata.com",
     "founded": 1988,
     "teamSize": "5000+",
@@ -34199,7 +34208,7 @@
     "lng": 77.37260550541441,
     "approx": true,
     "hiring": true,
-    "openJobs": 2,
+    "openJobs": 3,
     "domain": "innovianstechnologies.com",
     "founded": 2012,
     "teamSize": "11-50",
@@ -35907,7 +35916,7 @@
     "lng": 77.18271119263858,
     "approx": true,
     "hiring": true,
-    "openJobs": 1,
+    "openJobs": 2,
     "domain": "jsheld.com",
     "teamSize": "1001-5000"
   },
@@ -36471,7 +36480,7 @@
     "lng": 77.17111847488792,
     "approx": true,
     "hiring": true,
-    "openJobs": 2,
+    "openJobs": 3,
     "domain": "journeyrouters.com",
     "founded": 2017,
     "teamSize": "51-200"
@@ -36636,8 +36645,7 @@
     "lat": 28.45229343880071,
     "lng": 77.2820712725759,
     "approx": true,
-    "hiring": true,
-    "openJobs": 1,
+    "hiring": false,
     "domain": "jsmgroup.com",
     "founded": 1998,
     "teamSize": "201-500",
@@ -37420,8 +37428,7 @@
     "lat": 28.584202087184362,
     "lng": 77.19356694755866,
     "approx": true,
-    "hiring": true,
-    "openJobs": 1,
+    "hiring": false,
     "domain": "keithelectronics.com",
     "founded": 1980,
     "teamSize": "51-200",
@@ -37450,7 +37457,8 @@
     "openJobs": 1,
     "domain": "kenovate.com",
     "founded": 2003,
-    "teamSize": "11-50"
+    "teamSize": "11-50",
+    "careersUrl": "https://kenovate.com/careers.html"
   },
   {
     "slug": "kerten-hospitality",
@@ -38081,7 +38089,8 @@
     "hiring": true,
     "openJobs": 1,
     "domain": "konrad.com",
-    "teamSize": "501-1000"
+    "teamSize": "501-1000",
+    "careersUrl": "https://konrad.com/careers"
   },
   {
     "slug": "konverz-ai",
@@ -38359,8 +38368,7 @@
     "lat": 28.43461978072052,
     "lng": 77.07750613358714,
     "approx": true,
-    "hiring": true,
-    "openJobs": 1,
+    "hiring": false,
     "domain": "kukdukoo.com",
     "founded": 2019,
     "teamSize": "11-50"
@@ -38823,7 +38831,7 @@
     "lng": 77.2073009930702,
     "approx": true,
     "hiring": true,
-    "openJobs": 1,
+    "openJobs": 2,
     "domain": "larsmedicare.com",
     "founded": 2005,
     "teamSize": "201-500",
@@ -39887,7 +39895,7 @@
     "tier": "startup",
     "hiring": true,
     "careersUrl": "https://www.loomsolar.com/pages/careers",
-    "openJobs": 8
+    "openJobs": 12
   },
   {
     "slug": "loop-subscriptions",
@@ -40021,7 +40029,7 @@
     "lng": 77.24505372583846,
     "approx": true,
     "hiring": true,
-    "openJobs": 1,
+    "openJobs": 2,
     "domain": "louderx.com",
     "founded": 2008,
     "teamSize": "51-200"
@@ -40100,7 +40108,8 @@
     "openJobs": 1,
     "domain": "lrenergy.in",
     "founded": 2016,
-    "teamSize": "51-200"
+    "teamSize": "51-200",
+    "careersUrl": "https://lrenergy.in/career"
   },
   {
     "slug": "lrqa",
@@ -40559,7 +40568,8 @@
     "openJobs": 4,
     "domain": "mmoser.com",
     "founded": 1981,
-    "teamSize": "1001-5000"
+    "teamSize": "1001-5000",
+    "careersUrl": "https://www.mmoser.com/careers/"
   },
   {
     "slug": "m-o-l-e-d-r-o",
@@ -40724,7 +40734,7 @@
     "lng": 77.34706313574283,
     "approx": true,
     "hiring": true,
-    "openJobs": 15,
+    "openJobs": 16,
     "domain": "magnongroup.com",
     "founded": 2000,
     "teamSize": "501-1000",
@@ -40745,7 +40755,7 @@
     "lng": 77.10569231762378,
     "approx": true,
     "hiring": true,
-    "openJobs": 1,
+    "openJobs": 3,
     "domain": "mapsvasundhara.edu.in",
     "teamSize": "11-50",
     "careersUrl": "https://mapsvasundhara.edu.in/careers"
@@ -43144,7 +43154,7 @@
     "lng": 77.22745473030187,
     "approx": true,
     "hiring": true,
-    "openJobs": 1,
+    "openJobs": 2,
     "domain": "mindmeadow.in",
     "founded": 2022,
     "teamSize": "51-200",
@@ -44198,7 +44208,8 @@
     "hiring": true,
     "openJobs": 1,
     "domain": "mska.in",
-    "teamSize": "201-500"
+    "teamSize": "201-500",
+    "careersUrl": "https://www.mska.in/wp-content/plugins/career-work-with-us/css/sumuixcplugin.css?ver=6.8.9"
   },
   {
     "slug": "mstreet-investments",
@@ -44642,7 +44653,8 @@
     "openJobs": 1,
     "domain": "mycommsglobal.com",
     "founded": 2023,
-    "teamSize": "11-50"
+    "teamSize": "11-50",
+    "careersUrl": "https://www.mycommsglobal.com/careers"
   },
   {
     "slug": "myfollocom",
@@ -44710,7 +44722,7 @@
     "lng": 77.09467885993305,
     "approx": true,
     "hiring": true,
-    "openJobs": 2,
+    "openJobs": 3,
     "domain": "myhq.in",
     "founded": 2016,
     "teamSize": "201-500"
@@ -45377,7 +45389,7 @@
     "lng": 77.07388221364208,
     "approx": true,
     "hiring": true,
-    "openJobs": 4,
+    "openJobs": 5,
     "domain": "neolytix.com",
     "founded": 2012,
     "teamSize": "201-500",
@@ -45665,7 +45677,8 @@
     "openJobs": 1,
     "domain": "neuherbs.com",
     "founded": 2016,
-    "teamSize": "51-200"
+    "teamSize": "51-200",
+    "careersUrl": "https://neuherbs.com/pages/careers"
   },
   {
     "slug": "neurealm",
@@ -46167,7 +46180,8 @@
     "hiring": true,
     "openJobs": 1,
     "domain": "nexusgroup.bh",
-    "teamSize": "11-50"
+    "teamSize": "11-50",
+    "careersUrl": "https://nexusgroup.bh/careers"
   },
   {
     "slug": "nexus-infra-and-energy-pvt-ltd",
@@ -46255,7 +46269,7 @@
     "lng": 77.19374977876585,
     "approx": true,
     "hiring": true,
-    "openJobs": 2,
+    "openJobs": 3,
     "domain": "nicobar.com",
     "founded": 2016,
     "teamSize": "201-500",
@@ -47234,8 +47248,7 @@
     "lat": 28.560003817702437,
     "lng": 77.2125990364819,
     "approx": true,
-    "hiring": true,
-    "openJobs": 1,
+    "hiring": false,
     "domain": "nuswipe.in",
     "founded": 2022,
     "teamSize": "11-50",
@@ -49880,7 +49893,7 @@
     "tier": "startup",
     "hiring": true,
     "careersUrl": "https://paytm.com/careers/",
-    "openJobs": 6
+    "openJobs": 7
   },
   {
     "slug": "paytm-payment-gateway",
@@ -50198,7 +50211,8 @@
     "hiring": true,
     "openJobs": 1,
     "domain": "peko.one",
-    "teamSize": "51-200"
+    "teamSize": "51-200",
+    "careersUrl": "https://peko.one/careers"
   },
   {
     "slug": "pentair",
@@ -50583,7 +50597,8 @@
     "founded": 2021,
     "teamSize": "51-200",
     "tier": "startup",
-    "hiring": false
+    "hiring": true,
+    "openJobs": 6
   },
   {
     "slug": "perkinelmer",
@@ -50924,7 +50939,7 @@
     "lng": 77.09697173302045,
     "approx": true,
     "hiring": true,
-    "openJobs": 13,
+    "openJobs": 8,
     "domain": "pineswift.com",
     "teamSize": "51-200"
   },
@@ -51155,7 +51170,8 @@
     "hiring": true,
     "openJobs": 1,
     "domain": "PlanAtechnologies.com",
-    "teamSize": "201-500"
+    "teamSize": "201-500",
+    "careersUrl": "https://planatechnologies.com/careers"
   },
   {
     "slug": "plan-india",
@@ -51203,7 +51219,7 @@
     "lng": 77.09963937411564,
     "approx": true,
     "hiring": true,
-    "openJobs": 19,
+    "openJobs": 18,
     "domain": "shorturl.at",
     "founded": 2017,
     "teamSize": "5000+"
@@ -51324,8 +51340,7 @@
     "lat": 28.48848412630864,
     "lng": 77.10475887215621,
     "approx": true,
-    "hiring": true,
-    "openJobs": 1,
+    "hiring": false,
     "founded": 2016,
     "teamSize": "51-200"
   },
@@ -51365,7 +51380,7 @@
     "lng": 77.10489069719162,
     "approx": true,
     "hiring": true,
-    "openJobs": 5,
+    "openJobs": 6,
     "domain": "pluswealth.com",
     "founded": 2008,
     "teamSize": "51-200",
@@ -51389,7 +51404,8 @@
     "openJobs": 1,
     "domain": "plutomobility.in",
     "founded": 2024,
-    "teamSize": "11-50"
+    "teamSize": "11-50",
+    "careersUrl": "https://careers.plutomobility.in/"
   },
   {
     "slug": "pocketpills",
@@ -52455,7 +52471,7 @@
     "lng": 77.06825311891882,
     "approx": true,
     "hiring": true,
-    "openJobs": 4,
+    "openJobs": 5,
     "domain": "programmers.io",
     "founded": 2012,
     "teamSize": "1001-5000",
@@ -52569,7 +52585,7 @@
     "lng": 77.32695086724202,
     "approx": true,
     "hiring": true,
-    "openJobs": 9,
+    "openJobs": 10,
     "domain": "propkarmaa.com",
     "founded": 2022,
     "teamSize": "51-200",
@@ -53653,7 +53669,8 @@
     "openJobs": 1,
     "domain": "quantumitinnovation.com",
     "founded": 2010,
-    "teamSize": "51-200"
+    "teamSize": "51-200",
+    "careersUrl": "https://quantumitinnovation.com/careers"
   },
   {
     "slug": "quantum-smt-technologies-pvt-ltd",
@@ -54065,7 +54082,7 @@
     "founded": 2018,
     "teamSize": "51-200",
     "tier": "startup",
-    "openJobs": 4,
+    "openJobs": 2,
     "hiring": true,
     "careersUrl": "https://ragecoffee.com/pages/career-opportunities"
   },
@@ -54233,8 +54250,7 @@
     "lat": 28.561631711586074,
     "lng": 77.34752661936403,
     "approx": true,
-    "hiring": true,
-    "openJobs": 1,
+    "hiring": false,
     "domain": "ramalayaglobal.com",
     "founded": 2019,
     "teamSize": "51-200"
@@ -59068,7 +59084,8 @@
     "openJobs": 1,
     "domain": "seraphimcommunications.com",
     "founded": 2018,
-    "teamSize": "11-50"
+    "teamSize": "11-50",
+    "careersUrl": "https://seraphimcommunications.com/careers"
   },
   {
     "slug": "sereko",
@@ -59322,7 +59339,7 @@
     "lng": 77.06749360642935,
     "approx": true,
     "hiring": true,
-    "openJobs": 3,
+    "openJobs": 5,
     "domain": "sharadaconsultancy.com",
     "teamSize": "51-200"
   },
@@ -59682,7 +59699,8 @@
     "hiring": true,
     "openJobs": 1,
     "domain": "shribalajienterprises.com",
-    "teamSize": "51-200"
+    "teamSize": "51-200",
+    "careersUrl": "https://shribalajienterprises.com/careers"
   },
   {
     "slug": "shri-paramani-jewels",
@@ -59791,7 +59809,8 @@
     "openJobs": 1,
     "domain": "shyftlabs.io",
     "founded": 2018,
-    "teamSize": "201-500"
+    "teamSize": "201-500",
+    "careersUrl": "https://jobs.lever.co/shyftlabs"
   },
   {
     "slug": "siama-skincare",
@@ -60645,7 +60664,7 @@
     "lng": 77.36714038050287,
     "approx": true,
     "hiring": true,
-    "openJobs": 3,
+    "openJobs": 4,
     "domain": "sew.ai",
     "founded": 2012,
     "teamSize": "1001-5000",
@@ -61464,7 +61483,7 @@
     "lng": 77.10132541377537,
     "approx": true,
     "hiring": true,
-    "openJobs": 10,
+    "openJobs": 9,
     "domain": "songdew.com",
     "teamSize": "51-200",
     "careersUrl": "https://songdew.com/careers"
@@ -61850,7 +61869,8 @@
     "openJobs": 1,
     "domain": "sparshsecuritech.com",
     "founded": 2002,
-    "teamSize": "201-500"
+    "teamSize": "201-500",
+    "careersUrl": "https://sparshsecuritech.com/pages/career"
   },
   {
     "slug": "spatial-decisions",
@@ -63681,8 +63701,7 @@
     "lat": 28.47462622377543,
     "lng": 77.05423194261294,
     "approx": true,
-    "hiring": true,
-    "openJobs": 1,
+    "hiring": false,
     "domain": "studyark.in",
     "founded": 2012,
     "teamSize": "11-50"
@@ -63914,7 +63933,8 @@
     "openJobs": 1,
     "domain": "sumaroh.com",
     "founded": 2017,
-    "teamSize": "11-50"
+    "teamSize": "11-50",
+    "careersUrl": "https://sumaroh.com/careers"
   },
   {
     "slug": "sumo-logic",
@@ -64712,7 +64732,7 @@
     "lng": 77.22559048308447,
     "approx": true,
     "hiring": true,
-    "openJobs": 78,
+    "openJobs": 79,
     "domain": "systra.com",
     "teamSize": "5000+",
     "careersUrl": "https://systra.com/careers"
@@ -64983,7 +65003,7 @@
     "lng": 77.23301807468349,
     "approx": true,
     "hiring": true,
-    "openJobs": 13,
+    "openJobs": 14,
     "domain": "talentcorner.in",
     "founded": 2002,
     "teamSize": "1001-5000"
@@ -65153,7 +65173,8 @@
     "openJobs": 1,
     "domain": "tantranzm.com",
     "founded": 2016,
-    "teamSize": "51-200"
+    "teamSize": "51-200",
+    "careersUrl": "https://tantranzm.com/careers"
   },
   {
     "slug": "tare-zameen-foundation",
@@ -68222,7 +68243,7 @@
     "lng": 77.08769609799866,
     "approx": true,
     "hiring": true,
-    "openJobs": 7,
+    "openJobs": 6,
     "domain": "tractebel-engie.com",
     "teamSize": "5000+",
     "careersUrl": "https://tractebel-engie.com/en/careers/"
@@ -68634,7 +68655,7 @@
     "lng": 77.37152063974288,
     "approx": true,
     "hiring": true,
-    "openJobs": 4,
+    "openJobs": 3,
     "domain": "traviyo.com",
     "founded": 2016,
     "teamSize": "51-200",
@@ -70427,7 +70448,8 @@
     "openJobs": 1,
     "domain": "uplevyl.com",
     "founded": 2021,
-    "teamSize": "11-50"
+    "teamSize": "11-50",
+    "careersUrl": "https://uplevyl.com/team#career"
   },
   {
     "slug": "upsell-ecommerce",
@@ -71343,7 +71365,7 @@
     "lng": 77.06811006302823,
     "approx": true,
     "hiring": true,
-    "openJobs": 2,
+    "openJobs": 1,
     "domain": "vashiisl.com",
     "founded": 1978,
     "teamSize": "1001-5000",
@@ -71460,8 +71482,7 @@
     "lat": 28.499867481067966,
     "lng": 77.08558711772616,
     "approx": true,
-    "hiring": true,
-    "openJobs": 1,
+    "hiring": false,
     "domain": "vaynermedia.com",
     "founded": 2009,
     "teamSize": "1001-5000",
@@ -71507,7 +71528,7 @@
     "lng": 77.35209395566795,
     "approx": true,
     "hiring": true,
-    "openJobs": 4,
+    "openJobs": 5,
     "domain": "vayuz.com",
     "founded": 2015,
     "teamSize": "51-200",
@@ -71815,7 +71836,8 @@
     "openJobs": 1,
     "domain": "venturescommunications.com",
     "founded": 1985,
-    "teamSize": "51-200"
+    "teamSize": "51-200",
+    "careersUrl": "https://venturescommunications.com/career/"
   },
   {
     "slug": "veranda-highered",
@@ -71959,7 +71981,7 @@
     "lng": 77.23593437547517,
     "approx": true,
     "hiring": true,
-    "openJobs": 2,
+    "openJobs": 3,
     "domain": "versa-networks.com",
     "founded": 2012,
     "teamSize": "501-1000"
@@ -73460,8 +73482,7 @@
     "lat": 28.56294804066124,
     "lng": 77.21881547603431,
     "approx": true,
-    "hiring": true,
-    "openJobs": 1,
+    "hiring": false,
     "domain": "webeesocial.com",
     "founded": 2015,
     "teamSize": "11-50"
@@ -73794,7 +73815,7 @@
     "lng": 77.0878324629434,
     "approx": true,
     "hiring": true,
-    "openJobs": 6,
+    "openJobs": 7,
     "domain": "welocalize.com",
     "teamSize": "5000+",
     "careersUrl": "https://jobs.lever.co/weloglobal?department=Welocalize"
@@ -75114,7 +75135,7 @@
     "lng": 77.3567964458591,
     "approx": true,
     "hiring": true,
-    "openJobs": 208,
+    "openJobs": 207,
     "domain": "wsp.com",
     "founded": 1959,
     "teamSize": "1001-5000"
@@ -75547,7 +75568,7 @@
     "lng": 77.26942450799042,
     "approx": true,
     "hiring": true,
-    "openJobs": 2,
+    "openJobs": 3,
     "domain": "ymsl.in",
     "founded": 2002,
     "teamSize": "1001-5000"
@@ -75968,7 +75989,8 @@
     "openJobs": 1,
     "domain": "z-techindia.com",
     "founded": 1994,
-    "teamSize": "51-200"
+    "teamSize": "51-200",
+    "careersUrl": "https://www.z-techindia.com/jobs-2"
   },
   {
     "slug": "z1-tech",
