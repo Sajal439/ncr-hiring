@@ -21,6 +21,20 @@
       "source": "careers"
     }
   ],
+  "athena-education": [
+    {
+      "title": "Associate/ Associate Manager - Writing",
+      "url": "https://jobs.lever.co/athena-education/8f9cb4b5-155f-4eae-8f77-ef801a4110da",
+      "location": "Gurugram",
+      "source": "careers"
+    },
+    {
+      "title": "Technical Director- Writing",
+      "url": "https://jobs.lever.co/athena-education/4b1432e7-7ed4-4502-9441-506861d6ebe9",
+      "location": "Gurugram",
+      "source": "careers"
+    }
+  ],
   "trackier": [
     {
       "title": "Business Development Representative",
@@ -65,57 +79,11 @@
       "source": "careers"
     }
   ],
-  "primevigilance": [
+  "smart-working": [
     {
-      "title": "Finance Project Coordinator",
-      "url": "https://careers.smartrecruiters.com/Ergomed/744000147199784",
-      "location": "Noida, in",
-      "source": "careers"
-    }
-  ],
-  "wizikey": [
-    {
-      "title": "Sales Executive - B2B SaaS",
-      "url": "https://careers.smartrecruiters.com/Wizikey/744000150346079",
-      "location": "Gurugram, in",
-      "source": "careers"
-    },
-    {
-      "title": "Sales Manager – B2B SaaS",
-      "url": "https://careers.smartrecruiters.com/Wizikey/744000148672349",
-      "location": "Gurugram, in",
-      "source": "careers"
-    },
-    {
-      "title": "Sales Manager – Media Sales & Advertising Sales( 4-8 yrs)",
-      "url": "https://careers.smartrecruiters.com/Wizikey/744000147203109",
-      "location": "Gurugram, in",
-      "source": "careers"
-    }
-  ],
-  "ontic": [
-    {
-      "title": "Staff Engineer - UI",
-      "url": "https://jobs.ashbyhq.com/Ontic/e3c570d0-688d-4385-99fd-9f5fb6643e61",
-      "location": "Noida, India",
-      "source": "careers"
-    },
-    {
-      "title": "Software Engineer",
-      "url": "https://jobs.ashbyhq.com/Ontic/0426253f-e03c-4d57-be4c-ea02fdab7097",
-      "location": "Noida / Pune",
-      "source": "careers"
-    },
-    {
-      "title": "Senior Software Engineer - UI",
-      "url": "https://jobs.ashbyhq.com/Ontic/800142fe-93e2-42fd-9af4-0084ea813a41",
-      "location": "Noida, India",
-      "source": "careers"
-    },
-    {
-      "title": "Manager, Product Design",
-      "url": "https://jobs.ashbyhq.com/Ontic/d47d7285-75bd-43cb-87e4-f06070249283",
-      "location": "Noida, India",
+      "title": "Lead PHP/Symfony Engineer (Remote, Full-Time) - [HR191]",
+      "url": "https://jobs.lever.co/smart-working-solutions/eb63f1a9-443b-48a4-88ec-99c8516a8c06",
+      "location": "Noida",
       "source": "careers"
     }
   ],
@@ -207,17 +175,107 @@
       "source": "careers"
     }
   ],
-  "athena-education": [
+  "ontic": [
     {
-      "title": "Associate/ Associate Manager - Writing",
-      "url": "https://jobs.lever.co/athena-education/8f9cb4b5-155f-4eae-8f77-ef801a4110da",
-      "location": "Gurugram",
+      "title": "Staff Engineer - UI",
+      "url": "https://jobs.ashbyhq.com/Ontic/e3c570d0-688d-4385-99fd-9f5fb6643e61",
+      "location": "Noida, India",
       "source": "careers"
     },
     {
-      "title": "Technical Director- Writing",
-      "url": "https://jobs.lever.co/athena-education/4b1432e7-7ed4-4502-9441-506861d6ebe9",
-      "location": "Gurugram",
+      "title": "Software Engineer",
+      "url": "https://jobs.ashbyhq.com/Ontic/0426253f-e03c-4d57-be4c-ea02fdab7097",
+      "location": "Noida / Pune",
+      "source": "careers"
+    },
+    {
+      "title": "Senior Software Engineer - UI",
+      "url": "https://jobs.ashbyhq.com/Ontic/800142fe-93e2-42fd-9af4-0084ea813a41",
+      "location": "Noida, India",
+      "source": "careers"
+    },
+    {
+      "title": "Manager, Product Design",
+      "url": "https://jobs.ashbyhq.com/Ontic/d47d7285-75bd-43cb-87e4-f06070249283",
+      "location": "Noida, India",
+      "source": "careers"
+    }
+  ],
+  "primevigilance": [
+    {
+      "title": "Finance Project Coordinator",
+      "url": "https://careers.smartrecruiters.com/Ergomed/744000147199784",
+      "location": "Noida, in",
+      "source": "careers"
+    }
+  ],
+  "alphasense": [
+    {
+      "title": "Compliance Analyst",
+      "url": "https://job-boards.greenhouse.io/alphasense/jobs/8630664002",
+      "location": "Delhi",
+      "source": "careers"
+    },
+    {
+      "title": "Compliance Analyst, Expert Network",
+      "url": "https://job-boards.greenhouse.io/alphasense/jobs/8693025002",
+      "location": "Delhi",
+      "source": "careers"
+    },
+    {
+      "title": "Content Analyst",
+      "url": "https://job-boards.greenhouse.io/alphasense/jobs/8025882002",
+      "location": "Delhi",
+      "source": "careers"
+    },
+    {
+      "title": "Engineer II - Information Engineer",
+      "url": "https://job-boards.greenhouse.io/alphasense/jobs/8576243002",
+      "location": "Delhi",
+      "source": "careers"
+    },
+    {
+      "title": "Join AlphaSense India Talent Community",
+      "url": "https://job-boards.greenhouse.io/alphasense/jobs/7119398002",
+      "location": "Delhi",
+      "source": "careers"
+    },
+    {
+      "title": "Security Automation Engineer",
+      "url": "https://job-boards.greenhouse.io/alphasense/jobs/8644546002",
+      "location": "Delhi",
+      "source": "careers"
+    },
+    {
+      "title": "Senior Enterprise Security Architect",
+      "url": "https://job-boards.greenhouse.io/alphasense/jobs/8634070002",
+      "location": "Delhi",
+      "source": "careers"
+    },
+    {
+      "title": "Staff Site Reliability Engineer",
+      "url": "https://job-boards.greenhouse.io/alphasense/jobs/8358708002",
+      "location": "Delhi",
+      "source": "careers"
+    }
+  ],
+  "wizikey": [
+    {
+      "title": "Sales Executive - B2B SaaS",
+      "url": "https://careers.smartrecruiters.com/Wizikey/744000150346079",
+      "location": "Gurugram, in",
+      "source": "careers"
+    },
+    {
+      "title": "Sales Manager – B2B SaaS",
+      "url": "https://careers.smartrecruiters.com/Wizikey/744000148672349",
+      "location": "Gurugram, in",
+      "source": "careers"
+    },
+    {
+      "title": "Sales Manager – Media Sales & Advertising Sales( 4-8 yrs)",
+      "url": "https://careers.smartrecruiters.com/Wizikey/744000147203109",
+      "location": "Gurugram, in",
       "source": "careers"
     }
   ],
@@ -301,81 +359,35 @@
       "source": "careers"
     }
   ],
-  "alphasense": [
+  "welocalize": [
     {
-      "title": "Compliance Analyst",
-      "url": "https://job-boards.greenhouse.io/alphasense/jobs/8630664002",
-      "location": "Delhi",
+      "title": "Associate Project Manager- Gen AI Operations",
+      "url": "https://jobs.lever.co/weloglobal/b1e0450f-3f8e-4c0d-8db5-f2e40278f8fa",
+      "location": "Gurgaon, India",
       "source": "careers"
     },
     {
-      "title": "Compliance Analyst, Expert Network",
-      "url": "https://job-boards.greenhouse.io/alphasense/jobs/8693025002",
-      "location": "Delhi",
+      "title": "Associate Technical Publication Engineer",
+      "url": "https://jobs.lever.co/weloglobal/7903f79a-fe0f-46e3-ac8b-83b607574453",
+      "location": "Gurgaon, India",
       "source": "careers"
     },
     {
-      "title": "Content Analyst",
-      "url": "https://job-boards.greenhouse.io/alphasense/jobs/8025882002",
-      "location": "Delhi",
+      "title": "Hindi Linguist",
+      "url": "https://jobs.lever.co/weloglobal/b1209960-15d0-4bca-883f-0304548215c0",
+      "location": "Gurgaon, India",
       "source": "careers"
     },
     {
-      "title": "Engineer II - Information Engineer",
-      "url": "https://job-boards.greenhouse.io/alphasense/jobs/8576243002",
-      "location": "Delhi",
+      "title": "IT Support Engineer",
+      "url": "https://jobs.lever.co/weloglobal/952e6188-856a-490a-bf4d-d7e2b0ff484f",
+      "location": "Gurgaon, India",
       "source": "careers"
     },
     {
-      "title": "Join AlphaSense India Talent Community",
-      "url": "https://job-boards.greenhouse.io/alphasense/jobs/7119398002",
-      "location": "Delhi",
-      "source": "careers"
-    },
-    {
-      "title": "Security Automation Engineer",
-      "url": "https://job-boards.greenhouse.io/alphasense/jobs/8644546002",
-      "location": "Delhi",
-      "source": "careers"
-    },
-    {
-      "title": "Senior Enterprise Security Architect",
-      "url": "https://job-boards.greenhouse.io/alphasense/jobs/8634070002",
-      "location": "Delhi",
-      "source": "careers"
-    },
-    {
-      "title": "Staff Site Reliability Engineer",
-      "url": "https://job-boards.greenhouse.io/alphasense/jobs/8358708002",
-      "location": "Delhi",
-      "source": "careers"
-    }
-  ],
-  "smart-working": [
-    {
-      "title": "Lead PHP/Symfony Engineer (Remote, Full-Time) - [HR191]",
-      "url": "https://jobs.lever.co/smart-working-solutions/eb63f1a9-443b-48a4-88ec-99c8516a8c06",
-      "location": "Noida",
-      "source": "careers"
-    }
-  ],
-  "cint": [
-    {
-      "title": "Manager, Salesforce Administration",
-      "url": "https://careers.smartrecruiters.com/Cint/744000150418969",
-      "location": "Gurugram, in",
-      "source": "careers"
-    },
-    {
-      "title": "Scrum Master / Delivery Coach",
-      "url": "https://careers.smartrecruiters.com/Cint/744000148535525",
-      "location": "Gurugram, in",
-      "source": "careers"
-    },
-    {
-      "title": "Survey Programming Consultant",
-      "url": "https://careers.smartrecruiters.com/Cint/744000148325771",
-      "location": "Gurugram, in",
+      "title": "Senior Project Manager - Generative AI Data Operations",
+      "url": "https://jobs.lever.co/weloglobal/38fe5666-344b-4917-bdfa-88a0bfcc4bf4",
+      "location": "Gurgaon, India",
       "source": "careers"
     }
   ],
@@ -435,35 +447,23 @@
       "source": "careers"
     }
   ],
-  "welocalize": [
+  "cint": [
     {
-      "title": "Associate Project Manager- Gen AI Operations",
-      "url": "https://jobs.lever.co/weloglobal/b1e0450f-3f8e-4c0d-8db5-f2e40278f8fa",
-      "location": "Gurgaon, India",
+      "title": "Manager, Salesforce Administration",
+      "url": "https://careers.smartrecruiters.com/Cint/744000150418969",
+      "location": "Gurugram, in",
       "source": "careers"
     },
     {
-      "title": "Associate Technical Publication Engineer",
-      "url": "https://jobs.lever.co/weloglobal/7903f79a-fe0f-46e3-ac8b-83b607574453",
-      "location": "Gurgaon, India",
+      "title": "Scrum Master / Delivery Coach",
+      "url": "https://careers.smartrecruiters.com/Cint/744000148535525",
+      "location": "Gurugram, in",
       "source": "careers"
     },
     {
-      "title": "Hindi Linguist",
-      "url": "https://jobs.lever.co/weloglobal/b1209960-15d0-4bca-883f-0304548215c0",
-      "location": "Gurgaon, India",
-      "source": "careers"
-    },
-    {
-      "title": "IT Support Engineer",
-      "url": "https://jobs.lever.co/weloglobal/952e6188-856a-490a-bf4d-d7e2b0ff484f",
-      "location": "Gurgaon, India",
-      "source": "careers"
-    },
-    {
-      "title": "Senior Project Manager - Generative AI Data Operations",
-      "url": "https://jobs.lever.co/weloglobal/38fe5666-344b-4917-bdfa-88a0bfcc4bf4",
-      "location": "Gurgaon, India",
+      "title": "Survey Programming Consultant",
+      "url": "https://careers.smartrecruiters.com/Cint/744000148325771",
+      "location": "Gurugram, in",
       "source": "careers"
     }
   ]

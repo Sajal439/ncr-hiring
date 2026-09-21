@@ -1596,7 +1596,7 @@
     "company": "Infoskaters Technologies Private Limited",
     "location": "Chennai, Delhi, Kolkata, Hyderabad, Mumbai, Bangarapet",
     "url": "https://internshala.com/job/detail/fresher-part-time-hr-manager-hrm-job-in-multiple-locations-at-infoskaters-technologies-private-limited1788352073",
-    "actively_hiring": true
+    "actively_hiring": false
   },
   {
     "kind": "job",
@@ -9101,6 +9101,88 @@
     "company": "AY Homes Estates",
     "location": "Delhi, Noida",
     "url": "https://internshala.com/job/detail/client-acquisition-executive-job-in-delhi-at-ay-homes-estates1789642262",
+    "actively_hiring": true
+  },
+  {
+    "kind": "internship",
+    "title": "Search Engine Optimization (SEO)",
+    "company": "Trakaff",
+    "location": "Delhi",
+    "stipend": "₹ 4,000 - 5,000 /month",
+    "duration": "6 Months",
+    "url": "https://internshala.com/internship/detail/search-engine-optimization-seo-internship-in-delhi-at-trakaff1789884544",
+    "actively_hiring": true
+  },
+  {
+    "kind": "internship",
+    "title": "Cinematography",
+    "company": "Digital Guruji",
+    "location": "Delhi",
+    "stipend": "₹ 12,000 /month",
+    "duration": "4 Months",
+    "url": "https://internshala.com/internship/detail/cinematography-internship-in-delhi-at-digital-guruji1789966025",
+    "actively_hiring": true
+  },
+  {
+    "kind": "internship",
+    "title": "Business Development (Sales)",
+    "company": "Go Productions",
+    "location": "Delhi",
+    "stipend": "₹ 10,000 - 15,000 /month",
+    "duration": "3 Months",
+    "url": "https://internshala.com/internship/detail/business-development-sales-internship-in-delhi-at-go-productions1788938466",
+    "actively_hiring": false
+  },
+  {
+    "kind": "internship",
+    "title": "CA Articleship",
+    "company": "Qurratulain Iftekhar",
+    "location": "Delhi",
+    "stipend": "₹ 40,000 - 50,000 /month",
+    "duration": "4 Months",
+    "url": "https://internshala.com/internship/detail/ca-articleship-internship-in-delhi-at-qurratulain-iftekhar1789917131",
+    "actively_hiring": false
+  },
+  {
+    "kind": "internship",
+    "title": "Digital Marketing",
+    "company": "Trakaff",
+    "location": "Delhi",
+    "stipend": "₹ 4,000 - 5,000 /month",
+    "duration": "6 Months",
+    "url": "https://internshala.com/internship/detail/digital-marketing-internship-in-delhi-at-trakaff1789884192",
+    "actively_hiring": true
+  },
+  {
+    "kind": "job",
+    "title": "Female Sales Executive",
+    "company": "Gaurav Enterprises",
+    "location": "Delhi",
+    "url": "https://internshala.com/job/detail/fresher-part-time-female-sales-executive-job-in-delhi-at-gaurav-enterprises1789638660",
+    "actively_hiring": true
+  },
+  {
+    "kind": "job",
+    "title": "Customer Support Associate",
+    "company": "Ayurveda House Private Limited",
+    "location": "Delhi",
+    "url": "https://internshala.com/job/detail/fresher-customer-support-associate-job-in-delhi-at-ayurveda-house-private-limited1789964321",
+    "actively_hiring": true
+  },
+  {
+    "kind": "job",
+    "title": "Influencer Marketing Specialist - Outreach",
+    "company": "VuduCom",
+    "location": "Gurgaon, Delhi",
+    "url": "https://internshala.com/job/detail/influencer-marketing-specialist-outreach-job-in-gurgaon-at-vuducom1789805530",
+    "actively_hiring": true
+  },
+  {
+    "kind": "job",
+    "title": "Senior Telecaller",
+    "company": "Soar Education",
+    "location": "Noida",
+    "url": "https://internshala.com/job/detail/senior-telecaller-job-in-noida-at-soar-education1789964444",
     "actively_hiring": true
   }
 ]
