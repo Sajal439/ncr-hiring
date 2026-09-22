@@ -79,14 +79,6 @@
       "source": "careers"
     }
   ],
-  "smart-working": [
-    {
-      "title": "Lead PHP/Symfony Engineer (Remote, Full-Time) - [HR191]",
-      "url": "https://jobs.lever.co/smart-working-solutions/eb63f1a9-443b-48a4-88ec-99c8516a8c06",
-      "location": "Noida",
-      "source": "careers"
-    }
-  ],
   "paypay-india": [
     {
       "title": "01.Backend Engineer",
@@ -155,23 +147,11 @@
       "source": "careers"
     }
   ],
-  "map": [
+  "smart-working": [
     {
-      "title": "AEM - UI EDS - Consultant",
-      "url": "https://job-boards.greenhouse.io/map/jobs/8706872002",
-      "location": "New Delhi, India",
-      "source": "careers"
-    },
-    {
-      "title": "Lead QA Engineer",
-      "url": "https://job-boards.greenhouse.io/map/jobs/8441199002",
-      "location": "New Delhi, Delhi, India",
-      "source": "careers"
-    },
-    {
-      "title": "Senior QA Engineer (automation) Contractor",
-      "url": "https://job-boards.greenhouse.io/map/jobs/8630694002",
-      "location": "New Delhi, India",
+      "title": "Lead PHP/Symfony Engineer (Remote, Full-Time) - [HR191]",
+      "url": "https://jobs.lever.co/smart-working-solutions/eb63f1a9-443b-48a4-88ec-99c8516a8c06",
+      "location": "Noida",
       "source": "careers"
     }
   ],
@@ -198,6 +178,26 @@
       "title": "Manager, Product Design",
       "url": "https://jobs.ashbyhq.com/Ontic/d47d7285-75bd-43cb-87e4-f06070249283",
       "location": "Noida, India",
+      "source": "careers"
+    }
+  ],
+  "map": [
+    {
+      "title": "AEM - UI EDS - Consultant",
+      "url": "https://job-boards.greenhouse.io/map/jobs/8706872002",
+      "location": "New Delhi, India",
+      "source": "careers"
+    },
+    {
+      "title": "Lead QA Engineer",
+      "url": "https://job-boards.greenhouse.io/map/jobs/8441199002",
+      "location": "New Delhi, Delhi, India",
+      "source": "careers"
+    },
+    {
+      "title": "Senior QA Engineer (automation) Contractor",
+      "url": "https://job-boards.greenhouse.io/map/jobs/8630694002",
+      "location": "New Delhi, India",
       "source": "careers"
     }
   ],
@@ -391,6 +391,26 @@
       "source": "careers"
     }
   ],
+  "cint": [
+    {
+      "title": "Manager, Salesforce Administration",
+      "url": "https://careers.smartrecruiters.com/Cint/744000150647650",
+      "location": "Gurgaon, in",
+      "source": "careers"
+    },
+    {
+      "title": "Scrum Master / Delivery Coach",
+      "url": "https://careers.smartrecruiters.com/Cint/744000148535525",
+      "location": "Gurugram, in",
+      "source": "careers"
+    },
+    {
+      "title": "Survey Programming Consultant",
+      "url": "https://careers.smartrecruiters.com/Cint/744000148325771",
+      "location": "Gurugram, in",
+      "source": "careers"
+    }
+  ],
   "shield-ai": [
     {
       "title": "Chief of Staff, AI Hive (R5599)",
@@ -444,26 +464,6 @@
       "title": "Technical Program Manager",
       "url": "https://jobs.lever.co/shieldai/b851f198-4599-488c-8366-ad4af0a18dd4",
       "location": "New Delhi",
-      "source": "careers"
-    }
-  ],
-  "cint": [
-    {
-      "title": "Manager, Salesforce Administration",
-      "url": "https://careers.smartrecruiters.com/Cint/744000150418969",
-      "location": "Gurugram, in",
-      "source": "careers"
-    },
-    {
-      "title": "Scrum Master / Delivery Coach",
-      "url": "https://careers.smartrecruiters.com/Cint/744000148535525",
-      "location": "Gurugram, in",
-      "source": "careers"
-    },
-    {
-      "title": "Survey Programming Consultant",
-      "url": "https://careers.smartrecruiters.com/Cint/744000148325771",
-      "location": "Gurugram, in",
       "source": "careers"
     }
   ]

@@ -1500,7 +1500,7 @@
     "company": "Bharti Foundation",
     "location": "Gurgaon",
     "url": "https://internshala.com/job/detail/fresher-apprentice-document-verification-job-in-gurgaon-at-bharti-foundation1786633349",
-    "actively_hiring": false
+    "actively_hiring": true
   },
   {
     "kind": "job",
@@ -7775,7 +7775,7 @@
     "stipend": "₹ 25,000 /month",
     "duration": "2 Months",
     "url": "https://internshala.com/internship/detail/project-management-internship-in-multiple-locations-at-blinkit1789584294",
-    "actively_hiring": false
+    "actively_hiring": true
   },
   {
     "kind": "internship",
@@ -9131,7 +9131,7 @@
     "stipend": "₹ 10,000 - 15,000 /month",
     "duration": "3 Months",
     "url": "https://internshala.com/internship/detail/business-development-sales-internship-in-delhi-at-go-productions1788938466",
-    "actively_hiring": false
+    "actively_hiring": true
   },
   {
     "kind": "internship",
@@ -9183,6 +9183,543 @@
     "company": "Soar Education",
     "location": "Noida",
     "url": "https://internshala.com/job/detail/senior-telecaller-job-in-noida-at-soar-education1789964444",
+    "actively_hiring": true
+  },
+  {
+    "kind": "internship",
+    "title": "Recruitment Consultant",
+    "company": "Reliable Allied Services",
+    "location": "Delhi, Ghaziabad, Greater Noida, Noida",
+    "stipend": "₹ 6,500 - 12,000 /month",
+    "duration": "6 Months",
+    "url": "https://internshala.com/internship/detail/part-time-recruitment-consultant-internship-in-multiple-locations-at-reliable-allied-services1789994001",
+    "actively_hiring": true
+  },
+  {
+    "kind": "internship",
+    "title": "Telecalling",
+    "company": "Ayurveda House Private Limited",
+    "location": "Delhi",
+    "stipend": "₹ 10,000 - 12,000 /month",
+    "duration": "3 Months",
+    "url": "https://internshala.com/internship/detail/telecalling-internship-in-delhi-at-ayurveda-house-private-limited1789968652",
+    "actively_hiring": true
+  },
+  {
+    "kind": "internship",
+    "title": "Digital Marketing (Content Focused)",
+    "company": "Trakaff",
+    "location": "Delhi",
+    "stipend": "₹ 4,000 - 5,000 /month",
+    "duration": "6 Months",
+    "url": "https://internshala.com/internship/detail/digital-marketing-content-focused-internship-in-delhi-at-trakaff1789969022",
+    "actively_hiring": true
+  },
+  {
+    "kind": "internship",
+    "title": "Marketing Executive",
+    "company": "Fusion Beauty",
+    "location": "Delhi",
+    "stipend": "₹ 8,000 - 20,000 /month",
+    "duration": "6 Months",
+    "url": "https://internshala.com/internship/detail/marketing-executive-internship-in-delhi-at-fusion-beauty1790052796",
+    "actively_hiring": true
+  },
+  {
+    "kind": "internship",
+    "title": "Business Development (Sales)",
+    "company": "Cookiesensei Labs Private Limited",
+    "location": "Delhi",
+    "stipend": "₹ 20,000 - 33,000 /month",
+    "duration": "3 Months",
+    "url": "https://internshala.com/internship/detail/part-time-business-development-sales-internship-in-delhi-at-cookiesensei-labs-private-limited1789985739",
+    "actively_hiring": true
+  },
+  {
+    "kind": "internship",
+    "title": "Content and Social Media Marketing",
+    "company": "Limerick By Abirr N' Nanki",
+    "location": "Gurgaon",
+    "stipend": "₹ 10,000 /month",
+    "duration": "6 Months",
+    "url": "https://internshala.com/internship/detail/content-and-social-media-marketing-internship-in-gurgaon-at-limerick-by-abirr-n-nanki1789979054",
+    "actively_hiring": true
+  },
+  {
+    "kind": "internship",
+    "title": "Graphics Designer",
+    "company": "Eastman Auto & Power Limited",
+    "location": "Gurgaon",
+    "stipend": "₹ 15,000 /month",
+    "duration": "3 Months",
+    "url": "https://internshala.com/internship/detail/graphics-designer-internship-in-gurgaon-at-eastman-auto-power-limited1790047012",
+    "actively_hiring": false
+  },
+  {
+    "kind": "internship",
+    "title": "Program Management",
+    "company": "Times Internet Limited",
+    "location": "Noida",
+    "stipend": "₹ 15,000 - 20,000 /month",
+    "duration": "6 Months",
+    "url": "https://internshala.com/internship/detail/program-management-internship-in-noida-at-times-internet-limited1789994812",
+    "actively_hiring": true
+  },
+  {
+    "kind": "internship",
+    "title": "Influencer Marketing",
+    "company": "Ayurveda House Private Limited",
+    "location": "Delhi",
+    "stipend": "₹ 10,000 - 18,000 /month",
+    "duration": "3 Months",
+    "url": "https://internshala.com/internship/detail/influencer-marketing-internship-in-delhi-at-ayurveda-house-private-limited1789968680",
+    "actively_hiring": true
+  },
+  {
+    "kind": "internship",
+    "title": "Graphic Design",
+    "company": "Be Rolling Media",
+    "location": "Delhi",
+    "stipend": "₹ 7,000 - 8,000 /month",
+    "duration": "4 Months",
+    "url": "https://internshala.com/internship/detail/graphic-design-internship-in-delhi-at-be-rolling-media1789979232",
+    "actively_hiring": true
+  },
+  {
+    "kind": "internship",
+    "title": "Design & Product Development",
+    "company": "Adam Enterprises (India) Private Limited",
+    "location": "Noida",
+    "stipend": "₹ 8,000 - 12,000 /month",
+    "duration": "3 Months",
+    "url": "https://internshala.com/internship/detail/design-product-development-internship-in-noida-at-adam-enterprises-india-private-limited1789801058",
+    "actively_hiring": true
+  },
+  {
+    "kind": "internship",
+    "title": "Content and Social Media Marketing",
+    "company": "ICANthink",
+    "location": "Gurgaon",
+    "stipend": "₹ 12,000 - 15,000 /month",
+    "duration": "3 Months",
+    "url": "https://internshala.com/internship/detail/part-time-content-and-social-media-marketing-internship-in-gurgaon-at-icanthink1789985645",
+    "actively_hiring": true
+  },
+  {
+    "kind": "internship",
+    "title": "Graphic Design",
+    "company": "Grivaa Consultancy Services",
+    "location": "Delhi",
+    "stipend": "₹ 8,000 - 12,000 /month",
+    "duration": "1 Month",
+    "url": "https://internshala.com/internship/detail/graphic-design-internship-in-delhi-at-grivaa-consultancy-services1789983954",
+    "actively_hiring": true
+  },
+  {
+    "kind": "internship",
+    "title": "Operations",
+    "company": "Astrotalk",
+    "location": "Noida",
+    "stipend": "₹ 15,000 /month",
+    "duration": "3 Months",
+    "url": "https://internshala.com/internship/detail/operations-internship-in-noida-at-astrotalk1789983018",
+    "actively_hiring": true
+  },
+  {
+    "kind": "internship",
+    "title": "Strategy Intern",
+    "company": "Zopper",
+    "location": "Noida",
+    "stipend": "₹ 10,000 - 15,000 /month",
+    "duration": "6 Months",
+    "url": "https://internshala.com/internship/detail/strategy-intern-internship-in-noida-at-zopper1789968604",
+    "actively_hiring": true
+  },
+  {
+    "kind": "internship",
+    "title": "Content Writing",
+    "company": "DN Designs",
+    "location": "Noida",
+    "stipend": "₹ 10,000 - 15,000 /month",
+    "duration": "4 Months",
+    "url": "https://internshala.com/internship/detail/content-writing-internship-in-noida-at-dn-designs1789990904",
+    "actively_hiring": true
+  },
+  {
+    "kind": "internship",
+    "title": "Operations",
+    "company": "Grivaa Consultancy Services",
+    "location": "Delhi",
+    "stipend": "₹ 5,000 - 10,000 /month",
+    "duration": "3 Months",
+    "url": "https://internshala.com/internship/detail/operations-internship-in-delhi-at-grivaa-consultancy-services1789984204",
+    "actively_hiring": true
+  },
+  {
+    "kind": "internship",
+    "title": "Legal Department",
+    "company": "Grivaa Consultancy Services",
+    "location": "Faridabad, Delhi, Gurgaon, Noida",
+    "stipend": "₹ 5,000 - 10,000 /month",
+    "duration": "1 Month",
+    "url": "https://internshala.com/internship/detail/legal-department-internship-in-multiple-locations-at-grivaa-consultancy-services1789983892",
+    "actively_hiring": true
+  },
+  {
+    "kind": "internship",
+    "title": "Content and Social Media Marketing",
+    "company": "Vintek Medical Corporation",
+    "location": "Gurgaon",
+    "stipend": "₹ 3,000 - 5,000 /month",
+    "duration": "3 Months",
+    "url": "https://internshala.com/internship/detail/content-and-social-media-marketing-internship-in-gurgaon-at-vintek-medical-corporation1789983276",
+    "actively_hiring": true
+  },
+  {
+    "kind": "internship",
+    "title": "Human Resources (HR)",
+    "company": "VNS Group",
+    "location": "Noida",
+    "stipend": "₹ 8,000 - 26,000 /month",
+    "duration": "2 Months",
+    "url": "https://internshala.com/internship/detail/human-resources-hr-internship-in-noida-at-vns-group1789970757",
+    "actively_hiring": true
+  },
+  {
+    "kind": "internship",
+    "title": "Content Creator & Actor",
+    "company": "Sankar Group",
+    "location": "Delhi",
+    "stipend": "₹ 3,000 - 3,001 /month",
+    "duration": "6 Months",
+    "url": "https://internshala.com/internship/detail/content-creator-actor-internship-in-delhi-at-sankar-group1789969608",
+    "actively_hiring": true
+  },
+  {
+    "kind": "internship",
+    "title": "Human Resources (HR)",
+    "company": "Sociplay Web Services Private Limited",
+    "location": "Delhi, Gurgaon, Noida",
+    "stipend": "₹ 7,000 - 20,000 /month",
+    "duration": "6 Months",
+    "url": "https://internshala.com/internship/detail/human-resources-hr-internship-in-multiple-locations-at-sociplay-web-services-private-limited1789983284",
+    "actively_hiring": true
+  },
+  {
+    "kind": "internship",
+    "title": "UI/UX Design",
+    "company": "EkoSight Technologies Private Limited",
+    "location": "Delhi",
+    "stipend": "₹ 10,000 - 15,000 /month",
+    "duration": "6 Months",
+    "url": "https://internshala.com/internship/detail/ui-ux-design-internship-in-delhi-at-ekosight-technologies-private-limited1789982195",
+    "actively_hiring": true
+  },
+  {
+    "kind": "internship",
+    "title": "Human Resources (HR)",
+    "company": "The Skillians",
+    "location": "Gurgaon",
+    "stipend": "₹ 15,000 - 15,001 /month",
+    "duration": "3 Months",
+    "url": "https://internshala.com/internship/detail/human-resources-hr-internship-in-gurgaon-at-the-skillians1789982072",
+    "actively_hiring": true
+  },
+  {
+    "kind": "internship",
+    "title": "UI/UX Design",
+    "company": "Optima Learn",
+    "location": "Noida",
+    "stipend": "₹ 5,000 /month",
+    "duration": "5 Months",
+    "url": "https://internshala.com/internship/detail/ui-ux-design-internship-in-noida-at-optima-learn1789981954",
+    "actively_hiring": true
+  },
+  {
+    "kind": "internship",
+    "title": "Video Editing/Making",
+    "company": "TRADE VISION",
+    "location": "Delhi",
+    "stipend": "₹ 6,000 - 12,000 /month",
+    "duration": "6 Months",
+    "url": "https://internshala.com/internship/detail/video-editing-making-internship-in-delhi-at-trade-vision1789982785",
+    "actively_hiring": true
+  },
+  {
+    "kind": "internship",
+    "title": "Law Officer",
+    "company": "Grivaa Consultancy Services",
+    "location": "Noida",
+    "stipend": "₹ 6,000 - 8,000 /month",
+    "duration": "1 Month",
+    "url": "https://internshala.com/internship/detail/law-officer-internship-in-noida-at-grivaa-consultancy-services1789983934",
+    "actively_hiring": true
+  },
+  {
+    "kind": "internship",
+    "title": "AI And Robotics Trainer - Haryana",
+    "company": "STEMpedia",
+    "stipend": "₹ 12,000 - 15,000 /month",
+    "duration": "6 Months",
+    "url": "https://internshala.com/internship/detail/ai-and-robotics-trainer-haryana-internship-in-multiple-locations-at-stempedia1789985523",
+    "actively_hiring": true
+  },
+  {
+    "kind": "internship",
+    "title": "HR Generalist And Founders Office",
+    "company": "Grivaa Consultancy Services",
+    "location": "Delhi",
+    "stipend": "₹ 5,000 - 10,000 /month",
+    "duration": "1 Month",
+    "url": "https://internshala.com/internship/detail/hr-generalist-and-founders-office-internship-in-delhi-at-grivaa-consultancy-services1789984257",
+    "actively_hiring": true
+  },
+  {
+    "kind": "job",
+    "title": "Marketing & Development Associate",
+    "company": "Echo Booom",
+    "location": "Delhi",
+    "url": "https://internshala.com/job/detail/fresher-marketing-development-associate-job-in-delhi-at-echo-booom1789972406",
+    "actively_hiring": true
+  },
+  {
+    "kind": "job",
+    "title": "Business Development Executive",
+    "company": "Credora Estate",
+    "location": "Delhi, Ghaziabad, Greater Noida, Noida",
+    "url": "https://internshala.com/job/detail/fresher-business-development-executive-job-in-multiple-locations-at-credora-estate1789992166",
+    "actively_hiring": true
+  },
+  {
+    "kind": "job",
+    "title": "Business Development Executive",
+    "company": "IMI Studios Private Limited",
+    "location": "Delhi",
+    "url": "https://internshala.com/job/detail/fresher-business-development-executive-job-in-delhi-at-imi-studios-private-limited1790012576",
+    "actively_hiring": true
+  },
+  {
+    "kind": "job",
+    "title": "Training Executive",
+    "company": "B4 Ventures",
+    "location": "Gurgaon, Delhi, Dehradun, Ranchi, Jaipur, Jammu, Begusarai, Bilaspur, Darbhanga, Durgapur, Jhansi, Patna, Samastipur, Varanasi, Raipur",
+    "url": "https://internshala.com/job/detail/fresher-training-executive-job-in-multiple-locations-at-b4-ventures1789992455",
+    "actively_hiring": true
+  },
+  {
+    "kind": "job",
+    "title": "Administration Trainee",
+    "company": "Peopleist India Private Limited",
+    "location": "Delhi, Gurgaon",
+    "url": "https://internshala.com/job/detail/fresher-administration-trainee-job-in-multiple-locations-at-peopleist-india-private-limited1790046423",
+    "actively_hiring": true
+  },
+  {
+    "kind": "job",
+    "title": "Business Development Specialist",
+    "company": "Webpulse Solution Private Limited",
+    "location": "Delhi",
+    "url": "https://internshala.com/job/detail/business-development-specialist-job-in-delhi-at-webpulse-solution-private-limited1789991314",
+    "actively_hiring": true
+  },
+  {
+    "kind": "job",
+    "title": "Graphic Designer",
+    "company": "Ayurveda House Private Limited",
+    "location": "Delhi",
+    "url": "https://internshala.com/job/detail/graphic-designer-job-in-delhi-at-ayurveda-house-private-limited1789991139",
+    "actively_hiring": true
+  },
+  {
+    "kind": "job",
+    "title": "Business Development Executive",
+    "company": "KreateCube LLP",
+    "location": "Delhi, Gurgaon, Noida",
+    "url": "https://internshala.com/job/detail/business-development-executive-job-in-delhi-at-kreatecube-llp1788758678",
+    "actively_hiring": true
+  },
+  {
+    "kind": "job",
+    "title": "Sales Associate",
+    "company": "JIRAIYA EDUCATION LLP",
+    "location": "Gurgaon, Noida, Delhi",
+    "url": "https://internshala.com/job/detail/fresher-sales-associate-job-in-multiple-locations-at-jiraiya-education-llp1789979699",
+    "actively_hiring": true
+  },
+  {
+    "kind": "job",
+    "title": "Business Development Associate",
+    "company": "JIRAIYA EDUCATION LLP",
+    "location": "Gurgaon, Delhi",
+    "url": "https://internshala.com/job/detail/fresher-business-development-associate-job-in-multiple-locations-at-jiraiya-education-llp1789979821",
+    "actively_hiring": true
+  },
+  {
+    "kind": "job",
+    "title": "Business Development Executive",
+    "company": "JIRAIYA EDUCATION LLP",
+    "location": "Noida",
+    "url": "https://internshala.com/job/detail/fresher-business-development-executive-job-in-noida-at-jiraiya-education-llp1789989046",
+    "actively_hiring": true
+  },
+  {
+    "kind": "job",
+    "title": "Investment Associate – Chartered Accountant (CA)",
+    "company": "Fin Maverick",
+    "location": "Gurgaon",
+    "url": "https://internshala.com/job/detail/investment-associate--chartered-accountant-ca-job-in-gurgaon-at-fin-maverick1789982917",
+    "actively_hiring": true
+  },
+  {
+    "kind": "job",
+    "title": "Business Analyst",
+    "company": "DeepThought CultureTech Ventures Private Limited",
+    "location": "Gurgaon",
+    "url": "https://internshala.com/job/detail/fresher-business-analyst-job-in-gurgaon-at-deepthought-culturetech-ventures-private-limited1790042940",
+    "actively_hiring": true
+  },
+  {
+    "kind": "job",
+    "title": "Business Development Associate",
+    "company": "DeepThought CultureTech Ventures Private Limited",
+    "location": "Gurgaon",
+    "url": "https://internshala.com/job/detail/fresher-business-development-associate-job-in-gurgaon-at-deepthought-culturetech-ventures-private-limited1790042981",
+    "actively_hiring": true
+  },
+  {
+    "kind": "job",
+    "title": "Business Development Trainee",
+    "company": "KnowledgeChakra",
+    "location": "Gurgaon",
+    "url": "https://internshala.com/job/detail/fresher-business-development-trainee-job-in-gurgaon-at-knowledgechakra1790052712",
+    "actively_hiring": true
+  },
+  {
+    "kind": "job",
+    "title": "Full Stack Developer",
+    "company": "LdotR",
+    "location": "Noida",
+    "url": "https://internshala.com/job/detail/full-stack-developer-job-in-noida-at-ldotr1789973345",
+    "actively_hiring": false
+  },
+  {
+    "kind": "job",
+    "title": "Corporate Sales Executive",
+    "company": "Dzylo",
+    "location": "Gurgaon",
+    "url": "https://internshala.com/job/detail/corporate-sales-executive-job-in-gurgaon-at-dzylo1789970993",
+    "actively_hiring": false
+  },
+  {
+    "kind": "job",
+    "title": "Marketing Executive",
+    "company": "Deejays",
+    "location": "Noida, Delhi",
+    "url": "https://internshala.com/job/detail/marketing-executive-job-in-multiple-locations-at-deejays1789974970",
+    "actively_hiring": false
+  },
+  {
+    "kind": "job",
+    "title": "Consultation Executive",
+    "company": "Astrotalk",
+    "location": "Noida",
+    "url": "https://internshala.com/job/detail/fresher-consultation-executive-job-in-noida-at-astrotalk1789989427",
+    "actively_hiring": true
+  },
+  {
+    "kind": "job",
+    "title": "Wellness Advisors",
+    "company": "Astrotalk",
+    "location": "Noida",
+    "url": "https://internshala.com/job/detail/fresher-wellness-advisors-job-in-noida-at-astrotalk1789977097",
+    "actively_hiring": true
+  },
+  {
+    "kind": "job",
+    "title": "STEM Educator",
+    "company": "Space Foundation",
+    "location": "Chennai, Ghaziabad, Gurgaon, Delhi, Noida, Nagpur",
+    "url": "https://internshala.com/job/detail/fresher-stem-educator-job-in-multiple-locations-at-space-foundation1789972091",
+    "actively_hiring": false
+  },
+  {
+    "kind": "job",
+    "title": "Marketing Associate",
+    "company": "Glamanand Entertainment",
+    "location": "Delhi",
+    "url": "https://internshala.com/job/detail/marketing-associate-job-in-delhi-at-glamanand-entertainment1789969911",
+    "actively_hiring": true
+  },
+  {
+    "kind": "job",
+    "title": "Public Relations Manager",
+    "company": "TalentXO",
+    "location": "Delhi, Bangalore",
+    "url": "https://internshala.com/job/detail/public-relations-manager-job-in-multiple-locations-at-talentxo1789994188",
+    "actively_hiring": true
+  },
+  {
+    "kind": "job",
+    "title": "Project Manager/Store Roll-out Manager (Retail & High-Street)",
+    "company": "IPSAA Holdings Private Limited",
+    "location": "Delhi, Gurgaon",
+    "url": "https://internshala.com/job/detail/project-manager-store-roll-out-manager-retail-high-street-job-in-multiple-locations-at-ipsaa-holdings-private-limited1789984253",
+    "actively_hiring": true
+  },
+  {
+    "kind": "job",
+    "title": "Telesales Executive",
+    "company": "Elevate X Solutions",
+    "location": "Faridabad, Delhi, Ghaziabad, Gurgaon, Greater Noida, Mumbai, Noida",
+    "url": "https://internshala.com/job/detail/telesales-executive-job-in-multiple-locations-at-elevate-x-solutions1789970510",
+    "actively_hiring": true
+  },
+  {
+    "kind": "job",
+    "title": "Digital Marketing Executive",
+    "company": "Grivaa Consultancy Services",
+    "location": "Bahadurgarh, Delhi, Noida",
+    "url": "https://internshala.com/job/detail/fresher-digital-marketing-executive-job-in-multiple-locations-at-grivaa-consultancy-services1789983440",
+    "actively_hiring": true
+  },
+  {
+    "kind": "job",
+    "title": "Interior Designer",
+    "company": "Bosscoder Academy",
+    "location": "Noida",
+    "url": "https://internshala.com/job/detail/interior-designer-job-in-noida-at-bosscoder-academy1789990121",
+    "actively_hiring": true
+  },
+  {
+    "kind": "job",
+    "title": "Operations Executive- Customer Service",
+    "company": "Astrotalk",
+    "location": "Noida",
+    "url": "https://internshala.com/job/detail/fresher-operations-executive-customer-service-job-in-noida-at-astrotalk1789992500",
+    "actively_hiring": true
+  },
+  {
+    "kind": "job",
+    "title": "Business Development Associate",
+    "company": "Raft Global",
+    "location": "Noida",
+    "url": "https://internshala.com/job/detail/business-development-associate-job-in-noida-at-raft-global1789973250",
+    "actively_hiring": true
+  },
+  {
+    "kind": "job",
+    "title": "Sales Associate",
+    "company": "World Wide Adz Private Limited",
+    "location": "Noida",
+    "url": "https://internshala.com/job/detail/fresher-sales-associate-job-in-noida-at-world-wide-adz-private-limited1789993813",
+    "actively_hiring": true
+  },
+  {
+    "kind": "job",
+    "title": "Sales & Marketing Executive",
+    "company": "ESAR INFO INTERNATIONAL",
+    "location": "Noida",
+    "url": "https://internshala.com/job/detail/sales-marketing-executive-job-in-noida-at-esar-info-international1789972549",
     "actively_hiring": true
   }
 ]
