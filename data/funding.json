@@ -16,59 +16,6 @@
     "source": "Entrackr",
     "history": []
   },
-  "lenskart": {
-    "amount": "₹8 Cr",
-    "title": "Lenskart increases stake in AjnaLens parent to 9% with Rs 8 Cr investment",
-    "url": "https://entrackr.com/snippets/lenskart-increases-stake-in-ajnalens-parent-to-9-with-rs-8-cr-investment-12531197",
-    "date": "Mon, 14 Sep 2026 15:11:56 +0530",
-    "source": "Entrackr",
-    "history": [
-      {
-        "amount": "$28 Mn",
-        "title": "Stake Sale At Lenskart, Ethereal Bags $28 Mn &#038; More",
-        "url": "https://inc42.com/buzz/stake-sale-at-lenskart-ethereal-bags-28-mn-more/",
-        "date": "2026-06-12",
-        "source": "Inc42"
-      },
-      {
-        "amount": "₹3268 Cr",
-        "title": "Lenskart Raises rs 3268 cr From Anchor Investors",
-        "url": "https://entrackr.com/news/lenskart-raises-rs-3268-cr-from-anchor-investors-10608740",
-        "date": "2025-10-31",
-        "source": "Entrackr"
-      },
-      {
-        "amount": "₹100 Cr",
-        "round": "IPO",
-        "title": "Sbi mf Invests rs 100 cr in Lenskart in Pre Ipo Round",
-        "url": "https://entrackr.com/news/sbi-mf-invests-rs-100-cr-in-lenskart-in-pre-ipo-round-10603518",
-        "date": "2025-10-29",
-        "source": "Entrackr"
-      },
-      {
-        "round": "IPO",
-        "title": "Lenskart Ipo to Fetch 125 mn For Founders Early Investors Set to Reap up to 17x Returns",
-        "url": "https://entrackr.com/news/lenskart-ipo-to-fetch-125-mn-for-founders-early-investors-set-to-reap-up-to-17x-returns-10597108",
-        "date": "2025-10-27",
-        "source": "Entrackr"
-      },
-      {
-        "amount": "₹2150 Cr",
-        "round": "IPO",
-        "title": "Lenskart Secures Shareholders Nod For rs 2150 cr Ipo Reveals New Esop Plan And co Founders Pay",
-        "url": "https://entrackr.com/news/lenskart-secures-shareholders-nod-for-rs-2150-cr-ipo-reveals-new-esop-plan-and-co-founders-pay-9542409",
-        "date": "2025-07-27",
-        "source": "Entrackr"
-      },
-      {
-        "round": "IPO",
-        "title": "IPO-Bound Lenskart’s Peyush Bansal To Acquire 2% Stake From Investors",
-        "url": "https://inc42.com/buzz/ipo-bound-lenskarts-peyush-bansal-to-acquire-2-stake-from-investors/",
-        "date": "2025-07-05",
-        "source": "Inc42"
-      }
-    ]
-  },
   "yoga-clean-air": {
     "amount": "₹20 Cr",
     "round": "Series A",
@@ -815,6 +762,59 @@
     "date": "2026-06-15",
     "source": "Inc42",
     "history": []
+  },
+  "lenskart": {
+    "amount": "$28 Mn",
+    "title": "Stake Sale At Lenskart, Ethereal Bags $28 Mn &#038; More",
+    "url": "https://inc42.com/buzz/stake-sale-at-lenskart-ethereal-bags-28-mn-more/",
+    "date": "2026-06-12",
+    "source": "Inc42",
+    "history": [
+      {
+        "amount": "₹3268 Cr",
+        "title": "Lenskart Raises rs 3268 cr From Anchor Investors",
+        "url": "https://entrackr.com/news/lenskart-raises-rs-3268-cr-from-anchor-investors-10608740",
+        "date": "2025-10-31",
+        "source": "Entrackr"
+      },
+      {
+        "amount": "₹100 Cr",
+        "round": "IPO",
+        "title": "Sbi mf Invests rs 100 cr in Lenskart in Pre Ipo Round",
+        "url": "https://entrackr.com/news/sbi-mf-invests-rs-100-cr-in-lenskart-in-pre-ipo-round-10603518",
+        "date": "2025-10-29",
+        "source": "Entrackr"
+      },
+      {
+        "round": "IPO",
+        "title": "Lenskart Ipo to Fetch 125 mn For Founders Early Investors Set to Reap up to 17x Returns",
+        "url": "https://entrackr.com/news/lenskart-ipo-to-fetch-125-mn-for-founders-early-investors-set-to-reap-up-to-17x-returns-10597108",
+        "date": "2025-10-27",
+        "source": "Entrackr"
+      },
+      {
+        "amount": "₹2150 Cr",
+        "round": "IPO",
+        "title": "Lenskart Secures Shareholders Nod For rs 2150 cr Ipo Reveals New Esop Plan And co Founders Pay",
+        "url": "https://entrackr.com/news/lenskart-secures-shareholders-nod-for-rs-2150-cr-ipo-reveals-new-esop-plan-and-co-founders-pay-9542409",
+        "date": "2025-07-27",
+        "source": "Entrackr"
+      },
+      {
+        "round": "IPO",
+        "title": "IPO-Bound Lenskart’s Peyush Bansal To Acquire 2% Stake From Investors",
+        "url": "https://inc42.com/buzz/ipo-bound-lenskarts-peyush-bansal-to-acquire-2-stake-from-investors/",
+        "date": "2025-07-05",
+        "source": "Inc42"
+      },
+      {
+        "amount": "₹160 Cr",
+        "title": "Lenskart Raises INR 160 Cr From Peyush Bansal, Other Cofounders",
+        "url": "https://inc42.com/buzz/lenskart-raises-inr-160-cr-from-peyush-bansal-other-cofounders/",
+        "date": "2024-07-18",
+        "source": "Inc42"
+      }
+    ]
   },
   "exponent-energy": {
     "round": "Series B",
