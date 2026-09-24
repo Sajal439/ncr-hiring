@@ -1,12 +1,4 @@
 {
-  "xebia-india": [
-    {
-      "title": "Senior Backend Lead",
-      "url": "https://job-boards.greenhouse.io/xebiaapac/jobs/5591727004",
-      "location": "Bangalore; Gurgaon",
-      "source": "careers"
-    }
-  ],
   "the-knot-worldwide": [
     {
       "title": "Account Executive, Core",
@@ -21,6 +13,14 @@
       "source": "careers"
     }
   ],
+  "xebia-india": [
+    {
+      "title": "Senior Backend Lead",
+      "url": "https://job-boards.greenhouse.io/xebiaapac/jobs/5591727004",
+      "location": "Bangalore; Gurgaon",
+      "source": "careers"
+    }
+  ],
   "athena-education": [
     {
       "title": "Associate/ Associate Manager - Writing",
@@ -32,6 +32,14 @@
       "title": "Technical Director- Writing",
       "url": "https://jobs.lever.co/athena-education/4b1432e7-7ed4-4502-9441-506861d6ebe9",
       "location": "Gurugram",
+      "source": "careers"
+    }
+  ],
+  "razorpay": [
+    {
+      "title": "Manager, Enterprise Partnership",
+      "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4733878005",
+      "location": "Gurugram; Mumbai",
       "source": "careers"
     }
   ],
@@ -61,12 +69,6 @@
       "source": "careers"
     },
     {
-      "title": "Product Manager",
-      "url": "https://apply.workable.com/j/14A8660015",
-      "location": "Noida, India",
-      "source": "careers"
-    },
-    {
       "title": "SEO Intern - Hybrid",
       "url": "https://apply.workable.com/j/BB8C93FE7B",
       "location": "Noida, India",
@@ -75,12 +77,6 @@
     {
       "title": "Software Development Engineer -3",
       "url": "https://apply.workable.com/j/6802996BCB",
-      "location": "Noida, India",
-      "source": "careers"
-    },
-    {
-      "title": "Software Development Engineer Test- II (QA Engineer)",
-      "url": "https://apply.workable.com/j/2A784D40D7",
       "location": "Noida, India",
       "source": "careers"
     }
@@ -153,6 +149,26 @@
       "source": "careers"
     }
   ],
+  "map": [
+    {
+      "title": "AEM - UI EDS - Consultant",
+      "url": "https://job-boards.greenhouse.io/map/jobs/8706872002",
+      "location": "New Delhi, India",
+      "source": "careers"
+    },
+    {
+      "title": "Lead QA Engineer",
+      "url": "https://job-boards.greenhouse.io/map/jobs/8441199002",
+      "location": "New Delhi, Delhi, India",
+      "source": "careers"
+    },
+    {
+      "title": "Senior QA Engineer (automation) Contractor",
+      "url": "https://job-boards.greenhouse.io/map/jobs/8630694002",
+      "location": "New Delhi, India",
+      "source": "careers"
+    }
+  ],
   "ontic": [
     {
       "title": "Staff Engineer - UI",
@@ -179,31 +195,75 @@
       "source": "careers"
     }
   ],
-  "map": [
-    {
-      "title": "AEM - UI EDS - Consultant",
-      "url": "https://job-boards.greenhouse.io/map/jobs/8706872002",
-      "location": "New Delhi, India",
-      "source": "careers"
-    },
-    {
-      "title": "Lead QA Engineer",
-      "url": "https://job-boards.greenhouse.io/map/jobs/8441199002",
-      "location": "New Delhi, Delhi, India",
-      "source": "careers"
-    },
-    {
-      "title": "Senior QA Engineer (automation) Contractor",
-      "url": "https://job-boards.greenhouse.io/map/jobs/8630694002",
-      "location": "New Delhi, India",
-      "source": "careers"
-    }
-  ],
   "primevigilance": [
     {
       "title": "Finance Project Coordinator",
       "url": "https://careers.smartrecruiters.com/Ergomed/744000147199784",
       "location": "Noida, in",
+      "source": "careers"
+    }
+  ],
+  "wizikey": [
+    {
+      "title": "Sales Executive - B2B SaaS",
+      "url": "https://careers.smartrecruiters.com/Wizikey/744000150346079",
+      "location": "Gurugram, in",
+      "source": "careers"
+    },
+    {
+      "title": "Sales Manager – B2B SaaS",
+      "url": "https://careers.smartrecruiters.com/Wizikey/744000148672349",
+      "location": "Gurugram, in",
+      "source": "careers"
+    },
+    {
+      "title": "Sales Manager – Media Sales & Advertising Sales( 4-8 yrs)",
+      "url": "https://careers.smartrecruiters.com/Wizikey/744000147203109",
+      "location": "Gurugram, in",
+      "source": "careers"
+    }
+  ],
+  "alphasense": [
+    {
+      "title": "Compliance Analyst, Expert Network",
+      "url": "https://job-boards.greenhouse.io/alphasense/jobs/8693025002",
+      "location": "Delhi",
+      "source": "careers"
+    },
+    {
+      "title": "Content Analyst",
+      "url": "https://job-boards.greenhouse.io/alphasense/jobs/8025882002",
+      "location": "Delhi",
+      "source": "careers"
+    },
+    {
+      "title": "Engineer II - Information Engineer",
+      "url": "https://job-boards.greenhouse.io/alphasense/jobs/8576243002",
+      "location": "Delhi",
+      "source": "careers"
+    },
+    {
+      "title": "Join AlphaSense India Talent Community",
+      "url": "https://job-boards.greenhouse.io/alphasense/jobs/7119398002",
+      "location": "Delhi",
+      "source": "careers"
+    },
+    {
+      "title": "Security Automation Engineer",
+      "url": "https://job-boards.greenhouse.io/alphasense/jobs/8644546002",
+      "location": "Delhi",
+      "source": "careers"
+    },
+    {
+      "title": "Senior Enterprise Security Architect",
+      "url": "https://job-boards.greenhouse.io/alphasense/jobs/8634070002",
+      "location": "Delhi",
+      "source": "careers"
+    },
+    {
+      "title": "Staff Site Reliability Engineer",
+      "url": "https://job-boards.greenhouse.io/alphasense/jobs/8358708002",
+      "location": "Delhi",
       "source": "careers"
     }
   ],
@@ -287,92 +347,6 @@
       "source": "careers"
     }
   ],
-  "wizikey": [
-    {
-      "title": "Sales Executive - B2B SaaS",
-      "url": "https://careers.smartrecruiters.com/Wizikey/744000150346079",
-      "location": "Gurugram, in",
-      "source": "careers"
-    },
-    {
-      "title": "Sales Manager – B2B SaaS",
-      "url": "https://careers.smartrecruiters.com/Wizikey/744000148672349",
-      "location": "Gurugram, in",
-      "source": "careers"
-    },
-    {
-      "title": "Sales Manager – Media Sales & Advertising Sales( 4-8 yrs)",
-      "url": "https://careers.smartrecruiters.com/Wizikey/744000147203109",
-      "location": "Gurugram, in",
-      "source": "careers"
-    }
-  ],
-  "alphasense": [
-    {
-      "title": "Compliance Analyst, Expert Network",
-      "url": "https://job-boards.greenhouse.io/alphasense/jobs/8693025002",
-      "location": "Delhi",
-      "source": "careers"
-    },
-    {
-      "title": "Content Analyst",
-      "url": "https://job-boards.greenhouse.io/alphasense/jobs/8025882002",
-      "location": "Delhi",
-      "source": "careers"
-    },
-    {
-      "title": "Engineer II - Information Engineer",
-      "url": "https://job-boards.greenhouse.io/alphasense/jobs/8576243002",
-      "location": "Delhi",
-      "source": "careers"
-    },
-    {
-      "title": "Join AlphaSense India Talent Community",
-      "url": "https://job-boards.greenhouse.io/alphasense/jobs/7119398002",
-      "location": "Delhi",
-      "source": "careers"
-    },
-    {
-      "title": "Security Automation Engineer",
-      "url": "https://job-boards.greenhouse.io/alphasense/jobs/8644546002",
-      "location": "Delhi",
-      "source": "careers"
-    },
-    {
-      "title": "Senior Enterprise Security Architect",
-      "url": "https://job-boards.greenhouse.io/alphasense/jobs/8634070002",
-      "location": "Delhi",
-      "source": "careers"
-    },
-    {
-      "title": "Staff Site Reliability Engineer",
-      "url": "https://job-boards.greenhouse.io/alphasense/jobs/8358708002",
-      "location": "Delhi",
-      "source": "careers"
-    }
-  ],
-  "smart-working": [
-    {
-      "title": "Lead PHP/Symfony Engineer (Remote, Full-Time) - [HR191]",
-      "url": "https://jobs.lever.co/smart-working-solutions/eb63f1a9-443b-48a4-88ec-99c8516a8c06",
-      "location": "Noida",
-      "source": "careers"
-    }
-  ],
-  "cint": [
-    {
-      "title": "Manager, Salesforce Administration",
-      "url": "https://careers.smartrecruiters.com/Cint/744000150647650",
-      "location": "Gurgaon, in",
-      "source": "careers"
-    },
-    {
-      "title": "Survey Programming Consultant",
-      "url": "https://careers.smartrecruiters.com/Cint/744000148325771",
-      "location": "Gurugram, in",
-      "source": "careers"
-    }
-  ],
   "shield-ai": [
     {
       "title": "Chief of Staff, AI Hive (R5599)",
@@ -411,7 +385,7 @@
       "source": "careers"
     },
     {
-      "title": "Simulation Specialist, India",
+      "title": "Simulation Specialist, India (R6016)",
       "url": "https://jobs.lever.co/shieldai/dc5f3c97-0b1f-4fc7-bd7e-b4a8504486b5",
       "location": "New Delhi",
       "source": "careers"
@@ -426,6 +400,28 @@
       "title": "Technical Program Manager",
       "url": "https://jobs.lever.co/shieldai/b851f198-4599-488c-8366-ad4af0a18dd4",
       "location": "New Delhi",
+      "source": "careers"
+    }
+  ],
+  "cint": [
+    {
+      "title": "Manager, Salesforce Administration",
+      "url": "https://careers.smartrecruiters.com/Cint/744000150647650",
+      "location": "Gurgaon, in",
+      "source": "careers"
+    },
+    {
+      "title": "Survey Programming Consultant",
+      "url": "https://careers.smartrecruiters.com/Cint/744000148325771",
+      "location": "Gurugram, in",
+      "source": "careers"
+    }
+  ],
+  "arket": [
+    {
+      "title": "Visual Merchandiser",
+      "url": "https://careers.smartrecruiters.com/HMGroup/744000151525815",
+      "location": "Gurgaon, in",
       "source": "careers"
     }
   ],
@@ -458,6 +454,14 @@
       "title": "Senior Project Manager - Generative AI Data Operations",
       "url": "https://jobs.lever.co/weloglobal/38fe5666-344b-4917-bdfa-88a0bfcc4bf4",
       "location": "Gurgaon, India",
+      "source": "careers"
+    }
+  ],
+  "smart-working": [
+    {
+      "title": "Lead PHP/Symfony Engineer (Remote, Full-Time) - [HR191]",
+      "url": "https://jobs.lever.co/smart-working-solutions/eb63f1a9-443b-48a4-88ec-99c8516a8c06",
+      "location": "Noida",
       "source": "careers"
     }
   ]
