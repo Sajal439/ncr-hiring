@@ -1,12 +1,34 @@
 {
-  "factrika": {
-    "amount": "₹8.9 Cr",
-    "round": "Seed",
-    "title": "Info Edge leads Rs 8.9 Cr seed round in Factrika",
-    "url": "https://entrackr.com/snippets/info-edge-leads-rs-89-cr-seed-round-in-factrika-12544954",
-    "date": "Thu, 17 Sep 2026 16:46:56 +0530",
-    "source": "Entrackr",
-    "history": []
+  "amazon-india": {
+    "amount": "$3 Bn",
+    "title": "Amazon India To Invest $3 Bn In Quick Commerce Arm By 2030: Report",
+    "url": "https://inc42.com/buzz/amazon-india-to-invest-3-bn-in-quick-commerce-arm-by-2030-report/",
+    "date": "Thu, 24 Sep 2026 19:55:51 +0000",
+    "source": "Inc42",
+    "history": [
+      {
+        "amount": "$13 Bn",
+        "title": "Amazon Announces Additional $13 Bn Investment In India To Boost AI, Cloud Infra",
+        "url": "https://inc42.com/buzz/amazon-announces-additional-13-bn-investment-in-india-to-boost-ai-cloud-infra/",
+        "date": "2026-06-25",
+        "source": "Inc42"
+      },
+      {
+        "amount": "₹2800 Cr",
+        "title": "Amazon India to Invest rs 2800 cr to Boost Logistics Quick Commerce Push",
+        "url": "https://entrackr.com/snippets/amazon-india-to-invest-rs-2800-cr-to-boost-logistics-quick-commerce-push-11757284",
+        "date": "2026-04-23",
+        "source": "Entrackr"
+      },
+      {
+        "amount": "₹2,000 Cr",
+        "round": "IPO",
+        "title": "Amazon-Backed More Retail Plans To Raise INR 2,000 Cr Via IPO: Report",
+        "url": "https://inc42.com/buzz/amazon-backed-more-retail-plans-to-raise-inr-2000-cr-via-ipo-report/",
+        "date": "2025-05-13",
+        "source": "Inc42"
+      }
+    ]
   },
   "yoga-clean-air": {
     "amount": "₹20 Cr",
@@ -558,30 +580,6 @@
         "url": "https://entrackr.com/snippets/juice-brand-alienkind-raises-12-mn-in-seed-round-8924648",
         "date": "2025-04-04",
         "source": "Entrackr"
-      }
-    ]
-  },
-  "amazon-india": {
-    "amount": "$13 Bn",
-    "title": "Amazon Announces Additional $13 Bn Investment In India To Boost AI, Cloud Infra",
-    "url": "https://inc42.com/buzz/amazon-announces-additional-13-bn-investment-in-india-to-boost-ai-cloud-infra/",
-    "date": "2026-06-25",
-    "source": "Inc42",
-    "history": [
-      {
-        "amount": "₹2800 Cr",
-        "title": "Amazon India to Invest rs 2800 cr to Boost Logistics Quick Commerce Push",
-        "url": "https://entrackr.com/snippets/amazon-india-to-invest-rs-2800-cr-to-boost-logistics-quick-commerce-push-11757284",
-        "date": "2026-04-23",
-        "source": "Entrackr"
-      },
-      {
-        "amount": "₹2,000 Cr",
-        "round": "IPO",
-        "title": "Amazon-Backed More Retail Plans To Raise INR 2,000 Cr Via IPO: Report",
-        "url": "https://inc42.com/buzz/amazon-backed-more-retail-plans-to-raise-inr-2000-cr-via-ipo-report/",
-        "date": "2025-05-13",
-        "source": "Inc42"
       }
     ]
   },

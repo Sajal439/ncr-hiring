@@ -21,28 +21,6 @@
       "source": "careers"
     }
   ],
-  "athena-education": [
-    {
-      "title": "Associate/ Associate Manager - Writing",
-      "url": "https://jobs.lever.co/athena-education/8f9cb4b5-155f-4eae-8f77-ef801a4110da",
-      "location": "Gurugram",
-      "source": "careers"
-    },
-    {
-      "title": "Technical Director- Writing",
-      "url": "https://jobs.lever.co/athena-education/4b1432e7-7ed4-4502-9441-506861d6ebe9",
-      "location": "Gurugram",
-      "source": "careers"
-    }
-  ],
-  "razorpay": [
-    {
-      "title": "Manager, Enterprise Partnership",
-      "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4733878005",
-      "location": "Gurugram; Mumbai",
-      "source": "careers"
-    }
-  ],
   "trackier": [
     {
       "title": "Business Development Representative",
@@ -78,6 +56,14 @@
       "title": "Software Development Engineer -3",
       "url": "https://apply.workable.com/j/6802996BCB",
       "location": "Noida, India",
+      "source": "careers"
+    }
+  ],
+  "razorpay": [
+    {
+      "title": "Manager, Enterprise Partnership",
+      "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4733878005",
+      "location": "Gurugram; Mumbai",
       "source": "careers"
     }
   ],
@@ -149,23 +135,11 @@
       "source": "careers"
     }
   ],
-  "map": [
+  "primevigilance": [
     {
-      "title": "AEM - UI EDS - Consultant",
-      "url": "https://job-boards.greenhouse.io/map/jobs/8706872002",
-      "location": "New Delhi, India",
-      "source": "careers"
-    },
-    {
-      "title": "Lead QA Engineer",
-      "url": "https://job-boards.greenhouse.io/map/jobs/8441199002",
-      "location": "New Delhi, Delhi, India",
-      "source": "careers"
-    },
-    {
-      "title": "Senior QA Engineer (automation) Contractor",
-      "url": "https://job-boards.greenhouse.io/map/jobs/8630694002",
-      "location": "New Delhi, India",
+      "title": "Finance Project Coordinator",
+      "url": "https://careers.smartrecruiters.com/Ergomed/744000147199784",
+      "location": "Noida, in",
       "source": "careers"
     }
   ],
@@ -195,11 +169,37 @@
       "source": "careers"
     }
   ],
-  "primevigilance": [
+  "map": [
     {
-      "title": "Finance Project Coordinator",
-      "url": "https://careers.smartrecruiters.com/Ergomed/744000147199784",
-      "location": "Noida, in",
+      "title": "AEM - UI EDS - Consultant",
+      "url": "https://job-boards.greenhouse.io/map/jobs/8706872002",
+      "location": "New Delhi, India",
+      "source": "careers"
+    },
+    {
+      "title": "Lead QA Engineer",
+      "url": "https://job-boards.greenhouse.io/map/jobs/8441199002",
+      "location": "New Delhi, Delhi, India",
+      "source": "careers"
+    },
+    {
+      "title": "Senior QA Engineer (automation) Contractor",
+      "url": "https://job-boards.greenhouse.io/map/jobs/8630694002",
+      "location": "New Delhi, India",
+      "source": "careers"
+    }
+  ],
+  "athena-education": [
+    {
+      "title": "Associate/ Associate Manager - Writing",
+      "url": "https://jobs.lever.co/athena-education/8f9cb4b5-155f-4eae-8f77-ef801a4110da",
+      "location": "Gurugram",
+      "source": "careers"
+    },
+    {
+      "title": "Technical Director- Writing",
+      "url": "https://jobs.lever.co/athena-education/4b1432e7-7ed4-4502-9441-506861d6ebe9",
+      "location": "Gurugram",
       "source": "careers"
     }
   ],
@@ -347,6 +347,68 @@
       "source": "careers"
     }
   ],
+  "cint": [
+    {
+      "title": "Manager/Lead, Salesforce Administration",
+      "url": "https://careers.smartrecruiters.com/Cint/744000151612889",
+      "location": "Gurgaon, in",
+      "source": "careers"
+    },
+    {
+      "title": "Survey Programming Consultant",
+      "url": "https://careers.smartrecruiters.com/Cint/744000148325771",
+      "location": "Gurugram, in",
+      "source": "careers"
+    }
+  ],
+  "smart-working": [
+    {
+      "title": "Lead PHP/Symfony Engineer (Remote, Full-Time) - [HR191]",
+      "url": "https://jobs.lever.co/smart-working-solutions/eb63f1a9-443b-48a4-88ec-99c8516a8c06",
+      "location": "Noida",
+      "source": "careers"
+    }
+  ],
+  "arket": [
+    {
+      "title": "Lease Manager",
+      "url": "https://careers.smartrecruiters.com/HMGroup/744000151759409",
+      "location": "Delhi & Bengaluru, in",
+      "source": "careers"
+    }
+  ],
+  "welocalize": [
+    {
+      "title": "Associate Project Manager- Gen AI Operations",
+      "url": "https://jobs.lever.co/weloglobal/b1e0450f-3f8e-4c0d-8db5-f2e40278f8fa",
+      "location": "Gurgaon, India",
+      "source": "careers"
+    },
+    {
+      "title": "Associate Technical Publication Engineer",
+      "url": "https://jobs.lever.co/weloglobal/7903f79a-fe0f-46e3-ac8b-83b607574453",
+      "location": "Gurgaon, India",
+      "source": "careers"
+    },
+    {
+      "title": "Hindi Linguist",
+      "url": "https://jobs.lever.co/weloglobal/b1209960-15d0-4bca-883f-0304548215c0",
+      "location": "Gurgaon, India",
+      "source": "careers"
+    },
+    {
+      "title": "IT Support Engineer",
+      "url": "https://jobs.lever.co/weloglobal/952e6188-856a-490a-bf4d-d7e2b0ff484f",
+      "location": "Gurgaon, India",
+      "source": "careers"
+    },
+    {
+      "title": "Senior Project Manager - Generative AI Data Operations",
+      "url": "https://jobs.lever.co/weloglobal/38fe5666-344b-4917-bdfa-88a0bfcc4bf4",
+      "location": "Gurgaon, India",
+      "source": "careers"
+    }
+  ],
   "shield-ai": [
     {
       "title": "Chief of Staff, AI Hive (R5599)",
@@ -355,7 +417,7 @@
       "source": "careers"
     },
     {
-      "title": "Field Marketing Manager, India",
+      "title": "Field Marketing Manager, India (R5942)",
       "url": "https://jobs.lever.co/shieldai/28136dd4-edd8-4da6-a6a1-7ce139654c96",
       "location": "New Delhi",
       "source": "careers"
@@ -400,68 +462,6 @@
       "title": "Technical Program Manager",
       "url": "https://jobs.lever.co/shieldai/b851f198-4599-488c-8366-ad4af0a18dd4",
       "location": "New Delhi",
-      "source": "careers"
-    }
-  ],
-  "cint": [
-    {
-      "title": "Manager, Salesforce Administration",
-      "url": "https://careers.smartrecruiters.com/Cint/744000150647650",
-      "location": "Gurgaon, in",
-      "source": "careers"
-    },
-    {
-      "title": "Survey Programming Consultant",
-      "url": "https://careers.smartrecruiters.com/Cint/744000148325771",
-      "location": "Gurugram, in",
-      "source": "careers"
-    }
-  ],
-  "arket": [
-    {
-      "title": "Visual Merchandiser",
-      "url": "https://careers.smartrecruiters.com/HMGroup/744000151525815",
-      "location": "Gurgaon, in",
-      "source": "careers"
-    }
-  ],
-  "welocalize": [
-    {
-      "title": "Associate Project Manager- Gen AI Operations",
-      "url": "https://jobs.lever.co/weloglobal/b1e0450f-3f8e-4c0d-8db5-f2e40278f8fa",
-      "location": "Gurgaon, India",
-      "source": "careers"
-    },
-    {
-      "title": "Associate Technical Publication Engineer",
-      "url": "https://jobs.lever.co/weloglobal/7903f79a-fe0f-46e3-ac8b-83b607574453",
-      "location": "Gurgaon, India",
-      "source": "careers"
-    },
-    {
-      "title": "Hindi Linguist",
-      "url": "https://jobs.lever.co/weloglobal/b1209960-15d0-4bca-883f-0304548215c0",
-      "location": "Gurgaon, India",
-      "source": "careers"
-    },
-    {
-      "title": "IT Support Engineer",
-      "url": "https://jobs.lever.co/weloglobal/952e6188-856a-490a-bf4d-d7e2b0ff484f",
-      "location": "Gurgaon, India",
-      "source": "careers"
-    },
-    {
-      "title": "Senior Project Manager - Generative AI Data Operations",
-      "url": "https://jobs.lever.co/weloglobal/38fe5666-344b-4917-bdfa-88a0bfcc4bf4",
-      "location": "Gurgaon, India",
-      "source": "careers"
-    }
-  ],
-  "smart-working": [
-    {
-      "title": "Lead PHP/Symfony Engineer (Remote, Full-Time) - [HR191]",
-      "url": "https://jobs.lever.co/smart-working-solutions/eb63f1a9-443b-48a4-88ec-99c8516a8c06",
-      "location": "Noida",
       "source": "careers"
     }
   ]
