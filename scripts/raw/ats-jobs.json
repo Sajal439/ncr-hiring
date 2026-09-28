@@ -1,12 +1,4 @@
 {
-  "xebia-india": [
-    {
-      "title": "Senior Backend Lead",
-      "url": "https://job-boards.greenhouse.io/xebiaapac/jobs/5591727004",
-      "location": "Bangalore; Gurgaon",
-      "source": "careers"
-    }
-  ],
   "the-knot-worldwide": [
     {
       "title": "Account Executive, Core",
@@ -18,6 +10,28 @@
       "title": "Sales Associate, Venue",
       "url": "https://job-boards.greenhouse.io/theknotworldwide/jobs/5404653008",
       "location": "Gurugram, Haryana, India",
+      "source": "careers"
+    }
+  ],
+  "xebia-india": [
+    {
+      "title": "Senior Backend Lead",
+      "url": "https://job-boards.greenhouse.io/xebiaapac/jobs/5591727004",
+      "location": "Bangalore; Gurgaon",
+      "source": "careers"
+    }
+  ],
+  "athena-education": [
+    {
+      "title": "Associate/ Associate Manager - Writing",
+      "url": "https://jobs.lever.co/athena-education/8f9cb4b5-155f-4eae-8f77-ef801a4110da",
+      "location": "Gurugram",
+      "source": "careers"
+    },
+    {
+      "title": "Technical Director- Writing",
+      "url": "https://jobs.lever.co/athena-education/4b1432e7-7ed4-4502-9441-506861d6ebe9",
+      "location": "Gurugram",
       "source": "careers"
     }
   ],
@@ -153,6 +167,26 @@
       "source": "careers"
     }
   ],
+  "map": [
+    {
+      "title": "AEM - UI EDS - Consultant",
+      "url": "https://job-boards.greenhouse.io/map/jobs/8706872002",
+      "location": "New Delhi, India",
+      "source": "careers"
+    },
+    {
+      "title": "Lead QA Engineer",
+      "url": "https://job-boards.greenhouse.io/map/jobs/8441199002",
+      "location": "New Delhi, Delhi, India",
+      "source": "careers"
+    },
+    {
+      "title": "Senior QA Engineer (automation) Contractor",
+      "url": "https://job-boards.greenhouse.io/map/jobs/8630694002",
+      "location": "New Delhi, India",
+      "source": "careers"
+    }
+  ],
   "primevigilance": [
     {
       "title": "Finance Project Coordinator",
@@ -161,17 +195,43 @@
       "source": "careers"
     }
   ],
-  "athena-education": [
+  "smart-working": [
     {
-      "title": "Associate/ Associate Manager - Writing",
-      "url": "https://jobs.lever.co/athena-education/8f9cb4b5-155f-4eae-8f77-ef801a4110da",
-      "location": "Gurugram",
+      "title": "Lead PHP/Symfony Engineer (Remote, Full-Time) - [HR191]",
+      "url": "https://jobs.lever.co/smart-working-solutions/eb63f1a9-443b-48a4-88ec-99c8516a8c06",
+      "location": "Noida",
       "source": "careers"
     },
     {
-      "title": "Technical Director- Writing",
-      "url": "https://jobs.lever.co/athena-education/4b1432e7-7ed4-4502-9441-506861d6ebe9",
-      "location": "Gurugram",
+      "title": "Senior Full Stack Developer (Remote, Contractual) [HR214]",
+      "url": "https://jobs.lever.co/smart-working-solutions/63807795-e2bd-4254-aea0-10f79c7027c3",
+      "location": "Delhi",
+      "source": "careers"
+    }
+  ],
+  "alphasense": [
+    {
+      "title": "Compliance Analyst, Expert Network",
+      "url": "https://job-boards.greenhouse.io/alphasense/jobs/8693025002",
+      "location": "Delhi",
+      "source": "careers"
+    },
+    {
+      "title": "Content Analyst",
+      "url": "https://job-boards.greenhouse.io/alphasense/jobs/8025882002",
+      "location": "Delhi",
+      "source": "careers"
+    },
+    {
+      "title": "Join AlphaSense India Talent Community",
+      "url": "https://job-boards.greenhouse.io/alphasense/jobs/7119398002",
+      "location": "Delhi",
+      "source": "careers"
+    },
+    {
+      "title": "Staff Site Reliability Engineer",
+      "url": "https://job-boards.greenhouse.io/alphasense/jobs/8358708002",
+      "location": "Delhi",
       "source": "careers"
     }
   ],
@@ -275,40 +335,6 @@
       "source": "careers"
     }
   ],
-  "alphasense": [
-    {
-      "title": "Compliance Analyst, Expert Network",
-      "url": "https://job-boards.greenhouse.io/alphasense/jobs/8693025002",
-      "location": "Delhi",
-      "source": "careers"
-    },
-    {
-      "title": "Content Analyst",
-      "url": "https://job-boards.greenhouse.io/alphasense/jobs/8025882002",
-      "location": "Delhi",
-      "source": "careers"
-    },
-    {
-      "title": "Join AlphaSense India Talent Community",
-      "url": "https://job-boards.greenhouse.io/alphasense/jobs/7119398002",
-      "location": "Delhi",
-      "source": "careers"
-    },
-    {
-      "title": "Staff Site Reliability Engineer",
-      "url": "https://job-boards.greenhouse.io/alphasense/jobs/8358708002",
-      "location": "Delhi",
-      "source": "careers"
-    }
-  ],
-  "smart-working": [
-    {
-      "title": "Lead PHP/Symfony Engineer (Remote, Full-Time) - [HR191]",
-      "url": "https://jobs.lever.co/smart-working-solutions/eb63f1a9-443b-48a4-88ec-99c8516a8c06",
-      "location": "Noida",
-      "source": "careers"
-    }
-  ],
   "cint": [
     {
       "title": "Manager/Lead, Salesforce Administration",
@@ -320,38 +346,6 @@
       "title": "Survey Programming Consultant",
       "url": "https://careers.smartrecruiters.com/Cint/744000148325771",
       "location": "Gurugram, in",
-      "source": "careers"
-    }
-  ],
-  "welocalize": [
-    {
-      "title": "Associate Project Manager- Gen AI Operations",
-      "url": "https://jobs.lever.co/weloglobal/b1e0450f-3f8e-4c0d-8db5-f2e40278f8fa",
-      "location": "Gurgaon, India",
-      "source": "careers"
-    },
-    {
-      "title": "Associate Technical Publication Engineer",
-      "url": "https://jobs.lever.co/weloglobal/7903f79a-fe0f-46e3-ac8b-83b607574453",
-      "location": "Gurgaon, India",
-      "source": "careers"
-    },
-    {
-      "title": "Hindi Linguist",
-      "url": "https://jobs.lever.co/weloglobal/b1209960-15d0-4bca-883f-0304548215c0",
-      "location": "Gurgaon, India",
-      "source": "careers"
-    },
-    {
-      "title": "IT Support Engineer",
-      "url": "https://jobs.lever.co/weloglobal/952e6188-856a-490a-bf4d-d7e2b0ff484f",
-      "location": "Gurgaon, India",
-      "source": "careers"
-    },
-    {
-      "title": "Senior Project Manager - Generative AI Data Operations",
-      "url": "https://jobs.lever.co/weloglobal/38fe5666-344b-4917-bdfa-88a0bfcc4bf4",
-      "location": "Gurgaon, India",
       "source": "careers"
     }
   ],
@@ -411,23 +405,41 @@
       "source": "careers"
     }
   ],
-  "map": [
+  "welocalize": [
     {
-      "title": "AEM - UI EDS - Consultant",
-      "url": "https://job-boards.greenhouse.io/map/jobs/8706872002",
-      "location": "New Delhi, India",
+      "title": "Associate Project Manager- Gen AI Operations",
+      "url": "https://jobs.lever.co/weloglobal/b1e0450f-3f8e-4c0d-8db5-f2e40278f8fa",
+      "location": "Gurgaon, India",
       "source": "careers"
     },
     {
-      "title": "Lead QA Engineer",
-      "url": "https://job-boards.greenhouse.io/map/jobs/8441199002",
-      "location": "New Delhi, Delhi, India",
+      "title": "Associate Technical Publication Engineer",
+      "url": "https://jobs.lever.co/weloglobal/7903f79a-fe0f-46e3-ac8b-83b607574453",
+      "location": "Gurgaon, India",
       "source": "careers"
     },
     {
-      "title": "Senior QA Engineer (automation) Contractor",
-      "url": "https://job-boards.greenhouse.io/map/jobs/8630694002",
-      "location": "New Delhi, India",
+      "title": "Hindi Linguist",
+      "url": "https://jobs.lever.co/weloglobal/b1209960-15d0-4bca-883f-0304548215c0",
+      "location": "Gurgaon, India",
+      "source": "careers"
+    },
+    {
+      "title": "IT Support Engineer",
+      "url": "https://jobs.lever.co/weloglobal/952e6188-856a-490a-bf4d-d7e2b0ff484f",
+      "location": "Gurgaon, India",
+      "source": "careers"
+    },
+    {
+      "title": "Lead Program Manager- Generative AI Data Operations",
+      "url": "https://jobs.lever.co/weloglobal/7a1cd362-365b-41a3-b8b7-d484c749dc36",
+      "location": "Gurgaon, India",
+      "source": "careers"
+    },
+    {
+      "title": "Senior Project Manager - Generative AI Data Operations",
+      "url": "https://jobs.lever.co/weloglobal/38fe5666-344b-4917-bdfa-88a0bfcc4bf4",
+      "location": "Gurgaon, India",
       "source": "careers"
     }
   ]
