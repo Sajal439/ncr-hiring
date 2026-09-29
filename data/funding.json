@@ -1,32 +1,17 @@
 {
-  "amazon-india": {
-    "amount": "$3 Bn",
-    "title": "Amazon India To Invest $3 Bn In Quick Commerce Arm By 2030: Report",
-    "url": "https://inc42.com/buzz/amazon-india-to-invest-3-bn-in-quick-commerce-arm-by-2030-report/",
-    "date": "Thu, 24 Sep 2026 19:55:51 +0000",
+  "tonbo-imaging": {
+    "round": "IPO",
+    "title": "Tonbo Imaging Secures IPO Nod After Refiling Draft Papers",
+    "url": "https://inc42.com/buzz/tonbo-imaging-secures-ipo-nod-after-refiling-draft-papers/",
+    "date": "Mon, 28 Sep 2026 06:57:13 +0000",
     "source": "Inc42",
     "history": [
       {
-        "amount": "$13 Bn",
-        "title": "Amazon Announces Additional $13 Bn Investment In India To Boost AI, Cloud Infra",
-        "url": "https://inc42.com/buzz/amazon-announces-additional-13-bn-investment-in-india-to-boost-ai-cloud-infra/",
-        "date": "2026-06-25",
-        "source": "Inc42"
-      },
-      {
-        "amount": "₹2800 Cr",
-        "title": "Amazon India to Invest rs 2800 cr to Boost Logistics Quick Commerce Push",
-        "url": "https://entrackr.com/snippets/amazon-india-to-invest-rs-2800-cr-to-boost-logistics-quick-commerce-push-11757284",
-        "date": "2026-04-23",
-        "source": "Entrackr"
-      },
-      {
-        "amount": "₹2,000 Cr",
         "round": "IPO",
-        "title": "Amazon-Backed More Retail Plans To Raise INR 2,000 Cr Via IPO: Report",
-        "url": "https://inc42.com/buzz/amazon-backed-more-retail-plans-to-raise-inr-2000-cr-via-ipo-report/",
-        "date": "2025-05-13",
-        "source": "Inc42"
+        "title": "Tonbo Imaging Raises 21 mn in Pre Ipo Round",
+        "url": "https://entrackr.com/snippets/tonbo-imaging-raises-21-mn-in-pre-ipo-round-8921571",
+        "date": "2025-04-03",
+        "source": "Entrackr"
       }
     ]
   },
@@ -580,6 +565,30 @@
         "url": "https://entrackr.com/snippets/juice-brand-alienkind-raises-12-mn-in-seed-round-8924648",
         "date": "2025-04-04",
         "source": "Entrackr"
+      }
+    ]
+  },
+  "amazon-india": {
+    "amount": "$13 Bn",
+    "title": "Amazon Announces Additional $13 Bn Investment In India To Boost AI, Cloud Infra",
+    "url": "https://inc42.com/buzz/amazon-announces-additional-13-bn-investment-in-india-to-boost-ai-cloud-infra/",
+    "date": "2026-06-25",
+    "source": "Inc42",
+    "history": [
+      {
+        "amount": "₹2800 Cr",
+        "title": "Amazon India to Invest rs 2800 cr to Boost Logistics Quick Commerce Push",
+        "url": "https://entrackr.com/snippets/amazon-india-to-invest-rs-2800-cr-to-boost-logistics-quick-commerce-push-11757284",
+        "date": "2026-04-23",
+        "source": "Entrackr"
+      },
+      {
+        "amount": "₹2,000 Cr",
+        "round": "IPO",
+        "title": "Amazon-Backed More Retail Plans To Raise INR 2,000 Cr Via IPO: Report",
+        "url": "https://inc42.com/buzz/amazon-backed-more-retail-plans-to-raise-inr-2000-cr-via-ipo-report/",
+        "date": "2025-05-13",
+        "source": "Inc42"
       }
     ]
   },
@@ -2611,14 +2620,6 @@
     "title": "Matbook Raises 750k in Pre Seed Round",
     "url": "https://entrackr.com/snippets/matbook-raises-750k-in-pre-seed-round-8984090",
     "date": "2025-04-21",
-    "source": "Entrackr",
-    "history": []
-  },
-  "tonbo-imaging": {
-    "round": "IPO",
-    "title": "Tonbo Imaging Raises 21 mn in Pre Ipo Round",
-    "url": "https://entrackr.com/snippets/tonbo-imaging-raises-21-mn-in-pre-ipo-round-8921571",
-    "date": "2025-04-03",
     "source": "Entrackr",
     "history": []
   },
