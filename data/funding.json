@@ -1,17 +1,17 @@
 {
-  "tonbo-imaging": {
-    "round": "IPO",
-    "title": "Tonbo Imaging Secures IPO Nod After Refiling Draft Papers",
-    "url": "https://inc42.com/buzz/tonbo-imaging-secures-ipo-nod-after-refiling-draft-papers/",
-    "date": "Mon, 28 Sep 2026 06:57:13 +0000",
-    "source": "Inc42",
+  "livspace": {
+    "amount": "$15 Mn",
+    "title": "Former Livspace executives’ startup Gravity raises $15 Mn led by Info Edge Ventures and 3one4 Capital",
+    "url": "https://entrackr.com/news/former-livspace-executives-startup-gravity-raises-15-mn-led-by-info-edge-ventures-and-3one4-capital-12593710",
+    "date": "Wed, 30 Sep 2026 15:55:44 +0530",
+    "source": "Entrackr",
     "history": [
       {
-        "round": "IPO",
-        "title": "Tonbo Imaging Raises 21 mn in Pre Ipo Round",
-        "url": "https://entrackr.com/snippets/tonbo-imaging-raises-21-mn-in-pre-ipo-round-8921571",
-        "date": "2025-04-03",
-        "source": "Entrackr"
+        "amount": "$15 Mn",
+        "title": "Exclusive: Ex-Livspace Duo Saurabh Jain, Lalit Mittal In Talks To Raise $15 Mn For New Startup",
+        "url": "https://inc42.com/buzz/ex-livspace-cofounder-cbo-launch-home-interior-materials-venture-gravity/",
+        "date": "2026-07-10",
+        "source": "Inc42"
       }
     ]
   },
@@ -527,14 +527,6 @@
         "source": "Entrackr"
       }
     ]
-  },
-  "livspace": {
-    "amount": "$15 Mn",
-    "title": "Exclusive: Ex-Livspace Duo Saurabh Jain, Lalit Mittal In Talks To Raise $15 Mn For New Startup",
-    "url": "https://inc42.com/buzz/ex-livspace-cofounder-cbo-launch-home-interior-materials-venture-gravity/",
-    "date": "2026-07-10",
-    "source": "Inc42",
-    "history": []
   },
   "kapture-cx": {
     "round": "Pre Series B",
@@ -2620,6 +2612,14 @@
     "title": "Matbook Raises 750k in Pre Seed Round",
     "url": "https://entrackr.com/snippets/matbook-raises-750k-in-pre-seed-round-8984090",
     "date": "2025-04-21",
+    "source": "Entrackr",
+    "history": []
+  },
+  "tonbo-imaging": {
+    "round": "IPO",
+    "title": "Tonbo Imaging Raises 21 mn in Pre Ipo Round",
+    "url": "https://entrackr.com/snippets/tonbo-imaging-raises-21-mn-in-pre-ipo-round-8921571",
+    "date": "2025-04-03",
     "source": "Entrackr",
     "history": []
   },

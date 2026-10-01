@@ -1,16 +1,239 @@
 [
   {
+    "title": "After CEO, COO elevations, OTPless elevates Manas Poddar as CBO",
+    "url": "https://entrackr.com/snippets/after-ceo-coo-elevations-otpless-elevates-manas-poddar-as-cbo-12611930",
+    "date": "Thu, 01 Oct 2026 11:59:48 +0530",
+    "source": "Entrackr"
+  },
+  {
+    "title": "Seeds Fincap raises Rs 100 Cr in Series B led by Michael & Susan Dell Foundation",
+    "url": "https://entrackr.com/news/seeds-fincap-raises-rs-100-cr-in-series-b-led-by-michael-susan-dell-foundation-12611889",
+    "date": "Thu, 01 Oct 2026 11:46:27 +0530",
+    "source": "Entrackr"
+  },
+  {
+    "title": "Unveilr AI raises pre-seed round from AJVC at Rs 16.7 Cr valuation",
+    "url": "https://entrackr.com/snippets/unveilr-ai-raises-pre-seed-round-from-ajvc-at-rs-167-cr-valuation-12611816",
+    "date": "Thu, 01 Oct 2026 11:30:29 +0530",
+    "source": "Entrackr"
+  },
+  {
+    "title": "Antler, Nikhil Kamath back healthtech startup Aignosis with Rs 4 Cr seed round",
+    "url": "https://entrackr.com/snippets/antler-nikhil-kamath-back-healthtech-startup-aignosis-with-rs-4-cr-seed-round-12611813",
+    "date": "Thu, 01 Oct 2026 11:28:10 +0530",
+    "source": "Entrackr"
+  },
+  {
+    "title": "Former Elevation Capital investor Mayank Khanduja joins Bessemer Venture Partners as Partner",
+    "url": "https://entrackr.com/snippets/former-elevation-capital-investor-mayank-khanduja-joins-bessemer-venture-partners-as-partner-12611764",
+    "date": "Thu, 01 Oct 2026 11:14:04 +0530",
+    "source": "Entrackr",
+    "company": "elevation-capital"
+  },
+  {
+    "title": "Bangalore Watch Company raises $1.4 Mn in seed round from customers, family office, HNIs",
+    "url": "https://entrackr.com/snippets/bangalore-watch-company-raises-14-mn-in-seed-round-from-customers-family-office-hnis-12611688",
+    "date": "Thu, 01 Oct 2026 11:02:41 +0530",
+    "source": "Entrackr"
+  },
+  {
+    "title": "SBI Mutual Fund raises Swiggy stake above 5% after Rs 300 Cr share purchase",
+    "url": "https://entrackr.com/news/sbi-mutual-fund-raises-swiggy-stake-above-5-after-rs-300-cr-share-purchase-12611662",
+    "date": "Thu, 01 Oct 2026 10:49:24 +0530",
+    "source": "Entrackr"
+  },
+  {
+    "title": "Moneyview shares debut at 64% premium after 100X IPO subscription",
+    "url": "https://entrackr.com/news/moneyview-shares-debut-at-64-premium-after-100x-ipo-subscription-12611654",
+    "date": "Thu, 01 Oct 2026 10:47:16 +0530",
+    "source": "Entrackr"
+  },
+  {
+    "title": "UPI transaction volume stays above 24 Bn despite 1.8% M-o-M dip in September",
+    "url": "https://entrackr.com/news/upi-transaction-volume-stays-above-24-bn-despite-18-m-o-m-dip-in-september-12611636",
+    "date": "Thu, 01 Oct 2026 10:43:22 +0530",
+    "source": "Entrackr"
+  },
+  {
+    "title": "TVS retains EV two-wheeler lead in September as Bajaj, Hero see strong growth",
+    "url": "https://entrackr.com/news/tvs-retains-ev-two-wheeler-lead-in-september-as-bajaj-hero-see-strong-growth-12611204",
+    "date": "Thu, 01 Oct 2026 10:18:28 +0530",
+    "source": "Entrackr"
+  },
+  {
+    "title": "Moneyview Makes Bumper Debut, Lists At 64% Premium On The BSE",
+    "url": "https://inc42.com/buzz/moneyview-makes-bumper-debut-lists-at-64-premium-on-the-bse/",
+    "date": "Thu, 01 Oct 2026 04:42:27 +0000",
+    "source": "Inc42"
+  },
+  {
+    "title": "Q3 Funding Crawls Up, Inc42’s CTO Summit 2026 &#038; More",
+    "url": "https://inc42.com/buzz/q3-funding-crawls-up-inc42s-cto-summit-2026-more/",
+    "date": "Thu, 01 Oct 2026 02:30:14 +0000",
+    "source": "Inc42"
+  },
+  {
+    "title": "Traders Call Off ‘No UPI Day’ Protest After Meeting FM Sitharaman",
+    "url": "https://inc42.com/buzz/traders-call-off-no-upi-day-protest-after-meeting-fm-sitharaman/",
+    "date": "Wed, 30 Sep 2026 21:22:36 +0000",
+    "source": "Inc42"
+  },
+  {
+    "title": "TPG Sells More Shadowfax Shares Via ₹114 Cr Bulk Deal",
+    "url": "https://inc42.com/buzz/tpg-sells-more-shadowfax-shares-via-%e2%82%b9114-cr-bulk-deal/",
+    "date": "Wed, 30 Sep 2026 20:26:56 +0000",
+    "source": "Inc42",
+    "company": "shadowfax"
+  },
+  {
+    "title": "Cofounder Upasana Taku Picks Up 1.1 Lakh MobiKwik Shares",
+    "url": "https://inc42.com/buzz/cofounder-upasana-taku-picks-up-1-1-lakh-mobikwik-shares/",
+    "date": "Wed, 30 Sep 2026 19:53:27 +0000",
+    "source": "Inc42",
+    "company": "mobikwik"
+  },
+  {
+    "title": "Building AI Products For Indian Users: The Challenge Of Scale, Access, And Cost",
+    "url": "https://inc42.com/buzz/building-ai-products-for-indian-users-the-challenge-of-scale-access-and-cost/",
+    "date": "Wed, 30 Sep 2026 14:00:47 +0000",
+    "source": "Inc42",
+    "company": "building-india"
+  },
+  {
+    "title": "How AI Is Helping PhonePe Improve Efficiency &#038; Cut Costs",
+    "url": "https://inc42.com/buzz/how-ai-is-helping-phonepe-improve-efficiency-cut-costs/",
+    "date": "Wed, 30 Sep 2026 13:44:35 +0000",
+    "source": "Inc42"
+  },
+  {
+    "title": "Simple Energy Raises $180 Mn To Unlock Next Growth Phase",
+    "url": "https://inc42.com/buzz/simple-energy-raises-180-mn-to-unlock-next-growth-phase/",
+    "date": "Wed, 30 Sep 2026 11:30:08 +0000",
+    "source": "Inc42"
+  },
+  {
+    "title": "EV startup Simple Energy raises $182 Mn in Series C round",
+    "url": "https://entrackr.com/news/ev-startup-simple-energy-raises-182-mn-in-series-c-round-12593947",
+    "date": "Wed, 30 Sep 2026 17:00:05 +0530",
+    "source": "Entrackr"
+  },
+  {
+    "title": "Fresh Data, Clear Access Rules: The Foundation For Reliable AI Applications",
+    "url": "https://inc42.com/buzz/fresh-data-clear-access-rules-the-foundation-for-reliable-ai-applications/",
+    "date": "Wed, 30 Sep 2026 11:22:23 +0000",
+    "source": "Inc42"
+  },
+  {
+    "title": "Startup Funding Crawls Up 5% YoY To $2.2 Bn In Q3 As Investors Get Picky",
+    "url": "https://inc42.com/buzz/startup-funding-crawls-up-5-yoy-to-2-2-bn-in-q3-2026-as-investors-get-picky/",
+    "date": "Wed, 30 Sep 2026 11:20:47 +0000",
+    "source": "Inc42"
+  },
+  {
+    "title": "AI Is Compressing The Travel-Booking Journey: MakeMyTrip Group CTO",
+    "url": "https://inc42.com/buzz/ai-is-compressing-the-travel-booking-journey-makemytrip-group-cto/",
+    "date": "Wed, 30 Sep 2026 11:13:15 +0000",
+    "source": "Inc42",
+    "company": "makemytrip"
+  },
+  {
+    "title": "[Update] Home Interior Startup Gravity Nets $15 Mn To Expand Into New Categories",
+    "url": "https://inc42.com/buzz/ex-livspace-cofounder-cbo-launch-home-interior-materials-venture-gravity/",
+    "date": "Wed, 30 Sep 2026 10:27:07 +0000",
+    "source": "Inc42"
+  },
+  {
+    "title": "Former Livspace executives’ startup Gravity raises $15 Mn led by Info Edge Ventures and 3one4 Capital",
+    "url": "https://entrackr.com/news/former-livspace-executives-startup-gravity-raises-15-mn-led-by-info-edge-ventures-and-3one4-capital-12593710",
+    "date": "Wed, 30 Sep 2026 15:55:44 +0530",
+    "source": "Entrackr",
+    "company": "livspace"
+  },
+  {
+    "title": "Beyond Coding: Why AI Makes Systems Thinking More Important For Engineers",
+    "url": "https://inc42.com/buzz/beyond-coding-why-ai-makes-systems-thinking-more-important-for-engineers/",
+    "date": "Wed, 30 Sep 2026 10:17:35 +0000",
+    "source": "Inc42"
+  },
+  {
+    "title": "Netmeds posts flat revenue at Rs 45 Cr in FY26; remains profitable",
+    "url": "https://entrackr.com/fintrackr/netmeds-posts-flat-revenue-at-rs-45-cr-in-fy26-remains-profitable-12593652",
+    "date": "Wed, 30 Sep 2026 15:37:02 +0530",
+    "source": "Entrackr"
+  },
+  {
+    "title": "Longevity startup Vytalyou raises Rs 9 Cr in pre-Series A round",
+    "url": "https://entrackr.com/snippets/longevity-startup-vytalyou-raises-rs-9-cr-in-pre-series-a-round-12593640",
+    "date": "Wed, 30 Sep 2026 15:34:36 +0530",
+    "source": "Entrackr"
+  },
+  {
+    "title": "More Code, More Review: How AI Is Changing Engineering",
+    "url": "https://inc42.com/buzz/more-code-more-review-how-ai-is-changing-engineering/",
+    "date": "Wed, 30 Sep 2026 09:40:31 +0000",
+    "source": "Inc42"
+  },
+  {
+    "title": "How Flipkart Is Using AI To Move Beyond Keyword-Led Product Discovery",
+    "url": "https://inc42.com/buzz/how-flipkart-is-using-ai-to-move-beyond-keyword-led-product-discovery/",
+    "date": "Wed, 30 Sep 2026 09:16:45 +0000",
+    "source": "Inc42"
+  },
+  {
+    "title": "Consumer Appliance Startup EDT Raises $2.4 Mn To Expand Product Portfolio",
+    "url": "https://inc42.com/buzz/consumer-appliance-startup-edt-raises-2-4-mn-to-expand-product-portfolio/",
+    "date": "Wed, 30 Sep 2026 09:09:21 +0000",
+    "source": "Inc42"
+  },
+  {
+    "title": "India’s Scale Demands Planning For Failures Beyond Your Stack: Razorpay’s Prabhu Ram",
+    "url": "https://inc42.com/buzz/indias-scale-demands-planning-for-failures-beyond-your-stack-razorpays-prabhu-ram/",
+    "date": "Wed, 30 Sep 2026 08:04:21 +0000",
+    "source": "Inc42",
+    "company": "razorpay"
+  },
+  {
+    "title": "How Swiggy Is Using AI Agents To Take Commerce Beyond Its App",
+    "url": "https://inc42.com/buzz/how-swiggy-is-using-ai-agents-to-take-commerce-beyond-its-app/",
+    "date": "Wed, 30 Sep 2026 07:33:40 +0000",
+    "source": "Inc42"
+  },
+  {
+    "title": "Coverfox MD Sanjib Jha Questions IRDAI’s Insurance Reset, Flags Risk To Rural Penetration",
+    "url": "https://inc42.com/buzz/coverfox-md-sanjib-jha-questions-irdais-insurance-reset-flags-risk-to-rural-penetration/",
+    "date": "Wed, 30 Sep 2026 06:55:54 +0000",
+    "source": "Inc42"
+  },
+  {
     "title": "Exclusive: Blitz kicks off  pre-Series B round at 2.5X valuation premium",
     "url": "https://entrackr.com/exclusive/exclusive-blitz-kicks-off-pre-series-b-round-at-25x-valuation-premium-12592668",
     "date": "Wed, 30 Sep 2026 11:16:47 +0530",
     "source": "Entrackr"
   },
   {
-    "title": "Apple Pay launches in India with Axis Bank cards; Juspay, Cashfree enable merchant support",
-    "url": "https://entrackr.com/news/apple-pay-launches-in-india-with-axis-bank-cards-juspay-cashfree-enable-merchant-support-12592645",
+    "title": "Apple Pay launches in India with Axis Bank cards; Razorpay, Cashfree and others enable merchant support",
+    "url": "https://entrackr.com/apple-pay-launches-in-india-with-axis-bank-cards-razorpay-cashfree-enable-merchant-support-12592645",
     "date": "Wed, 30 Sep 2026 11:13:35 +0530",
     "source": "Entrackr",
-    "company": "juspay"
+    "company": "razorpay"
+  },
+  {
+    "title": "The Unglamorous Work Behind Enterprise AI",
+    "url": "https://inc42.com/features/the-unglamorous-work-behind-enterprise-ai/",
+    "date": "Wed, 30 Sep 2026 05:30:00 +0000",
+    "source": "Inc42"
+  },
+  {
+    "title": "Moneyview IPO: Ribbit Capital Bags 11.85X Return, Tiger Global Scores 3.42X",
+    "url": "https://inc42.com/buzz/moneyview-ipo-ribbit-capital-bags-11-85x-return-tiger-global-scores-3-42x/",
+    "date": "Wed, 30 Sep 2026 05:29:29 +0000",
+    "source": "Inc42"
+  },
+  {
+    "title": "Apple Pay Launches In India, Partners With Axis Bank",
+    "url": "https://inc42.com/buzz/apple-pay-launches-in-india-partners-with-axis-bank/",
+    "date": "Wed, 30 Sep 2026 05:08:42 +0000",
+    "source": "Inc42"
   },
   {
     "title": "Edtech startup Arivihan raises $10 Mn in Series A led by Accel and Prosus",
@@ -25,27 +248,16 @@
     "source": "Entrackr"
   },
   {
+    "title": "Snapdeal Ready For D-Street, Soulfull Cofounder’s New Venture &#038; More",
+    "url": "https://inc42.com/buzz/snapdeal-ready-for-d-street-soulfull-cofounders-new-venture-more/",
+    "date": "Wed, 30 Sep 2026 02:30:06 +0000",
+    "source": "Inc42",
+    "company": "snapdeal"
+  },
+  {
     "title": "Arivihan Nets $10.2 Mn To Scale Its AI Tutoring Platform",
     "url": "https://inc42.com/buzz/arivihan-nets-10-2-mn-to-scale-its-ai-tutoring-platform/",
     "date": "Wed, 30 Sep 2026 00:30:17 +0000",
-    "source": "Inc42"
-  },
-  {
-    "title": "Will Amend IT Rules To Bar Under-18s From Social Media: Centre To SC",
-    "url": "https://inc42.com/buzz/will-amend-it-rules-to-bar-under-18s-from-social-media-centre-to-sc/",
-    "date": "Tue, 29 Sep 2026 20:10:32 +0000",
-    "source": "Inc42"
-  },
-  {
-    "title": "[Update] AceVector IPO Closes With 4.93X Oversubscription",
-    "url": "https://inc42.com/buzz/acevector-ipo-oversubscribed-2-59x-on-day-3-so-far/",
-    "date": "Tue, 29 Sep 2026 14:25:01 +0000",
-    "source": "Inc42"
-  },
-  {
-    "title": "Ex-Soulfull MD Prashant Parameswaran Launches Arovia To Build Regional Food Brands Portfolio",
-    "url": "https://inc42.com/buzz/ex-soulfull-md-prashant-parameswaran-launches-arovia-to-build-regional-food-brands-portfolio/",
-    "date": "Tue, 29 Sep 2026 14:00:45 +0000",
     "source": "Inc42"
   },
   {
@@ -56,22 +268,10 @@
     "company": "building-india"
   },
   {
-    "title": "StockGro Confidentially Files IPO Papers, Eyes Up To ₹2,500 Cr Issue",
-    "url": "https://inc42.com/buzz/stockgro-confidentially-files-ipo-papers-eyes-up-to-%e2%82%b92500-cr-issue/",
-    "date": "Tue, 29 Sep 2026 12:15:26 +0000",
-    "source": "Inc42"
-  },
-  {
     "title": "AceVector’s IPO subscribed over 5X on final day",
     "url": "https://entrackr.com/news/acevectors-ipo-subscribed-over-5x-on-final-day-12590738",
     "date": "Tue, 29 Sep 2026 17:09:43 +0530",
     "source": "Entrackr"
-  },
-  {
-    "title": "Meet The Startups From Peak XV’s ‘Surge 12’",
-    "url": "https://inc42.com/buzz/meet-the-startups-from-peak-xvs-surge-12/",
-    "date": "Tue, 29 Sep 2026 09:50:02 +0000",
-    "source": "Inc42"
   },
   {
     "title": "ITC completes 100% acquisition of Yoga Bar parent Sproutlife",
@@ -99,24 +299,6 @@
     "company": "boat"
   },
   {
-    "title": "CTO Summit 2026 Agenda: How India’s Tech Leaders Are Rebuilding Products, Teams &#038; Systems For AI Era",
-    "url": "https://inc42.com/buzz/cto-summit-2026-agenda-how-indias-tech-leaders-are-rebuilding-products-teams-systems-for-ai-era/",
-    "date": "Tue, 29 Sep 2026 06:49:04 +0000",
-    "source": "Inc42"
-  },
-  {
-    "title": "WEH Ventures Announces First Close Of ₹250 Cr Fund III",
-    "url": "https://inc42.com/buzz/weh-ventures-announces-first-close-of-%e2%82%b9250-cr-fund-iii/",
-    "date": "Tue, 29 Sep 2026 06:34:49 +0000",
-    "source": "Inc42"
-  },
-  {
-    "title": "ITC Completes Yoga Bar Acquisition For ₹645 Cr",
-    "url": "https://inc42.com/buzz/itc-completes-yoga-bar-acquisition-for-%e2%82%b9645-cr/",
-    "date": "Tue, 29 Sep 2026 06:32:38 +0000",
-    "source": "Inc42"
-  },
-  {
     "title": "Peak XV unveils Surge 12 with 18 startups across AI, robotics, space, consumer, healthcare, music and fintech",
     "url": "https://entrackr.com/snippets/peak-xv-unveils-surge-12-with-18-startups-across-ai-robotics-space-consumer-healthcare-music-and-fintech-12589318",
     "date": "Tue, 29 Sep 2026 11:48:48 +0530",
@@ -129,29 +311,10 @@
     "source": "Entrackr"
   },
   {
-    "title": "Home Tech Looks For A Higher Ceiling",
-    "url": "https://inc42.com/features/home-tech-looks-for-a-higher-ceiling/",
-    "date": "Tue, 29 Sep 2026 05:30:22 +0000",
-    "source": "Inc42"
-  },
-  {
     "title": "Subway India operator EverBrands files DRHP to raise Rs 600 Cr via fresh issue",
     "url": "https://entrackr.com/news/subway-india-operator-everbrands-files-drhp-to-raise-rs-600-cr-via-fresh-issue-12588957",
     "date": "Tue, 29 Sep 2026 10:27:27 +0530",
     "source": "Entrackr"
-  },
-  {
-    "title": "Retailers Against UPI, Startup IPO Sprint &#038; More",
-    "url": "https://inc42.com/buzz/retailers-against-upi-startup-ipo-sprint-more/",
-    "date": "Tue, 29 Sep 2026 02:30:07 +0000",
-    "source": "Inc42"
-  },
-  {
-    "title": "Amazon India FY26 Report Card: Loss Balloons 48% YoY, Revenue Inches Closer To ₹40,000 Cr",
-    "url": "https://inc42.com/buzz/amazon-india-fy26-report-card-loss-balloons-48-yoy-revenue-inches-closer-to-%e2%82%b940000-cr/",
-    "date": "Mon, 28 Sep 2026 16:28:53 +0000",
-    "source": "Inc42",
-    "company": "amazon-india"
   },
   {
     "title": "Physical AI company SiMa.ai raises $150 Mn in Series C round",
@@ -164,37 +327,6 @@
     "url": "https://entrackr.com/news/ola-electric-to-raise-up-to-rs-1000-cr-via-rights-issue-12587860",
     "date": "Mon, 28 Sep 2026 21:22:38 +0530",
     "source": "Entrackr"
-  },
-  {
-    "title": "Ola Electric’s Board Approves ₹1,000 Cr Rights Issue",
-    "url": "https://inc42.com/buzz/ola-electrics-board-approves-%e2%82%b91000-cr-rights-issue/",
-    "date": "Mon, 28 Sep 2026 15:20:11 +0000",
-    "source": "Inc42"
-  },
-  {
-    "title": "‘No UPI Day’: Mobile, FMCG Retailers To Protest UPI MDR On October 2",
-    "url": "https://inc42.com/buzz/no-upi-day-mobile-fmcg-retailers-to-protest-upi-mdr-on-october-2/",
-    "date": "Mon, 28 Sep 2026 15:07:03 +0000",
-    "source": "Inc42",
-    "company": "fmcg"
-  },
-  {
-    "title": "Fintech Startups To Watch: Startups That Caught Our Eye In September",
-    "url": "https://inc42.com/startups/fintech-startups-to-watch-startups-that-caught-our-eye-in-september/",
-    "date": "Mon, 28 Sep 2026 14:47:57 +0000",
-    "source": "Inc42"
-  },
-  {
-    "title": "[Update] Moneyview IPO Closes With 98.46X Oversubscription",
-    "url": "https://inc42.com/buzz/moneyview-ipo-oversubscribed-31-41x-on-day-3-so-far/",
-    "date": "Mon, 28 Sep 2026 13:28:27 +0000",
-    "source": "Inc42"
-  },
-  {
-    "title": "[Update] AceVector IPO: Issue Subscribed 1.15X On Day 2",
-    "url": "https://inc42.com/buzz/snapdeal-parent-acevectors-ipo-subscribed-96-on-day-2-so-far/",
-    "date": "Mon, 28 Sep 2026 13:02:28 +0000",
-    "source": "Inc42"
   },
   {
     "title": "Moneyview IPO sees nearly 100X subscription on final day",
@@ -210,29 +342,10 @@
     "company": "entrackr"
   },
   {
-    "title": "PB Fintech Sheds Over ₹34K Cr In M-Cap In 3 Sessions, Turtlemint Loses ₹1,549 Cr",
-    "url": "https://inc42.com/buzz/pb-fintech-sheds-over-%e2%82%b934k-cr-in-m-cap-in-3-sessions-turtlemint-loses-%e2%82%b91549-cr/",
-    "date": "Mon, 28 Sep 2026 11:53:07 +0000",
-    "source": "Inc42",
-    "company": "turtlemint"
-  },
-  {
     "title": "SC declines stay on UPI MDR rollout, seeks response from Centre, RBI, NPCI on plea",
     "url": "https://entrackr.com/news/sc-declines-stay-on-upi-mdr-rollout-seeks-response-from-centre-rbi-npci-on-plea-12585634",
     "date": "Mon, 28 Sep 2026 15:14:31 +0530",
     "source": "Entrackr"
-  },
-  {
-    "title": "SC Refuses To Stay UPI MDR, Seeks Centre’s Response On ₹2,000 Threshold",
-    "url": "https://inc42.com/buzz/sc-refuses-to-stay-upi-mdr-seeks-centres-response-on-%e2%82%b92000-threshold/",
-    "date": "Mon, 28 Sep 2026 09:02:41 +0000",
-    "source": "Inc42"
-  },
-  {
-    "title": "ED Attaches Another ₹442 Cr Assets In Gameskraft’s RummyCulture Probe",
-    "url": "https://inc42.com/buzz/ed-attaches-another-%e2%82%b9442-cr-assets-in-gameskrafts-rummyculture-probe/",
-    "date": "Mon, 28 Sep 2026 08:30:30 +0000",
-    "source": "Inc42"
   },
   {
     "title": "Agricultural machinery company Balwaan Krishi raises Rs 100 Cr in Series B round",
@@ -241,36 +354,10 @@
     "source": "Entrackr"
   },
   {
-    "title": "Balwaan Krishi Bags ₹100 Cr To Scale Farm Equipment Manufacturing",
-    "url": "https://inc42.com/buzz/balwaan-krishi-bags-%e2%82%b9100-cr-to-scale-farm-equipment-manufacturing/",
-    "date": "Mon, 28 Sep 2026 07:14:36 +0000",
-    "source": "Inc42"
-  },
-  {
-    "title": "OpenAI Pauses Training Of Top Models After Agent Bypasses Internet Restrictions",
-    "url": "https://inc42.com/buzz/openai-pauses-training-of-top-models-after-agent-bypasses-internet-restrictions/",
-    "date": "Mon, 28 Sep 2026 07:01:09 +0000",
-    "source": "Inc42"
-  },
-  {
-    "title": "Tonbo Imaging Secures IPO Nod After Refiling Draft Papers",
-    "url": "https://inc42.com/buzz/tonbo-imaging-secures-ipo-nod-after-refiling-draft-papers/",
-    "date": "Mon, 28 Sep 2026 06:57:13 +0000",
-    "source": "Inc42",
-    "company": "tonbo-imaging"
-  },
-  {
     "title": "Alive App raises $1 Mn from Powerhouse, Flipkart Ventures",
     "url": "https://entrackr.com/snippets/alive-app-raises-1-mn-from-powerhouse-flipkart-ventures-12583861",
     "date": "Mon, 28 Sep 2026 11:57:03 +0530",
     "source": "Entrackr"
-  },
-  {
-    "title": "Cars24 Eyes April 2027 Reverse Flip Ahead Of IPO Filing",
-    "url": "https://inc42.com/buzz/cars24-eyes-april-2027-reverse-flip-ahead-of-ipo-filing/",
-    "date": "Mon, 28 Sep 2026 06:26:58 +0000",
-    "source": "Inc42",
-    "company": "cars24"
   },
   {
     "title": "D2C fashion brand The Indian Garage Co growth tapers down in FY26",
@@ -282,94 +369,6 @@
     "title": "ED attaches Rs 442 Cr assets in RummyCulture case; total value stands at Rs 2,843 Cr",
     "url": "https://entrackr.com/news/ed-attaches-rs-442-cr-assets-in-rummyculture-case-total-value-stands-at-rs-2843-cr-12583607",
     "date": "Mon, 28 Sep 2026 11:03:13 +0530",
-    "source": "Entrackr"
-  },
-  {
-    "title": "Beauty and wellness startup Amaani raises $5 Mn led by BECO Capital",
-    "url": "https://entrackr.com/snippets/beauty-and-wellness-startup-amaani-raises-5-mn-led-by-beco-capital-12583526",
-    "date": "Mon, 28 Sep 2026 10:35:31 +0530",
-    "source": "Entrackr"
-  },
-  {
-    "title": "Funding and acquisitions in Indian startups this week [Sep 21 - Sep 26]",
-    "url": "https://entrackr.com/report/weekly-funding-report-weekly-funding-report/funding-and-acquisitions-in-indian-startups-this-week-sep-21-sep-26-12577542",
-    "date": "Sat, 26 Sep 2026 12:00:42 +0530",
-    "source": "Entrackr"
-  },
-  {
-    "title": "Accel, 360 ONE offload 4.07% stake in BlueStone for Rs 513 Cr via bulk deals",
-    "url": "https://entrackr.com/news/accel-360-one-offload-407-stake-in-bluestone-for-rs-513-cr-via-bulk-deals-12575417",
-    "date": "Fri, 25 Sep 2026 17:37:18 +0530",
-    "source": "Entrackr"
-  },
-  {
-    "title": "Exclusive: Edtech startup Arivihan raising Rs 96 Cr at Rs 570 Cr valuation",
-    "url": "https://entrackr.com/exclusive/exclusive-edtech-startup-arivihan-raising-rs-96-cr-at-rs-570-cr-valuation-12574900",
-    "date": "Fri, 25 Sep 2026 15:27:41 +0530",
-    "source": "Entrackr"
-  },
-  {
-    "title": "Finland’s Aiven expands into India, targets AI and cloud data infrastructure market",
-    "url": "https://entrackr.com/snippets/finlands-aiven-expands-into-india-targets-ai-and-cloud-data-infrastructure-market-12574652",
-    "date": "Fri, 25 Sep 2026 14:42:59 +0530",
-    "source": "Entrackr",
-    "company": "marketinc"
-  },
-  {
-    "title": "Elevation Capital leads $6.7 Mn seed round in Dextr AI",
-    "url": "https://entrackr.com/snippets/elevation-capital-leads-67-million-seed-round-in-dextr-ai-12574387",
-    "date": "Fri, 25 Sep 2026 13:39:28 +0530",
-    "source": "Entrackr"
-  },
-  {
-    "title": "Oziva spends Rs 246 Cr on marketing for Rs 463 Cr revenue in FY26",
-    "url": "https://entrackr.com/fintrackr/oziva-spends-rs-246-cr-on-marketing-for-rs-463-cr-revenue-in-fy26-12574318",
-    "date": "Fri, 25 Sep 2026 13:14:37 +0530",
-    "source": "Entrackr"
-  },
-  {
-    "title": "Exclusive: K12 Techno Services grants fresh ESOPs worth $20 Mn",
-    "url": "https://entrackr.com/exclusive/exclusive-k12-techno-services-grants-fresh-esops-worth-20-mn-12573645",
-    "date": "Fri, 25 Sep 2026 10:18:30 +0530",
-    "source": "Entrackr"
-  },
-  {
-    "title": "AceVector raises Rs 189 Cr from anchor investors ahead of IPO",
-    "url": "https://entrackr.com/news/acevector-raises-rs-189-cr-from-anchor-investors-ahead-of-ipo-12573559",
-    "date": "Fri, 25 Sep 2026 09:56:34 +0530",
-    "source": "Entrackr"
-  },
-  {
-    "title": "Nykaa and L’Oréal’s venture fund BOLD join hands to invest in Indian beauty startups",
-    "url": "https://entrackr.com/snippets/nykaa-and-lor%C3%A9als-venture-fund-bold-join-hands-to-invest-in-indian-beauty-startups-12571944",
-    "date": "Thu, 24 Sep 2026 17:29:34 +0530",
-    "source": "Entrackr",
-    "company": "invest-india"
-  },
-  {
-    "title": "Amazon Now and Amazon Fresh report Rs 3,065 Cr revenue and Rs 1,158 Cr loss in FY26",
-    "url": "https://entrackr.com/fintrackr/amazon-now-and-amazon-fresh-report-rs-3065-cr-revenue-and-rs-1158-cr-loss-in-fy26-12571819",
-    "date": "Thu, 24 Sep 2026 17:07:45 +0530",
-    "source": "Entrackr",
-    "company": "amazon-india"
-  },
-  {
-    "title": "Amazon Pay India’s FY26 losses widens to Rs 1,149 Cr despite double digit revenue growth",
-    "url": "https://entrackr.com/fintrackr/amazon-pay-indias-fy26-losses-widens-to-rs-1149-cr-despite-double-digit-revenue-growth-12571687",
-    "date": "Thu, 24 Sep 2026 16:22:25 +0530",
-    "source": "Entrackr",
-    "company": "amazon-india"
-  },
-  {
-    "title": "MyRx raises seed round led by SteerX VC to expand primary healthcare infrastructure",
-    "url": "https://entrackr.com/snippets/myrx-raises-seed-round-led-by-steerx-vc-to-expand-primary-healthcare-infrastructure-12571606",
-    "date": "Thu, 24 Sep 2026 16:02:52 +0530",
-    "source": "Entrackr"
-  },
-  {
-    "title": "PB Fintech shares fall over 30% after IRDAI proposes lower insurance commissions",
-    "url": "https://entrackr.com/news/pb-fintech-shares-fall-over-30-after-irdai-proposes-lower-insurance-commissions-12571334",
-    "date": "Thu, 24 Sep 2026 14:48:58 +0530",
     "source": "Entrackr"
   }
 ]
