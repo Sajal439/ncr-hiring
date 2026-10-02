@@ -4722,7 +4722,7 @@
     "kind": "job",
     "title": "Management Trainee – Marketing & Sales",
     "company": "LIC Housing Finance Limited",
-    "location": "Chandigarh, Dehradun, Delhi, Ghaziabad, Gurgaon, Kanpur, Sonipat, Coimbatore, Indore, Mysuru, Patna, Ranchi, Bhopal, Pimpri-Chinchwad, Kolkata",
+    "location": "Chandigarh, Dehradun, Delhi, Ghaziabad, Gurgaon, Kanpur, Sonipat, Coimbatore, Indore, Mysuru, Patna, Ranchi, Bhopal, Pimpri-Chinchwad, Kolkata, Bhubaneswar, Chennai, Cuttack, Guwahati, Jodhpur, Ludhiana, Madurai, Pune",
     "url": "https://internshala.com/job/detail/fresher-management-trainee--marketing-sales-job-in-multiple-locations-at-lic-housing-finance-limited1788874463",
     "actively_hiring": true
   },
@@ -12644,9 +12644,9 @@
   },
   {
     "kind": "job",
-    "title": "Field Sales Executive",
+    "title": "Relationship Executive (MALE)",
     "company": "Jesseena Human Resources",
-    "location": "Gurgaon, Indore, Haldwani, Chandigarh, North",
+    "location": "North, Delhi, South",
     "url": "https://internshala.com/job/detail/fresher-field-sales-executive-job-in-multiple-locations-at-jesseena-human-resources1790604881",
     "actively_hiring": true
   },
@@ -12892,7 +12892,7 @@
   },
   {
     "kind": "internship",
-    "title": "Content and Social Media Marketing",
+    "title": "Content and Social Media Marketing ( Female Only)",
     "company": "Vibe Trip",
     "location": "Delhi",
     "stipend": "₹ 10,000 - 15,000 /month",
@@ -13171,7 +13171,7 @@
   },
   {
     "kind": "internship",
-    "title": "Executive Assistant",
+    "title": "Executive Assistant ( Female Only)",
     "company": "Sainyam Goel",
     "location": "Delhi, Noida, Gurgaon",
     "stipend": "₹ 5,000 - 10,000 /month",
@@ -13487,10 +13487,388 @@
   },
   {
     "kind": "job",
-    "title": "Sales Executive",
+    "title": "Sales Executive (Female)",
     "company": "Aloha Estates",
     "location": "Delhi, Noida, South",
     "url": "https://internshala.com/job/detail/fresher-sales-executive-job-in-multiple-locations-at-aloha-estates1790765096",
+    "actively_hiring": true
+  },
+  {
+    "kind": "internship",
+    "title": "Tech Platform Operations",
+    "company": "Bigvisual Design LLP",
+    "location": "Delhi, Greater Noida, Noida",
+    "stipend": "₹ 12,000 - 15,000 /month",
+    "duration": "6 Months",
+    "url": "https://internshala.com/internship/detail/tech-platform-operations-internship-in-multiple-locations-at-bigvisual-design-llp1790915584",
+    "actively_hiring": true
+  },
+  {
+    "kind": "internship",
+    "title": "Content and Social Media Marketing",
+    "company": "Clipo AI Private Limited",
+    "location": "Noida",
+    "stipend": "₹ 15,001 - 30,000 /month",
+    "duration": "3 Months",
+    "url": "https://internshala.com/internship/detail/content-and-social-media-marketing-internship-in-noida-at-clipo-ai-private-limited1790919899",
+    "actively_hiring": true
+  },
+  {
+    "kind": "internship",
+    "title": "INTERN : Content Creator (Photographer/Videographer)",
+    "company": "CHAASHNI By Maansi.Ketan",
+    "location": "Delhi",
+    "stipend": "₹ 10,000 - 20,000 /month",
+    "duration": "3 Months",
+    "url": "https://internshala.com/internship/detail/content-creator-photographer-videographer-internship-in-delhi-at-chaashni-by-maansiketan1790916947",
+    "actively_hiring": true
+  },
+  {
+    "kind": "internship",
+    "title": "Content and Social Media Marketing",
+    "company": "Indiyana Apparels",
+    "location": "Greater Noida",
+    "stipend": "₹ 5,000 - 8,000 /month",
+    "duration": "6 Months",
+    "url": "https://internshala.com/internship/detail/part-time-content-and-social-media-marketing-internship-in-greater-noida-at-indiyana-apparels1790751977",
+    "actively_hiring": true
+  },
+  {
+    "kind": "internship",
+    "title": "Accounting & Taxation",
+    "company": "Yourlawplace",
+    "stipend": "₹ 7,000 /month",
+    "duration": "6 Months",
+    "url": "https://internshala.com/internship/detail/accounting-taxation-internship-in-multiple-locations-at-yourlawplace1790871868",
+    "actively_hiring": true
+  },
+  {
+    "kind": "internship",
+    "title": "Academic Coordinator",
+    "company": "Sarvam Foundation",
+    "location": "Gurgaon",
+    "stipend": "₹ 9,000 - 10,000 /month",
+    "duration": "6 Months",
+    "url": "https://internshala.com/internship/detail/academic-coordinator-internship-in-gurgaon-at-sarvam-foundation1790855711",
+    "actively_hiring": true
+  },
+  {
+    "kind": "internship",
+    "title": "Hotel Management (Service)",
+    "company": "Tour Passion",
+    "location": "Delhi",
+    "stipend": "₹ 12,000 - 15,000 /month",
+    "duration": "6 Months",
+    "url": "https://internshala.com/internship/detail/hotel-management-service-internship-in-delhi-at-tour-passion1790854566",
+    "actively_hiring": true
+  },
+  {
+    "kind": "internship",
+    "title": "Admissions Counselling (Outreach & Sales)",
+    "company": "Taivas Education",
+    "location": "Delhi, Gurgaon, Dwarka",
+    "stipend": "₹ 6,000 - 10,000 /month",
+    "duration": "3 Months",
+    "url": "https://internshala.com/internship/detail/admissions-counselling-outreach-sales-internship-in-multiple-locations-at-taivas-education1790859157",
+    "actively_hiring": true
+  },
+  {
+    "kind": "internship",
+    "title": "Psychology",
+    "company": "Youth Empowerment Foundation",
+    "location": "Noida",
+    "duration": "1 Month",
+    "url": "https://internshala.com/internship/detail/psychology-internship-in-noida-at-youth-empowerment-foundation1790885075",
+    "actively_hiring": true
+  },
+  {
+    "kind": "internship",
+    "title": "Corporate Sales",
+    "company": "Gigde Global Solutions Private Limited",
+    "location": "Noida",
+    "stipend": "₹ 12,000 - 15,000 /month",
+    "duration": "1 Month",
+    "url": "https://internshala.com/internship/detail/corporate-sales-internship-in-noida-at-gigde-global-solutions-private-limited1790849666",
+    "actively_hiring": true
+  },
+  {
+    "kind": "internship",
+    "title": "Operations",
+    "company": "Signature Food Solutions",
+    "location": "Delhi, Ghaziabad, Noida",
+    "stipend": "₹ 13,000 - 15,001 /month",
+    "duration": "2 Months",
+    "url": "https://internshala.com/internship/detail/operations-internship-in-multiple-locations-at-signature-food-solutions1790754778",
+    "actively_hiring": true
+  },
+  {
+    "kind": "internship",
+    "title": "Internet Of Things (IoT)",
+    "company": "Coding Pillars LLP",
+    "location": "Gurgaon",
+    "stipend": "₹ 10,000 /month",
+    "duration": "6 Months",
+    "url": "https://internshala.com/internship/detail/internet-of-things-iot-internship-in-gurgaon-at-coding-pillars-llp1790841184",
+    "actively_hiring": true
+  },
+  {
+    "kind": "internship",
+    "title": "Psychology",
+    "company": "Youth Empowerment Foundation",
+    "location": "Delhi",
+    "duration": "1 Month",
+    "url": "https://internshala.com/internship/detail/psychology-internship-in-delhi-at-youth-empowerment-foundation1790870194",
+    "actively_hiring": true
+  },
+  {
+    "kind": "internship",
+    "title": "Human Resources (HR)",
+    "company": "Youth Empowerment Foundation",
+    "location": "Delhi",
+    "duration": "3 Months",
+    "url": "https://internshala.com/internship/detail/human-resources-hr-internship-in-delhi-at-youth-empowerment-foundation1790870341",
+    "actively_hiring": true
+  },
+  {
+    "kind": "internship",
+    "title": "Social Media Marketing",
+    "company": "Pamper Paws",
+    "location": "Noida, Delhi",
+    "stipend": "₹ 20,000 - 30,000 /month",
+    "duration": "6 Months",
+    "url": "https://internshala.com/internship/detail/social-media-marketing-internship-in-noida-at-pamper-paws1789736358",
+    "actively_hiring": true
+  },
+  {
+    "kind": "internship",
+    "title": "Anchoring",
+    "company": "ADSTALK MEDIA",
+    "location": "Delhi",
+    "stipend": "₹ 7,000 /month",
+    "duration": "3 Months",
+    "url": "https://internshala.com/internship/detail/anchoring-internship-in-delhi-at-adstalk-media1790847051",
+    "actively_hiring": true
+  },
+  {
+    "kind": "internship",
+    "title": "Business Development Executive",
+    "company": "CipherSchools",
+    "location": "Chandigarh, Gurgaon, Noida, Mohali",
+    "stipend": "₹ 18,000 - 20,000 /month",
+    "duration": "4 Months",
+    "url": "https://internshala.com/internship/detail/business-development-executive-internship-in-multiple-locations-at-cipherschools1790842212",
+    "actively_hiring": true
+  },
+  {
+    "kind": "internship",
+    "title": "Video Editing/Making",
+    "company": "Sunstone",
+    "location": "Gurgaon",
+    "stipend": "₹ 15,000 - 20,000 /month",
+    "duration": "3 Months",
+    "url": "https://internshala.com/internship/detail/video-editing-making-internship-in-gurgaon-at-sunstone1790840810",
+    "actively_hiring": true
+  },
+  {
+    "kind": "internship",
+    "title": "Customer Service/Customer Support",
+    "company": "Benepik",
+    "location": "Gurgaon",
+    "stipend": "₹ 20,000 /month",
+    "duration": "6 Months",
+    "url": "https://internshala.com/internship/detail/customer-service-customer-support-internship-in-gurgaon-at-benepik1790860057",
+    "actively_hiring": true
+  },
+  {
+    "kind": "internship",
+    "title": "Teaching",
+    "company": "Sarvam Foundation",
+    "location": "Gurgaon",
+    "stipend": "₹ 4,000 - 5,000 /month",
+    "duration": "6 Months",
+    "url": "https://internshala.com/internship/detail/part-time-teaching-internship-in-gurgaon-at-sarvam-foundation1790855801",
+    "actively_hiring": true
+  },
+  {
+    "kind": "internship",
+    "title": "Interior Design And Vendor Cordination",
+    "company": "Stirring Minds",
+    "location": "Delhi",
+    "stipend": "₹ 11,000 - 15,000 /month",
+    "duration": "6 Months",
+    "url": "https://internshala.com/internship/detail/interior-design-and-vendor-cordination-internship-in-delhi-at-stirring-minds1790855558",
+    "actively_hiring": true
+  },
+  {
+    "kind": "internship",
+    "title": "Content Marketing",
+    "company": "EnKash",
+    "location": "Gurgaon",
+    "stipend": "₹ 14,000 - 18,000 /month",
+    "duration": "6 Months",
+    "url": "https://internshala.com/internship/detail/content-marketing-internship-in-gurgaon-at-enkash1790855752",
+    "actively_hiring": true
+  },
+  {
+    "kind": "internship",
+    "title": "Content and Social Media Marketing",
+    "company": "Gigde Global Solutions Private Limited",
+    "location": "Noida",
+    "stipend": "₹ 12,000 - 17,000 /month",
+    "duration": "6 Months",
+    "url": "https://internshala.com/internship/detail/content-and-social-media-marketing-internship-in-noida-at-gigde-global-solutions-private-limited1790855488",
+    "actively_hiring": true
+  },
+  {
+    "kind": "job",
+    "title": "Content & E-commerce Management Executive",
+    "company": "HIND CARES GLOBAL LIMITED",
+    "location": "Delhi",
+    "url": "https://internshala.com/job/detail/content-e-commerce-management-executive-job-in-delhi-at-hind-cares-global-limited1790840572",
+    "actively_hiring": true
+  },
+  {
+    "kind": "job",
+    "title": "Photographer",
+    "company": "Star Media Network Private Limited",
+    "location": "Delhi, Noida",
+    "url": "https://internshala.com/job/detail/fresher-photographer-job-in-multiple-locations-at-star-media-network-private-limited1790841119",
+    "actively_hiring": true
+  },
+  {
+    "kind": "job",
+    "title": "Customer Relationship Manager",
+    "company": "The Agency Source",
+    "location": "Delhi, South",
+    "url": "https://internshala.com/job/detail/fresher-customer-relationship-manager-job-in-multiple-locations-at-the-agency-source1790760817",
+    "actively_hiring": true
+  },
+  {
+    "kind": "job",
+    "title": "Business Development Executive",
+    "company": "TVL MEDIA",
+    "location": "Delhi, Ghaziabad, Noida, Greater Noida",
+    "url": "https://internshala.com/job/detail/business-development-executive-job-in-multiple-locations-at-tvl-media1790861030",
+    "actively_hiring": true
+  },
+  {
+    "kind": "job",
+    "title": "Business Development Associate",
+    "company": "Flipkar Wholesale",
+    "location": "Agra, Ghaziabad, Kota, Lucknow, Meerut, Etawah, Etah, Jaipur, Mathura",
+    "url": "https://internshala.com/job/detail/fresher-business-development-associate-job-in-multiple-locations-at-flipkar-wholesale1790855214",
+    "actively_hiring": false
+  },
+  {
+    "kind": "job",
+    "title": "Opportunity For The Role Of Vice Principal For Greater Noida,West Campus",
+    "company": "Seth MR Jaipuria Schoool",
+    "location": "Greater Noida",
+    "url": "https://internshala.com/job/detail/opportunity-for-the-role-of-vice-principal-for-greater-noida-west-campus-job-in-greater-noida-at-seth-mr-jaipuria-schoool1790879467",
+    "actively_hiring": false
+  },
+  {
+    "kind": "job",
+    "title": "Business Development Executive",
+    "company": "JIRAIYA EDUCATION LLP",
+    "location": "Noida",
+    "url": "https://internshala.com/job/detail/fresher-business-development-executive-job-in-noida-at-jiraiya-education-llp1790856298",
+    "actively_hiring": true
+  },
+  {
+    "kind": "job",
+    "title": "Corporate Sales Executive",
+    "company": "A2S InfoTech Private Limited",
+    "location": "Delhi",
+    "url": "https://internshala.com/job/detail/fresher-corporate-sales-executive-job-in-delhi-at-a2s-infotech-private-limited1790848787",
+    "actively_hiring": false
+  },
+  {
+    "kind": "job",
+    "title": "Business Development Associate",
+    "company": "RegisterKaro",
+    "location": "Delhi, Gurgaon, Kanpur Dehat, Jharkhand",
+    "url": "https://internshala.com/job/detail/fresher-business-development-associate-job-in-multiple-locations-at-registerkaro1790844700",
+    "actively_hiring": true
+  },
+  {
+    "kind": "job",
+    "title": "Sales Executive",
+    "company": "RegisterKaro",
+    "location": "Gurgaon, Kanpur Dehat, Banaras, Delhi",
+    "url": "https://internshala.com/job/detail/fresher-sales-executive-job-in-multiple-locations-at-registerkaro1790851535",
+    "actively_hiring": true
+  },
+  {
+    "kind": "job",
+    "title": "Corporate Sales Executive",
+    "company": "RegisterKaro",
+    "location": "Gurgaon, Delhi",
+    "url": "https://internshala.com/job/detail/fresher-corporate-sales-executive-job-in-multiple-locations-at-registerkaro1790843177",
+    "actively_hiring": true
+  },
+  {
+    "kind": "job",
+    "title": "Oppurtunity For Admin Officer With Greater Noida, West Campus",
+    "company": "Seth MR Jaipuria Schoool",
+    "location": "Greater Noida",
+    "url": "https://internshala.com/job/detail/oppurtunity-for-admin-officer-with-greater-noida-west-campus-job-in-greater-noida-at-seth-mr-jaipuria-schoool1790879466",
+    "actively_hiring": false
+  },
+  {
+    "kind": "job",
+    "title": "Corporate Sales Executive",
+    "company": "ICreatives Solutions",
+    "location": "Delhi, Pune, Hyderabad, Mumbai, Ahemdabad Kasora",
+    "url": "https://internshala.com/job/detail/fresher-corporate-sales-executive-job-in-multiple-locations-at-icreatives-solutions1790859241",
+    "actively_hiring": true
+  },
+  {
+    "kind": "job",
+    "title": "Stem Innovation Engineer",
+    "company": "Innow8",
+    "location": "Chandigarh, Ghaziabad, Gurgaon, Meerut, Sangrur, Mohali, Noida, Punjab, Uttar Pradesh, Bulandshahr",
+    "url": "https://internshala.com/job/detail/fresher-stem-innovation-engineer-job-in-multiple-locations-at-innow81790753585",
+    "actively_hiring": true
+  },
+  {
+    "kind": "job",
+    "title": "Cartographer-GIS",
+    "company": "Knowledge Spatial Private Limited",
+    "location": "Delhi, Gurgaon",
+    "url": "https://internshala.com/job/detail/cartographer-gis-job-in-multiple-locations-at-knowledge-spatial-private-limited1790847249",
+    "actively_hiring": true
+  },
+  {
+    "kind": "job",
+    "title": "Social Media Marketing Executive",
+    "company": "BigOhTech",
+    "location": "Delhi, Gurgaon, Greater Noida, Noida",
+    "url": "https://internshala.com/job/detail/social-media-marketing-executive-job-in-multiple-locations-at-bigohtech1790754099",
+    "actively_hiring": true
+  },
+  {
+    "kind": "job",
+    "title": "Associate Content Writer",
+    "company": "Vishwanath Ayurved Private Limited",
+    "location": "Delhi, Ghaziabad, Gurgaon",
+    "url": "https://internshala.com/job/detail/fresher-associate-content-writer-job-in-multiple-locations-at-vishwanath-ayurved-private-limited1790849964",
+    "actively_hiring": true
+  },
+  {
+    "kind": "job",
+    "title": "Performance Marketing",
+    "company": "Stirring Minds",
+    "location": "Delhi, Noida",
+    "url": "https://internshala.com/job/detail/performance-marketing-job-in-multiple-locations-at-stirring-minds1790860904",
+    "actively_hiring": true
+  },
+  {
+    "kind": "job",
+    "title": "Customer Service Associate",
+    "company": "Mobizdom Technology",
+    "location": "Noida",
+    "url": "https://internshala.com/job/detail/customer-service-associate-job-in-noida-at-mobizdom-technology1790851547",
     "actively_hiring": true
   }
 ]
