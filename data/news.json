@@ -1,5 +1,49 @@
 [
   {
+    "title": "Funding and acquisitions in Indian startups this week [Sep 28 - Oct 3]",
+    "url": "https://entrackr.com/report/weekly-funding-report-weekly-funding-report/funding-and-acquisitions-in-indian-startups-this-week-sep-28-oct-3-12618694",
+    "date": "Sat, 03 Oct 2026 10:36:08 +0530",
+    "source": "Entrackr"
+  },
+  {
+    "title": "From Simple Energy To Arivihan — Indian Startups Raised Over $233 Mn This Week",
+    "url": "https://inc42.com/buzz/from-simple-energy-to-arivihan-indian-startups-raised-over-233-mn-this-week/",
+    "date": "Sat, 03 Oct 2026 03:30:21 +0000",
+    "source": "Inc42"
+  },
+  {
+    "title": "How BorderPlus Is Turning India’s Talent Surplus Into A Global Workforce",
+    "url": "https://inc42.com/startups/can-borderplus-is-turning-indias-talent-surplus-into-a-global-workforce/",
+    "date": "Fri, 02 Oct 2026 16:34:44 +0000",
+    "source": "Inc42"
+  },
+  {
+    "title": "IPO-Bound JSW One’s FY26 Loss Narrows 51% YoY To ₹107 Cr, Revenue Jumps 45%",
+    "url": "https://inc42.com/buzz/ipo-bound-jsw-ones-fy26-loss-narrows-51-yoy-to-%e2%82%b9107-cr-revenue-jumps-45/",
+    "date": "Fri, 02 Oct 2026 14:02:48 +0000",
+    "source": "Inc42"
+  },
+  {
+    "title": "ideaForge Faces ₹109 Cr GST Demand, Penalty Over Alleged Tax Underpayment",
+    "url": "https://inc42.com/buzz/ideaforge-faces-%e2%82%b9109-cr-gst-demand-penalty-over-alleged-tax-underpayment/",
+    "date": "Fri, 02 Oct 2026 09:36:07 +0000",
+    "source": "Inc42",
+    "company": "ideaforge"
+  },
+  {
+    "title": "Inside ixigo&#8217;s Full-Stack Model: How Trains, Flights And Buses Are Funding Its Next Bets",
+    "url": "https://inc42.com/features/inside-ixigos-full-stack-model-how-trains-flights-and-buses-are-funding-its-next-bets/",
+    "date": "Fri, 02 Oct 2026 08:17:44 +0000",
+    "source": "Inc42",
+    "company": "ixigo"
+  },
+  {
+    "title": "TakeMe2Space, SatLeo, EON Space Labs Launch Payloads Aboard SpaceX Falcon 9",
+    "url": "https://inc42.com/buzz/takeme2space-satleo-eon-space-labs-launch-payloads-aboard-spacex-falcon-9/",
+    "date": "Fri, 02 Oct 2026 07:51:42 +0000",
+    "source": "Inc42"
+  },
+  {
     "title": "Researchers Flag AI Overreach, Moneyview’s Bumper IPO &#038; More",
     "url": "https://inc42.com/buzz/researchers-flag-ai-overreach-moneyviews-bumper-ipo-more/",
     "date": "Fri, 02 Oct 2026 02:30:23 +0000",
@@ -217,41 +261,10 @@
     "source": "Inc42"
   },
   {
-    "title": "Simple Energy Raises $180 Mn To Unlock Next Growth Phase",
-    "url": "https://inc42.com/buzz/simple-energy-raises-180-mn-to-unlock-next-growth-phase/",
-    "date": "Wed, 30 Sep 2026 11:30:08 +0000",
-    "source": "Inc42"
-  },
-  {
     "title": "EV startup Simple Energy raises $182 Mn in Series C round",
     "url": "https://entrackr.com/news/ev-startup-simple-energy-raises-182-mn-in-series-c-round-12593947",
     "date": "Wed, 30 Sep 2026 17:00:05 +0530",
     "source": "Entrackr"
-  },
-  {
-    "title": "Fresh Data, Clear Access Rules: The Foundation For Reliable AI Applications",
-    "url": "https://inc42.com/buzz/fresh-data-clear-access-rules-the-foundation-for-reliable-ai-applications/",
-    "date": "Wed, 30 Sep 2026 11:22:23 +0000",
-    "source": "Inc42"
-  },
-  {
-    "title": "Startup Funding Crawls Up 5% YoY To $2.2 Bn In Q3 As Investors Get Picky",
-    "url": "https://inc42.com/buzz/startup-funding-crawls-up-5-yoy-to-2-2-bn-in-q3-2026-as-investors-get-picky/",
-    "date": "Wed, 30 Sep 2026 11:20:47 +0000",
-    "source": "Inc42"
-  },
-  {
-    "title": "AI Is Compressing The Travel-Booking Journey: MakeMyTrip Group CTO",
-    "url": "https://inc42.com/buzz/ai-is-compressing-the-travel-booking-journey-makemytrip-group-cto/",
-    "date": "Wed, 30 Sep 2026 11:13:15 +0000",
-    "source": "Inc42",
-    "company": "makemytrip"
-  },
-  {
-    "title": "[Update] Home Interior Startup Gravity Nets $15 Mn To Expand Into New Categories",
-    "url": "https://inc42.com/buzz/ex-livspace-cofounder-cbo-launch-home-interior-materials-venture-gravity/",
-    "date": "Wed, 30 Sep 2026 10:27:07 +0000",
-    "source": "Inc42"
   },
   {
     "title": "Former Livspace executives’ startup Gravity raises $15 Mn led by Info Edge Ventures and 3one4 Capital",
@@ -259,12 +272,6 @@
     "date": "Wed, 30 Sep 2026 15:55:44 +0530",
     "source": "Entrackr",
     "company": "livspace"
-  },
-  {
-    "title": "Beyond Coding: Why AI Makes Systems Thinking More Important For Engineers",
-    "url": "https://inc42.com/buzz/beyond-coding-why-ai-makes-systems-thinking-more-important-for-engineers/",
-    "date": "Wed, 30 Sep 2026 10:17:35 +0000",
-    "source": "Inc42"
   },
   {
     "title": "Netmeds posts flat revenue at Rs 45 Cr in FY26; remains profitable",
@@ -363,12 +370,6 @@
     "title": "Physical AI company SiMa.ai raises $150 Mn in Series C round",
     "url": "https://entrackr.com/news/physical-ai-company-simaai-raises-150-mn-in-series-c-round-12587904",
     "date": "Mon, 28 Sep 2026 21:44:54 +0530",
-    "source": "Entrackr"
-  },
-  {
-    "title": "Ola Electric to raise up to Rs 1,000 Cr via rights issue",
-    "url": "https://entrackr.com/news/ola-electric-to-raise-up-to-rs-1000-cr-via-rights-issue-12587860",
-    "date": "Mon, 28 Sep 2026 21:22:38 +0530",
     "source": "Entrackr"
   }
 ]

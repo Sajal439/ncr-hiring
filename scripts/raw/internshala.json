@@ -10157,7 +10157,7 @@
     "company": "BlueRose Publishers Private Limited",
     "location": "Noida",
     "url": "https://internshala.com/job/detail/fresher-tele-sales-executive-voice-process-job-in-noida-at-bluerose-publishers-private-limited1790079052",
-    "actively_hiring": true
+    "actively_hiring": false
   },
   {
     "kind": "job",
@@ -13515,7 +13515,7 @@
   },
   {
     "kind": "internship",
-    "title": "INTERN : Content Creator (Photographer/Videographer)",
+    "title": "Content Creator (Photographer/Videographer)",
     "company": "CHAASHNI By Maansi.Ketan",
     "location": "Delhi",
     "stipend": "₹ 10,000 - 20,000 /month",
@@ -13869,6 +13869,106 @@
     "company": "Mobizdom Technology",
     "location": "Noida",
     "url": "https://internshala.com/job/detail/customer-service-associate-job-in-noida-at-mobizdom-technology1790851547",
+    "actively_hiring": true
+  },
+  {
+    "kind": "internship",
+    "title": "Search Engine Optimization (SEO)",
+    "company": "Neha Singh",
+    "location": "Delhi",
+    "stipend": "₹ 5,000 - 7,000 /month",
+    "duration": "6 Months",
+    "url": "https://internshala.com/internship/detail/search-engine-optimization-seo-internship-in-delhi-at-neha-singh1790661630",
+    "actively_hiring": true
+  },
+  {
+    "kind": "internship",
+    "title": "Influencer Marketing",
+    "company": "Alphawalk Services LLP",
+    "location": "Delhi, Gurgaon, Greater Noida, Noida",
+    "stipend": "₹ 8,000 - 15,000 /month",
+    "duration": "3 Months",
+    "url": "https://internshala.com/internship/detail/influencer-marketing-internship-in-multiple-locations-at-alphawalk-services-llp1790922903",
+    "actively_hiring": true
+  },
+  {
+    "kind": "job",
+    "title": "Business Development Executive",
+    "company": "Bizfoc Business Solutions Private Limited",
+    "location": "Delhi",
+    "url": "https://internshala.com/job/detail/fresher-business-development-executive-job-in-delhi-at-bizfoc-business-solutions-private-limited1790966807",
+    "actively_hiring": true
+  },
+  {
+    "kind": "job",
+    "title": "Operations Associate",
+    "company": "Great India Travel",
+    "location": "Delhi",
+    "url": "https://internshala.com/job/detail/operations-associate-job-in-delhi-at-great-india-travel1790929653",
+    "actively_hiring": true
+  },
+  {
+    "kind": "job",
+    "title": "Psychologist",
+    "company": "Youth Empowerment Foundation",
+    "location": "Delhi",
+    "url": "https://internshala.com/job/detail/psychologist-job-in-delhi-at-youth-empowerment-foundation1790981060",
+    "actively_hiring": true
+  },
+  {
+    "kind": "job",
+    "title": "Sales Manager",
+    "company": "FinoStock",
+    "location": "Delhi",
+    "url": "https://internshala.com/job/detail/sales-manager-job-in-delhi-at-finostock1790964504",
+    "actively_hiring": false
+  },
+  {
+    "kind": "job",
+    "title": "Business Development Associate",
+    "company": "Innoknowvex",
+    "location": "Chennai, Coimbatore, Delhi, Erode, Rameswaram, Salem, Chitoor, Hyderbad",
+    "url": "https://internshala.com/job/detail/fresher-business-development-associate-job-in-multiple-locations-at-innoknowvex1790940838",
+    "actively_hiring": true
+  },
+  {
+    "kind": "job",
+    "title": "Full Stack Developer",
+    "company": "Rickshesh Manchanda",
+    "location": "Chennai, Delhi, Pune",
+    "url": "https://internshala.com/job/detail/fresher-full-stack-developer-job-in-multiple-locations-at-rickshesh-manchanda1790926300",
+    "actively_hiring": true
+  },
+  {
+    "kind": "job",
+    "title": "Business Development Executive- Enterprise Partnership",
+    "company": "Yourlawplace",
+    "location": "Ghaziabad, Greater Noida, Noida",
+    "url": "https://internshala.com/job/detail/business-development-executive-enterprise-partnership-job-in-multiple-locations-at-yourlawplace1790929200",
+    "actively_hiring": true
+  },
+  {
+    "kind": "job",
+    "title": "Digital Marketing Executive",
+    "company": "EASYECOM",
+    "location": "Delhi, Bangalore",
+    "url": "https://internshala.com/job/detail/digital-marketing-executive-job-in-multiple-locations-at-easyecom1790849742",
+    "actively_hiring": false
+  },
+  {
+    "kind": "job",
+    "title": "Business Development Manager",
+    "company": "SkillDzire Technologies Private Limited",
+    "location": "Delhi, Gurgaon, Haryana, Uttar Pradesh",
+    "url": "https://internshala.com/job/detail/business-development-manager-job-in-multiple-locations-at-skilldzire-technologies-private-limited1790935597",
+    "actively_hiring": true
+  },
+  {
+    "kind": "job",
+    "title": "CRM Executive",
+    "company": "Impresio Studio",
+    "location": "Noida",
+    "url": "https://internshala.com/job/detail/crm-executive-job-in-noida-at-impresio-studio1790935396",
     "actively_hiring": true
   }
 ]
