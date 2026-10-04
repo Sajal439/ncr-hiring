@@ -13970,5 +13970,67 @@
     "location": "Noida",
     "url": "https://internshala.com/job/detail/crm-executive-job-in-noida-at-impresio-studio1790935396",
     "actively_hiring": true
+  },
+  {
+    "kind": "internship",
+    "title": "Dietician",
+    "company": "Ayurveda House Private Limited",
+    "location": "Delhi",
+    "stipend": "₹ 10,000 - 12,000 /month",
+    "duration": "3 Months",
+    "url": "https://internshala.com/internship/detail/dietician-internship-in-delhi-at-ayurveda-house-private-limited1791031429",
+    "actively_hiring": true
+  },
+  {
+    "kind": "internship",
+    "title": "Product Management",
+    "company": "Digital Guruji",
+    "location": "Delhi",
+    "stipend": "₹ 15,000 /month",
+    "duration": "6 Months",
+    "url": "https://internshala.com/internship/detail/product-management-internship-in-delhi-at-digital-guruji1791040053",
+    "actively_hiring": true
+  },
+  {
+    "kind": "internship",
+    "title": "Social Media Marketing",
+    "company": "SOLUSI NEXT STEP TALENTS PRIVATE LIMITED",
+    "location": "Kolkata, Noida, New Town",
+    "stipend": "₹ 23,000 - 55,000 /month",
+    "duration": "6 Months",
+    "url": "https://internshala.com/internship/detail/social-media-marketing-internship-in-multiple-locations-at-solusi-next-step-talents-private-limited1791021269",
+    "actively_hiring": true
+  },
+  {
+    "kind": "job",
+    "title": "Junior Video Editor",
+    "company": "Dr Sobti's Dental Care",
+    "location": "Delhi",
+    "url": "https://internshala.com/job/detail/junior-video-editor-job-in-delhi-at-dr-sobtis-dental-care1790670314",
+    "actively_hiring": true
+  },
+  {
+    "kind": "job",
+    "title": "Product Manager",
+    "company": "Digital Guruji",
+    "location": "Delhi",
+    "url": "https://internshala.com/job/detail/fresher-product-manager-job-in-delhi-at-digital-guruji1791040088",
+    "actively_hiring": true
+  },
+  {
+    "kind": "job",
+    "title": "Business Development Specialist",
+    "company": "SPECTRUM LIVE",
+    "location": "Faridabad, Delhi, Noida",
+    "url": "https://internshala.com/job/detail/business-development-specialist-job-in-multiple-locations-at-spectrum-live1791024753",
+    "actively_hiring": false
+  },
+  {
+    "kind": "job",
+    "title": "Operations Executive",
+    "company": "Nishant Chauhan",
+    "location": "Delhi",
+    "url": "https://internshala.com/job/detail/fresher-operations-executive-job-in-delhi-at-nishant-chauhan1791075201",
+    "actively_hiring": false
   }
 ]
