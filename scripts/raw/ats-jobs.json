@@ -1,58 +1,4 @@
 {
-  "trackier": [
-    {
-      "title": "Content Intern - Hybrid",
-      "url": "https://apply.workable.com/j/3491801CB7",
-      "location": "Noida, India",
-      "source": "careers"
-    },
-    {
-      "title": "Customer Success- (B.tech)",
-      "url": "https://apply.workable.com/j/AD67C75DC1",
-      "location": "Noida, India",
-      "source": "careers"
-    },
-    {
-      "title": "Engineering Manager",
-      "url": "https://apply.workable.com/j/10691B789F",
-      "location": "Noida, India",
-      "source": "careers"
-    },
-    {
-      "title": "Performance Marketing Lead (Growth & Operations) - B.Tech",
-      "url": "https://apply.workable.com/j/6D6218644C",
-      "location": "Noida, India",
-      "source": "careers"
-    },
-    {
-      "title": "SEO Intern - Hybrid",
-      "url": "https://apply.workable.com/j/BB8C93FE7B",
-      "location": "Noida, India",
-      "source": "careers"
-    }
-  ],
-  "athena-education": [
-    {
-      "title": "Associate/ Associate Manager - Writing",
-      "url": "https://jobs.lever.co/athena-education/8f9cb4b5-155f-4eae-8f77-ef801a4110da",
-      "location": "Gurugram",
-      "source": "careers"
-    },
-    {
-      "title": "Technical Director- Writing",
-      "url": "https://jobs.lever.co/athena-education/4b1432e7-7ed4-4502-9441-506861d6ebe9",
-      "location": "Gurugram",
-      "source": "careers"
-    }
-  ],
-  "primevigilance": [
-    {
-      "title": "Finance Project Coordinator",
-      "url": "https://careers.smartrecruiters.com/Ergomed/744000147199784",
-      "location": "Noida, in",
-      "source": "careers"
-    }
-  ],
   "the-knot-worldwide": [
     {
       "title": "Account Executive, Core",
@@ -85,31 +31,29 @@
       "source": "careers"
     }
   ],
-  "ontic": [
+  "trackier": [
     {
-      "title": "Manager, Product Design",
-      "url": "https://jobs.ashbyhq.com/Ontic/d47d7285-75bd-43cb-87e4-f06070249283",
+      "title": "Content Intern - Hybrid",
+      "url": "https://apply.workable.com/j/3491801CB7",
       "location": "Noida, India",
       "source": "careers"
-    }
-  ],
-  "map": [
+    },
     {
-      "title": "AEM - UI EDS - Consultant",
-      "url": "https://job-boards.greenhouse.io/map/jobs/8706872002",
-      "location": "New Delhi, India",
+      "title": "Customer Success- (B.tech)",
+      "url": "https://apply.workable.com/j/AD67C75DC1",
+      "location": "Noida, India",
       "source": "careers"
     },
     {
-      "title": "Lead QA Engineer",
-      "url": "https://job-boards.greenhouse.io/map/jobs/8441199002",
-      "location": "New Delhi, Delhi, India",
+      "title": "Engineering Manager",
+      "url": "https://apply.workable.com/j/10691B789F",
+      "location": "Noida, India",
       "source": "careers"
     },
     {
-      "title": "Senior QA Engineer (automation) Contractor",
-      "url": "https://job-boards.greenhouse.io/map/jobs/8630694002",
-      "location": "New Delhi, India",
+      "title": "Performance Marketing Lead (Growth & Operations) - B.Tech",
+      "url": "https://apply.workable.com/j/6D6218644C",
+      "location": "Noida, India",
       "source": "careers"
     }
   ],
@@ -175,6 +119,76 @@
       "source": "careers"
     }
   ],
+  "ontic": [
+    {
+      "title": "Manager, Product Design",
+      "url": "https://jobs.ashbyhq.com/Ontic/d47d7285-75bd-43cb-87e4-f06070249283",
+      "location": "Noida, India",
+      "source": "careers"
+    }
+  ],
+  "primevigilance": [
+    {
+      "title": "Finance Project Coordinator",
+      "url": "https://careers.smartrecruiters.com/Ergomed/744000147199784",
+      "location": "Noida, in",
+      "source": "careers"
+    }
+  ],
+  "map": [
+    {
+      "title": "AEM - UI EDS - Consultant",
+      "url": "https://job-boards.greenhouse.io/map/jobs/8706872002",
+      "location": "New Delhi, India",
+      "source": "careers"
+    },
+    {
+      "title": "Lead QA Engineer",
+      "url": "https://job-boards.greenhouse.io/map/jobs/8441199002",
+      "location": "New Delhi, Delhi, India",
+      "source": "careers"
+    },
+    {
+      "title": "Senior QA Engineer (automation) Contractor",
+      "url": "https://job-boards.greenhouse.io/map/jobs/8630694002",
+      "location": "New Delhi, India",
+      "source": "careers"
+    }
+  ],
+  "athena-education": [
+    {
+      "title": "Associate/ Associate Manager - Writing",
+      "url": "https://jobs.lever.co/athena-education/8f9cb4b5-155f-4eae-8f77-ef801a4110da",
+      "location": "Gurugram",
+      "source": "careers"
+    },
+    {
+      "title": "Technical Director- Writing",
+      "url": "https://jobs.lever.co/athena-education/4b1432e7-7ed4-4502-9441-506861d6ebe9",
+      "location": "Gurugram",
+      "source": "careers"
+    }
+  ],
+  "wizikey": [
+    {
+      "title": "Sales Executive - B2B SaaS",
+      "url": "https://careers.smartrecruiters.com/Wizikey/744000150346079",
+      "location": "Gurugram, in",
+      "source": "careers"
+    },
+    {
+      "title": "Sales Manager – B2B SaaS",
+      "url": "https://careers.smartrecruiters.com/Wizikey/744000148672349",
+      "location": "Gurugram, in",
+      "source": "careers"
+    },
+    {
+      "title": "Sales Manager – Media Sales & Advertising Sales( 4-8 yrs)",
+      "url": "https://careers.smartrecruiters.com/Wizikey/744000147203109",
+      "location": "Gurugram, in",
+      "source": "careers"
+    }
+  ],
   "alphasense": [
     {
       "title": "Business Analyst II",
@@ -197,12 +211,6 @@
     {
       "title": "Join AlphaSense India Talent Community",
       "url": "https://job-boards.greenhouse.io/alphasense/jobs/7119398002",
-      "location": "Delhi",
-      "source": "careers"
-    },
-    {
-      "title": "Staff Site Reliability Engineer",
-      "url": "https://job-boards.greenhouse.io/alphasense/jobs/8358708002",
       "location": "Delhi",
       "source": "careers"
     }
@@ -290,26 +298,6 @@
       "title": "Value Creation | Data and Analytics | Assistant Manager",
       "url": "https://apply.workable.com/j/3D19B5AC22",
       "location": "Gurugram, India",
-      "source": "careers"
-    }
-  ],
-  "wizikey": [
-    {
-      "title": "Sales Executive - B2B SaaS",
-      "url": "https://careers.smartrecruiters.com/Wizikey/744000150346079",
-      "location": "Gurugram, in",
-      "source": "careers"
-    },
-    {
-      "title": "Sales Manager – B2B SaaS",
-      "url": "https://careers.smartrecruiters.com/Wizikey/744000148672349",
-      "location": "Gurugram, in",
-      "source": "careers"
-    },
-    {
-      "title": "Sales Manager – Media Sales & Advertising Sales( 4-8 yrs)",
-      "url": "https://careers.smartrecruiters.com/Wizikey/744000147203109",
-      "location": "Gurugram, in",
       "source": "careers"
     }
   ],
