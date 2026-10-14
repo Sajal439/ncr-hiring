@@ -1,4 +1,109 @@
 {
+  "invest-india": {
+    "amount": "₹7,131 Cr",
+    "title": "[Update] Blume, Speciale Invest &#038; 11 Other AIFs Selected For Deploying ₹7,131 Cr Under RDI Fund",
+    "url": "https://inc42.com/buzz/rdi-fund-announces-first-cohort-of-19-fund-managers-eyes-deploying-%e2%82%b97131-cr-to-strengthen-deeptech-startups/",
+    "date": "Tue, 13 Oct 2026 21:07:56 +0000",
+    "source": "Inc42",
+    "history": [
+      {
+        "amount": "$550 Mn",
+        "title": "Accel Closes Ninth India Fund With $550 Mn Corpus To Invest In AI, Deeptech",
+        "url": "https://inc42.com/buzz/accel-closes-ninth-india-fund-with-550-mn-corpus-to-invest-in-ai-deeptech/",
+        "date": "2026-08-12",
+        "source": "Inc42"
+      },
+      {
+        "amount": "$250 Mn",
+        "title": "Semiconductor Major Marvell To Invest $250 Mn in India, Double Headcount",
+        "url": "https://inc42.com/buzz/semiconductor-major-marvell-to-invest-250-mn-in-india-double-headcount/",
+        "date": "2026-07-29",
+        "source": "Inc42"
+      },
+      {
+        "amount": "₹65 Cr",
+        "title": "IndiaMART To Invest ₹65 Cr More In Fleetx, Raise Stake To 25.8%",
+        "url": "https://inc42.com/buzz/indiamart-to-invest-%e2%82%b965-cr-more-in-fleetx-raise-stake-to-25-8/",
+        "date": "2026-07-27",
+        "source": "Inc42"
+      },
+      {
+        "amount": "₹100 Cr",
+        "title": "Paytm Drops Bonus Share Plan to Invest rs 100 cr in Paytm Money",
+        "url": "https://entrackr.com/news/paytm-drops-bonus-share-plan-to-invest-rs-100-cr-in-paytm-money-12183396",
+        "date": "2026-07-21",
+        "source": "Entrackr"
+      },
+      {
+        "amount": "₹15,000 Cr",
+        "title": "Delhi Government Plans To Invest ₹15,000 Cr To Fuel Electric Mobility",
+        "url": "https://inc42.com/buzz/delhi-government-plans-to-invest-%e2%82%b915000-cr-to-fuel-electric-mobility/",
+        "date": "2026-06-29",
+        "source": "Inc42"
+      },
+      {
+        "amount": "$30 Bn",
+        "title": "AirTrunk To Invest $30 Bn In India To Set Up 5 GW Data Centre",
+        "url": "https://inc42.com/buzz/airtrunk-to-invest-30-bn-in-india-to-set-up-5-gw-data-centre/",
+        "date": "2026-06-05",
+        "source": "Inc42"
+      }
+    ]
+  },
+  "urban-company": {
+    "round": "IPO",
+    "title": "Urban Company Eyes Fresh Fundraise A Year After IPO As InstaHelp Losses Mount",
+    "url": "https://inc42.com/buzz/urban-company-eyes-fresh-fundraise-a-year-after-ipo-as-instahelp-losses-mount/",
+    "date": "Tue, 13 Oct 2026 12:53:15 +0000",
+    "source": "Inc42",
+    "history": [
+      {
+        "amount": "₹854 Cr",
+        "title": "Urban Company Secures rs 854 cr From Anchor Investors",
+        "url": "https://entrackr.com/news/urban-company-secures-rs-854-cr-from-anchor-investors-10066875",
+        "date": "2025-09-09",
+        "source": "Entrackr"
+      },
+      {
+        "amount": "₹854 Cr",
+        "round": "IPO",
+        "title": "Urban Company IPO: INR 854 Cr Raised From Anchor Investors",
+        "url": "https://inc42.com/buzz/urban-company-ipo-inr-854-cr-raised-from-anchor-investors/",
+        "date": "2025-09-09",
+        "source": "Inc42"
+      },
+      {
+        "amount": "₹1395 Cr",
+        "round": "IPO",
+        "title": "Urban Company Founders And Investors Cash Out rs 1395 cr in Pre Ipo Deals",
+        "url": "https://entrackr.com/news/urban-company-founders-and-investors-cash-out-rs-1395-cr-in-pre-ipo-deals-9014293",
+        "date": "2025-04-29",
+        "source": "Entrackr"
+      },
+      {
+        "amount": "₹1900 Cr",
+        "title": "Urban Company Drhp to Raise rs 1900 cr Via Primary Issue And Ofs",
+        "url": "https://entrackr.com/news/urban-company-drhp-to-raise-rs-1900-cr-via-primary-issue-and-ofs-9012100",
+        "date": "2025-04-28",
+        "source": "Entrackr"
+      },
+      {
+        "amount": "₹528 Cr",
+        "round": "IPO",
+        "title": "Urban Company Board Approves rs 528 cr Primary Fundraise Via Ipo",
+        "url": "https://entrackr.com/news/urban-company-board-approves-rs-528-cr-primary-fundraise-via-ipo-8947688",
+        "date": "2025-04-10",
+        "source": "Entrackr"
+      },
+      {
+        "amount": "₹400 Cr",
+        "title": "Urban Company Raises INR 400 Cr From Dharana Capital Via Secondary Deal",
+        "url": "https://inc42.com/buzz/urban-company-raises-inr-400-cr-from-dharana-capital-via-secondary-deal/",
+        "date": "2024-07-17",
+        "source": "Inc42"
+      }
+    ]
+  },
   "nat-habit": {
     "amount": "$15 Mn",
     "title": "Exclusive: Nat Habit to kick off $15 Mn funding round led by Trident Growth Partners",
@@ -156,57 +261,6 @@
         "title": "Shiprocket To Raise INR 219 Cr From KDT Ventures, Others",
         "url": "https://inc42.com/buzz/shiprocket-to-raise-inr-219-cr-from-kdt-ventures-others/",
         "date": "2024-12-28",
-        "source": "Inc42"
-      }
-    ]
-  },
-  "invest-india": {
-    "amount": "$550 Mn",
-    "title": "Accel Closes Ninth India Fund With $550 Mn Corpus To Invest In AI, Deeptech",
-    "url": "https://inc42.com/buzz/accel-closes-ninth-india-fund-with-550-mn-corpus-to-invest-in-ai-deeptech/",
-    "date": "2026-08-12",
-    "source": "Inc42",
-    "history": [
-      {
-        "amount": "$250 Mn",
-        "title": "Semiconductor Major Marvell To Invest $250 Mn in India, Double Headcount",
-        "url": "https://inc42.com/buzz/semiconductor-major-marvell-to-invest-250-mn-in-india-double-headcount/",
-        "date": "2026-07-29",
-        "source": "Inc42"
-      },
-      {
-        "amount": "₹65 Cr",
-        "title": "IndiaMART To Invest ₹65 Cr More In Fleetx, Raise Stake To 25.8%",
-        "url": "https://inc42.com/buzz/indiamart-to-invest-%e2%82%b965-cr-more-in-fleetx-raise-stake-to-25-8/",
-        "date": "2026-07-27",
-        "source": "Inc42"
-      },
-      {
-        "amount": "₹100 Cr",
-        "title": "Paytm Drops Bonus Share Plan to Invest rs 100 cr in Paytm Money",
-        "url": "https://entrackr.com/news/paytm-drops-bonus-share-plan-to-invest-rs-100-cr-in-paytm-money-12183396",
-        "date": "2026-07-21",
-        "source": "Entrackr"
-      },
-      {
-        "amount": "₹15,000 Cr",
-        "title": "Delhi Government Plans To Invest ₹15,000 Cr To Fuel Electric Mobility",
-        "url": "https://inc42.com/buzz/delhi-government-plans-to-invest-%e2%82%b915000-cr-to-fuel-electric-mobility/",
-        "date": "2026-06-29",
-        "source": "Inc42"
-      },
-      {
-        "amount": "$30 Bn",
-        "title": "AirTrunk To Invest $30 Bn In India To Set Up 5 GW Data Centre",
-        "url": "https://inc42.com/buzz/airtrunk-to-invest-30-bn-in-india-to-set-up-5-gw-data-centre/",
-        "date": "2026-06-05",
-        "source": "Inc42"
-      },
-      {
-        "amount": "$20 Mn",
-        "title": "Cars24 To Invest $20 Mn In Early Stage AI Startups",
-        "url": "https://inc42.com/buzz/cars24-to-invest-20-mn-in-early-stage-ai-startups/",
-        "date": "2026-06-01",
         "source": "Inc42"
       }
     ]
@@ -2025,53 +2079,6 @@
     "source": "Entrackr",
     "history": []
   },
-  "urban-company": {
-    "amount": "₹854 Cr",
-    "title": "Urban Company Secures rs 854 cr From Anchor Investors",
-    "url": "https://entrackr.com/news/urban-company-secures-rs-854-cr-from-anchor-investors-10066875",
-    "date": "2025-09-09",
-    "source": "Entrackr",
-    "history": [
-      {
-        "amount": "₹854 Cr",
-        "round": "IPO",
-        "title": "Urban Company IPO: INR 854 Cr Raised From Anchor Investors",
-        "url": "https://inc42.com/buzz/urban-company-ipo-inr-854-cr-raised-from-anchor-investors/",
-        "date": "2025-09-09",
-        "source": "Inc42"
-      },
-      {
-        "amount": "₹1395 Cr",
-        "round": "IPO",
-        "title": "Urban Company Founders And Investors Cash Out rs 1395 cr in Pre Ipo Deals",
-        "url": "https://entrackr.com/news/urban-company-founders-and-investors-cash-out-rs-1395-cr-in-pre-ipo-deals-9014293",
-        "date": "2025-04-29",
-        "source": "Entrackr"
-      },
-      {
-        "amount": "₹1900 Cr",
-        "title": "Urban Company Drhp to Raise rs 1900 cr Via Primary Issue And Ofs",
-        "url": "https://entrackr.com/news/urban-company-drhp-to-raise-rs-1900-cr-via-primary-issue-and-ofs-9012100",
-        "date": "2025-04-28",
-        "source": "Entrackr"
-      },
-      {
-        "amount": "₹528 Cr",
-        "round": "IPO",
-        "title": "Urban Company Board Approves rs 528 cr Primary Fundraise Via Ipo",
-        "url": "https://entrackr.com/news/urban-company-board-approves-rs-528-cr-primary-fundraise-via-ipo-8947688",
-        "date": "2025-04-10",
-        "source": "Entrackr"
-      },
-      {
-        "amount": "₹400 Cr",
-        "title": "Urban Company Raises INR 400 Cr From Dharana Capital Via Secondary Deal",
-        "url": "https://inc42.com/buzz/urban-company-raises-inr-400-cr-from-dharana-capital-via-secondary-deal/",
-        "date": "2024-07-17",
-        "source": "Inc42"
-      }
-    ]
-  },
   "porter": {
     "amount": "$100 Mn",
     "round": "Series F",
@@ -2871,6 +2878,15 @@
     "source": "Entrackr",
     "history": []
   },
+  "ugaoo": {
+    "amount": "₹47 Cr",
+    "round": "Series A",
+    "title": "Urban Gardening Firm Ugaoo Raises rs 47 cr in Series a",
+    "url": "https://entrackr.com/snippets/urban-gardening-firm-ugaoo-raises-rs-47-cr-in-series-a-7573861",
+    "date": "2024-11-12",
+    "source": "Entrackr",
+    "history": []
+  },
   "neysa": {
     "round": "Series A",
     "title": "Generative ai Startup Neysa Raises 30 mn in Series a",
@@ -3214,6 +3230,22 @@
     "date": "2022-09-21",
     "source": "Entrackr",
     "history": []
+  },
+  "kuku": {
+    "round": "Series B",
+    "title": "Exclusive Kuku fm Kicks Off Series b Round Led by Fundamentum",
+    "url": "https://entrackr.com/2022/08/exclusive-kuku-fm-kicks-off-series-b-round-led-by-fundamentum/",
+    "date": "2022-08-29",
+    "source": "Entrackr",
+    "history": [
+      {
+        "round": "Series B",
+        "title": "Krafton Leads 19 5 mn Series b Round in Kuku fm",
+        "url": "https://entrackr.com/2022/03/krafton-leads-19-5-mn-series-b-round-in-kuku-fm/",
+        "date": "2022-03-10",
+        "source": "Entrackr"
+      }
+    ]
   },
   "awign": {
     "round": "Series B",
