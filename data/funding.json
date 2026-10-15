@@ -1,4 +1,46 @@
 {
+  "tonbo-imaging": {
+    "amount": "₹255 Cr",
+    "round": "IPO",
+    "title": "IPO-Bound Tonbo Imaging Nets ₹255 Cr From Anchor Investors",
+    "url": "https://inc42.com/buzz/ipo-bound-tonbo-imaging-nets-%e2%82%b9255-cr-from-anchor-investors/",
+    "date": "Wed, 14 Oct 2026 18:59:05 +0000",
+    "source": "Inc42",
+    "history": [
+      {
+        "round": "IPO",
+        "title": "Tonbo Imaging Raises 21 mn in Pre Ipo Round",
+        "url": "https://entrackr.com/snippets/tonbo-imaging-raises-21-mn-in-pre-ipo-round-8921571",
+        "date": "2025-04-03",
+        "source": "Entrackr"
+      }
+    ]
+  },
+  "dyson": {
+    "amount": "₹12 Cr",
+    "round": "Pre-Seed",
+    "title": "Former Dyson India MD Ankit Jain launches Foundry with Rs 12 Cr pre-seed round",
+    "url": "https://entrackr.com/snippets/former-dyson-india-md-ankit-jain-launches-foundry-with-rs-12-cr-pre-seed-round-12675854",
+    "date": "Wed, 14 Oct 2026 17:47:30 +0530",
+    "source": "Entrackr",
+    "history": []
+  },
+  "circle": {
+    "amount": "₹25 Cr",
+    "title": "Pre-owned goods marketplace Circle raises Rs 25 Cr led by Nexus Venture Partners",
+    "url": "https://entrackr.com/snippets/pre-owned-goods-marketplace-circle-raises-rs-25-cr-led-by-nexus-venture-partners-12675485",
+    "date": "Wed, 14 Oct 2026 16:16:09 +0530",
+    "source": "Entrackr",
+    "history": [
+      {
+        "amount": "₹100 Cr",
+        "title": "Oyos Ritesh Agarwal Invests in Culture Circle at Over rs 100 cr Valuation",
+        "url": "https://entrackr.com/snippets/oyos-ritesh-agarwal-invests-in-culture-circle-at-over-rs-100-cr-valuation-9503107",
+        "date": "2025-07-16",
+        "source": "Entrackr"
+      }
+    ]
+  },
   "invest-india": {
     "amount": "₹7,131 Cr",
     "title": "[Update] Blume, Speciale Invest &#038; 11 Other AIFs Selected For Deploying ₹7,131 Cr Under RDI Fund",
@@ -46,60 +88,6 @@
         "title": "AirTrunk To Invest $30 Bn In India To Set Up 5 GW Data Centre",
         "url": "https://inc42.com/buzz/airtrunk-to-invest-30-bn-in-india-to-set-up-5-gw-data-centre/",
         "date": "2026-06-05",
-        "source": "Inc42"
-      }
-    ]
-  },
-  "urban-company": {
-    "round": "IPO",
-    "title": "Urban Company Eyes Fresh Fundraise A Year After IPO As InstaHelp Losses Mount",
-    "url": "https://inc42.com/buzz/urban-company-eyes-fresh-fundraise-a-year-after-ipo-as-instahelp-losses-mount/",
-    "date": "Tue, 13 Oct 2026 12:53:15 +0000",
-    "source": "Inc42",
-    "history": [
-      {
-        "amount": "₹854 Cr",
-        "title": "Urban Company Secures rs 854 cr From Anchor Investors",
-        "url": "https://entrackr.com/news/urban-company-secures-rs-854-cr-from-anchor-investors-10066875",
-        "date": "2025-09-09",
-        "source": "Entrackr"
-      },
-      {
-        "amount": "₹854 Cr",
-        "round": "IPO",
-        "title": "Urban Company IPO: INR 854 Cr Raised From Anchor Investors",
-        "url": "https://inc42.com/buzz/urban-company-ipo-inr-854-cr-raised-from-anchor-investors/",
-        "date": "2025-09-09",
-        "source": "Inc42"
-      },
-      {
-        "amount": "₹1395 Cr",
-        "round": "IPO",
-        "title": "Urban Company Founders And Investors Cash Out rs 1395 cr in Pre Ipo Deals",
-        "url": "https://entrackr.com/news/urban-company-founders-and-investors-cash-out-rs-1395-cr-in-pre-ipo-deals-9014293",
-        "date": "2025-04-29",
-        "source": "Entrackr"
-      },
-      {
-        "amount": "₹1900 Cr",
-        "title": "Urban Company Drhp to Raise rs 1900 cr Via Primary Issue And Ofs",
-        "url": "https://entrackr.com/news/urban-company-drhp-to-raise-rs-1900-cr-via-primary-issue-and-ofs-9012100",
-        "date": "2025-04-28",
-        "source": "Entrackr"
-      },
-      {
-        "amount": "₹528 Cr",
-        "round": "IPO",
-        "title": "Urban Company Board Approves rs 528 cr Primary Fundraise Via Ipo",
-        "url": "https://entrackr.com/news/urban-company-board-approves-rs-528-cr-primary-fundraise-via-ipo-8947688",
-        "date": "2025-04-10",
-        "source": "Entrackr"
-      },
-      {
-        "amount": "₹400 Cr",
-        "title": "Urban Company Raises INR 400 Cr From Dharana Capital Via Secondary Deal",
-        "url": "https://inc42.com/buzz/urban-company-raises-inr-400-cr-from-dharana-capital-via-secondary-deal/",
-        "date": "2024-07-17",
         "source": "Inc42"
       }
     ]
@@ -807,6 +795,14 @@
       }
     ]
   },
+  "foodstories": {
+    "amount": "₹50 Cr",
+    "title": "Gourmet Retail Startup Foodstories Secures rs 50 cr Led by Nikhil Kamath",
+    "url": "https://entrackr.com/snippets/gourmet-retail-startup-foodstories-secures-rs-50-cr-led-by-nikhil-kamath-12040846",
+    "date": "2026-06-15",
+    "source": "Entrackr",
+    "history": []
+  },
   "razorpay": {
     "amount": "$600 Mn",
     "round": "IPO",
@@ -1018,6 +1014,14 @@
       }
     ]
   },
+  "generation": {
+    "round": "Series A",
+    "title": "Video Generation Startup Truefan ai Raises 10 mn in Series a Round",
+    "url": "https://entrackr.com/news/video-generation-startup-truefan-ai-raises-10-mn-in-series-a-round-11999795",
+    "date": "2026-06-04",
+    "source": "Entrackr",
+    "history": []
+  },
   "microsoft-india": {
     "amount": "$10 Mn",
     "title": "Ex Microsoft APAC President Launches kAIgentic With $10 Mn Funding To Build AI For Global Enterprises",
@@ -1158,58 +1162,13 @@
       }
     ]
   },
-  "marketinc": {
+  "fairdealmarket": {
     "amount": "$15 Mn",
     "title": "Fairdeal.Market Bags $15 Mn To Scale Its B2B Quick Commerce Platform",
     "url": "https://inc42.com/buzz/fairdeal-market-bags-15-mn-to-scale-its-b2b-quick-commerce-platform/",
     "date": "2026-05-26",
     "source": "Inc42",
-    "history": [
-      {
-        "amount": "₹500 Cr",
-        "round": "IPO",
-        "title": "Infra.Market To Raise Pre-IPO Round Of ₹500 Cr At $2.6 Bn Valuation",
-        "url": "https://inc42.com/buzz/infra-market-to-raise-pre-ipo-round-of-%e2%82%b9500-cr-at-2-6-bn-valuation/",
-        "date": "2026-05-08",
-        "source": "Inc42"
-      },
-      {
-        "round": "Seed",
-        "title": "Market Intelligence Startup Mindcase Raises Seed Funding Led by Ajvc",
-        "url": "https://entrackr.com/snippets/market-intelligence-startup-mindcase-raises-seed-funding-led-by-ajvc-11069641",
-        "date": "2026-02-03",
-        "source": "Entrackr"
-      },
-      {
-        "amount": "$50 Mn",
-        "round": "IPO",
-        "title": "IPO-Bound Infra.Market Raises Additional $50 Mn Debt From Mars Growth Capital",
-        "url": "https://inc42.com/buzz/ipo-bound-infra-market-raises-additional-50-mn-debt-from-mars-growth-capital/",
-        "date": "2025-06-30",
-        "source": "Inc42"
-      },
-      {
-        "round": "IPO",
-        "title": "Market Scorecard: 13 Startups Raised Over INR 29K Cr Via IPOs In 2024",
-        "url": "https://inc42.com/features/market-scorecard-13-startups-raised-over-inr-29k-cr-via-ipos-in-2024/",
-        "date": "2025-01-02",
-        "source": "Inc42"
-      },
-      {
-        "amount": "$20 Mn",
-        "title": "Visa Processing Platform Atlys Raises $20 Mn To Boost Product Stack, Expand Market Footprint",
-        "url": "https://inc42.com/buzz/visa-processing-platform-atlys-raises-20-mn-to-boost-product-stack-expand-market-footprint/",
-        "date": "2024-09-24",
-        "source": "Inc42"
-      },
-      {
-        "round": "IPO",
-        "title": "IPO On The Cards? Physics Wallah Seeks Investment Bankers For Market Debut In 2025",
-        "url": "https://inc42.com/buzz/ipo-on-the-cards-physics-wallah-seeks-investment-bankers-for-market-debut-in-2025/",
-        "date": "2024-09-22",
-        "source": "Inc42"
-      }
-    ]
+    "history": []
   },
   "country-delight": {
     "round": "Debt",
@@ -1296,6 +1255,60 @@
         "title": "Exclusive: Wingreens Farms To Raise $4.3 Mn Debt Funding",
         "url": "https://inc42.com/buzz/wingreens-farms-to-raise-4-3-mn-debt-funding/",
         "date": "2024-07-23",
+        "source": "Inc42"
+      }
+    ]
+  },
+  "marketinc": {
+    "amount": "₹500 Cr",
+    "round": "IPO",
+    "title": "Infra.Market To Raise Pre-IPO Round Of ₹500 Cr At $2.6 Bn Valuation",
+    "url": "https://inc42.com/buzz/infra-market-to-raise-pre-ipo-round-of-%e2%82%b9500-cr-at-2-6-bn-valuation/",
+    "date": "2026-05-08",
+    "source": "Inc42",
+    "history": [
+      {
+        "round": "Seed",
+        "title": "Market Intelligence Startup Mindcase Raises Seed Funding Led by Ajvc",
+        "url": "https://entrackr.com/snippets/market-intelligence-startup-mindcase-raises-seed-funding-led-by-ajvc-11069641",
+        "date": "2026-02-03",
+        "source": "Entrackr"
+      },
+      {
+        "amount": "$50 Mn",
+        "round": "IPO",
+        "title": "IPO-Bound Infra.Market Raises Additional $50 Mn Debt From Mars Growth Capital",
+        "url": "https://inc42.com/buzz/ipo-bound-infra-market-raises-additional-50-mn-debt-from-mars-growth-capital/",
+        "date": "2025-06-30",
+        "source": "Inc42"
+      },
+      {
+        "round": "IPO",
+        "title": "Market Scorecard: 13 Startups Raised Over INR 29K Cr Via IPOs In 2024",
+        "url": "https://inc42.com/features/market-scorecard-13-startups-raised-over-inr-29k-cr-via-ipos-in-2024/",
+        "date": "2025-01-02",
+        "source": "Inc42"
+      },
+      {
+        "amount": "$20 Mn",
+        "title": "Visa Processing Platform Atlys Raises $20 Mn To Boost Product Stack, Expand Market Footprint",
+        "url": "https://inc42.com/buzz/visa-processing-platform-atlys-raises-20-mn-to-boost-product-stack-expand-market-footprint/",
+        "date": "2024-09-24",
+        "source": "Inc42"
+      },
+      {
+        "round": "IPO",
+        "title": "IPO On The Cards? Physics Wallah Seeks Investment Bankers For Market Debut In 2025",
+        "url": "https://inc42.com/buzz/ipo-on-the-cards-physics-wallah-seeks-investment-bankers-for-market-debut-in-2025/",
+        "date": "2024-09-22",
+        "source": "Inc42"
+      },
+      {
+        "amount": "$200 Mn",
+        "round": "IPO",
+        "title": "With IPO On The Card, Infra.Market Plans Fresh Funding Of Up To $200 Mn At Higher Valuation",
+        "url": "https://inc42.com/buzz/with-ipo-on-the-card-infra-market-plans-fresh-funding-of-up-to-200-mn-at-higher-valuation/",
+        "date": "2024-09-16",
         "source": "Inc42"
       }
     ]
@@ -2079,6 +2092,53 @@
     "source": "Entrackr",
     "history": []
   },
+  "urban-company": {
+    "amount": "₹854 Cr",
+    "title": "Urban Company Secures rs 854 cr From Anchor Investors",
+    "url": "https://entrackr.com/news/urban-company-secures-rs-854-cr-from-anchor-investors-10066875",
+    "date": "2025-09-09",
+    "source": "Entrackr",
+    "history": [
+      {
+        "amount": "₹854 Cr",
+        "round": "IPO",
+        "title": "Urban Company IPO: INR 854 Cr Raised From Anchor Investors",
+        "url": "https://inc42.com/buzz/urban-company-ipo-inr-854-cr-raised-from-anchor-investors/",
+        "date": "2025-09-09",
+        "source": "Inc42"
+      },
+      {
+        "amount": "₹1395 Cr",
+        "round": "IPO",
+        "title": "Urban Company Founders And Investors Cash Out rs 1395 cr in Pre Ipo Deals",
+        "url": "https://entrackr.com/news/urban-company-founders-and-investors-cash-out-rs-1395-cr-in-pre-ipo-deals-9014293",
+        "date": "2025-04-29",
+        "source": "Entrackr"
+      },
+      {
+        "amount": "₹1900 Cr",
+        "title": "Urban Company Drhp to Raise rs 1900 cr Via Primary Issue And Ofs",
+        "url": "https://entrackr.com/news/urban-company-drhp-to-raise-rs-1900-cr-via-primary-issue-and-ofs-9012100",
+        "date": "2025-04-28",
+        "source": "Entrackr"
+      },
+      {
+        "amount": "₹528 Cr",
+        "round": "IPO",
+        "title": "Urban Company Board Approves rs 528 cr Primary Fundraise Via Ipo",
+        "url": "https://entrackr.com/news/urban-company-board-approves-rs-528-cr-primary-fundraise-via-ipo-8947688",
+        "date": "2025-04-10",
+        "source": "Entrackr"
+      },
+      {
+        "amount": "₹400 Cr",
+        "title": "Urban Company Raises INR 400 Cr From Dharana Capital Via Secondary Deal",
+        "url": "https://inc42.com/buzz/urban-company-raises-inr-400-cr-from-dharana-capital-via-secondary-deal/",
+        "date": "2024-07-17",
+        "source": "Inc42"
+      }
+    ]
+  },
   "porter": {
     "amount": "$100 Mn",
     "round": "Series F",
@@ -2390,19 +2450,19 @@
       }
     ]
   },
+  "ren-e-cosmetics": {
+    "round": "Series C",
+    "title": "Renée Cosmetics Raises 30 mn in Series c at 200 mn Valuation",
+    "url": "https://entrackr.com/news/renée-cosmetics-raises-30-mn-in-series-c-at-200-mn-valuation-9634943",
+    "date": "2025-08-07",
+    "source": "Entrackr",
+    "history": []
+  },
   "safe-security": {
     "round": "Series C",
     "title": "Safe Security Raises 70 mn in Series c Led by Avataar Ventures",
     "url": "https://entrackr.com/news/safe-security-raises-70-mn-in-series-c-led-by-avataar-ventures-9611500",
     "date": "2025-07-31",
-    "source": "Entrackr",
-    "history": []
-  },
-  "circle": {
-    "amount": "₹100 Cr",
-    "title": "Oyos Ritesh Agarwal Invests in Culture Circle at Over rs 100 cr Valuation",
-    "url": "https://entrackr.com/snippets/oyos-ritesh-agarwal-invests-in-culture-circle-at-over-rs-100-cr-valuation-9503107",
-    "date": "2025-07-16",
     "source": "Entrackr",
     "history": []
   },
@@ -2627,14 +2687,6 @@
     "title": "Matbook Raises 750k in Pre Seed Round",
     "url": "https://entrackr.com/snippets/matbook-raises-750k-in-pre-seed-round-8984090",
     "date": "2025-04-21",
-    "source": "Entrackr",
-    "history": []
-  },
-  "tonbo-imaging": {
-    "round": "IPO",
-    "title": "Tonbo Imaging Raises 21 mn in Pre Ipo Round",
-    "url": "https://entrackr.com/snippets/tonbo-imaging-raises-21-mn-in-pre-ipo-round-8921571",
-    "date": "2025-04-03",
     "source": "Entrackr",
     "history": []
   },
@@ -3180,6 +3232,14 @@
     "title": "Indifi Technologies Raises 35 mn in Series e Round",
     "url": "https://entrackr.com/2023/06/indifi-technologies-raises-35-mn-in-series-e-round/",
     "date": "2023-06-13",
+    "source": "Entrackr",
+    "history": []
+  },
+  "castler": {
+    "round": "Pre Series A",
+    "title": "Escrow Banking Platform Castler Raises 5 mn in Pre Series a Round",
+    "url": "https://entrackr.com/2023/05/escrow-banking-platform-castler-raises-5-mn-in-pre-series-a-round/",
+    "date": "2023-05-11",
     "source": "Entrackr",
     "history": []
   },
