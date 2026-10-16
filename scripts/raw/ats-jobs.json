@@ -27,8 +27,14 @@
       "source": "careers"
     },
     {
-      "title": "Customer Success- (B.tech)",
-      "url": "https://apply.workable.com/j/AD67C75DC1",
+      "title": "Customer Success - Apptrove (Onboarding & Account Management)",
+      "url": "https://apply.workable.com/j/A29BB8BE4C",
+      "location": "Noida, India",
+      "source": "careers"
+    },
+    {
+      "title": "Customer Success- Trackier (Account Management)",
+      "url": "https://apply.workable.com/j/B56355EBA6",
       "location": "Noida, India",
       "source": "careers"
     },
@@ -107,20 +113,6 @@
       "source": "careers"
     }
   ],
-  "primevigilance": [
-    {
-      "title": "Operations Manager (PV Technology)",
-      "url": "https://careers.smartrecruiters.com/Ergomed/744000155453259",
-      "location": "Noida, in",
-      "source": "careers"
-    },
-    {
-      "title": "Finance Project Coordinator",
-      "url": "https://careers.smartrecruiters.com/Ergomed/744000147199784",
-      "location": "Noida, in",
-      "source": "careers"
-    }
-  ],
   "ontic": [
     {
       "title": "Manager, Product Design",
@@ -149,6 +141,14 @@
       "source": "careers"
     }
   ],
+  "primevigilance": [
+    {
+      "title": "Operations Manager (PV Technology)",
+      "url": "https://careers.smartrecruiters.com/Ergomed/744000155453259",
+      "location": "Noida, in",
+      "source": "careers"
+    }
+  ],
   "athena-education": [
     {
       "title": "Associate/ Associate Manager - Writing",
@@ -160,52 +160,6 @@
       "title": "Technical Director- Writing",
       "url": "https://jobs.lever.co/athena-education/4b1432e7-7ed4-4502-9441-506861d6ebe9",
       "location": "Gurugram",
-      "source": "careers"
-    }
-  ],
-  "wizikey": [
-    {
-      "title": "Sales Executive - B2B SaaS",
-      "url": "https://careers.smartrecruiters.com/Wizikey/744000150346079",
-      "location": "Gurugram, in",
-      "source": "careers"
-    },
-    {
-      "title": "Sales Manager – B2B SaaS",
-      "url": "https://careers.smartrecruiters.com/Wizikey/744000148672349",
-      "location": "Gurugram, in",
-      "source": "careers"
-    },
-    {
-      "title": "Sales Manager – Media Sales & Advertising Sales( 4-8 yrs)",
-      "url": "https://careers.smartrecruiters.com/Wizikey/744000147203109",
-      "location": "Gurugram, in",
-      "source": "careers"
-    }
-  ],
-  "alphasense": [
-    {
-      "title": "Business Analyst II",
-      "url": "https://job-boards.greenhouse.io/alphasense/jobs/8857586002",
-      "location": "Delhi",
-      "source": "careers"
-    },
-    {
-      "title": "Compliance Analyst, Expert Network",
-      "url": "https://job-boards.greenhouse.io/alphasense/jobs/8693025002",
-      "location": "Delhi",
-      "source": "careers"
-    },
-    {
-      "title": "Content Analyst",
-      "url": "https://job-boards.greenhouse.io/alphasense/jobs/8025882002",
-      "location": "Delhi",
-      "source": "careers"
-    },
-    {
-      "title": "Join AlphaSense India Talent Community",
-      "url": "https://job-boards.greenhouse.io/alphasense/jobs/7119398002",
-      "location": "Delhi",
       "source": "careers"
     }
   ],
@@ -295,6 +249,72 @@
       "source": "careers"
     }
   ],
+  "wizikey": [
+    {
+      "title": "Sales Executive - B2B SaaS",
+      "url": "https://careers.smartrecruiters.com/Wizikey/744000150346079",
+      "location": "Gurugram, in",
+      "source": "careers"
+    },
+    {
+      "title": "Sales Manager – B2B SaaS",
+      "url": "https://careers.smartrecruiters.com/Wizikey/744000148672349",
+      "location": "Gurugram, in",
+      "source": "careers"
+    },
+    {
+      "title": "Sales Manager – Media Sales & Advertising Sales( 4-8 yrs)",
+      "url": "https://careers.smartrecruiters.com/Wizikey/744000147203109",
+      "location": "Gurugram, in",
+      "source": "careers"
+    }
+  ],
+  "alphasense": [
+    {
+      "title": "Business Analyst II",
+      "url": "https://job-boards.greenhouse.io/alphasense/jobs/8857586002",
+      "location": "Delhi",
+      "source": "careers"
+    },
+    {
+      "title": "Compliance Analyst",
+      "url": "https://job-boards.greenhouse.io/alphasense/jobs/8630664002",
+      "location": "Delhi",
+      "source": "careers"
+    },
+    {
+      "title": "Compliance Analyst, Expert Network",
+      "url": "https://job-boards.greenhouse.io/alphasense/jobs/8693025002",
+      "location": "Delhi",
+      "source": "careers"
+    },
+    {
+      "title": "Content Analyst",
+      "url": "https://job-boards.greenhouse.io/alphasense/jobs/8025882002",
+      "location": "Delhi",
+      "source": "careers"
+    },
+    {
+      "title": "Join AlphaSense India Talent Community",
+      "url": "https://job-boards.greenhouse.io/alphasense/jobs/7119398002",
+      "location": "Delhi",
+      "source": "careers"
+    }
+  ],
+  "smart-working": [
+    {
+      "title": "Lead PHP/Symfony Engineer (Remote, Full-Time) - [HR191]",
+      "url": "https://jobs.lever.co/smart-working-solutions/eb63f1a9-443b-48a4-88ec-99c8516a8c06",
+      "location": "Noida",
+      "source": "careers"
+    },
+    {
+      "title": "Senior Full Stack Developer (Remote, Contractual) [HR214]",
+      "url": "https://jobs.lever.co/smart-working-solutions/63807795-e2bd-4254-aea0-10f79c7027c3",
+      "location": "Delhi",
+      "source": "careers"
+    }
+  ],
   "cint": [
     {
       "title": "Senior Analyst, Survey Programming & Data Scrubbing ",
@@ -312,20 +332,6 @@
       "title": "Survey Programming & Data Scrubbing Consultant",
       "url": "https://careers.smartrecruiters.com/Cint/744000152914180",
       "location": "Gurugram, in",
-      "source": "careers"
-    }
-  ],
-  "smart-working": [
-    {
-      "title": "Lead PHP/Symfony Engineer (Remote, Full-Time) - [HR191]",
-      "url": "https://jobs.lever.co/smart-working-solutions/eb63f1a9-443b-48a4-88ec-99c8516a8c06",
-      "location": "Noida",
-      "source": "careers"
-    },
-    {
-      "title": "Senior Full Stack Developer (Remote, Contractual) [HR214]",
-      "url": "https://jobs.lever.co/smart-working-solutions/63807795-e2bd-4254-aea0-10f79c7027c3",
-      "location": "Delhi",
       "source": "careers"
     }
   ],
@@ -357,6 +363,12 @@
     {
       "title": "Lead Program Manager- Generative AI Data Operations",
       "url": "https://jobs.lever.co/weloglobal/7a1cd362-365b-41a3-b8b7-d484c749dc36",
+      "location": "Gurgaon, India",
+      "source": "careers"
+    },
+    {
+      "title": "Trust and Safety Specialist",
+      "url": "https://jobs.lever.co/weloglobal/affa98bf-9d49-4b66-b57b-aae2c8f1c89c",
       "location": "Gurgaon, India",
       "source": "careers"
     }
