@@ -1,4 +1,58 @@
 {
+  "urban-company": {
+    "amount": "₹2,500 Cr",
+    "title": "Urban Company Board Clears Plans To Raise Up To ₹2,500 Cr",
+    "url": "https://inc42.com/buzz/urban-company-board-clears-plans-to-raise-up-to-%e2%82%b92500-cr/",
+    "date": "Fri, 16 Oct 2026 11:57:51 +0000",
+    "source": "Inc42",
+    "history": [
+      {
+        "amount": "₹854 Cr",
+        "title": "Urban Company Secures rs 854 cr From Anchor Investors",
+        "url": "https://entrackr.com/news/urban-company-secures-rs-854-cr-from-anchor-investors-10066875",
+        "date": "2025-09-09",
+        "source": "Entrackr"
+      },
+      {
+        "amount": "₹854 Cr",
+        "round": "IPO",
+        "title": "Urban Company IPO: INR 854 Cr Raised From Anchor Investors",
+        "url": "https://inc42.com/buzz/urban-company-ipo-inr-854-cr-raised-from-anchor-investors/",
+        "date": "2025-09-09",
+        "source": "Inc42"
+      },
+      {
+        "amount": "₹1395 Cr",
+        "round": "IPO",
+        "title": "Urban Company Founders And Investors Cash Out rs 1395 cr in Pre Ipo Deals",
+        "url": "https://entrackr.com/news/urban-company-founders-and-investors-cash-out-rs-1395-cr-in-pre-ipo-deals-9014293",
+        "date": "2025-04-29",
+        "source": "Entrackr"
+      },
+      {
+        "amount": "₹1900 Cr",
+        "title": "Urban Company Drhp to Raise rs 1900 cr Via Primary Issue And Ofs",
+        "url": "https://entrackr.com/news/urban-company-drhp-to-raise-rs-1900-cr-via-primary-issue-and-ofs-9012100",
+        "date": "2025-04-28",
+        "source": "Entrackr"
+      },
+      {
+        "amount": "₹528 Cr",
+        "round": "IPO",
+        "title": "Urban Company Board Approves rs 528 cr Primary Fundraise Via Ipo",
+        "url": "https://entrackr.com/news/urban-company-board-approves-rs-528-cr-primary-fundraise-via-ipo-8947688",
+        "date": "2025-04-10",
+        "source": "Entrackr"
+      },
+      {
+        "amount": "₹400 Cr",
+        "title": "Urban Company Raises INR 400 Cr From Dharana Capital Via Secondary Deal",
+        "url": "https://inc42.com/buzz/urban-company-raises-inr-400-cr-from-dharana-capital-via-secondary-deal/",
+        "date": "2024-07-17",
+        "source": "Inc42"
+      }
+    ]
+  },
   "tonbo-imaging": {
     "amount": "₹255 Cr",
     "round": "IPO",
@@ -7,14 +61,6 @@
     "date": "Thu, 15 Oct 2026 13:44:03 +0530",
     "source": "Entrackr",
     "history": [
-      {
-        "amount": "₹255 Cr",
-        "round": "IPO",
-        "title": "IPO-Bound Tonbo Imaging Nets ₹255 Cr From Anchor Investors",
-        "url": "https://inc42.com/buzz/ipo-bound-tonbo-imaging-nets-%e2%82%b9255-cr-from-anchor-investors/",
-        "date": "Wed, 14 Oct 2026 18:59:05 +0000",
-        "source": "Inc42"
-      },
       {
         "round": "IPO",
         "title": "Tonbo Imaging Raises 21 mn in Pre Ipo Round",
@@ -45,22 +91,6 @@
         "title": "Oyos Ritesh Agarwal Invests in Culture Circle at Over rs 100 cr Valuation",
         "url": "https://entrackr.com/snippets/oyos-ritesh-agarwal-invests-in-culture-circle-at-over-rs-100-cr-valuation-9503107",
         "date": "2025-07-16",
-        "source": "Entrackr"
-      }
-    ]
-  },
-  "nat-habit": {
-    "amount": "$15 Mn",
-    "title": "Exclusive: Nat Habit to kick off $15 Mn funding round led by Trident Growth Partners",
-    "url": "https://entrackr.com/exclusive/exclusive-nat-habit-to-kick-off-15-mn-funding-round-led-by-trident-growth-partners-12660433",
-    "date": "Fri, 09 Oct 2026 16:48:31 +0530",
-    "source": "Entrackr",
-    "history": [
-      {
-        "round": "Series B",
-        "title": "D2c Brand Nat Habit Raises 10 2 mn in Series b Led by Bertelsmann",
-        "url": "https://entrackr.com/2023/12/d2c-brand-nat-habit-raises-10-2-mn-in-series-b-led-by-bertelsmann/",
-        "date": "2023-12-12",
         "source": "Entrackr"
       }
     ]
@@ -368,6 +398,14 @@
         "source": "Inc42"
       }
     ]
+  },
+  "kaapi-machines": {
+    "amount": "₹50 Cr",
+    "title": "Coffee Equipment And Services Provider Kaapi Machines Raises rs 50 cr From Sedna Horeca",
+    "url": "https://entrackr.com/snippets/coffee-equipment-and-services-provider-kaapi-machines-raises-rs-50-cr-from-sedna-horeca-12223166",
+    "date": "2026-08-03",
+    "source": "Entrackr",
+    "history": []
   },
   "apna": {
     "amount": "₹120 Cr",
@@ -753,6 +791,14 @@
     "url": "https://inc42.com/buzz/petcare-startup-vetic-secures-40-mn-to-scale-clinic-network/",
     "date": "2026-06-18",
     "source": "Inc42",
+    "history": []
+  },
+  "speedioo": {
+    "round": "Seed",
+    "title": "Used Two Wheeler Platform Speedioo Raises Seed Funding Led by Atomic Capital",
+    "url": "https://entrackr.com/snippets/used-two-wheeler-platform-speedioo-raises-seed-funding-led-by-atomic-capital-12043624",
+    "date": "2026-06-16",
+    "source": "Entrackr",
     "history": []
   },
   "fmcg": {
@@ -1249,6 +1295,14 @@
         "source": "Entrackr"
       }
     ]
+  },
+  "scikiq": {
+    "round": "Pre Series A",
+    "title": "Enterprise Intelligence Startup Scikiq Secures 15 mn in Pre Series a",
+    "url": "https://entrackr.com/snippets/enterprise-intelligence-startup-scikiq-secures-15-mn-in-pre-series-a-11826466",
+    "date": "2026-05-12",
+    "source": "Entrackr",
+    "history": []
   },
   "wingreens-farms": {
     "amount": "₹120 Cr",
@@ -2100,50 +2154,19 @@
     "source": "Entrackr",
     "history": []
   },
-  "urban-company": {
-    "amount": "₹854 Cr",
-    "title": "Urban Company Secures rs 854 cr From Anchor Investors",
-    "url": "https://entrackr.com/news/urban-company-secures-rs-854-cr-from-anchor-investors-10066875",
-    "date": "2025-09-09",
+  "playsuper": {
+    "round": "Seed",
+    "title": "Playsuper Raises 1 mn in Seed Round Led by Singapore Based Chimera",
+    "url": "https://entrackr.com/snippets/playsuper-raises-1-mn-in-seed-round-led-by-singapore-based-chimera-10472060",
+    "date": "2025-09-17",
     "source": "Entrackr",
     "history": [
       {
-        "amount": "₹854 Cr",
-        "round": "IPO",
-        "title": "Urban Company IPO: INR 854 Cr Raised From Anchor Investors",
-        "url": "https://inc42.com/buzz/urban-company-ipo-inr-854-cr-raised-from-anchor-investors/",
-        "date": "2025-09-09",
-        "source": "Inc42"
-      },
-      {
-        "amount": "₹1395 Cr",
-        "round": "IPO",
-        "title": "Urban Company Founders And Investors Cash Out rs 1395 cr in Pre Ipo Deals",
-        "url": "https://entrackr.com/news/urban-company-founders-and-investors-cash-out-rs-1395-cr-in-pre-ipo-deals-9014293",
-        "date": "2025-04-29",
+        "round": "Seed",
+        "title": "Playsuper Raises 500k in Seed Round Led by Ian Group And 100xvc",
+        "url": "https://entrackr.com/snippets/playsuper-raises-500k-in-seed-round-led-by-ian-group-and-100xvc-8695102",
+        "date": "2025-02-06",
         "source": "Entrackr"
-      },
-      {
-        "amount": "₹1900 Cr",
-        "title": "Urban Company Drhp to Raise rs 1900 cr Via Primary Issue And Ofs",
-        "url": "https://entrackr.com/news/urban-company-drhp-to-raise-rs-1900-cr-via-primary-issue-and-ofs-9012100",
-        "date": "2025-04-28",
-        "source": "Entrackr"
-      },
-      {
-        "amount": "₹528 Cr",
-        "round": "IPO",
-        "title": "Urban Company Board Approves rs 528 cr Primary Fundraise Via Ipo",
-        "url": "https://entrackr.com/news/urban-company-board-approves-rs-528-cr-primary-fundraise-via-ipo-8947688",
-        "date": "2025-04-10",
-        "source": "Entrackr"
-      },
-      {
-        "amount": "₹400 Cr",
-        "title": "Urban Company Raises INR 400 Cr From Dharana Capital Via Secondary Deal",
-        "url": "https://inc42.com/buzz/urban-company-raises-inr-400-cr-from-dharana-capital-via-secondary-deal/",
-        "date": "2024-07-17",
-        "source": "Inc42"
       }
     ]
   },
@@ -2771,6 +2794,14 @@
       }
     ]
   },
+  "zappfresh": {
+    "round": "IPO",
+    "title": "How Zappfresh Ground Out Profits In Meat Delivery Ahead Of 2025 IPO",
+    "url": "https://inc42.com/features/zappfresh-profits-meat-delivery-seafood-expansion-ipo/",
+    "date": "2025-02-26",
+    "source": "Inc42",
+    "history": []
+  },
   "blinkit": {
     "amount": "₹1500 Cr",
     "title": "Zomato Invests rs 1500 cr in Blinkit",
@@ -3179,6 +3210,14 @@
     "source": "Entrackr",
     "history": []
   },
+  "nat-habit": {
+    "round": "Series B",
+    "title": "D2c Brand Nat Habit Raises 10 2 mn in Series b Led by Bertelsmann",
+    "url": "https://entrackr.com/2023/12/d2c-brand-nat-habit-raises-10-2-mn-in-series-b-led-by-bertelsmann/",
+    "date": "2023-12-12",
+    "source": "Entrackr",
+    "history": []
+  },
   "baaz-bikes": {
     "round": "Series A",
     "title": "Baaz Bikes Raises 8 mn in Series a Round",
@@ -3264,6 +3303,14 @@
     "title": "Escrow Banking Platform Castler Raises 5 mn in Pre Series a Round",
     "url": "https://entrackr.com/2023/05/escrow-banking-platform-castler-raises-5-mn-in-pre-series-a-round/",
     "date": "2023-05-11",
+    "source": "Entrackr",
+    "history": []
+  },
+  "hypd": {
+    "round": "Pre Series A",
+    "title": "Creator Tech Startup Hypd Raises 4 mn in Pre Series a",
+    "url": "https://entrackr.com/2023/05/creator-tech-startup-hypd-raises-4-mn-in-pre-series-a/",
+    "date": "2023-05-02",
     "source": "Entrackr",
     "history": []
   },

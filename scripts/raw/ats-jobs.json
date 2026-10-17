@@ -39,12 +39,6 @@
       "source": "careers"
     },
     {
-      "title": "Engineering Manager",
-      "url": "https://apply.workable.com/j/10691B789F",
-      "location": "Noida, India",
-      "source": "careers"
-    },
-    {
       "title": "Performance Marketing Lead (Growth & Operations) - B.Tech",
       "url": "https://apply.workable.com/j/6D6218644C",
       "location": "Noida, India",
@@ -107,9 +101,23 @@
       "source": "careers"
     },
     {
-      "title": "10.Employee Referral (PayPay India)  - For Internal Use Only",
+      "title": "10.Senior Product Manager",
+      "url": "https://job-boards.greenhouse.io/pay2dc/jobs/4722496006",
+      "location": "Gurugram,India",
+      "source": "careers"
+    },
+    {
+      "title": "11.Employee Referral (PayPay India)  - For Internal Use Only",
       "url": "https://job-boards.greenhouse.io/pay2dc/jobs/4055032006",
       "location": "Gurugram,India",
+      "source": "careers"
+    }
+  ],
+  "primevigilance": [
+    {
+      "title": "Operations Manager (PV Technology)",
+      "url": "https://careers.smartrecruiters.com/Ergomed/744000155453259",
+      "location": "Noida, in",
       "source": "careers"
     }
   ],
@@ -118,6 +126,20 @@
       "title": "Manager, Product Design",
       "url": "https://jobs.ashbyhq.com/Ontic/d47d7285-75bd-43cb-87e4-f06070249283",
       "location": "Noida, India",
+      "source": "careers"
+    }
+  ],
+  "athena-education": [
+    {
+      "title": "Associate/ Associate Manager - Writing",
+      "url": "https://jobs.lever.co/athena-education/8f9cb4b5-155f-4eae-8f77-ef801a4110da",
+      "location": "Gurugram",
+      "source": "careers"
+    },
+    {
+      "title": "Technical Director- Writing",
+      "url": "https://jobs.lever.co/athena-education/4b1432e7-7ed4-4502-9441-506861d6ebe9",
+      "location": "Gurugram",
       "source": "careers"
     }
   ],
@@ -141,25 +163,23 @@
       "source": "careers"
     }
   ],
-  "primevigilance": [
+  "wizikey": [
     {
-      "title": "Operations Manager (PV Technology)",
-      "url": "https://careers.smartrecruiters.com/Ergomed/744000155453259",
-      "location": "Noida, in",
-      "source": "careers"
-    }
-  ],
-  "athena-education": [
-    {
-      "title": "Associate/ Associate Manager - Writing",
-      "url": "https://jobs.lever.co/athena-education/8f9cb4b5-155f-4eae-8f77-ef801a4110da",
-      "location": "Gurugram",
+      "title": "Sales Executive - B2B SaaS",
+      "url": "https://careers.smartrecruiters.com/Wizikey/744000150346079",
+      "location": "Gurugram, in",
       "source": "careers"
     },
     {
-      "title": "Technical Director- Writing",
-      "url": "https://jobs.lever.co/athena-education/4b1432e7-7ed4-4502-9441-506861d6ebe9",
-      "location": "Gurugram",
+      "title": "Sales Manager – B2B SaaS",
+      "url": "https://careers.smartrecruiters.com/Wizikey/744000148672349",
+      "location": "Gurugram, in",
+      "source": "careers"
+    },
+    {
+      "title": "Sales Manager – Media Sales & Advertising Sales( 4-8 yrs)",
+      "url": "https://careers.smartrecruiters.com/Wizikey/744000147203109",
+      "location": "Gurugram, in",
       "source": "careers"
     }
   ],
@@ -249,26 +269,6 @@
       "source": "careers"
     }
   ],
-  "wizikey": [
-    {
-      "title": "Sales Executive - B2B SaaS",
-      "url": "https://careers.smartrecruiters.com/Wizikey/744000150346079",
-      "location": "Gurugram, in",
-      "source": "careers"
-    },
-    {
-      "title": "Sales Manager – B2B SaaS",
-      "url": "https://careers.smartrecruiters.com/Wizikey/744000148672349",
-      "location": "Gurugram, in",
-      "source": "careers"
-    },
-    {
-      "title": "Sales Manager – Media Sales & Advertising Sales( 4-8 yrs)",
-      "url": "https://careers.smartrecruiters.com/Wizikey/744000147203109",
-      "location": "Gurugram, in",
-      "source": "careers"
-    }
-  ],
   "alphasense": [
     {
       "title": "Business Analyst II",
@@ -301,20 +301,6 @@
       "source": "careers"
     }
   ],
-  "smart-working": [
-    {
-      "title": "Lead PHP/Symfony Engineer (Remote, Full-Time) - [HR191]",
-      "url": "https://jobs.lever.co/smart-working-solutions/eb63f1a9-443b-48a4-88ec-99c8516a8c06",
-      "location": "Noida",
-      "source": "careers"
-    },
-    {
-      "title": "Senior Full Stack Developer (Remote, Contractual) [HR214]",
-      "url": "https://jobs.lever.co/smart-working-solutions/63807795-e2bd-4254-aea0-10f79c7027c3",
-      "location": "Delhi",
-      "source": "careers"
-    }
-  ],
   "cint": [
     {
       "title": "Senior Analyst, Survey Programming & Data Scrubbing ",
@@ -332,6 +318,20 @@
       "title": "Survey Programming & Data Scrubbing Consultant",
       "url": "https://careers.smartrecruiters.com/Cint/744000152914180",
       "location": "Gurugram, in",
+      "source": "careers"
+    }
+  ],
+  "smart-working": [
+    {
+      "title": "Lead PHP/Symfony Engineer (Remote, Full-Time) - [HR191]",
+      "url": "https://jobs.lever.co/smart-working-solutions/eb63f1a9-443b-48a4-88ec-99c8516a8c06",
+      "location": "Noida",
+      "source": "careers"
+    },
+    {
+      "title": "QA Automation Engineer (Remote, Full-Time) [HR217]",
+      "url": "https://jobs.lever.co/smart-working-solutions/9f10f23e-e6e5-4104-bf02-dc7e16f2f9bb",
+      "location": "Delhi",
       "source": "careers"
     }
   ],
