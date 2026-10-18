@@ -14945,7 +14945,7 @@
   },
   {
     "kind": "internship",
-    "title": "Sales and Marketing",
+    "title": "Sales And Marketing",
     "company": "Cogmac Technologies",
     "location": "Noida",
     "stipend": "₹ 16,000 - 22,000 /month",
@@ -18005,6 +18005,132 @@
     "company": "SharePal",
     "location": "Chennai, Delhi, Gurgaon, Kolkata, Pune, Hyderabad, Mumbai, Noida, Bangalore",
     "url": "https://internshala.com/job/detail/city-operations-lead-job-in-multiple-locations-at-sharepal1792154933",
+    "actively_hiring": true
+  },
+  {
+    "kind": "internship",
+    "title": "Social Media Marketing",
+    "company": "Team Car Delight",
+    "location": "Delhi",
+    "stipend": "₹ 10,000 - 12,000 /month",
+    "duration": "3 Months",
+    "url": "https://internshala.com/internship/detail/social-media-marketing-internship-in-delhi-at-team-car-delight1792296533",
+    "actively_hiring": true
+  },
+  {
+    "kind": "internship",
+    "title": "Recruitment Consultant",
+    "company": "Reliable Allied Services",
+    "location": "Delhi, Ghaziabad, Greater Noida, Noida",
+    "stipend": "₹ 6,500 - 12,000 /month",
+    "duration": "6 Months",
+    "url": "https://internshala.com/internship/detail/recruitment-consultant-internship-in-multiple-locations-at-reliable-allied-services1792241017",
+    "actively_hiring": true
+  },
+  {
+    "kind": "internship",
+    "title": "Graphic Design",
+    "company": "Lotpot Comics",
+    "location": "Delhi",
+    "stipend": "₹ 5,000 - 7,000 /month",
+    "duration": "6 Months",
+    "url": "https://internshala.com/internship/detail/graphic-design-internship-in-delhi-at-lotpot-comics1792240813",
+    "actively_hiring": true
+  },
+  {
+    "kind": "internship",
+    "title": "Content and Social Media Marketing",
+    "company": "Lotpot Comics",
+    "location": "Delhi",
+    "stipend": "₹ 5,000 - 7,000 /month",
+    "duration": "6 Months",
+    "url": "https://internshala.com/internship/detail/content-and-social-media-marketing-internship-in-delhi-at-lotpot-comics1792240949",
+    "actively_hiring": true
+  },
+  {
+    "kind": "internship",
+    "title": "Digital Marketing",
+    "company": "Digital Guruji",
+    "location": "Delhi",
+    "stipend": "₹ 15,000 /month",
+    "duration": "6 Months",
+    "url": "https://internshala.com/internship/detail/digital-marketing-internship-in-delhi-at-digital-guruji1792234111",
+    "actively_hiring": true
+  },
+  {
+    "kind": "internship",
+    "title": "Digital Marketing",
+    "company": "Allied IT Solutions",
+    "location": "Noida",
+    "stipend": "₹ 5,000 - 8,000 /month",
+    "duration": "3 Months",
+    "url": "https://internshala.com/internship/detail/digital-marketing-internship-in-noida-at-allied-it-solutions1792239458",
+    "actively_hiring": true
+  },
+  {
+    "kind": "internship",
+    "title": "Finance & Accounting",
+    "company": "K S Gupta And Co",
+    "location": "Delhi",
+    "stipend": "₹ 12,000 - 15,000 /month",
+    "duration": "3 Months",
+    "url": "https://internshala.com/internship/detail/finance-accounting-internship-in-delhi-at-k-s-gupta-and-co1792237205",
+    "actively_hiring": true
+  },
+  {
+    "kind": "job",
+    "title": "Sales Development Representative",
+    "company": "Hodophile Travels Private Limited",
+    "location": "Delhi",
+    "url": "https://internshala.com/job/detail/sales-development-representative-job-in-delhi-at-hodophile-travels-private-limited1792138843",
+    "actively_hiring": true
+  },
+  {
+    "kind": "job",
+    "title": "Social Media - Content Creator",
+    "company": "Ambria",
+    "location": "Delhi",
+    "url": "https://internshala.com/job/detail/social-media-content-creator-job-in-delhi-at-ambria1790244063",
+    "actively_hiring": true
+  },
+  {
+    "kind": "job",
+    "title": "Associate Recruiter",
+    "company": "Star Media Network Private Limited",
+    "location": "Delhi, Ghaziabad, Greater Noida, Noida",
+    "url": "https://internshala.com/job/detail/associate-recruiter-job-in-multiple-locations-at-star-media-network-private-limited1792234782",
+    "actively_hiring": true
+  },
+  {
+    "kind": "job",
+    "title": "Accountant",
+    "company": "K S GUPTA AND COMPANY",
+    "location": "Delhi",
+    "url": "https://internshala.com/job/detail/accountant-job-in-delhi-at-k-s-gupta-and-company1792215550",
+    "actively_hiring": true
+  },
+  {
+    "kind": "job",
+    "title": "Record To Report Ops Associate",
+    "company": "ASCLOUDSECURE",
+    "location": "Ahmedabad, Chennai, Delhi, Gurgaon, Indore, Pune, Hyderabad, Mumbai, Noida, Bangalore",
+    "url": "https://internshala.com/job/detail/fresher-record-to-report-ops-associate-job-in-multiple-locations-at-ascloudsecure1792222069",
+    "actively_hiring": true
+  },
+  {
+    "kind": "job",
+    "title": "Business Development Executive",
+    "company": "Coming Keys",
+    "location": "Gurgaon",
+    "url": "https://internshala.com/job/detail/fresher-business-development-executive-job-in-gurgaon-at-coming-keys1792231877",
+    "actively_hiring": true
+  },
+  {
+    "kind": "job",
+    "title": "Inside Sales Specialist",
+    "company": "Snyllo Estetica",
+    "location": "Gurgaon",
+    "url": "https://internshala.com/job/detail/fresher-inside-sales-specialist-job-in-gurgaon-at-snyllo-estetica1792152292",
     "actively_hiring": true
   }
 ]

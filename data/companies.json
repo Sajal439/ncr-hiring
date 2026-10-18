@@ -159,7 +159,7 @@
     "lng": 77.07741659947759,
     "approx": true,
     "hiring": true,
-    "openJobs": 5,
+    "openJobs": 4,
     "domain": "30sundays.club",
     "founded": 2024,
     "teamSize": "201-500"
@@ -815,7 +815,8 @@
     "lat": 28.531789312596633,
     "lng": 77.3460610032664,
     "approx": true,
-    "hiring": false,
+    "hiring": true,
+    "openJobs": 1,
     "domain": "aaryamresorts.com",
     "founded": 2021,
     "teamSize": "11-50"
@@ -961,7 +962,7 @@
     "lng": 77.24417718154756,
     "approx": true,
     "hiring": true,
-    "openJobs": 4,
+    "openJobs": 5,
     "domain": "abec.asia",
     "founded": 2003,
     "teamSize": "201-500",
@@ -1006,8 +1007,7 @@
     "lat": 28.565525929945842,
     "lng": 77.19598017560408,
     "approx": true,
-    "hiring": true,
-    "openJobs": 1,
+    "hiring": false,
     "domain": "abhiloans.com",
     "founded": 2015,
     "teamSize": "11-50",
@@ -1189,7 +1189,7 @@
     "lng": 77.0879407318849,
     "approx": true,
     "hiring": true,
-    "openJobs": 180,
+    "openJobs": 215,
     "domain": "accenture.com",
     "teamSize": "1001-5000",
     "careersUrl": "https://accenture.com/us-en/careers"
@@ -1378,7 +1378,8 @@
     "openJobs": 1,
     "domain": "acme.in",
     "founded": 2003,
-    "teamSize": "1001-5000"
+    "teamSize": "1001-5000",
+    "careersUrl": "https://acme.in/careers"
   },
   {
     "slug": "acme-solar",
@@ -1469,7 +1470,7 @@
     "lng": 77.06343142745175,
     "approx": true,
     "hiring": true,
-    "openJobs": 2,
+    "openJobs": 3,
     "domain": "acquara.com",
     "founded": 2010,
     "teamSize": "51-200"
@@ -1602,13 +1603,13 @@
     "sector": "Consumer",
     "stage": "Unknown",
     "tags": [],
-    "area": "Gurugram",
-    "address": "Gurugram, Delhi NCR",
+    "area": "Ghaziabad",
+    "address": "Ghaziabad, Delhi NCR",
     "lat": 28.469993931176294,
     "lng": 77.0682723650918,
     "approx": true,
     "hiring": true,
-    "openJobs": 15,
+    "openJobs": 16,
     "teamSize": "11-50"
   },
   {
@@ -1717,7 +1718,7 @@
     "lng": 77.09726796168322,
     "approx": true,
     "hiring": true,
-    "openJobs": 6,
+    "openJobs": 5,
     "domain": "adanirealty.com",
     "teamSize": "1001-5000",
     "careersUrl": "https://www.adanirealty.com/careers"
@@ -1877,6 +1878,25 @@
     "teamSize": "11-50"
   },
   {
+    "slug": "adhyayan-mantra-india",
+    "name": "Adhyayan Mantra - India",
+    "type": "startup",
+    "tier": "company",
+    "tagline": "Adhyayan Mantra - India — hiring in Delhi NCR",
+    "sector": "Edtech",
+    "stage": "Unknown",
+    "tags": [],
+    "area": "Delhi",
+    "address": "Delhi, Delhi NCR",
+    "lat": 28.617873918729224,
+    "lng": 77.21092312672347,
+    "approx": true,
+    "hiring": true,
+    "openJobs": 1,
+    "domain": "adhyayanmantra.com",
+    "teamSize": "11-50"
+  },
+  {
     "slug": "adiona",
     "name": "ADIONA",
     "type": "startup",
@@ -1968,7 +1988,7 @@
     "lng": 77.19940172968424,
     "approx": true,
     "hiring": true,
-    "openJobs": 6,
+    "openJobs": 7,
     "domain": "adityabirlahealth.com",
     "founded": 2015,
     "teamSize": "5000+"
@@ -2015,7 +2035,7 @@
     "lng": 77.23200014107141,
     "approx": true,
     "hiring": true,
-    "openJobs": 18,
+    "openJobs": 23,
     "domain": "lifeinsurance.adityabirlacapital.com",
     "teamSize": "5000+",
     "careersUrl": "https://adityabirlacapital.com/careers"
@@ -2934,7 +2954,7 @@
     "lng": 77.19711814478991,
     "approx": true,
     "hiring": true,
-    "openJobs": 26,
+    "openJobs": 25,
     "domain": "agileengine.com",
     "founded": 2010,
     "teamSize": "501-1000"
@@ -2959,7 +2979,7 @@
     "lng": 77.19411506574555,
     "approx": true,
     "hiring": true,
-    "openJobs": 36,
+    "openJobs": 35,
     "domain": "agilent.com",
     "founded": 1999,
     "teamSize": "5000+"
@@ -3032,7 +3052,7 @@
     "lng": 77.06288760189429,
     "approx": true,
     "hiring": true,
-    "openJobs": 4,
+    "openJobs": 5,
     "domain": "agnayi.com",
     "founded": 2005,
     "teamSize": "11-50",
@@ -3211,28 +3231,6 @@
     "careersUrl": "https://ahead.com/careers/"
   },
   {
-    "slug": "ahk-digital-brands-llp",
-    "name": "AHK DIGITAL BRANDS LLP",
-    "type": "startup",
-    "tier": "company",
-    "tagline": "Our brands: ✦ Myra USA - Western spirit, handcrafted by artisans",
-    "sector": "D2C",
-    "stage": "Unknown",
-    "tags": [
-      "Western bags  and B2C Ecommerce"
-    ],
-    "area": "Gurugram",
-    "address": "Gurugram, Delhi NCR",
-    "lat": 28.42628705066657,
-    "lng": 77.06530391352125,
-    "approx": true,
-    "hiring": true,
-    "openJobs": 1,
-    "domain": "myrausa.com",
-    "founded": 2016,
-    "teamSize": "1-10"
-  },
-  {
     "slug": "aidash",
     "name": "AiDASH",
     "type": "startup",
@@ -3389,7 +3387,7 @@
     "lng": 77.04394480709689,
     "approx": true,
     "hiring": true,
-    "openJobs": 3,
+    "openJobs": 2,
     "domain": "airdistribution.com",
     "teamSize": "501-1000"
   },
@@ -3699,7 +3697,7 @@
     "lng": 77.08291184466212,
     "approx": true,
     "hiring": true,
-    "openJobs": 14,
+    "openJobs": 15,
     "domain": "aisensy.com",
     "founded": 2020,
     "teamSize": "201-500",
@@ -4028,7 +4026,7 @@
     "lng": 77.04361805607655,
     "approx": true,
     "hiring": true,
-    "openJobs": 4,
+    "openJobs": 6,
     "domain": "alchemistindia.net",
     "founded": 2008,
     "teamSize": "201-500",
@@ -4131,7 +4129,7 @@
     "lng": 77.0879948077842,
     "approx": true,
     "hiring": true,
-    "openJobs": 2,
+    "openJobs": 1,
     "domain": "algoleap.com",
     "founded": 2021,
     "teamSize": "501-1000",
@@ -4885,7 +4883,7 @@
     "lng": 77.20848304839689,
     "approx": true,
     "hiring": true,
-    "openJobs": 7,
+    "openJobs": 6,
     "domain": "alpha-sense.com",
     "teamSize": "1001-5000",
     "careersUrl": "https://alpha-sense.com/careers/"
@@ -5087,7 +5085,7 @@
     "lng": 77.09587404682973,
     "approx": true,
     "hiring": true,
-    "openJobs": 43,
+    "openJobs": 44,
     "domain": "alvarezandmarsal.com",
     "teamSize": "5000+"
   },
@@ -5187,6 +5185,26 @@
     "careersUrl": "https://amassskillventures.in/careers"
   },
   {
+    "slug": "amaze-infratech-pvt-ltd",
+    "name": "Amaze Infratech Pvt Ltd",
+    "type": "startup",
+    "tier": "company",
+    "tagline": "Amaze Infratech Pvt Ltd (founded 2016) is a one-stop construction and infrastructure partner in India offering…",
+    "sector": "Other",
+    "stage": "Unknown",
+    "tags": [],
+    "area": "Delhi",
+    "address": "Delhi, Delhi NCR",
+    "lat": 28.562004614857024,
+    "lng": 77.22472302786123,
+    "approx": true,
+    "hiring": true,
+    "openJobs": 1,
+    "domain": "amazeinfratech.in",
+    "founded": 2016,
+    "teamSize": "11-50"
+  },
+  {
     "slug": "amazing-infotech-pvt-ltd",
     "name": "Amazing Infotech Pvt. Ltd.",
     "type": "startup",
@@ -5228,7 +5246,7 @@
     "teamSize": "5000+",
     "tier": "startup",
     "hiring": true,
-    "openJobs": 30
+    "openJobs": 32
   },
   {
     "slug": "ambak",
@@ -5389,10 +5407,10 @@
     "tags": [
       "Financial Planning and Investment Services"
     ],
-    "area": "Gurugram",
-    "address": "Gurugram, Delhi NCR",
-    "lat": 28.4568174317167,
-    "lng": 77.0412193980662,
+    "area": "Noida",
+    "address": "Noida, Delhi NCR",
+    "lat": 28.562207957944697,
+    "lng": 77.32897545821852,
     "approx": true,
     "hiring": true,
     "openJobs": 18,
@@ -5457,10 +5475,10 @@
       "POS display manfuacturing",
       "Retail design"
     ],
-    "area": "Delhi",
-    "address": "Delhi, Delhi NCR",
-    "lat": 28.58143403243323,
-    "lng": 77.16812722435141,
+    "area": "Noida",
+    "address": "Noida, Delhi NCR",
+    "lat": 28.566994474710615,
+    "lng": 77.3200727357383,
     "approx": true,
     "hiring": true,
     "openJobs": 5,
@@ -5604,6 +5622,31 @@
     "founded": 1996,
     "teamSize": "1001-5000",
     "careersUrl": "https://ample.co.in/about-life-at-ample/"
+  },
+  {
+    "slug": "ample-solar-private-limited",
+    "name": "Ample Solar Private Limited",
+    "type": "startup",
+    "tier": "company",
+    "tagline": "Renewable Energy Consulting company",
+    "sector": "Other",
+    "stage": "Unknown",
+    "tags": [
+      "Renewable Energy Consulting",
+      "Smart Energy Systems",
+      "Solar Panels",
+      "Solar On Grid Systems"
+    ],
+    "area": "Noida",
+    "address": "Noida, Delhi NCR",
+    "lat": 28.54858404319046,
+    "lng": 77.356016180694,
+    "approx": true,
+    "hiring": true,
+    "openJobs": 1,
+    "domain": "amplesolar.in",
+    "founded": 2015,
+    "teamSize": "11-50"
   },
   {
     "slug": "amplify-health",
@@ -5774,6 +5817,31 @@
     "careersUrl": "https://amyntas.in/careers/"
   },
   {
+    "slug": "analytics-training-hub",
+    "name": "Analytics Training Hub",
+    "type": "startup",
+    "tier": "company",
+    "tagline": "Since 2016, Analytics Training Hub toiled with a motive of being a one-stop platform for your solutions",
+    "sector": "SaaS",
+    "stage": "Unknown",
+    "tags": [
+      "Advanced Microsoft Excel",
+      "VBA",
+      "Macros",
+      "Advance Excel Functions"
+    ],
+    "area": "Delhi",
+    "address": "Delhi, Delhi NCR",
+    "lat": 28.59107609169608,
+    "lng": 77.20561200095024,
+    "approx": true,
+    "hiring": true,
+    "openJobs": 1,
+    "domain": "analyticstraininghub.com",
+    "founded": 2016,
+    "teamSize": "11-50"
+  },
+  {
     "slug": "analytics-vidhya",
     "name": "Analytics Vidhya",
     "type": "startup",
@@ -5883,7 +5951,7 @@
     "lng": 77.04591038731506,
     "approx": true,
     "hiring": true,
-    "openJobs": 10,
+    "openJobs": 8,
     "domain": "anaplan.com",
     "teamSize": "1001-5000",
     "careersUrl": "https://anaplan.com/careers/"
@@ -6233,7 +6301,7 @@
     "lng": 77.0370197435886,
     "approx": true,
     "hiring": true,
-    "openJobs": 2,
+    "openJobs": 3,
     "domain": "ankura.com",
     "founded": 2014,
     "teamSize": "1001-5000",
@@ -6301,8 +6369,7 @@
     "lat": 28.446065636677226,
     "lng": 77.07248969080509,
     "approx": true,
-    "hiring": true,
-    "openJobs": 1,
+    "hiring": false,
     "domain": "anslation.com",
     "founded": 2022,
     "teamSize": "51-200",
@@ -6355,7 +6422,8 @@
     "openJobs": 1,
     "domain": "antaha.org",
     "founded": 2016,
-    "teamSize": "11-50"
+    "teamSize": "11-50",
+    "careersUrl": "https://antaha.org/work-with-us/"
   },
   {
     "slug": "antino",
@@ -6377,7 +6445,7 @@
     "lng": 77.07052944728485,
     "approx": true,
     "hiring": true,
-    "openJobs": 3,
+    "openJobs": 6,
     "domain": "antino.com",
     "founded": 2018,
     "teamSize": "201-500",
@@ -6474,7 +6542,7 @@
     "lng": 77.2112030263002,
     "approx": true,
     "hiring": true,
-    "openJobs": 2,
+    "openJobs": 3,
     "domain": "anytimefitness.in",
     "founded": 2002,
     "teamSize": "1001-5000",
@@ -6561,7 +6629,7 @@
     "lng": 77.32393433858853,
     "approx": true,
     "hiring": true,
-    "openJobs": 6,
+    "openJobs": 7,
     "domain": "aparnakaushik.com",
     "founded": 2009,
     "teamSize": "51-200",
@@ -6730,12 +6798,31 @@
     "lat": 28.600201252088734,
     "lng": 77.17658042960451,
     "approx": true,
-    "hiring": true,
-    "openJobs": 1,
+    "hiring": false,
     "domain": "appliedmedical.com",
     "founded": 1987,
     "teamSize": "1001-5000",
     "careersUrl": "https://careers.appliedmedical.com/careers-home"
+  },
+  {
+    "slug": "applied-techno-products-pvt-ltd",
+    "name": "Applied Techno Products Pvt. Ltd.",
+    "type": "startup",
+    "tier": "company",
+    "tagline": "India's leading supplier of Testing, Measuring, Maintenance and Condition Monitoring Systems to the Power Sector,…",
+    "sector": "Other",
+    "stage": "Unknown",
+    "tags": [],
+    "area": "Gurugram",
+    "address": "Gurugram, Delhi NCR",
+    "lat": 28.481874764047976,
+    "lng": 77.0851362517691,
+    "approx": true,
+    "hiring": true,
+    "openJobs": 1,
+    "domain": "atplonline.net",
+    "founded": 1994,
+    "teamSize": "11-50"
   },
   {
     "slug": "appsoleut-games",
@@ -7404,7 +7491,7 @@
     "lng": 77.05210024583118,
     "approx": true,
     "hiring": true,
-    "openJobs": 1,
+    "openJobs": 2,
     "domain": "theartarium.com",
     "founded": 2022,
     "teamSize": "51-200",
@@ -7455,6 +7542,25 @@
     "founded": 2017,
     "teamSize": "11-50",
     "careersUrl": "https://artisticbird.com/careers"
+  },
+  {
+    "slug": "artitians",
+    "name": "Artitians",
+    "type": "startup",
+    "tier": "company",
+    "tagline": "At Artitians, we believe that every space has a story, and we’re here to help you tell yours",
+    "sector": "Other",
+    "stage": "Unknown",
+    "tags": [],
+    "area": "Gurugram",
+    "address": "Gurugram, Delhi NCR",
+    "lat": 28.43431471827244,
+    "lng": 77.09363562125114,
+    "approx": true,
+    "hiring": true,
+    "openJobs": 1,
+    "domain": "artitians.com",
+    "teamSize": "11-50"
   },
   {
     "slug": "arts-to-hearts-project",
@@ -7550,6 +7656,30 @@
     "careersUrl": "https://www.aisglass.com/careers/career-workplace/"
   },
   {
+    "slug": "asap-media",
+    "name": "ASAP Media",
+    "type": "startup",
+    "tier": "company",
+    "tagline": "ASAP Media is a creative media agency built around thoughtful storytelling, visual direction, and brand clarity",
+    "sector": "Consumer",
+    "stage": "Unknown",
+    "tags": [
+      "design",
+      "branding",
+      "social media",
+      "and communication"
+    ],
+    "area": "Delhi",
+    "address": "Delhi, Delhi NCR",
+    "lat": 28.55363460957375,
+    "lng": 77.20985953091989,
+    "approx": true,
+    "hiring": true,
+    "openJobs": 1,
+    "founded": 2023,
+    "teamSize": "11-50"
+  },
+  {
     "slug": "ascend",
     "name": "Ascend",
     "type": "startup",
@@ -7568,7 +7698,7 @@
     "lng": 77.18937752413501,
     "approx": true,
     "hiring": true,
-    "openJobs": 2,
+    "openJobs": 3,
     "domain": "joinascend.com",
     "teamSize": "51-200"
   },
@@ -7617,7 +7747,8 @@
     "lat": 28.605567333360284,
     "lng": 77.17505177520061,
     "approx": true,
-    "hiring": false,
+    "hiring": true,
+    "openJobs": 1,
     "domain": "ascensia.com",
     "teamSize": "1001-5000",
     "careersUrl": "https://ascensia.com/careers"
@@ -7661,7 +7792,7 @@
     "lng": 77.2265352015185,
     "approx": true,
     "hiring": true,
-    "openJobs": 1,
+    "openJobs": 2,
     "domain": "ashianahousing.com",
     "founded": 1979,
     "teamSize": "1001-5000",
@@ -7953,7 +8084,7 @@
     "lng": 77.03861268208585,
     "approx": true,
     "hiring": true,
-    "openJobs": 2,
+    "openJobs": 1,
     "domain": "assystem.com",
     "teamSize": "5000+",
     "careersUrl": "https://assystem.com/career"
@@ -8291,7 +8422,7 @@
     "lng": 77.17579650215202,
     "approx": true,
     "hiring": true,
-    "openJobs": 8,
+    "openJobs": 6,
     "domain": "atlys.com",
     "founded": 2021,
     "teamSize": "201-500",
@@ -8380,7 +8511,7 @@
     "lng": 77.1957592842229,
     "approx": true,
     "hiring": true,
-    "openJobs": 2,
+    "openJobs": 3,
     "domain": "atza.in",
     "teamSize": "11-50"
   },
@@ -8606,6 +8737,26 @@
     "openJobs": 1,
     "domain": "avaids.com",
     "teamSize": "51-200"
+  },
+  {
+    "slug": "avalanche-high-tech-enterprise",
+    "name": "Avalanche High-Tech Enterprise",
+    "type": "startup",
+    "tier": "company",
+    "tagline": "Welcome to our comprehensive online platform, where we seamlessly integrate recruitment services, IT solutions, and…",
+    "sector": "Edtech",
+    "stage": "Unknown",
+    "tags": [],
+    "area": "Delhi",
+    "address": "Delhi, Delhi NCR",
+    "lat": 28.57145321643283,
+    "lng": 77.18903792591261,
+    "approx": true,
+    "hiring": true,
+    "openJobs": 1,
+    "domain": "avalanchehigh-techenterprises.com",
+    "founded": 2018,
+    "teamSize": "11-50"
   },
   {
     "slug": "avantor",
@@ -8887,7 +9038,7 @@
     "lng": 77.06954723081829,
     "approx": true,
     "hiring": true,
-    "openJobs": 2,
+    "openJobs": 1,
     "domain": "avivaindia.com",
     "founded": 2002,
     "teamSize": "1001-5000",
@@ -9005,8 +9156,7 @@
     "lat": 28.61372747004821,
     "lng": 77.21987372295644,
     "approx": true,
-    "hiring": true,
-    "openJobs": 2,
+    "hiring": false,
     "domain": "avyannaaviation.com",
     "founded": 2021,
     "teamSize": "51-200",
@@ -9103,7 +9253,7 @@
     "lng": 77.08665051597043,
     "approx": true,
     "hiring": true,
-    "openJobs": 14,
+    "openJobs": 13,
     "domain": "axaxl.com",
     "teamSize": "5000+",
     "careersUrl": "https://axaxl.com/about-us/careers"
@@ -9149,6 +9299,26 @@
     "lng": 77.08665978359983,
     "approx": true,
     "hiring": false,
+    "teamSize": "11-50"
+  },
+  {
+    "slug": "axibio-axiva-sichem-biotech",
+    "name": "AXIBIO- Axiva Sichem Biotech",
+    "type": "startup",
+    "tier": "startup",
+    "tagline": "Axiva Sichem Biotech, is the leading manufacturer of Filtration solutions, Plasticware, and molecular Biology Kits,…",
+    "sector": "Healthtech",
+    "stage": "Unknown",
+    "tags": [],
+    "area": "Delhi",
+    "address": "Delhi, Delhi NCR",
+    "lat": 28.540793657278623,
+    "lng": 77.19128834865698,
+    "approx": true,
+    "hiring": true,
+    "openJobs": 1,
+    "domain": "axibio.co.in",
+    "founded": 2006,
     "teamSize": "11-50"
   },
   {
@@ -9781,7 +9951,7 @@
     "lng": 77.21151425556718,
     "approx": true,
     "hiring": true,
-    "openJobs": 2,
+    "openJobs": 1,
     "domain": "baoxhin.co.in",
     "teamSize": "11-50",
     "careersUrl": "https://baoxhin.co.in/careers"
@@ -9806,7 +9976,7 @@
     "lng": 77.35407099619812,
     "approx": true,
     "hiring": true,
-    "openJobs": 10,
+    "openJobs": 9,
     "domain": "barco.com",
     "founded": 1934,
     "teamSize": "1001-5000"
@@ -10143,7 +10313,8 @@
     "lat": 28.465355681869067,
     "lng": 77.04730894257871,
     "approx": true,
-    "hiring": false,
+    "hiring": true,
+    "openJobs": 1,
     "domain": "bcg.com",
     "teamSize": "1001-5000",
     "careersUrl": "https://careers.bcg.com/"
@@ -10263,8 +10434,7 @@
     "lat": 28.49627486202347,
     "lng": 77.0487245882609,
     "approx": true,
-    "hiring": true,
-    "openJobs": 1,
+    "hiring": false,
     "domain": "beaconcoders.com",
     "founded": 2019,
     "teamSize": "1-10",
@@ -10290,7 +10460,7 @@
     "lng": 77.06467207850046,
     "approx": true,
     "hiring": true,
-    "openJobs": 12,
+    "openJobs": 13,
     "domain": "beanhr.com",
     "founded": 2014,
     "teamSize": "51-200",
@@ -10641,7 +10811,7 @@
     "lng": 77.21039444216667,
     "approx": true,
     "hiring": true,
-    "openJobs": 4,
+    "openJobs": 5,
     "domain": "bentchair.com",
     "founded": 2016,
     "teamSize": "51-200",
@@ -10661,15 +10831,14 @@
       "Hair Replacement",
       "Advanced Skin Treatment"
     ],
-    "area": "Noida",
-    "address": "Noida, Delhi NCR",
-    "lat": 28.587448438434432,
-    "lng": 77.37036545234714,
+    "area": "Delhi",
+    "address": "Delhi, Delhi NCR",
+    "lat": 28.601887996157046,
+    "lng": 77.21841994096026,
     "approx": true,
     "hiring": true,
-    "openJobs": 3,
+    "openJobs": 5,
     "domain": "berkowits.in",
-    "founded": 1994,
     "teamSize": "201-500",
     "careersUrl": "https://berkowits.in/careers"
   },
@@ -10697,6 +10866,26 @@
     "founded": 1983,
     "teamSize": "201-500",
     "careersUrl": "https://bernard-gruppe.com/career"
+  },
+  {
+    "slug": "berry-developers-and-infrastructure-pvt-ltd",
+    "name": "Berry Developers & Infrastructure Pvt Ltd",
+    "type": "startup",
+    "tier": "company",
+    "tagline": "Building happiness needs more than bricks",
+    "sector": "Consumer",
+    "stage": "Unknown",
+    "tags": [],
+    "area": "Gurugram",
+    "address": "Gurugram, Delhi NCR",
+    "lat": 28.47553229556333,
+    "lng": 77.11668028717865,
+    "approx": true,
+    "hiring": true,
+    "openJobs": 1,
+    "domain": "bdigroup.co.in",
+    "founded": 1992,
+    "teamSize": "11-50"
   },
   {
     "slug": "best-animation-studios",
@@ -10834,7 +11023,7 @@
     "lng": 77.19890486656341,
     "approx": true,
     "hiring": true,
-    "openJobs": 2,
+    "openJobs": 3,
     "domain": "beyondmentor.ai",
     "founded": 2020,
     "teamSize": "51-200",
@@ -11855,7 +12044,7 @@
     "lng": 77.38459817550327,
     "approx": true,
     "hiring": true,
-    "openJobs": 1,
+    "openJobs": 2,
     "domain": "blinternational.net",
     "founded": 1991,
     "teamSize": "201-500",
@@ -12183,7 +12372,7 @@
     "lng": 77.38548441211748,
     "approx": true,
     "hiring": true,
-    "openJobs": 12,
+    "openJobs": 13,
     "domain": "bluedart.com",
     "founded": 1983,
     "teamSize": "5000+",
@@ -12235,7 +12424,8 @@
     "openJobs": 1,
     "domain": "bluella.in",
     "founded": 2016,
-    "teamSize": "11-50"
+    "teamSize": "11-50",
+    "careersUrl": "https://bluella.in/jobs"
   },
   {
     "slug": "bluelupin-technologies-pvt-ltd",
@@ -12303,7 +12493,7 @@
     "lng": 77.1755783162197,
     "approx": true,
     "hiring": true,
-    "openJobs": 2,
+    "openJobs": 4,
     "domain": "bluorng.com",
     "founded": 2020,
     "teamSize": "11-50",
@@ -12416,7 +12606,8 @@
     "openJobs": 1,
     "domain": "bnbinfosys.com",
     "founded": 2011,
-    "teamSize": "51-200"
+    "teamSize": "51-200",
+    "careersUrl": "https://bnbinfosys.com/careers"
   },
   {
     "slug": "bnc-global",
@@ -12552,7 +12743,7 @@
     "lng": 77.32426405990799,
     "approx": true,
     "hiring": true,
-    "openJobs": 12,
+    "openJobs": 13,
     "domain": "bold.com",
     "founded": 2005,
     "teamSize": "1001-5000",
@@ -12617,7 +12808,7 @@
     "lng": 77.1924388236497,
     "approx": true,
     "hiring": true,
-    "openJobs": 2,
+    "openJobs": 1,
     "domain": "bondspe.com",
     "founded": 2023,
     "teamSize": "1-10",
@@ -12965,8 +13156,7 @@
     "lat": 28.477573134191058,
     "lng": 77.10130121281826,
     "approx": true,
-    "hiring": true,
-    "openJobs": 2,
+    "hiring": false,
     "domain": "bounteous.com",
     "teamSize": "1001-5000",
     "careersUrl": "https://bounteous.com/careers"
@@ -13246,7 +13436,8 @@
     "hiring": true,
     "openJobs": 2,
     "domain": "brandscienze.com",
-    "teamSize": "1-10"
+    "teamSize": "1-10",
+    "careersUrl": "https://brandscienze.com/careers"
   },
   {
     "slug": "brandseeder",
@@ -13729,6 +13920,31 @@
     "careersUrl": "https://gov.uk/jobs"
   },
   {
+    "slug": "brizsolution-technology-private-limited",
+    "name": "BrizSolution Technology Private Limited",
+    "type": "startup",
+    "tier": "startup",
+    "tagline": "About BrizSolution Technology Pvt",
+    "sector": "SaaS",
+    "stage": "Unknown",
+    "tags": [
+      "Logistics",
+      "Education",
+      "Manufacturing",
+      "E-Commerce"
+    ],
+    "area": "Noida",
+    "address": "Noida, Delhi NCR",
+    "lat": 28.544749815849773,
+    "lng": 77.37670059759394,
+    "approx": true,
+    "hiring": true,
+    "openJobs": 1,
+    "domain": "solutionbriz.com",
+    "founded": 2015,
+    "teamSize": "11-50"
+  },
+  {
     "slug": "broadway",
     "name": "Broadway",
     "type": "startup",
@@ -13768,7 +13984,7 @@
     "lng": 77.09557445034761,
     "approx": true,
     "hiring": true,
-    "openJobs": 6,
+    "openJobs": 5,
     "domain": "brown-forman.com",
     "founded": 1870,
     "teamSize": "1001-5000",
@@ -13840,7 +14056,7 @@
     "lng": 77.08677632179227,
     "approx": true,
     "hiring": true,
-    "openJobs": 2,
+    "openJobs": 3,
     "domain": "buildmyinfra.com",
     "founded": 2018,
     "teamSize": "51-200",
@@ -13934,29 +14150,6 @@
     "founded": 2020,
     "teamSize": "11-50",
     "careersUrl": "https://www.buopso.com/careers"
-  },
-  {
-    "slug": "bureau-veritas-marine-and-offshore",
-    "name": "Bureau Veritas | Marine & Offshore",
-    "type": "startup",
-    "tier": "company",
-    "tagline": "At Bureau Veritas Marine & Offshore, we share a drive to shape a better maritime world for future generations",
-    "sector": "Other",
-    "stage": "Unknown",
-    "tags": [
-      "Marine et Offshore"
-    ],
-    "area": "Noida",
-    "address": "Noida, Delhi NCR",
-    "lat": 28.534070005799826,
-    "lng": 77.36649577963765,
-    "approx": true,
-    "hiring": true,
-    "openJobs": 1,
-    "domain": "marine-offshore.bureauveritas.com",
-    "founded": 1828,
-    "teamSize": "501-1000",
-    "careersUrl": "https://marine-offshore.bureauveritas.com/our-careers"
   },
   {
     "slug": "burger-singh",
@@ -14074,7 +14267,8 @@
     "hiring": true,
     "openJobs": 1,
     "domain": "buybuzzllp.com",
-    "teamSize": "51-200"
+    "teamSize": "51-200",
+    "careersUrl": "https://buybuzzllp.com/careers"
   },
   {
     "slug": "buyucoin",
@@ -14723,8 +14917,7 @@
     "lat": 28.54339503383244,
     "lng": 77.19474648269077,
     "approx": true,
-    "hiring": true,
-    "openJobs": 1,
+    "hiring": false,
     "domain": "capabiliq.com",
     "teamSize": "11-50",
     "careersUrl": "https://capabiliq.com/careers"
@@ -14877,16 +15070,41 @@
       "career",
       "education"
     ],
-    "area": "Delhi",
-    "address": "Delhi, Delhi NCR",
-    "lat": 28.55303068560654,
-    "lng": 77.18169891493278,
+    "area": "Gurugram",
+    "address": "Gurugram, Delhi NCR",
+    "lat": 28.43320060165593,
+    "lng": 77.04588836616735,
     "approx": true,
     "hiring": true,
-    "openJobs": 1,
+    "openJobs": 2,
     "domain": "careeraheadonline.com",
     "teamSize": "1-10",
     "careersUrl": "https://careeraheadonline.com/xmlrpc.php"
+  },
+  {
+    "slug": "career-craft-consultants",
+    "name": "Career Craft Consultants",
+    "type": "startup",
+    "tier": "company",
+    "tagline": "Career Craft Consultants is an award winning firm and UK Immigration Law Firm specialising in all Immigration work",
+    "sector": "Other",
+    "stage": "Unknown",
+    "tags": [
+      "University Marketing",
+      "Admissions in UK",
+      "US",
+      "Canada and Australia"
+    ],
+    "area": "Delhi",
+    "address": "Delhi, Delhi NCR",
+    "lat": 28.579211195122113,
+    "lng": 77.19608319479556,
+    "approx": true,
+    "hiring": true,
+    "openJobs": 2,
+    "domain": "careercraftconsultants.co.uk",
+    "founded": 2009,
+    "teamSize": "11-50"
   },
   {
     "slug": "career-elevators",
@@ -14903,7 +15121,7 @@
     "lng": 77.03526695527725,
     "approx": true,
     "hiring": true,
-    "openJobs": 1,
+    "openJobs": 3,
     "domain": "career-elevators.org",
     "founded": 2021,
     "teamSize": "11-50"
@@ -15017,7 +15235,7 @@
     "lng": 77.04367555536203,
     "approx": true,
     "hiring": true,
-    "openJobs": 3,
+    "openJobs": 2,
     "domain": "carelonglobal.in",
     "teamSize": "5000+",
     "careersUrl": "https://www.carelonglobal.in/careers"
@@ -15565,7 +15783,7 @@
     "lng": 77.03594497296626,
     "approx": true,
     "hiring": true,
-    "openJobs": 3,
+    "openJobs": 4,
     "domain": "centralpark.in",
     "teamSize": "501-1000",
     "careersUrl": "https://www.centralpark.in/careers.php"
@@ -15727,8 +15945,7 @@
     "lat": 28.55590110776937,
     "lng": 77.17907847529445,
     "approx": true,
-    "hiring": true,
-    "openJobs": 1,
+    "hiring": false,
     "domain": "cerify.ai",
     "teamSize": "11-50"
   },
@@ -16494,7 +16711,7 @@
     "lng": 77.09094028384585,
     "approx": true,
     "hiring": true,
-    "openJobs": 2,
+    "openJobs": 3,
     "domain": "citilight.co",
     "founded": 2012,
     "teamSize": "11-50",
@@ -16520,7 +16737,7 @@
     "lng": 77.05846582065224,
     "approx": true,
     "hiring": true,
-    "openJobs": 4,
+    "openJobs": 3,
     "domain": "cityfurnish.com",
     "founded": 2015,
     "teamSize": "201-500",
@@ -16740,7 +16957,7 @@
     "lng": 77.34301675516036,
     "approx": true,
     "hiring": true,
-    "openJobs": 9,
+    "openJobs": 10,
     "domain": "clarivate.com",
     "teamSize": "5000+",
     "careersUrl": "https://careers.clarivate.com/"
@@ -16766,6 +16983,30 @@
     "domain": "clarksons.net",
     "founded": 1852,
     "teamSize": "51-200"
+  },
+  {
+    "slug": "clasquin",
+    "name": "CLASQUIN",
+    "type": "startup",
+    "tier": "company",
+    "tagline": "With an integrated network of more than 85 offices and 1600 employees worldwide, we are the one of the leading French…",
+    "sector": "Other",
+    "stage": "Unknown",
+    "tags": [
+      "Freight forwarding",
+      "Customs clearance",
+      "Logistics et Supply Chain"
+    ],
+    "area": "Gurugram",
+    "address": "Gurugram, Delhi NCR",
+    "lat": 28.489989656738892,
+    "lng": 77.09131917110082,
+    "approx": true,
+    "hiring": true,
+    "openJobs": 1,
+    "domain": "clasquin.com",
+    "founded": 1864,
+    "teamSize": "1001-5000"
   },
   {
     "slug": "classplus",
@@ -17006,6 +17247,30 @@
     "careersUrl": "https://clientassociates.com/careers"
   },
   {
+    "slug": "clientonus",
+    "name": "ClientOnus",
+    "type": "startup",
+    "tier": "company",
+    "tagline": "A Data Driven Employment Agency that fulfills all the hiring requirements of your company in accordance with the skills you need",
+    "sector": "Other",
+    "stage": "Unknown",
+    "tags": [
+      "Bulk Hiring",
+      "Sales",
+      "Customer Support",
+      "Lead Generation"
+    ],
+    "area": "Noida",
+    "address": "Noida, Delhi NCR",
+    "lat": 28.558153433129274,
+    "lng": 77.33101635264904,
+    "approx": true,
+    "hiring": true,
+    "openJobs": 1,
+    "founded": 2022,
+    "teamSize": "11-50"
+  },
+  {
     "slug": "clifford-chance",
     "name": "Clifford Chance",
     "type": "startup",
@@ -17030,6 +17295,31 @@
     "founded": 1987,
     "teamSize": "5000+",
     "careersUrl": "https://www.cliffordchance.com/careers.html"
+  },
+  {
+    "slug": "climate-policy-initiative",
+    "name": "Climate Policy Initiative",
+    "type": "startup",
+    "tier": "startup",
+    "tagline": "CPI is an analysis and advisory organization with deep expertise in finance and policy",
+    "sector": "Other",
+    "stage": "Unknown",
+    "tags": [
+      "Policy analysis",
+      "climate finance",
+      "energy policy",
+      "land use policy"
+    ],
+    "area": "Delhi",
+    "address": "Delhi, Delhi NCR",
+    "lat": 28.578453819174673,
+    "lng": 77.18792134119072,
+    "approx": true,
+    "hiring": true,
+    "openJobs": 3,
+    "domain": "climatepolicyinitiative.org",
+    "founded": 2009,
+    "teamSize": "201-500"
   },
   {
     "slug": "clinikally-yc-s22",
@@ -17767,7 +18057,7 @@
     "lng": 77.34744148641329,
     "approx": true,
     "hiring": true,
-    "openJobs": 3,
+    "openJobs": 4,
     "domain": "cvadm.com",
     "founded": 2019,
     "teamSize": "501-1000",
@@ -17793,6 +18083,26 @@
     "founded": 2017,
     "teamSize": "11-50",
     "careersUrl": "https://www.collegebatch.com/careers/"
+  },
+  {
+    "slug": "collegedwar",
+    "name": "CollegeDwar",
+    "type": "startup",
+    "tier": "company",
+    "tagline": "CollegeDwar is a trusted education guidance platform dedicated to helping students make informed decisions about their…",
+    "sector": "Edtech",
+    "stage": "Unknown",
+    "tags": [],
+    "area": "Gurugram",
+    "address": "Gurugram, Delhi NCR",
+    "lat": 28.43359015316359,
+    "lng": 77.08378563649956,
+    "approx": true,
+    "hiring": true,
+    "openJobs": 1,
+    "domain": "collegedwar.in",
+    "founded": 2025,
+    "teamSize": "11-50"
   },
   {
     "slug": "collegegyan",
@@ -17889,7 +18199,7 @@
     "lng": 77.24103772970557,
     "approx": true,
     "hiring": true,
-    "openJobs": 1,
+    "openJobs": 2,
     "domain": "coloplast.com",
     "teamSize": "5000+",
     "careersUrl": "https://coloplast.com/careers/life-at-coloplast/"
@@ -18145,6 +18455,42 @@
     "openJobs": 1,
     "domain": "conexustechlabs.in",
     "teamSize": "11-50"
+  },
+  {
+    "slug": "confidential",
+    "name": "Confidential",
+    "type": "startup",
+    "tier": "company",
+    "tagline": "Confidential — hiring in Delhi NCR",
+    "sector": "Fintech",
+    "stage": "Unknown",
+    "tags": [],
+    "area": "Delhi",
+    "address": "Delhi, Delhi NCR",
+    "lat": 28.59043445121003,
+    "lng": 77.16919548758882,
+    "approx": true,
+    "hiring": true,
+    "openJobs": 14,
+    "teamSize": "11-50"
+  },
+  {
+    "slug": "confidential-company",
+    "name": "Confidential Company",
+    "type": "startup",
+    "tier": "company",
+    "tagline": "Confidential Company — hiring in Delhi NCR",
+    "sector": "Consumer",
+    "stage": "Unknown",
+    "tags": [],
+    "area": "Gurugram",
+    "address": "Gurugram, Delhi NCR",
+    "lat": 28.42957042985138,
+    "lng": 77.08241140591396,
+    "approx": true,
+    "hiring": true,
+    "openJobs": 1,
+    "teamSize": "201-500"
   },
   {
     "slug": "confluence",
@@ -18709,7 +19055,8 @@
     "openJobs": 1,
     "domain": "coreweave.com",
     "founded": 2017,
-    "teamSize": "1001-5000"
+    "teamSize": "1001-5000",
+    "careersUrl": "https://coreweave.com/careers"
   },
   {
     "slug": "corizo-edutech-private-limited",
@@ -18802,6 +19149,31 @@
     "founded": 2017,
     "teamSize": "51-200",
     "careersUrl": "https://corpseed.com/life-at-corpseed"
+  },
+  {
+    "slug": "cosentus",
+    "name": "COSENTUS",
+    "type": "startup",
+    "tier": "company",
+    "tagline": "Healthcare organizations don’t need more reports",
+    "sector": "Healthtech",
+    "stage": "Unknown",
+    "tags": [
+      "Practice Analytics",
+      "Effective Accounts Receivable Management",
+      "Maximized Collections",
+      "Medical Billing"
+    ],
+    "area": "Delhi",
+    "address": "Delhi, Delhi NCR",
+    "lat": 28.550581238614566,
+    "lng": 77.17322548929825,
+    "approx": true,
+    "hiring": true,
+    "openJobs": 4,
+    "domain": "cosentus.com",
+    "founded": 2000,
+    "teamSize": "201-500"
   },
   {
     "slug": "cosma-fertility",
@@ -19089,7 +19461,7 @@
     "lng": 77.03510599590537,
     "approx": true,
     "hiring": true,
-    "openJobs": 8,
+    "openJobs": 9,
     "domain": "coveryou.in",
     "teamSize": "201-500",
     "careersUrl": "https://www.coveryou.in/career"
@@ -19379,7 +19751,7 @@
     "lng": 77.33687701712802,
     "approx": true,
     "hiring": true,
-    "openJobs": 2,
+    "openJobs": 3,
     "domain": "creatorsgram.online",
     "teamSize": "11-50"
   },
@@ -20579,7 +20951,7 @@
     "lng": 77.19256135937523,
     "approx": true,
     "hiring": true,
-    "openJobs": 5,
+    "openJobs": 6,
     "domain": "dsucceedlearners.com",
     "founded": 2022,
     "teamSize": "11-50",
@@ -20888,6 +21260,31 @@
     "founded": 2024,
     "teamSize": "11-50",
     "careersUrl": "https://dandelion-civilization.com/careers"
+  },
+  {
+    "slug": "daphnis-labs",
+    "name": "Daphnis Labs",
+    "type": "startup",
+    "tier": "company",
+    "tagline": "✅Blockchain Development ✅Web app Development ✅Mobile app Development ✅Game Development ✅Deep Learning ★ IT Solutions…",
+    "sector": "SaaS",
+    "stage": "Unknown",
+    "tags": [
+      "iOS apps & games",
+      "Android Apps & games",
+      "mobile apps",
+      "Blockchain"
+    ],
+    "area": "Delhi",
+    "address": "Delhi, Delhi NCR",
+    "lat": 28.564990271913018,
+    "lng": 77.21366329773224,
+    "approx": true,
+    "hiring": true,
+    "openJobs": 1,
+    "domain": "DaphnisLabs.com",
+    "founded": 2013,
+    "teamSize": "11-50"
   },
   {
     "slug": "dapplogix-software-pvt-ltd",
@@ -21241,7 +21638,7 @@
     "lng": 77.21153078175702,
     "approx": true,
     "hiring": true,
-    "openJobs": 3,
+    "openJobs": 4,
     "domain": "dawndigitalindia.com",
     "founded": 2001,
     "teamSize": "201-500"
@@ -21614,7 +22011,7 @@
     "founded": 2012,
     "teamSize": "1001-5000",
     "tier": "startup",
-    "openJobs": 2,
+    "openJobs": 3,
     "hiring": true,
     "careersUrl": "https://agrevolution.in/careers"
   },
@@ -22115,7 +22512,7 @@
     "lng": 77.19632568395156,
     "approx": true,
     "hiring": true,
-    "openJobs": 4,
+    "openJobs": 6,
     "domain": "arviendsud.com",
     "founded": 2000,
     "teamSize": "11-50"
@@ -22279,8 +22676,7 @@
     "lat": 28.605285591897328,
     "lng": 77.22469747824871,
     "approx": true,
-    "hiring": true,
-    "openJobs": 1,
+    "hiring": false,
     "domain": "dextres.com",
     "founded": 2021,
     "teamSize": "11-50",
@@ -22630,8 +23026,7 @@
     "lat": 28.4752698043088,
     "lng": 77.09692987358792,
     "approx": true,
-    "hiring": true,
-    "openJobs": 1,
+    "hiring": false,
     "domain": "didasports.com",
     "founded": 2012,
     "teamSize": "11-50"
@@ -22752,7 +23147,8 @@
     "openJobs": 2,
     "domain": "digicrome.com",
     "founded": 2013,
-    "teamSize": "51-200"
+    "teamSize": "51-200",
+    "careersUrl": "https://digicrome.com/jobs"
   },
   {
     "slug": "digidir-leading-digital-marketing-agency-in-delhi-ncr-india",
@@ -22849,7 +23245,7 @@
     "lng": 77.08638019761236,
     "approx": true,
     "hiring": true,
-    "openJobs": 1,
+    "openJobs": 2,
     "domain": "digilogues.com",
     "teamSize": "11-50",
     "careersUrl": "https://www.digilogues.com/careers/"
@@ -22987,7 +23383,7 @@
     "lng": 77.32983028464734,
     "approx": true,
     "hiring": true,
-    "openJobs": 2,
+    "openJobs": 1,
     "domain": "digitaldoctorclinic.com",
     "teamSize": "11-50",
     "careersUrl": "https://digitaldoctorclinic.com/careers"
@@ -23591,7 +23987,7 @@
     "lng": 77.22387730380905,
     "approx": true,
     "hiring": true,
-    "openJobs": 2,
+    "openJobs": 1,
     "domain": "doconline.com",
     "founded": 2016,
     "teamSize": "201-500"
@@ -23928,12 +24324,13 @@
     "tags": [
       "Tour packages and Holiday Packages"
     ],
-    "area": "Faridabad",
-    "address": "Faridabad, Delhi NCR",
-    "lat": 28.414048975259316,
-    "lng": 77.29996195487134,
+    "area": "Noida",
+    "address": "Noida, Delhi NCR",
+    "lat": 28.551050415684845,
+    "lng": 77.3513016903323,
     "approx": true,
-    "hiring": false,
+    "hiring": true,
+    "openJobs": 1,
     "domain": "dreamtravelyaari.com",
     "founded": 2018,
     "teamSize": "11-50"
@@ -24409,6 +24806,31 @@
     "careersUrl": "https://e-solutionsinc.com/careers"
   },
   {
+    "slug": "e-waste-recyclers-india-ewriin",
+    "name": "E-Waste Recyclers India (EWRI.in)",
+    "type": "startup",
+    "tier": "startup",
+    "tagline": "EWRI is one of India’s earliest and most trusted e-waste recycling companies, with nearly 18 years of industry leadership",
+    "sector": "Deeptech",
+    "stage": "Unknown",
+    "tags": [
+      "Waste",
+      "EPR Compliance",
+      "Plastic recycling",
+      "Battery Recycling"
+    ],
+    "area": "Delhi",
+    "address": "Delhi, Delhi NCR",
+    "lat": 28.58813136863836,
+    "lng": 77.22556810570526,
+    "approx": true,
+    "hiring": true,
+    "openJobs": 1,
+    "domain": "ewri.in",
+    "founded": 2007,
+    "teamSize": "11-50"
+  },
+  {
     "slug": "earkart",
     "name": "earKART",
     "type": "startup",
@@ -24455,6 +24877,31 @@
     "hiring": true,
     "careersUrl": "https://www.easemytrip.com/career.html",
     "openJobs": 2
+  },
+  {
+    "slug": "eastern-book-company",
+    "name": "Eastern Book Company",
+    "type": "startup",
+    "tier": "company",
+    "tagline": "EBC Group, established in 1942, is one of India’s most authoritative names in legal publishing",
+    "sector": "Other",
+    "stage": "Unknown",
+    "tags": [
+      "E-Learning",
+      "Information Technology and Services",
+      "E-Books",
+      "E-Commerce"
+    ],
+    "area": "Delhi",
+    "address": "Delhi, Delhi NCR",
+    "lat": 28.586627229296898,
+    "lng": 77.18986802176917,
+    "approx": true,
+    "hiring": true,
+    "openJobs": 1,
+    "domain": "ebc.co.in",
+    "founded": 1942,
+    "teamSize": "201-500"
   },
   {
     "slug": "eastern-electrolyser-ltd",
@@ -24542,7 +24989,7 @@
     "lng": 77.21607312248933,
     "approx": true,
     "hiring": true,
-    "openJobs": 3,
+    "openJobs": 4,
     "domain": "eazybe.com",
     "founded": 2022,
     "teamSize": "11-50"
@@ -24976,6 +25423,26 @@
     "founded": 2009,
     "teamSize": "501-1000",
     "careersUrl": "https://edubridgelearning.greythr.com/hire/jobs/"
+  },
+  {
+    "slug": "educare-solution",
+    "name": "Educare Solution",
+    "type": "startup",
+    "tier": "company",
+    "tagline": "Leading Recruitment Consultant We would like to introduce ourselves as a leading recruitment consultant exclusively…",
+    "sector": "Edtech",
+    "stage": "Unknown",
+    "tags": [],
+    "area": "Gurugram",
+    "address": "Gurugram, Delhi NCR",
+    "lat": 28.478866613795333,
+    "lng": 77.038922514948,
+    "approx": true,
+    "hiring": true,
+    "openJobs": 4,
+    "domain": "educaresolution.in",
+    "founded": 2013,
+    "teamSize": "11-50"
   },
   {
     "slug": "education-vibes",
@@ -26041,7 +26508,8 @@
     "openJobs": 1,
     "domain": "empfly.com",
     "founded": 2021,
-    "teamSize": "11-50"
+    "teamSize": "11-50",
+    "careersUrl": "https://empfly.com/careers"
   },
   {
     "slug": "employment-express-verband-llp",
@@ -26272,7 +26740,8 @@
     "openJobs": 1,
     "domain": "energiefitness.in",
     "founded": 2007,
-    "teamSize": "51-200"
+    "teamSize": "51-200",
+    "careersUrl": "https://energiefitness.in/pages/career"
   },
   {
     "slug": "enerture-technologies-pvt-ltd",
@@ -26347,7 +26816,8 @@
     "openJobs": 1,
     "domain": "wappsys.com",
     "founded": 1996,
-    "teamSize": "51-200"
+    "teamSize": "51-200",
+    "careersUrl": "https://wappsys.com/career"
   },
   {
     "slug": "enkash",
@@ -27008,7 +27478,7 @@
     "lng": 77.19112815350651,
     "approx": true,
     "hiring": true,
-    "openJobs": 2,
+    "openJobs": 1,
     "domain": "esri.com",
     "founded": 1969,
     "teamSize": "5000+",
@@ -27413,7 +27883,7 @@
     "lng": 77.03702171125784,
     "approx": true,
     "hiring": true,
-    "openJobs": 13,
+    "openJobs": 12,
     "domain": "evalueserve.com",
     "founded": 2000,
     "teamSize": "5000+",
@@ -27433,10 +27903,10 @@
       "Flash Cards",
       "and Spaced Repetition"
     ],
-    "area": "Delhi",
-    "address": "Delhi, Delhi NCR",
-    "lat": 28.586246418011886,
-    "lng": 77.18176335854021,
+    "area": "Noida",
+    "address": "Noida, Delhi NCR",
+    "lat": 28.57180686028927,
+    "lng": 77.3337088699271,
     "approx": true,
     "hiring": true,
     "openJobs": 5,
@@ -27969,7 +28439,7 @@
     "founded": 2008,
     "teamSize": "1001-5000",
     "tier": "startup",
-    "openJobs": 9,
+    "openJobs": 10,
     "hiring": true,
     "careersUrl": "https://careers.expediagroup.com/"
   },
@@ -28505,7 +28975,7 @@
     "lng": 77.2327402480348,
     "approx": true,
     "hiring": true,
-    "openJobs": 2,
+    "openJobs": 3,
     "domain": "fairgrowthindia.com",
     "founded": 1998,
     "teamSize": "11-50",
@@ -28735,7 +29205,8 @@
     "openJobs": 1,
     "domain": "fat-tiger.in",
     "founded": 2019,
-    "teamSize": "11-50"
+    "teamSize": "11-50",
+    "careersUrl": "https://fat-tiger.in/career/"
   },
   {
     "slug": "favcy-venture-builders",
@@ -28807,7 +29278,8 @@
     "openJobs": 2,
     "domain": "fci-ccm.com",
     "founded": 1959,
-    "teamSize": "201-500"
+    "teamSize": "201-500",
+    "careersUrl": "https://fci-ccm.com/company/careers.php"
   },
   {
     "slug": "fcm-travel-india",
@@ -28942,7 +29414,7 @@
     "lng": 77.19149094682192,
     "approx": true,
     "hiring": true,
-    "openJobs": 2,
+    "openJobs": 1,
     "domain": "fenzodigital.com",
     "founded": 2016,
     "teamSize": "11-50",
@@ -29065,7 +29537,7 @@
     "lng": 77.10737339794964,
     "approx": true,
     "hiring": true,
-    "openJobs": 47,
+    "openJobs": 48,
     "domain": "fidelityinternational.com",
     "founded": 1969,
     "teamSize": "5000+"
@@ -30363,7 +30835,8 @@
     "openJobs": 1,
     "domain": "fpsglobalgroup.com",
     "founded": 2003,
-    "teamSize": "11-50"
+    "teamSize": "11-50",
+    "careersUrl": "https://fpsglobalgroup.com/career.html"
   },
   {
     "slug": "fractal-analytics",
@@ -31643,6 +32116,31 @@
     "careersUrl": "https://getmetherapy.com/careers"
   },
   {
+    "slug": "getepay",
+    "name": "GetePay",
+    "type": "startup",
+    "tier": "startup",
+    "tagline": "At Getepay, we bring cutting-edge commerce solutions to empower businesses of all sizes",
+    "sector": "Fintech",
+    "stage": "Unknown",
+    "tags": [
+      "payments solutions",
+      "payments aggregator",
+      "software",
+      "CRMs"
+    ],
+    "area": "Gurugram",
+    "address": "Gurugram, Delhi NCR",
+    "lat": 28.431622870014735,
+    "lng": 77.07092398301253,
+    "approx": true,
+    "hiring": true,
+    "openJobs": 1,
+    "domain": "getepay.in",
+    "founded": 2016,
+    "teamSize": "201-500"
+  },
+  {
     "slug": "getinge",
     "name": "Getinge",
     "type": "startup",
@@ -31850,7 +32348,8 @@
     "openJobs": 1,
     "domain": "glanbia.com",
     "founded": 1997,
-    "teamSize": "1001-5000"
+    "teamSize": "1001-5000",
+    "careersUrl": "https://glanbia.com/careers/who-we-are"
   },
   {
     "slug": "glenmark-pharmaceuticals",
@@ -32153,7 +32652,7 @@
     "lng": 77.19284859593678,
     "approx": true,
     "hiring": true,
-    "openJobs": 17,
+    "openJobs": 20,
     "domain": "gmrgroup.in",
     "teamSize": "5000+"
   },
@@ -32231,6 +32730,31 @@
     "founded": 2016,
     "teamSize": "11-50",
     "careersUrl": "https://goflo.in/career/"
+  },
+  {
+    "slug": "gohappy-club",
+    "name": "GoHappy Club",
+    "type": "startup",
+    "tier": "company",
+    "tagline": "GoHappy Club is a platform focused on creating a vibrant community of senior citizens",
+    "sector": "Consumer",
+    "stage": "Unknown",
+    "tags": [
+      "Entertainment",
+      "Events",
+      "Informative Sessions",
+      "wellbeing"
+    ],
+    "area": "Delhi",
+    "address": "Delhi, Delhi NCR",
+    "lat": 28.590883828947256,
+    "lng": 77.20222821810985,
+    "approx": true,
+    "hiring": true,
+    "openJobs": 1,
+    "domain": "gohappyclub.in",
+    "founded": 2021,
+    "teamSize": "11-50"
   },
   {
     "slug": "goibibo",
@@ -32470,13 +32994,13 @@
     "sector": "Consumer",
     "stage": "Unknown",
     "tags": [],
-    "area": "Noida",
-    "address": "Noida, Delhi NCR",
-    "lat": 28.563154369141223,
-    "lng": 77.37666678916794,
+    "area": "Delhi",
+    "address": "Delhi, Delhi NCR",
+    "lat": 28.577593926863837,
+    "lng": 77.22472127778106,
     "approx": true,
     "hiring": true,
-    "openJobs": 13,
+    "openJobs": 12,
     "domain": "goodspace.ai",
     "founded": 2022,
     "teamSize": "51-200",
@@ -32524,7 +33048,7 @@
     "tier": "startup",
     "hiring": true,
     "careersUrl": "https://google.com/careers",
-    "openJobs": 11
+    "openJobs": 13
   },
   {
     "slug": "google-operations-center",
@@ -32823,7 +33347,7 @@
     "lng": 77.05053027545,
     "approx": true,
     "hiring": true,
-    "openJobs": 7,
+    "openJobs": 9,
     "domain": "hyatt.com",
     "teamSize": "5000+"
   },
@@ -33068,7 +33592,7 @@
     "lng": 77.3961382156065,
     "approx": true,
     "hiring": true,
-    "openJobs": 12,
+    "openJobs": 13,
     "domain": "graygraph.com",
     "founded": 2015,
     "teamSize": "501-1000",
@@ -33306,7 +33830,7 @@
     "lng": 77.0648093941124,
     "approx": true,
     "hiring": true,
-    "openJobs": 4,
+    "openJobs": 3,
     "domain": "grest.in",
     "founded": 2018,
     "teamSize": "51-200"
@@ -33529,7 +34053,7 @@
     "lng": 77.23528654076271,
     "approx": true,
     "hiring": true,
-    "openJobs": 3,
+    "openJobs": 4,
     "founded": 2021,
     "teamSize": "11-50"
   },
@@ -33708,7 +34232,8 @@
     "openJobs": 1,
     "domain": "growthspreeofficial.com",
     "founded": 2017,
-    "teamSize": "51-200"
+    "teamSize": "51-200",
+    "careersUrl": "https://www.growthspreeofficial.com/careers"
   },
   {
     "slug": "growthym",
@@ -33775,7 +34300,7 @@
     "lng": 77.06506461402167,
     "approx": true,
     "hiring": true,
-    "openJobs": 9,
+    "openJobs": 13,
     "domain": "gspann.com",
     "founded": 2004,
     "teamSize": "1001-5000",
@@ -34070,6 +34595,31 @@
     "careersUrl": "https://habilelabs.io/company/careers"
   },
   {
+    "slug": "hack-daily",
+    "name": "Hack Daily",
+    "type": "startup",
+    "tier": "startup",
+    "tagline": "Hack Daily is redefining daily performance nutrition",
+    "sector": "Healthtech",
+    "stage": "Unknown",
+    "tags": [
+      "Nutraceuticals",
+      "Daily Wellness",
+      "Functional Nutrition",
+      "Wellness Supplements"
+    ],
+    "area": "Gurugram",
+    "address": "Gurugram, Delhi NCR",
+    "lat": 28.46761401625131,
+    "lng": 77.08600868355197,
+    "approx": true,
+    "hiring": true,
+    "openJobs": 1,
+    "domain": "hackdailylife.com",
+    "founded": 2025,
+    "teamSize": "11-50"
+  },
+  {
     "slug": "hack2skill",
     "name": "Hack2skill",
     "type": "startup",
@@ -34251,7 +34801,7 @@
     "lng": 77.35760782187825,
     "approx": true,
     "hiring": true,
-    "openJobs": 12,
+    "openJobs": 13,
     "domain": "hanwhaocean.com",
     "teamSize": "51-200"
   },
@@ -34298,7 +34848,7 @@
     "lng": 77.36115026198154,
     "approx": true,
     "hiring": true,
-    "openJobs": 6,
+    "openJobs": 5,
     "domain": "happiestminds.com",
     "founded": 2011,
     "teamSize": "5000+",
@@ -34399,7 +34949,7 @@
     "lng": 77.11657733229836,
     "approx": true,
     "hiring": true,
-    "openJobs": 11,
+    "openJobs": 10,
     "domain": "hatch.com",
     "founded": 1955,
     "teamSize": "5000+",
@@ -34775,6 +35325,26 @@
     "careersUrl": "https://hearclear.in/careers"
   },
   {
+    "slug": "hedgehomes",
+    "name": "HedgeHomes",
+    "type": "startup",
+    "tier": "startup",
+    "tagline": "HedgeHomes is India’s first end to end home buying platform",
+    "sector": "Consumer",
+    "stage": "Unknown",
+    "tags": [],
+    "area": "Noida",
+    "address": "Noida, Delhi NCR",
+    "lat": 28.574347196365014,
+    "lng": 77.34030185018608,
+    "approx": true,
+    "hiring": true,
+    "openJobs": 1,
+    "domain": "hedgehomes.in",
+    "founded": 2017,
+    "teamSize": "11-50"
+  },
+  {
     "slug": "heifer-international",
     "name": "Heifer International",
     "type": "startup",
@@ -34984,7 +35554,7 @@
     "lng": 77.08839405564683,
     "approx": true,
     "hiring": true,
-    "openJobs": 3,
+    "openJobs": 5,
     "domain": "hexahealth.com",
     "founded": 2021,
     "teamSize": "201-500",
@@ -35090,6 +35660,31 @@
     "domain": "hicglobalsolutions.com",
     "teamSize": "201-500",
     "careersUrl": "https://hicglobalsolutions.com/career"
+  },
+  {
+    "slug": "hicool-electronic-industries",
+    "name": "Hicool Electronic Industries",
+    "type": "startup",
+    "tier": "company",
+    "tagline": "Founded in 1988, Hicool is a leading brand in air moving products serving diverse markets including IT & Telecom, HVAC,…",
+    "sector": "Deeptech",
+    "stage": "Unknown",
+    "tags": [
+      "R&D",
+      "HVAC",
+      "Manufacturing",
+      "Drives"
+    ],
+    "area": "Delhi",
+    "address": "Delhi, Delhi NCR",
+    "lat": 28.615208725589497,
+    "lng": 77.20373268403414,
+    "approx": true,
+    "hiring": true,
+    "openJobs": 1,
+    "domain": "hicoolfans.com",
+    "founded": 1988,
+    "teamSize": "201-500"
   },
   {
     "slug": "hidesign",
@@ -35248,7 +35843,7 @@
     "lng": 77.10672364410142,
     "approx": true,
     "hiring": true,
-    "openJobs": 14,
+    "openJobs": 16,
     "domain": "hikeeducation.com",
     "founded": 2014,
     "teamSize": "201-500",
@@ -35483,7 +36078,7 @@
     "lng": 77.24853266712279,
     "approx": true,
     "hiring": true,
-    "openJobs": 4,
+    "openJobs": 8,
     "domain": "hitachidigital.com",
     "teamSize": "501-1000",
     "careersUrl": "https://hitachidigital.com/careers/"
@@ -35508,7 +36103,7 @@
     "lng": 77.23465226151474,
     "approx": true,
     "hiring": true,
-    "openJobs": 2,
+    "openJobs": 1,
     "domain": "hitachivantara.com",
     "teamSize": "5000+",
     "careersUrl": "https://www.hitachivantara.com/en-us/company/careers"
@@ -35625,10 +36220,11 @@
     "lng": 77.23142984834125,
     "approx": true,
     "hiring": true,
-    "openJobs": 1,
+    "openJobs": 2,
     "domain": "hodophiletravels.com",
     "founded": 2018,
-    "teamSize": "11-50"
+    "teamSize": "11-50",
+    "careersUrl": "https://hodophiletravels.com/careers"
   },
   {
     "slug": "holiday-inn-gurgaon-nh8",
@@ -35720,10 +36316,10 @@
     "lng": 77.3478879690404,
     "approx": true,
     "hiring": true,
-    "openJobs": 1,
+    "openJobs": 2,
     "domain": "holidayscrowd.com",
     "founded": 2018,
-    "teamSize": "11-50"
+    "teamSize": "51-200"
   },
   {
     "slug": "hollister-incorporated",
@@ -35860,7 +36456,7 @@
     "lng": 77.11037875590496,
     "approx": true,
     "hiring": true,
-    "openJobs": 7,
+    "openJobs": 6,
     "domain": "honasa.in",
     "founded": 2016,
     "teamSize": "1001-5000",
@@ -35910,8 +36506,7 @@
     "lat": 28.57833572987561,
     "lng": 77.23025596351842,
     "approx": true,
-    "hiring": true,
-    "openJobs": 1,
+    "hiring": false,
     "domain": "hongyijig.com",
     "founded": 1995,
     "teamSize": "51-200",
@@ -36102,7 +36697,7 @@
     "lng": 77.05467185744479,
     "approx": true,
     "hiring": true,
-    "openJobs": 2,
+    "openJobs": 3,
     "domain": "hostie.in",
     "founded": 2017,
     "teamSize": "11-50",
@@ -36343,7 +36938,7 @@
     "lng": 77.04844682382821,
     "approx": true,
     "hiring": true,
-    "openJobs": 6,
+    "openJobs": 5,
     "domain": "htmedia.in",
     "teamSize": "501-1000",
     "careersUrl": "https://www.htmedia.in/career"
@@ -36438,7 +37033,7 @@
     "lng": 77.17338906379614,
     "approx": true,
     "hiring": true,
-    "openJobs": 5,
+    "openJobs": 4,
     "domain": "hubhopper.com",
     "founded": 2015,
     "teamSize": "11-50",
@@ -36639,7 +37234,7 @@
     "lng": 77.16790483460885,
     "approx": true,
     "hiring": true,
-    "openJobs": 2,
+    "openJobs": 4,
     "domain": "hyatt.com",
     "teamSize": "501-1000"
   },
@@ -36683,13 +37278,13 @@
       "Careers",
       "and Hospitality"
     ],
-    "area": "Delhi",
-    "address": "Delhi, Delhi NCR",
-    "lat": 28.58635915997867,
-    "lng": 77.23852950261629,
+    "area": "Gurugram",
+    "address": "Gurugram, Delhi NCR",
+    "lat": 28.46652907602806,
+    "lng": 77.10271895385085,
     "approx": true,
     "hiring": true,
-    "openJobs": 5,
+    "openJobs": 8,
     "domain": "regency.hyatt.com",
     "teamSize": "5000+",
     "careersUrl": "https://regency.hyatt.com/careers"
@@ -36881,7 +37476,8 @@
     "openJobs": 1,
     "domain": "i2vsys.com",
     "founded": 2011,
-    "teamSize": "51-200"
+    "teamSize": "51-200",
+    "careersUrl": "https://www.i2vsys.com/career/"
   },
   {
     "slug": "iasc-sector-skill-council-ssc",
@@ -36918,7 +37514,7 @@
     "lng": 77.38513561897163,
     "approx": true,
     "hiring": true,
-    "openJobs": 25,
+    "openJobs": 26,
     "domain": "iassess.in",
     "founded": 2015,
     "teamSize": "11-50"
@@ -37116,6 +37712,31 @@
     "founded": 2018,
     "teamSize": "51-200",
     "careersUrl": "https://ichelonconsulting.com/careers"
+  },
+  {
+    "slug": "iclinix-advanced-eye-and-retina-center",
+    "name": "IClinix Advanced Eye And Retina Center",
+    "type": "startup",
+    "tier": "startup",
+    "tagline": "Established in 2016, IClinix- Advanced Eye Care is driven by the quest to protect and prevent vision loss and blindness…",
+    "sector": "Healthtech",
+    "stage": "Unknown",
+    "tags": [
+      "Contoura Vision",
+      "LASIK",
+      "Cataract",
+      "ICL"
+    ],
+    "area": "Delhi",
+    "address": "Delhi, Delhi NCR",
+    "lat": 28.60277048831902,
+    "lng": 77.21431802302556,
+    "approx": true,
+    "hiring": true,
+    "openJobs": 1,
+    "domain": "iclinix.in",
+    "founded": 2016,
+    "teamSize": "11-50"
   },
   {
     "slug": "iconic-fashion-india",
@@ -37353,7 +37974,7 @@
     "lng": 77.1986361912101,
     "approx": true,
     "hiring": true,
-    "openJobs": 7,
+    "openJobs": 8,
     "domain": "identicube.com",
     "founded": 2018,
     "teamSize": "11-50"
@@ -38295,6 +38916,31 @@
     "careersUrl": "https://www.incedoinc.com/careers/"
   },
   {
+    "slug": "incentix-loyalty-pvt-ltd",
+    "name": "Incentix Loyalty Pvt Ltd",
+    "type": "startup",
+    "tier": "company",
+    "tagline": "Some of the best ideas are born in corridors - not boardrooms",
+    "sector": "Other",
+    "stage": "Unknown",
+    "tags": [
+      "Loyalty Marketing",
+      "SalesForce",
+      "Dealer Order Management",
+      "FOS"
+    ],
+    "area": "Noida",
+    "address": "Noida, Delhi NCR",
+    "lat": 28.561267176212016,
+    "lng": 77.37417240113626,
+    "approx": true,
+    "hiring": true,
+    "openJobs": 1,
+    "domain": "incentixloyalty.com",
+    "founded": 2025,
+    "teamSize": "11-50"
+  },
+  {
     "slug": "incognia",
     "name": "Incognia",
     "type": "startup",
@@ -38429,6 +39075,31 @@
     "careersUrl": "https://indiabulls.com/careers"
   },
   {
+    "slug": "indiamart-intermesh-limited",
+    "name": "IndiaMART InterMESH Limited",
+    "type": "startup",
+    "tier": "company",
+    "tagline": "IndiaMART is India's largest online B2B marketplace, connecting buyers with suppliers across a wide array of industries",
+    "sector": "Consumer",
+    "stage": "Unknown",
+    "tags": [
+      "Internet",
+      "SME and MSME Marketplace",
+      "Online Marketplace",
+      "Sourcing"
+    ],
+    "area": "Delhi",
+    "address": "Delhi, Delhi NCR",
+    "lat": 28.56315182195324,
+    "lng": 77.23595114407749,
+    "approx": true,
+    "hiring": true,
+    "openJobs": 3,
+    "domain": "indiamart.com",
+    "founded": 1999,
+    "teamSize": "5000+"
+  },
+  {
     "slug": "indian-exhibition-services",
     "name": "Indian Exhibition Services",
     "type": "startup",
@@ -38443,7 +39114,7 @@
     "lng": 77.33950537883108,
     "approx": true,
     "hiring": true,
-    "openJobs": 1,
+    "openJobs": 2,
     "domain": "ies-india.com",
     "founded": 2012,
     "teamSize": "51-200",
@@ -38513,7 +39184,8 @@
     "openJobs": 1,
     "domain": "indiantradelinks.in",
     "founded": 2010,
-    "teamSize": "51-200"
+    "teamSize": "51-200",
+    "careersUrl": "https://indiantradelinks.in/careers"
   },
   {
     "slug": "indiana-floors-and-more",
@@ -38580,8 +39252,7 @@
     "founded": 2015,
     "teamSize": "201-500",
     "tier": "startup",
-    "openJobs": 1,
-    "hiring": true,
+    "hiring": false,
     "careersUrl": "https://indifi.com/careers"
   },
   {
@@ -38648,7 +39319,7 @@
     "founded": 2019,
     "teamSize": "501-1000",
     "tier": "startup",
-    "openJobs": 2,
+    "openJobs": 1,
     "hiring": true
   },
   {
@@ -38668,7 +39339,8 @@
     "hiring": true,
     "openJobs": 2,
     "domain": "indoeuropean.in",
-    "teamSize": "51-200"
+    "teamSize": "51-200",
+    "careersUrl": "https://indoeuropean.in/careers"
   },
   {
     "slug": "indsource-international",
@@ -38695,6 +39367,26 @@
     "founded": 2002,
     "teamSize": "11-50",
     "careersUrl": "https://indsource.net/career.php"
+  },
+  {
+    "slug": "inductotherm-group-india",
+    "name": "INDUCTOTHERM GROUP INDIA",
+    "type": "startup",
+    "tier": "company",
+    "tagline": "A leading manufacturer of Induction equipment since 1983 offers wide range of products and services for Induction…",
+    "sector": "Fintech",
+    "stage": "Unknown",
+    "tags": [],
+    "area": "Delhi",
+    "address": "Delhi, Delhi NCR",
+    "lat": 28.618689350602626,
+    "lng": 77.2281637786436,
+    "approx": true,
+    "hiring": true,
+    "openJobs": 1,
+    "domain": "inductothermgroup.com",
+    "founded": 1983,
+    "teamSize": "201-500"
   },
   {
     "slug": "inductus-group",
@@ -38793,7 +39485,7 @@
     "lng": 77.23204756433933,
     "approx": true,
     "hiring": true,
-    "openJobs": 1,
+    "openJobs": 2,
     "domain": "industreebiz.com",
     "founded": 2023,
     "teamSize": "11-50",
@@ -38961,7 +39653,8 @@
     "openJobs": 1,
     "domain": "influencer.in",
     "founded": 2015,
-    "teamSize": "51-200"
+    "teamSize": "51-200",
+    "careersUrl": "https://www.socialbeat.in/careers/"
   },
   {
     "slug": "influxia-media",
@@ -39292,7 +39985,8 @@
     "openJobs": 1,
     "domain": "infosectrain.com",
     "founded": 2016,
-    "teamSize": "51-200"
+    "teamSize": "51-200",
+    "careersUrl": "https://infosectrain.com/#v-pills-career-oriented"
   },
   {
     "slug": "infosec-ventures",
@@ -39622,7 +40316,7 @@
     "lng": 77.34878335808602,
     "approx": true,
     "hiring": true,
-    "openJobs": 16,
+    "openJobs": 15,
     "domain": "innodata.com",
     "founded": 1988,
     "teamSize": "5000+",
@@ -39694,7 +40388,7 @@
     "lng": 77.36307175001453,
     "approx": true,
     "hiring": true,
-    "openJobs": 24,
+    "openJobs": 23,
     "domain": "innovaesi.com",
     "founded": 2001,
     "teamSize": "51-200",
@@ -40086,7 +40780,7 @@
     "lng": 77.10320507536284,
     "approx": true,
     "hiring": true,
-    "openJobs": 15,
+    "openJobs": 16,
     "domain": "insight.com",
     "founded": 1988,
     "teamSize": "5000+",
@@ -40253,7 +40947,7 @@
     "lng": 77.36274551586607,
     "approx": true,
     "hiring": true,
-    "openJobs": 14,
+    "openJobs": 15,
     "domain": "insurity.com",
     "teamSize": "1001-5000",
     "careersUrl": "https://insurity.com/careers"
@@ -40559,7 +41253,8 @@
     "openJobs": 1,
     "domain": "intenim.com",
     "founded": 2017,
-    "teamSize": "51-200"
+    "teamSize": "51-200",
+    "careersUrl": "https://intenim.com/careers.html"
   },
   {
     "slug": "interactive-bees",
@@ -40581,7 +41276,7 @@
     "lng": 77.23791465534337,
     "approx": true,
     "hiring": true,
-    "openJobs": 2,
+    "openJobs": 3,
     "domain": "interactivebees.com",
     "founded": 2008,
     "teamSize": "51-200"
@@ -40891,7 +41586,7 @@
     "lng": 77.18386367732003,
     "approx": true,
     "hiring": true,
-    "openJobs": 3,
+    "openJobs": 4,
     "domain": "intrinsequehealth.com",
     "founded": 2020,
     "teamSize": "11-50",
@@ -40920,7 +41615,8 @@
     "openJobs": 1,
     "domain": "intugine.com",
     "founded": 2017,
-    "teamSize": "51-200"
+    "teamSize": "51-200",
+    "careersUrl": "https://intugine.com/Company/careers"
   },
   {
     "slug": "intuitive",
@@ -41243,7 +41939,8 @@
     "openJobs": 3,
     "domain": "iprimeserv.com",
     "founded": 1955,
-    "teamSize": "51-200"
+    "teamSize": "51-200",
+    "careersUrl": "https://iprimeserv.com/careers/"
   },
   {
     "slug": "ips-integrated-project-services",
@@ -41385,6 +42082,31 @@
     "hiring": true,
     "careersUrl": "https://irissoftware.com/careers/",
     "openJobs": 3
+  },
+  {
+    "slug": "iron-man-lifestyle",
+    "name": "Iron Man Lifestyle",
+    "type": "startup",
+    "tier": "startup",
+    "tagline": "Iron Man Lifestyle is a fast-growing profitable, dating & lifestyle coaching company in India",
+    "sector": "Edtech",
+    "stage": "Unknown",
+    "tags": [
+      "dating advice",
+      "online dating",
+      "confidence",
+      "social skills"
+    ],
+    "area": "Delhi",
+    "address": "Delhi, Delhi NCR",
+    "lat": 28.564864705899975,
+    "lng": 77.21640925295159,
+    "approx": true,
+    "hiring": true,
+    "openJobs": 2,
+    "domain": "ironmanlifestyle.co",
+    "founded": 2016,
+    "teamSize": "11-50"
   },
   {
     "slug": "isearch-solution-pvt-ltd",
@@ -41850,7 +42572,7 @@
     "lng": 77.21349760607816,
     "approx": true,
     "hiring": true,
-    "openJobs": 4,
+    "openJobs": 5,
     "domain": "jacgroup.com",
     "founded": 1975,
     "teamSize": "1001-5000"
@@ -41879,6 +42601,31 @@
     "domain": "jnm.digital",
     "teamSize": "501-1000",
     "careersUrl": "https://jnm.digital/career"
+  },
+  {
+    "slug": "jai-bharat-gum-and-chemicals-ltd",
+    "name": "Jai Bharat Gum & Chemicals Ltd.",
+    "type": "startup",
+    "tier": "company",
+    "tagline": "JAI BHARAT GUM AND CHEMICALS LTD is the largest Guar splits and Fast hydrating Guar powder manufacturing and export…",
+    "sector": "Deeptech",
+    "stage": "Unknown",
+    "tags": [
+      "Guar splits",
+      "Guar powder",
+      "Fast hydrating powder",
+      "Guar meal"
+    ],
+    "area": "Gurugram",
+    "address": "Gurugram, Delhi NCR",
+    "lat": 28.472344163934135,
+    "lng": 77.10751467827355,
+    "approx": true,
+    "hiring": true,
+    "openJobs": 1,
+    "domain": "jbgc.com",
+    "founded": 1982,
+    "teamSize": "11-50"
   },
   {
     "slug": "jaikumar-tejwani-and-co-llp",
@@ -41939,7 +42686,8 @@
     "lat": 28.571016423890917,
     "lng": 77.35196195384654,
     "approx": true,
-    "hiring": false,
+    "hiring": true,
+    "openJobs": 1,
     "domain": "jainam.in",
     "founded": 2004,
     "teamSize": "51-200"
@@ -42063,7 +42811,7 @@
     "lng": 77.19339152538868,
     "approx": true,
     "hiring": true,
-    "openJobs": 1,
+    "openJobs": 2,
     "domain": "jamboreeindia.com",
     "founded": 1993,
     "teamSize": "201-500",
@@ -42196,6 +42944,31 @@
     "domain": "jbskincare.in",
     "founded": 2012,
     "teamSize": "11-50"
+  },
+  {
+    "slug": "jeena-sikho-lifecare-limited",
+    "name": "Jeena Sikho Lifecare Limited",
+    "type": "startup",
+    "tier": "company",
+    "tagline": "Jeena Sikho Lifecare is a leading Ayurvedic healthcare and wellness organization committed to teaching people how to…",
+    "sector": "Healthtech",
+    "stage": "Unknown",
+    "tags": [
+      "health",
+      "Ayurveda company",
+      "ayurvedic hospital",
+      "ayurvedic clinic"
+    ],
+    "area": "Gurugram",
+    "address": "Gurugram, Delhi NCR",
+    "lat": 28.418913785535622,
+    "lng": 77.09853244122016,
+    "approx": true,
+    "hiring": true,
+    "openJobs": 1,
+    "domain": "jeenasikho.com",
+    "founded": 2002,
+    "teamSize": "501-1000"
   },
   {
     "slug": "jeevansathi",
@@ -42396,6 +43169,25 @@
     "founded": 2018,
     "teamSize": "51-200",
     "careersUrl": "https://jmdtechnologiesinc.com/careers"
+  },
+  {
+    "slug": "job-search",
+    "name": "Job search",
+    "type": "startup",
+    "tier": "startup",
+    "tagline": "Certified Project Manager and analyst with expertise in leveraging relationship management to drive the implementation…",
+    "sector": "SaaS",
+    "stage": "Unknown",
+    "tags": [],
+    "area": "Ghaziabad",
+    "address": "Ghaziabad, Delhi NCR",
+    "lat": 28.459742033973765,
+    "lng": 77.04386098473097,
+    "approx": true,
+    "hiring": true,
+    "openJobs": 1,
+    "domain": "none",
+    "teamSize": "201-500"
   },
   {
     "slug": "joeys-hostel",
@@ -43005,7 +43797,7 @@
     "slug": "k12-hunar",
     "name": "K12 Hunar",
     "type": "startup",
-    "tier": "startup",
+    "tier": "company",
     "tagline": "At K12 Hunar, we are building India's next-generation education ecosystem—where students, schools, educators, parents,…",
     "sector": "Edtech",
     "stage": "Unknown",
@@ -43015,7 +43807,8 @@
     "lat": 28.60115399364954,
     "lng": 77.22432417382474,
     "approx": true,
-    "hiring": false,
+    "hiring": true,
+    "openJobs": 1,
     "domain": "k12hunar.com",
     "founded": 2026,
     "teamSize": "11-50",
@@ -43085,7 +43878,8 @@
     "openJobs": 1,
     "domain": "kaapimachines.com",
     "founded": 2007,
-    "teamSize": "51-200"
+    "teamSize": "51-200",
+    "careersUrl": "https://kaapimachines.com/careers/"
   },
   {
     "slug": "kaban-bags",
@@ -43358,8 +44152,7 @@
     "lat": 28.4915718317707,
     "lng": 77.09286329708175,
     "approx": true,
-    "hiring": true,
-    "openJobs": 1,
+    "hiring": false,
     "domain": "karix.com",
     "founded": 2000,
     "teamSize": "501-1000",
@@ -43639,7 +44432,7 @@
     "lng": 77.19367469657988,
     "approx": true,
     "hiring": true,
-    "openJobs": 4,
+    "openJobs": 3,
     "domain": "kertenhospitality.com",
     "teamSize": "201-500"
   },
@@ -43802,7 +44595,7 @@
     "lng": 77.2213816807187,
     "approx": true,
     "hiring": true,
-    "openJobs": 1,
+    "openJobs": 2,
     "domain": "kheewa.co.in",
     "teamSize": "11-50"
   },
@@ -44221,7 +45014,7 @@
     "lng": 77.08766151635933,
     "approx": true,
     "hiring": true,
-    "openJobs": 5,
+    "openJobs": 4,
     "domain": "knrglobal.com",
     "founded": 2009,
     "teamSize": "51-200",
@@ -44602,7 +45395,7 @@
     "lng": 77.24313679649546,
     "approx": true,
     "hiring": true,
-    "openJobs": 25,
+    "openJobs": 26,
     "domain": "kroll.com",
     "teamSize": "5000+",
     "careersUrl": "https://careers.kroll.com/en"
@@ -44767,7 +45560,7 @@
     "lng": 77.2162179109313,
     "approx": true,
     "hiring": true,
-    "openJobs": 4,
+    "openJobs": 3,
     "domain": "kuonitumlare.com",
     "founded": 1906,
     "teamSize": "1001-5000",
@@ -44970,12 +45763,30 @@
     "lat": 28.607483973701925,
     "lng": 77.23324106553619,
     "approx": true,
-    "hiring": true,
-    "openJobs": 1,
+    "hiring": false,
     "domain": "lek.com",
     "founded": 1983,
     "teamSize": "1001-5000",
     "careersUrl": "https://lek.com/careers/life-at-lek/alumni-network"
+  },
+  {
+    "slug": "la-bake-amore",
+    "name": "La Bake Amore",
+    "type": "startup",
+    "tier": "startup",
+    "tagline": "La Bake Amore — hiring in Delhi NCR",
+    "sector": "D2C",
+    "stage": "Unknown",
+    "tags": [],
+    "area": "Delhi",
+    "address": "Delhi, Delhi NCR",
+    "lat": 28.55743102029175,
+    "lng": 77.22777533106198,
+    "approx": true,
+    "hiring": true,
+    "openJobs": 3,
+    "domain": "labakeamore.com",
+    "teamSize": "11-50"
   },
   {
     "slug": "la-caisse-caisse-de-d-p-t-et-placement-du-qu-bec",
@@ -45476,8 +46287,7 @@
     "lat": 28.457863482543956,
     "lng": 77.08933905879968,
     "approx": true,
-    "hiring": true,
-    "openJobs": 1,
+    "hiring": false,
     "domain": "leapwork.com",
     "founded": 2015,
     "teamSize": "201-500",
@@ -45497,13 +46307,13 @@
       "Value Customer",
       "Diversified employees"
     ],
-    "area": "Gurugram",
-    "address": "Gurugram, Delhi NCR",
-    "lat": 28.463264011408917,
-    "lng": 77.09242690688517,
+    "area": "Delhi",
+    "address": "Delhi, Delhi NCR",
+    "lat": 28.583094095359527,
+    "lng": 77.2282374556506,
     "approx": true,
     "hiring": true,
-    "openJobs": 23,
+    "openJobs": 26,
     "domain": "learningroutes.in",
     "founded": 2016,
     "teamSize": "201-500"
@@ -45523,7 +46333,7 @@
     "lng": 77.38021534208619,
     "approx": true,
     "hiring": true,
-    "openJobs": 11,
+    "openJobs": 12,
     "domain": "learningshala.com",
     "founded": 2017,
     "teamSize": "51-200",
@@ -45672,7 +46482,7 @@
     "lng": 77.21073884977585,
     "approx": true,
     "hiring": true,
-    "openJobs": 2,
+    "openJobs": 1,
     "domain": "LeicaBiosystems.com",
     "teamSize": "1001-5000",
     "careersUrl": "https://jobs.danaher.com/global/en/leica-biosystems"
@@ -45699,7 +46509,8 @@
     "hiring": true,
     "openJobs": 1,
     "domain": "fcld.ly",
-    "teamSize": "1001-5000"
+    "teamSize": "1001-5000",
+    "careersUrl": "https://fcld.ly/careers"
   },
   {
     "slug": "lendingkart",
@@ -45813,6 +46624,26 @@
     "domain": "leopump.com",
     "founded": 1995,
     "teamSize": "51-200"
+  },
+  {
+    "slug": "lets-build-brands",
+    "name": "Let's Build Brands",
+    "type": "startup",
+    "tier": "company",
+    "tagline": "LET’S BUILD BRANDS is a media and advertising consultation company offering marketing and media consultation &…",
+    "sector": "Consumer",
+    "stage": "Unknown",
+    "tags": [],
+    "area": "Delhi",
+    "address": "Delhi, Delhi NCR",
+    "lat": 28.5689935881327,
+    "lng": 77.25286325038185,
+    "approx": true,
+    "hiring": true,
+    "openJobs": 1,
+    "domain": "letsbuildbrands.com",
+    "founded": 2019,
+    "teamSize": "11-50"
   },
   {
     "slug": "lexisnexis",
@@ -46094,7 +46925,8 @@
     "hiring": true,
     "openJobs": 1,
     "domain": "linxglobal.com",
-    "teamSize": "201-500"
+    "teamSize": "201-500",
+    "careersUrl": "https://jobs.veralto.com/global/en/linx"
   },
   {
     "slug": "liqvid",
@@ -46253,7 +47085,7 @@
     "lng": 77.0921489482526,
     "approx": true,
     "hiring": true,
-    "openJobs": 12,
+    "openJobs": 11,
     "domain": "livxs.com",
     "founded": 2005,
     "teamSize": "11-50"
@@ -46505,6 +47337,26 @@
     "founded": 2021,
     "teamSize": "51-200",
     "careersUrl": "https://www.linkedin.com/company/loop-subscriptions/jobs/"
+  },
+  {
+    "slug": "lotpot-comics",
+    "name": "LotPot Comics",
+    "type": "startup",
+    "tier": "company",
+    "tagline": "Welcome to Lotpot Comics!",
+    "sector": "Other",
+    "stage": "Unknown",
+    "tags": [],
+    "area": "Delhi",
+    "address": "Delhi, Delhi NCR",
+    "lat": 28.610417891271673,
+    "lng": 77.20219124515387,
+    "approx": true,
+    "hiring": true,
+    "openJobs": 4,
+    "domain": "lotpot.com",
+    "founded": 1969,
+    "teamSize": "11-50"
   },
   {
     "slug": "lotus-imall",
@@ -47059,7 +47911,8 @@
     "openJobs": 1,
     "domain": "luxolis.ai",
     "founded": 2020,
-    "teamSize": "11-50"
+    "teamSize": "11-50",
+    "careersUrl": "https://luxolis.ai/careers"
   },
   {
     "slug": "luxoro-formello",
@@ -47227,6 +48080,26 @@
     "founded": 2019,
     "teamSize": "11-50",
     "careersUrl": "https://mymoledro.com/pages/career-opportunities"
+  },
+  {
+    "slug": "m3m-foundation",
+    "name": "M3M Foundation",
+    "type": "startup",
+    "tier": "company",
+    "tagline": "M3M Foundation is the philanthropic arm of M3M Group; working towards bringing an equitable development that helps in…",
+    "sector": "Other",
+    "stage": "Unknown",
+    "tags": [],
+    "area": "Gurugram",
+    "address": "Gurugram, Delhi NCR",
+    "lat": 28.454834842030277,
+    "lng": 77.03745752623304,
+    "approx": true,
+    "hiring": true,
+    "openJobs": 1,
+    "domain": "m3mfoundation.org",
+    "founded": 2019,
+    "teamSize": "51-200"
   },
   {
     "slug": "macdermid-alpha-electronics-solutions",
@@ -47526,7 +48399,7 @@
     "lng": 77.32777796253062,
     "approx": true,
     "hiring": true,
-    "openJobs": 6,
+    "openJobs": 5,
     "domain": "mai.io",
     "founded": 2021,
     "teamSize": "51-200"
@@ -47601,7 +48474,7 @@
     "founded": 2000,
     "teamSize": "5000+",
     "tier": "startup",
-    "openJobs": 22,
+    "openJobs": 23,
     "hiring": true,
     "careersUrl": "https://makemytrip.com/careers"
   },
@@ -47972,10 +48845,11 @@
     "lng": 77.17128684052369,
     "approx": true,
     "hiring": true,
-    "openJobs": 1,
+    "openJobs": 2,
     "domain": "mantech.in",
     "founded": 2018,
-    "teamSize": "11-50"
+    "teamSize": "11-50",
+    "careersUrl": "https://mantech.in/career.html"
   },
   {
     "slug": "mantracare",
@@ -48655,8 +49529,7 @@
     "lat": 28.53841140983137,
     "lng": 77.23201382739809,
     "approx": true,
-    "hiring": true,
-    "openJobs": 1,
+    "hiring": false,
     "domain": "mathworks.com",
     "founded": 1984,
     "teamSize": "5000+"
@@ -48682,6 +49555,31 @@
     "teamSize": "11-50"
   },
   {
+    "slug": "matrix-cellular-international-services-ltd",
+    "name": "Matrix Cellular (International) Services Ltd.",
+    "type": "startup",
+    "tier": "company",
+    "tagline": "Matrix Cellular (International) Services Ltd",
+    "sector": "Deeptech",
+    "stage": "Unknown",
+    "tags": [
+      "International SIM Cards",
+      "International Data Cards",
+      "International Data Packs for Smartphones",
+      "Global SIM Cards"
+    ],
+    "area": "Delhi",
+    "address": "Delhi, Delhi NCR",
+    "lat": 28.6104185163952,
+    "lng": 77.23672395333992,
+    "approx": true,
+    "hiring": true,
+    "openJobs": 1,
+    "domain": "matrix.in",
+    "founded": 1995,
+    "teamSize": "501-1000"
+  },
+  {
     "slug": "matrix-geo-solutions-ltd",
     "name": "Matrix Geo Solutions Ltd.",
     "type": "startup",
@@ -48704,7 +49602,8 @@
     "openJobs": 1,
     "domain": "matrix-geo.com",
     "founded": 2008,
-    "teamSize": "201-500"
+    "teamSize": "201-500",
+    "careersUrl": "https://matrix-geo.com/jobs"
   },
   {
     "slug": "matrix-infotech-solution",
@@ -48840,6 +49739,31 @@
     "teamSize": "51-200"
   },
   {
+    "slug": "mayoor-school-of-music",
+    "name": "Mayoor School of Music",
+    "type": "startup",
+    "tier": "company",
+    "tagline": "Mayoor School of Music is a premier music academy dedicated to nurturing and developing musical talent in both…",
+    "sector": "Other",
+    "stage": "Unknown",
+    "tags": [
+      "Karaoke Singing",
+      "indian music",
+      "hindi music",
+      "music classes"
+    ],
+    "area": "Noida",
+    "address": "Noida, Delhi NCR",
+    "lat": 28.602106143681386,
+    "lng": 77.36277245387183,
+    "approx": true,
+    "hiring": true,
+    "openJobs": 1,
+    "domain": "mayoorschoolofmusic.com",
+    "founded": 2018,
+    "teamSize": "11-50"
+  },
+  {
     "slug": "mccain-foods",
     "name": "McCain Foods",
     "type": "startup",
@@ -48859,7 +49783,7 @@
     "lng": 77.07136829505816,
     "approx": true,
     "hiring": true,
-    "openJobs": 10,
+    "openJobs": 8,
     "domain": "mccain.com",
     "founded": 1957,
     "teamSize": "5000+",
@@ -48903,7 +49827,7 @@
     "lng": 77.09242685677478,
     "approx": true,
     "hiring": true,
-    "openJobs": 23,
+    "openJobs": 25,
     "domain": "mccormickcorporation.com",
     "founded": 1889,
     "teamSize": "5000+",
@@ -48929,7 +49853,7 @@
     "lng": 77.08455949652414,
     "approx": true,
     "hiring": true,
-    "openJobs": 8,
+    "openJobs": 7,
     "domain": "mheducation.com",
     "teamSize": "5000+",
     "careersUrl": "https://www.mheducation.com/highered/discipline/career-development.html"
@@ -49106,7 +50030,7 @@
     "tier": "startup",
     "hiring": true,
     "careersUrl": "https://www.medanta.org/careers",
-    "openJobs": 6
+    "openJobs": 8
   },
   {
     "slug": "medbound-times",
@@ -49471,7 +50395,8 @@
     "openJobs": 1,
     "domain": "megaport.com",
     "founded": 2013,
-    "teamSize": "501-1000"
+    "teamSize": "501-1000",
+    "careersUrl": "https://megaport.com/careers"
   },
   {
     "slug": "megmeet",
@@ -49537,7 +50462,8 @@
     "openJobs": 1,
     "domain": "mtcoi.in",
     "founded": 1971,
-    "teamSize": "201-500"
+    "teamSize": "201-500",
+    "careersUrl": "https://mehtatransportcorporations.com/career"
   },
   {
     "slug": "meltwater",
@@ -49749,7 +50675,8 @@
     "hiring": true,
     "openJobs": 1,
     "domain": "meritidevisas.com",
-    "teamSize": "11-50"
+    "teamSize": "11-50",
+    "careersUrl": "https://www.meritidevisas.com/how-to-apply-healthcare-jobs-in-uk"
   },
   {
     "slug": "meritto",
@@ -50045,6 +50972,25 @@
     "careersUrl": "https://mgrow.club/pages/career-opportunities"
   },
   {
+    "slug": "mi-piaci",
+    "name": "Mi Piaci",
+    "type": "startup",
+    "tier": "company",
+    "tagline": "Mi Piaci — hiring in Delhi NCR",
+    "sector": "Consumer",
+    "stage": "Unknown",
+    "tags": [],
+    "area": "Gurugram",
+    "address": "Gurugram, Delhi NCR",
+    "lat": 28.414385569793367,
+    "lng": 77.08842856658175,
+    "approx": true,
+    "hiring": true,
+    "openJobs": 1,
+    "domain": "mipiaci.com.mx",
+    "teamSize": "11-50"
+  },
+  {
     "slug": "mice-emporio-india-llp",
     "name": "MICE Emporio India LLP",
     "type": "startup",
@@ -50290,7 +51236,8 @@
     "lat": 28.621807940942347,
     "lng": 77.21958617090384,
     "approx": true,
-    "hiring": false,
+    "hiring": true,
+    "openJobs": 1,
     "domain": "milleniance.com",
     "founded": 2009,
     "teamSize": "11-50",
@@ -50667,6 +51614,31 @@
     "teamSize": "11-50"
   },
   {
+    "slug": "miss-highness",
+    "name": "Miss Highness",
+    "type": "startup",
+    "tier": "company",
+    "tagline": "Miss Highness is the one-stop online destination for traditional & Classy Designer Fashion Jewellery",
+    "sector": "Consumer",
+    "stage": "Unknown",
+    "tags": [
+      "Ecommerce",
+      "online website",
+      "Necklace",
+      "artificial jewellery"
+    ],
+    "area": "Delhi",
+    "address": "Delhi, Delhi NCR",
+    "lat": 28.557558152462615,
+    "lng": 77.17642389818216,
+    "approx": true,
+    "hiring": true,
+    "openJobs": 1,
+    "domain": "misshighness.com",
+    "founded": 2021,
+    "teamSize": "11-50"
+  },
+  {
     "slug": "mistique",
     "name": "Mistique",
     "type": "startup",
@@ -50732,6 +51704,25 @@
     "openJobs": 1,
     "domain": "mjglobal.co.in",
     "teamSize": "201-500"
+  },
+  {
+    "slug": "mj-wealth",
+    "name": "MJ Wealth",
+    "type": "startup",
+    "tier": "company",
+    "tagline": "At MJ Wealth, we specialize in offering personalized financial solutions designed to help individuals and small…",
+    "sector": "Fintech",
+    "stage": "Unknown",
+    "tags": [],
+    "area": "Delhi",
+    "address": "Delhi, Delhi NCR",
+    "lat": 28.59938201975147,
+    "lng": 77.2209725501491,
+    "approx": true,
+    "hiring": true,
+    "openJobs": 1,
+    "domain": "wealth.mjwealth.co.in",
+    "teamSize": "11-50"
   },
   {
     "slug": "mn-energy-and-infra-private-limited",
@@ -50941,7 +51932,7 @@
     "lng": 77.09524261839445,
     "approx": true,
     "hiring": true,
-    "openJobs": 7,
+    "openJobs": 9,
     "domain": "mobilityglobal.com",
     "teamSize": "1001-5000"
   },
@@ -51447,7 +52438,7 @@
     "lng": 77.1768422806558,
     "approx": true,
     "hiring": true,
-    "openJobs": 4,
+    "openJobs": 3,
     "domain": "morphogenesis.org",
     "founded": 1996,
     "teamSize": "201-500"
@@ -51512,13 +52503,13 @@
       "Infrastructure",
       "IT recruitment"
     ],
-    "area": "Ghaziabad",
-    "address": "Ghaziabad, Delhi NCR",
-    "lat": 28.450447825221815,
-    "lng": 77.0608119802922,
+    "area": "Noida",
+    "address": "Noida, Delhi NCR",
+    "lat": 28.55583835144981,
+    "lng": 77.34856804044452,
     "approx": true,
     "hiring": true,
-    "openJobs": 13,
+    "openJobs": 14,
     "domain": "mouneeconsulting.org",
     "founded": 2019,
     "teamSize": "11-50",
@@ -51902,7 +52893,7 @@
     "lng": 77.23060147600357,
     "approx": true,
     "hiring": true,
-    "openJobs": 2,
+    "openJobs": 4,
     "domain": "shopmulmul.com",
     "founded": 2018,
     "teamSize": "51-200",
@@ -52171,7 +53162,7 @@
     "lng": 77.04192421390084,
     "approx": true,
     "hiring": true,
-    "openJobs": 12,
+    "openJobs": 13,
     "domain": "mywall.me",
     "teamSize": "51-200",
     "careersUrl": "https://mywall.me/careers"
@@ -52270,7 +53261,8 @@
     "openJobs": 1,
     "domain": "myfirstad.in",
     "founded": 2019,
-    "teamSize": "11-50"
+    "teamSize": "11-50",
+    "careersUrl": "https://myfirstad.in/jobs/"
   },
   {
     "slug": "myfollocom",
@@ -52517,7 +53509,7 @@
     "tier": "startup",
     "hiring": true,
     "careersUrl": "https://nagarro.com/en/careers?hsLang=en",
-    "openJobs": 4
+    "openJobs": 3
   },
   {
     "slug": "nail-and-hammer-pvt-ltd",
@@ -52560,7 +53552,7 @@
     "lng": 77.21709025566264,
     "approx": true,
     "hiring": true,
-    "openJobs": 2,
+    "openJobs": 3,
     "domain": "nam-info.com",
     "founded": 2000,
     "teamSize": "51-200",
@@ -52673,7 +53665,7 @@
     "lng": 77.19608697737773,
     "approx": true,
     "hiring": true,
-    "openJobs": 10,
+    "openJobs": 8,
     "domain": "negd.gov.in",
     "founded": 2009,
     "teamSize": "51-200",
@@ -52904,6 +53896,30 @@
     "careersUrl": "https://navjyoti.org.in/work-with-us/"
   },
   {
+    "slug": "navrang-realty",
+    "name": "Navrang Realty",
+    "type": "startup",
+    "tier": "company",
+    "tagline": "At Navrang Realty, we believe real estate is not just about properties — it’s about people",
+    "sector": "Consumer",
+    "stage": "Unknown",
+    "tags": [
+      "Buying",
+      "Selling",
+      "Retail spaces",
+      "Office Spaces"
+    ],
+    "area": "Gurugram",
+    "address": "Gurugram, Delhi NCR",
+    "lat": 28.433804395680024,
+    "lng": 77.10837938257701,
+    "approx": true,
+    "hiring": true,
+    "openJobs": 1,
+    "domain": "navrangrealty.com",
+    "teamSize": "1-10"
+  },
+  {
     "slug": "ncheng-llp",
     "name": "NCheng LLP",
     "type": "startup",
@@ -53085,7 +54101,7 @@
     "lng": 77.37350538494573,
     "approx": true,
     "hiring": true,
-    "openJobs": 6,
+    "openJobs": 8,
     "founded": 2016,
     "teamSize": "51-200"
   },
@@ -53174,7 +54190,7 @@
     "lng": 77.31888171730135,
     "approx": true,
     "hiring": true,
-    "openJobs": 7,
+    "openJobs": 8,
     "domain": "neoxam.com",
     "founded": 2014,
     "teamSize": "501-1000",
@@ -53244,7 +54260,7 @@
     "lng": 77.19563583193448,
     "approx": true,
     "hiring": true,
-    "openJobs": 2,
+    "openJobs": 3,
     "domain": "netambit.com",
     "founded": 2000,
     "teamSize": "1001-5000",
@@ -53405,7 +54421,7 @@
     "lng": 77.31188836806326,
     "approx": true,
     "hiring": true,
-    "openJobs": 7,
+    "openJobs": 8,
     "domain": "netwebindia.com",
     "founded": 1996,
     "teamSize": "501-1000",
@@ -53665,6 +54681,31 @@
     "careersUrl": "https://dmhca.in/careers"
   },
   {
+    "slug": "new-land-visas",
+    "name": "New Land Visas",
+    "type": "startup",
+    "tier": "company",
+    "tagline": "Awarded as the \" Best Immigration Consultant Of India 2023 \" 🏅 When Everyone Fails To Get Canada PR, We Succeed",
+    "sector": "Other",
+    "stage": "Unknown",
+    "tags": [
+      "canada pr",
+      "australia pr",
+      "immigration",
+      "visa filing"
+    ],
+    "area": "Delhi",
+    "address": "Delhi, Delhi NCR",
+    "lat": 28.554597931945146,
+    "lng": 77.17519222628188,
+    "approx": true,
+    "hiring": true,
+    "openJobs": 1,
+    "domain": "newlandvisas.com",
+    "founded": 2021,
+    "teamSize": "11-50"
+  },
+  {
     "slug": "new-media-holding",
     "name": "New Media Holding",
     "type": "startup",
@@ -53751,7 +54792,7 @@
     "lng": 77.18457521595819,
     "approx": true,
     "hiring": true,
-    "openJobs": 5,
+    "openJobs": 4,
     "domain": "newspace.co.in",
     "founded": 2018,
     "teamSize": "501-1000"
@@ -53910,7 +54951,7 @@
     "lng": 77.38482951901594,
     "approx": true,
     "hiring": true,
-    "openJobs": 2,
+    "openJobs": 1,
     "domain": "nextartcreations.com",
     "founded": 2022,
     "teamSize": "51-200",
@@ -54293,7 +55334,7 @@
     "lng": 77.07469519437011,
     "approx": true,
     "hiring": true,
-    "openJobs": 15,
+    "openJobs": 14,
     "domain": "niitmts.com",
     "founded": 1981,
     "teamSize": "1001-5000",
@@ -54329,13 +55370,13 @@
     "sector": "Other",
     "stage": "Unknown",
     "tags": [],
-    "area": "Faridabad",
-    "address": "Faridabad, Delhi NCR",
-    "lat": 28.441333736582166,
-    "lng": 77.27006436037863,
+    "area": "Delhi",
+    "address": "Delhi, Delhi NCR",
+    "lat": 28.59277473473031,
+    "lng": 77.16945858445271,
     "approx": true,
     "hiring": true,
-    "openJobs": 1,
+    "openJobs": 2,
     "domain": "nimaya.in",
     "teamSize": "11-50",
     "careersUrl": "https://nimaya.in/careers"
@@ -54621,7 +55662,7 @@
     "lng": 77.34755416287757,
     "approx": true,
     "hiring": true,
-    "openJobs": 5,
+    "openJobs": 6,
     "domain": "nmtronics.com",
     "founded": 1999,
     "teamSize": "201-500",
@@ -54721,7 +55762,7 @@
     "founded": 2014,
     "teamSize": "501-1000",
     "tier": "startup",
-    "openJobs": 9,
+    "openJobs": 8,
     "hiring": true
   },
   {
@@ -55068,8 +56109,7 @@
     "lat": 28.536009453635444,
     "lng": 77.3291074973101,
     "approx": true,
-    "hiring": true,
-    "openJobs": 1,
+    "hiring": false,
     "domain": "nrconsulting.com",
     "founded": 2017,
     "teamSize": "201-500",
@@ -55432,7 +56472,7 @@
     "lng": 77.18425942481211,
     "approx": true,
     "hiring": true,
-    "openJobs": 1,
+    "openJobs": 2,
     "domain": "NutritionIntl.org",
     "founded": 1992,
     "teamSize": "501-1000"
@@ -55624,7 +56664,7 @@
     "lng": 77.05651687773594,
     "approx": true,
     "hiring": true,
-    "openJobs": 5,
+    "openJobs": 4,
     "domain": "oaknorth.co.uk",
     "founded": 2015,
     "teamSize": "51-200",
@@ -56448,7 +57488,7 @@
     "lng": 77.23760915211528,
     "approx": true,
     "hiring": true,
-    "openJobs": 1,
+    "openJobs": 2,
     "founded": 2007,
     "teamSize": "11-50"
   },
@@ -56526,7 +57566,8 @@
     "openJobs": 1,
     "domain": "onesimulation.co.in",
     "founded": 2023,
-    "teamSize": "11-50"
+    "teamSize": "11-50",
+    "careersUrl": "https://onesimulation.co.in/careers"
   },
   {
     "slug": "one75mb-hrm-pvt-ltd",
@@ -56618,7 +57659,7 @@
     "lng": 77.0723316907494,
     "approx": true,
     "hiring": true,
-    "openJobs": 7,
+    "openJobs": 6,
     "domain": "onemetric.io",
     "teamSize": "51-200",
     "careersUrl": "https://www.onemetric.io/career#jobs"
@@ -56870,7 +57911,7 @@
     "lng": 77.33186303758679,
     "approx": true,
     "hiring": true,
-    "openJobs": 2,
+    "openJobs": 1,
     "domain": "ontic.ai",
     "teamSize": "201-500",
     "careersUrl": "https://ontic.co/careers"
@@ -56898,7 +57939,8 @@
     "openJobs": 1,
     "domain": "oomsindia.com",
     "founded": 1999,
-    "teamSize": "51-200"
+    "teamSize": "51-200",
+    "careersUrl": "https://www.oomsindia.com/career/"
   },
   {
     "slug": "opalspace",
@@ -57390,7 +58432,8 @@
     "openJobs": 1,
     "domain": "orn.com",
     "founded": 2026,
-    "teamSize": "51-200"
+    "teamSize": "51-200",
+    "careersUrl": "https://orn.com/careers"
   },
   {
     "slug": "ornaz",
@@ -57928,7 +58971,8 @@
     "openJobs": 2,
     "domain": "pactap.com",
     "founded": 2021,
-    "teamSize": "11-50"
+    "teamSize": "11-50",
+    "careersUrl": "https://pactap.com/careers/"
   },
   {
     "slug": "pagarbook",
@@ -57970,7 +59014,7 @@
     "lng": 77.3487340651734,
     "approx": true,
     "hiring": true,
-    "openJobs": 7,
+    "openJobs": 10,
     "domain": "pagetraffic.com",
     "founded": 2002,
     "teamSize": "51-200",
@@ -57999,7 +59043,8 @@
     "openJobs": 1,
     "domain": "pahaldesign.com",
     "founded": 1999,
-    "teamSize": "51-200"
+    "teamSize": "51-200",
+    "careersUrl": "https://pahaldesign.com/careers/"
   },
   {
     "slug": "paisabazaar",
@@ -58043,7 +59088,8 @@
     "openJobs": 1,
     "domain": "paisalo.in",
     "founded": 1992,
-    "teamSize": "501-1000"
+    "teamSize": "501-1000",
+    "careersUrl": "https://paisalo.in/home/career"
   },
   {
     "slug": "palnar",
@@ -58235,7 +59281,7 @@
     "lng": 77.04814496254495,
     "approx": true,
     "hiring": true,
-    "openJobs": 8,
+    "openJobs": 10,
     "domain": "partech.com",
     "teamSize": "1001-5000",
     "careersUrl": "https://partech.com/careers-living-our-values/"
@@ -58513,7 +59559,7 @@
     "lng": 77.0514176015359,
     "approx": true,
     "hiring": true,
-    "openJobs": 16,
+    "openJobs": 15,
     "domain": "payoneer.com",
     "founded": 2005,
     "teamSize": "1001-5000",
@@ -58534,7 +59580,7 @@
     "lng": 77.09665412521927,
     "approx": true,
     "hiring": true,
-    "openJobs": 14,
+    "openJobs": 13,
     "domain": "paypay.co.in",
     "founded": 2018,
     "teamSize": "51-200",
@@ -58562,7 +59608,7 @@
     "tier": "startup",
     "hiring": true,
     "careersUrl": "https://paytm.com/careers/",
-    "openJobs": 29
+    "openJobs": 31
   },
   {
     "slug": "paytm-payment-gateway",
@@ -58651,7 +59697,7 @@
     "lng": 77.32757407310915,
     "approx": true,
     "hiring": true,
-    "openJobs": 8,
+    "openJobs": 9,
     "domain": "peakpals.in",
     "founded": 2020,
     "teamSize": "1-10"
@@ -58696,7 +59742,7 @@
     "lng": 77.37029603407579,
     "approx": true,
     "hiring": true,
-    "openJobs": 1,
+    "openJobs": 2,
     "domain": "pebblecart.com",
     "founded": 2013,
     "teamSize": "51-200",
@@ -59337,7 +60383,7 @@
     "lng": 77.1960331328027,
     "approx": true,
     "hiring": true,
-    "openJobs": 5,
+    "openJobs": 4,
     "domain": "pssindia.com",
     "founded": 1981,
     "teamSize": "201-500",
@@ -59593,7 +60639,7 @@
     "lng": 77.1041950419316,
     "approx": true,
     "hiring": true,
-    "openJobs": 4,
+    "openJobs": 3,
     "domain": "thepiematrix.com",
     "teamSize": "11-50"
   },
@@ -59700,7 +60746,7 @@
     "lng": 77.10330135930201,
     "approx": true,
     "hiring": true,
-    "openJobs": 2,
+    "openJobs": 1,
     "domain": "pinkerton.com",
     "founded": 1850,
     "teamSize": "1001-5000",
@@ -60127,7 +61173,8 @@
     "openJobs": 1,
     "domain": "please-see.com",
     "founded": 2010,
-    "teamSize": "201-500"
+    "teamSize": "201-500",
+    "careersUrl": "https://please-see.com/careers"
   },
   {
     "slug": "pls-lawyers-pvt-ltd",
@@ -60375,7 +61422,7 @@
     "lng": 77.10235179075468,
     "approx": true,
     "hiring": true,
-    "openJobs": 13,
+    "openJobs": 14,
     "domain": "portagepointpartners.com",
     "founded": 2016,
     "teamSize": "201-500",
@@ -60478,6 +61525,26 @@
     "domain": "portwayintl.com",
     "founded": 2009,
     "teamSize": "51-200"
+  },
+  {
+    "slug": "postgres1st-pgf",
+    "name": "Postgres1st (PgF)",
+    "type": "startup",
+    "tier": "company",
+    "tagline": "Postgres1st (PGF) delivers PostgreSQL-focused IT services—modernization, migration, consulting, managed services and…",
+    "sector": "SaaS",
+    "stage": "Unknown",
+    "tags": [],
+    "area": "Delhi",
+    "address": "Delhi, Delhi NCR",
+    "lat": 28.53571151221676,
+    "lng": 77.21800658380342,
+    "approx": true,
+    "hiring": true,
+    "openJobs": 1,
+    "domain": "postgresfirst.com",
+    "founded": 2022,
+    "teamSize": "11-50"
   },
   {
     "slug": "power-bridge",
@@ -60980,13 +62047,13 @@
       "High Fashion Garments",
       "and Eveningwear"
     ],
-    "area": "Gurugram",
-    "address": "Gurugram, Delhi NCR",
-    "lat": 28.457614775663046,
-    "lng": 77.04492705287743,
+    "area": "Delhi",
+    "address": "Delhi, Delhi NCR",
+    "lat": 28.577444859613657,
+    "lng": 77.18073760164286,
     "approx": true,
     "hiring": true,
-    "openJobs": 1,
+    "openJobs": 2,
     "domain": "prewalstudio.com",
     "founded": 2016,
     "teamSize": "11-50"
@@ -61411,7 +62478,8 @@
     "openJobs": 1,
     "domain": "prohed.com",
     "founded": 2017,
-    "teamSize": "11-50"
+    "teamSize": "11-50",
+    "careersUrl": "https://prohed.com/career.php"
   },
   {
     "slug": "proho",
@@ -61543,7 +62611,8 @@
     "hiring": true,
     "openJobs": 1,
     "domain": "proost69.com",
-    "teamSize": "11-50"
+    "teamSize": "11-50",
+    "careersUrl": "https://proostbeer.com/career/"
   },
   {
     "slug": "propkarmaa-private-limited",
@@ -61559,10 +62628,10 @@
       "Godrej Properties",
       "Eldeco Group"
     ],
-    "area": "Ghaziabad",
-    "address": "Ghaziabad, Delhi NCR",
-    "lat": 28.475602049864666,
-    "lng": 77.0391948070897,
+    "area": "Delhi",
+    "address": "Delhi, Delhi NCR",
+    "lat": 28.595432133815276,
+    "lng": 77.17500535585513,
     "approx": true,
     "hiring": true,
     "openJobs": 15,
@@ -61639,6 +62708,30 @@
     "founded": 2016,
     "teamSize": "51-200",
     "careersUrl": "https://propvr.ai/career"
+  },
+  {
+    "slug": "propzilla",
+    "name": "Propzilla",
+    "type": "startup",
+    "tier": "startup",
+    "tagline": "With over a decade of industry expertise and 2,000+ satisfied clients, Propzilla has emerged as a trusted name in…",
+    "sector": "Consumer",
+    "stage": "Unknown",
+    "tags": [
+      "Luxury Real Estate",
+      "Residential Real Estate",
+      "and Commercial Real Estate"
+    ],
+    "area": "Gurugram",
+    "address": "Gurugram, Delhi NCR",
+    "lat": 28.470746022497853,
+    "lng": 77.07805226865001,
+    "approx": true,
+    "hiring": true,
+    "openJobs": 2,
+    "domain": "propzilla.in",
+    "founded": 2015,
+    "teamSize": "11-50"
   },
   {
     "slug": "prorata",
@@ -61787,6 +62880,31 @@
     "founded": 2001,
     "teamSize": "51-200",
     "careersUrl": "https://providentcapital.in/career"
+  },
+  {
+    "slug": "prox-pc",
+    "name": "ProX PC",
+    "type": "startup",
+    "tier": "startup",
+    "tagline": "ProX PC is an IT hardware company founded in 2020, an official partner of NVIDIA, AMD, and Intel",
+    "sector": "Deeptech",
+    "stage": "Unknown",
+    "tags": [
+      "Artificial Intelligence",
+      "IoTs",
+      "Deep Learning",
+      "Machine Learning"
+    ],
+    "area": "Delhi",
+    "address": "Delhi, Delhi NCR",
+    "lat": 28.549770607281154,
+    "lng": 77.18118219028926,
+    "approx": true,
+    "hiring": true,
+    "openJobs": 1,
+    "domain": "proxpc.com",
+    "founded": 2020,
+    "teamSize": "11-50"
   },
   {
     "slug": "proxima-human-capital-management",
@@ -62041,7 +63159,7 @@
     "founded": 1990,
     "teamSize": "5000+",
     "tier": "startup",
-    "openJobs": 13,
+    "openJobs": 14,
     "hiring": true,
     "careersUrl": "https://careers.publicissapient.com/"
   },
@@ -62341,7 +63459,7 @@
     "lng": 77.05580864740044,
     "approx": true,
     "hiring": true,
-    "openJobs": 18,
+    "openJobs": 19,
     "domain": "jobs-ta.pwc.com",
     "teamSize": "5000+",
     "careersUrl": "https://cdn.phenompeople.com/CareerConnectResources/common/js/globalplatform/1781270809227_globalstyles.css"
@@ -62417,7 +63535,7 @@
     "lng": 77.07537572376204,
     "approx": true,
     "hiring": true,
-    "openJobs": 2,
+    "openJobs": 3,
     "domain": "qceptpresentations.com",
     "founded": 2019,
     "teamSize": "11-50"
@@ -62639,7 +63757,8 @@
     "openJobs": 2,
     "domain": "quadlabs.com",
     "founded": 2006,
-    "teamSize": "51-200"
+    "teamSize": "51-200",
+    "careersUrl": "https://quadlabs.com/Career/life-at-quadlabs"
   },
   {
     "slug": "quadrafort-technologies",
@@ -62737,7 +63856,7 @@
     "lng": 77.22882397527513,
     "approx": true,
     "hiring": true,
-    "openJobs": 1,
+    "openJobs": 2,
     "domain": "qcin.org",
     "founded": 1997,
     "teamSize": "1001-5000",
@@ -63177,7 +64296,7 @@
     "lng": 77.19807490267878,
     "approx": true,
     "hiring": true,
-    "openJobs": 21,
+    "openJobs": 22,
     "domain": "radissonhotels.com",
     "teamSize": "5000+",
     "careersUrl": "https://radissonhotels.com/careers"
@@ -64411,13 +65530,13 @@
       "Tax filing",
       "Book Keeping"
     ],
-    "area": "Delhi",
-    "address": "Delhi, Delhi NCR",
-    "lat": 28.56820768483989,
-    "lng": 77.19333506860723,
+    "area": "Gurugram",
+    "address": "Gurugram, Delhi NCR",
+    "lat": 28.44837760088928,
+    "lng": 77.05752451984179,
     "approx": true,
     "hiring": true,
-    "openJobs": 17,
+    "openJobs": 18,
     "domain": "RegisterKaro.in",
     "teamSize": "201-500"
   },
@@ -64514,6 +65633,31 @@
     "openJobs": 9,
     "domain": "relx.com",
     "teamSize": "1001-5000"
+  },
+  {
+    "slug": "renata-ai",
+    "name": "Renata AI",
+    "type": "startup",
+    "tier": "company",
+    "tagline": "Nexren AI (by Renata) partners with manufacturing enterprises to drive intelligent transformation — at scale",
+    "sector": "Consumer",
+    "stage": "Unknown",
+    "tags": [
+      "Industry 4.0",
+      "IIoT",
+      "Industrial Automation",
+      "Remote Monitoring"
+    ],
+    "area": "Gurugram",
+    "address": "Gurugram, Delhi NCR",
+    "lat": 28.42783315716441,
+    "lng": 77.06841127929596,
+    "approx": true,
+    "hiring": true,
+    "openJobs": 1,
+    "domain": "nexren.ai",
+    "founded": 2019,
+    "teamSize": "11-50"
   },
   {
     "slug": "ren-e-cosmetics",
@@ -65295,8 +66439,7 @@
     "lat": 28.586424944884534,
     "lng": 77.16807553179585,
     "approx": true,
-    "hiring": true,
-    "openJobs": 1,
+    "hiring": false,
     "domain": "risingqueens.in",
     "founded": 2016,
     "teamSize": "51-200"
@@ -65539,7 +66682,7 @@
     "lng": 77.3618090646498,
     "approx": true,
     "hiring": true,
-    "openJobs": 9,
+    "openJobs": 10,
     "domain": "roareducation.in",
     "founded": 2024,
     "teamSize": "11-50"
@@ -65564,7 +66707,7 @@
     "lng": 77.06718439132861,
     "approx": true,
     "hiring": true,
-    "openJobs": 2,
+    "openJobs": 1,
     "domain": "careers.roblox.com",
     "founded": 2004,
     "teamSize": "5000+",
@@ -66304,7 +67447,7 @@
     "lng": 77.08108189200819,
     "approx": true,
     "hiring": true,
-    "openJobs": 26,
+    "openJobs": 29,
     "domain": "rsmus.com",
     "founded": 1926,
     "teamSize": "5000+",
@@ -66512,7 +67655,7 @@
     "lng": 77.2445074483282,
     "approx": true,
     "hiring": true,
-    "openJobs": 1,
+    "openJobs": 2,
     "domain": "runmapglobal.com",
     "founded": 2009,
     "teamSize": "11-50",
@@ -66872,6 +68015,31 @@
     "careersUrl": "https://saaoldelhi.com/career/"
   },
   {
+    "slug": "saar-e-commerce-india-pvt-ltd",
+    "name": "SAAR E COMMERCE INDIA PVT LTD",
+    "type": "startup",
+    "tier": "company",
+    "tagline": "SAAR E-Commerce India Pvt",
+    "sector": "Deeptech",
+    "stage": "Unknown",
+    "tags": [
+      "recommerce",
+      "E-Commerce",
+      "Brand New Smartphones",
+      "Open Box Smartphones"
+    ],
+    "area": "Noida",
+    "address": "Noida, Delhi NCR",
+    "lat": 28.53620566113384,
+    "lng": 77.3494199571663,
+    "approx": true,
+    "hiring": true,
+    "openJobs": 2,
+    "domain": "saarbazaar.com",
+    "founded": 2017,
+    "teamSize": "11-50"
+  },
+  {
     "slug": "saas-labs",
     "name": "SaaS Labs",
     "type": "startup",
@@ -66988,7 +68156,7 @@
     "lng": 77.21217150281426,
     "approx": true,
     "hiring": true,
-    "openJobs": 1,
+    "openJobs": 2,
     "domain": "sadaysadev.org",
     "founded": 2020,
     "teamSize": "51-200"
@@ -67290,8 +68458,7 @@
     "lat": 28.565069914412923,
     "lng": 77.23892012820242,
     "approx": true,
-    "hiring": true,
-    "openJobs": 1,
+    "hiring": false,
     "domain": "salty.co.in",
     "teamSize": "51-200",
     "careersUrl": "https://salty.co.in/careers"
@@ -67480,7 +68647,8 @@
     "openJobs": 1,
     "domain": "samsungena.com",
     "founded": 1970,
-    "teamSize": "5000+"
+    "teamSize": "5000+",
+    "careersUrl": "https://samsungena.com/en/careers/talent-development"
   },
   {
     "slug": "samsung-india",
@@ -67592,7 +68760,8 @@
     "hiring": true,
     "openJobs": 1,
     "domain": "samuraiexports.com",
-    "teamSize": "11-50"
+    "teamSize": "11-50",
+    "careersUrl": "https://samuraiexports.com/careers/"
   },
   {
     "slug": "samvedna-development-society",
@@ -67805,6 +68974,31 @@
     "teamSize": "501-1000"
   },
   {
+    "slug": "sanzad-international",
+    "name": "Sanzad International",
+    "type": "startup",
+    "tier": "company",
+    "tagline": "We at Sanzad believe that travel is not just a one person job",
+    "sector": "Consumer",
+    "stage": "Unknown",
+    "tags": [
+      "Travels",
+      "Travel for Nature",
+      "Wild Life",
+      "and Photography"
+    ],
+    "area": "Noida",
+    "address": "Noida, Delhi NCR",
+    "lat": 28.597621908137402,
+    "lng": 77.37926070404627,
+    "approx": true,
+    "hiring": true,
+    "openJobs": 1,
+    "domain": "sanzadinternational.com",
+    "founded": 2017,
+    "teamSize": "11-50"
+  },
+  {
     "slug": "sap-labs-india",
     "name": "SAP Labs India",
     "type": "startup",
@@ -67826,6 +69020,26 @@
     "tier": "startup",
     "hiring": false,
     "careersUrl": "https://jobs.sap.com/?utm_source=CareerSite&amp;utm_campaign=CorpSite_FT"
+  },
+  {
+    "slug": "sara-designs",
+    "name": "Sara Designs",
+    "type": "startup",
+    "tier": "company",
+    "tagline": "At Sara Designs, our mission is to turn your vision into reality by creating beautiful, functional spaces that truly…",
+    "sector": "Other",
+    "stage": "Unknown",
+    "tags": [],
+    "area": "Gurugram",
+    "address": "Gurugram, Delhi NCR",
+    "lat": 28.467734526851718,
+    "lng": 77.08899572932735,
+    "approx": true,
+    "hiring": true,
+    "openJobs": 1,
+    "domain": "saradesigns.in",
+    "founded": 2014,
+    "teamSize": "11-50"
   },
   {
     "slug": "saroj-education-group",
@@ -67979,7 +69193,8 @@
     "openJobs": 1,
     "domain": "saturnnri.com",
     "founded": 2018,
-    "teamSize": "11-50"
+    "teamSize": "11-50",
+    "careersUrl": "https://saturnnri.com/careers"
   },
   {
     "slug": "satya-skin-and-hair-solutions",
@@ -68021,7 +69236,7 @@
     "lng": 77.03802929381331,
     "approx": true,
     "hiring": true,
-    "openJobs": 3,
+    "openJobs": 2,
     "domain": "saucelabs.com",
     "founded": 2008,
     "teamSize": "201-500",
@@ -68277,7 +69492,7 @@
     "lng": 77.09497428570823,
     "approx": true,
     "hiring": true,
-    "openJobs": 3,
+    "openJobs": 2,
     "domain": "schgroup.com",
     "teamSize": "201-500",
     "careersUrl": "https://schgroup.com/careers/"
@@ -68401,7 +69616,8 @@
     "openJobs": 4,
     "domain": "scikiq.com",
     "founded": 2023,
-    "teamSize": "11-50"
+    "teamSize": "11-50",
+    "careersUrl": "https://scikiq.com/career"
   },
   {
     "slug": "sciometrix",
@@ -68503,13 +69719,13 @@
     "sector": "Deeptech",
     "stage": "Unknown",
     "tags": [],
-    "area": "Delhi",
-    "address": "Delhi, Delhi NCR",
-    "lat": 28.581421301071938,
-    "lng": 77.19712342988299,
+    "area": "Gurugram",
+    "address": "Gurugram, Delhi NCR",
+    "lat": 28.461591217121327,
+    "lng": 77.06131288111756,
     "approx": true,
     "hiring": true,
-    "openJobs": 3,
+    "openJobs": 4,
     "domain": "scrapuncle.com",
     "founded": 2019,
     "teamSize": "51-200"
@@ -68683,7 +69899,7 @@
     "lng": 77.21179347104518,
     "approx": true,
     "hiring": true,
-    "openJobs": 7,
+    "openJobs": 8,
     "domain": "secninjaz.com",
     "founded": 2016,
     "teamSize": "51-200",
@@ -68728,8 +69944,7 @@
     "lat": 28.574604748064857,
     "lng": 77.22359273922685,
     "approx": true,
-    "hiring": true,
-    "openJobs": 1,
+    "hiring": false,
     "domain": "sehyog.co.uk",
     "founded": 2016,
     "teamSize": "11-50"
@@ -69280,7 +70495,7 @@
     "lng": 77.39164082505194,
     "approx": true,
     "hiring": true,
-    "openJobs": 3,
+    "openJobs": 4,
     "domain": "sharpassets.in",
     "founded": 2024,
     "teamSize": "11-50"
@@ -69305,7 +70520,7 @@
     "lng": 77.20068550492482,
     "approx": true,
     "hiring": true,
-    "openJobs": 2,
+    "openJobs": 1,
     "domain": "theshay.in",
     "founded": 2019,
     "teamSize": "11-50"
@@ -69380,6 +70595,26 @@
     "careersUrl": "https://www.shethepeople.tv/film-theatre/my-brilliant-career-netflix-chinese-australians-12257481"
   },
   {
+    "slug": "shft-in",
+    "name": "Shft-In",
+    "type": "startup",
+    "tier": "company",
+    "tagline": "Shft-In is a tech-driven fully managed home rental service provider",
+    "sector": "Healthtech",
+    "stage": "Unknown",
+    "tags": [],
+    "area": "Noida",
+    "address": "Noida, Delhi NCR",
+    "lat": 28.579092567703633,
+    "lng": 77.34282072427683,
+    "approx": true,
+    "hiring": true,
+    "openJobs": 4,
+    "domain": "shftin.com",
+    "founded": 2018,
+    "teamSize": "11-50"
+  },
+  {
     "slug": "shield-ai",
     "name": "Shield AI",
     "type": "startup",
@@ -69430,6 +70665,71 @@
     "founded": 2022,
     "teamSize": "51-200",
     "careersUrl": "https://shikshanation.com/careers"
+  },
+  {
+    "slug": "shiksolve-education-llp",
+    "name": "Shiksolve Education LLP",
+    "type": "startup",
+    "tier": "company",
+    "tagline": "Company Overview for LinkedIn Shiksolve Education is a trusted name in professional growth and development, dedicated…",
+    "sector": "Edtech",
+    "stage": "Unknown",
+    "tags": [],
+    "area": "Gurugram",
+    "address": "Gurugram, Delhi NCR",
+    "lat": 28.45616314082414,
+    "lng": 77.04028382116388,
+    "approx": true,
+    "hiring": true,
+    "openJobs": 2,
+    "domain": "shiksolveedu.com",
+    "founded": 2024,
+    "teamSize": "11-50"
+  },
+  {
+    "slug": "shipmozo",
+    "name": "Shipmozo",
+    "type": "startup",
+    "tier": "startup",
+    "tagline": "Shipmozo is a cutting-edge Multi-Carrier eCommerce shipping solution company that offers businesses of all sizes a…",
+    "sector": "Logistics",
+    "stage": "Unknown",
+    "tags": [],
+    "area": "Gurugram",
+    "address": "Gurugram, Delhi NCR",
+    "lat": 28.450416789626114,
+    "lng": 77.1158905404158,
+    "approx": true,
+    "hiring": true,
+    "openJobs": 2,
+    "domain": "shipmozo.com",
+    "founded": 2022,
+    "teamSize": "51-200"
+  },
+  {
+    "slug": "shipra-technologies",
+    "name": "Shipra Technologies",
+    "type": "startup",
+    "tier": "company",
+    "tagline": "We are one of the Cloud IT consultants, implementation & technical support service providers",
+    "sector": "SaaS",
+    "stage": "Unknown",
+    "tags": [
+      "Google",
+      "Microsoft",
+      "Amazon",
+      "Zoho"
+    ],
+    "area": "Noida",
+    "address": "Noida, Delhi NCR",
+    "lat": 28.55857748143087,
+    "lng": 77.39721603110942,
+    "approx": true,
+    "hiring": true,
+    "openJobs": 1,
+    "domain": "shipratech.com",
+    "founded": 2018,
+    "teamSize": "11-50"
   },
   {
     "slug": "shiprocket",
@@ -69872,7 +71172,7 @@
     "lng": 77.35446420562408,
     "approx": true,
     "hiring": true,
-    "openJobs": 4,
+    "openJobs": 3,
     "domain": "eda.sw.siemens.com",
     "teamSize": "5000+"
   },
@@ -70029,6 +71329,30 @@
     "hiring": false,
     "domain": "silverstem.in",
     "founded": 1990,
+    "teamSize": "11-50"
+  },
+  {
+    "slug": "silver-stroke-communications",
+    "name": "Silver Stroke Communications",
+    "type": "startup",
+    "tier": "startup",
+    "tagline": "We at Silver Stroke Communications, are a bunch of social media evangelists who are assiduous in driving a point across",
+    "sector": "Consumer",
+    "stage": "Unknown",
+    "tags": [
+      "Social Media Marketing",
+      "Online Reputation Management",
+      "SEO",
+      "and Content Management"
+    ],
+    "area": "Gurugram",
+    "address": "Gurugram, Delhi NCR",
+    "lat": 28.499916233444438,
+    "lng": 77.09030061309323,
+    "approx": true,
+    "hiring": true,
+    "openJobs": 1,
+    "domain": "silverstrokecommunications.com",
     "teamSize": "11-50"
   },
   {
@@ -70264,7 +71588,7 @@
     "lng": 77.20063576891414,
     "approx": true,
     "hiring": true,
-    "openJobs": 25,
+    "openJobs": 27,
     "domain": "sita.aero",
     "teamSize": "5000+",
     "careersUrl": "https://careers.sita.aero/"
@@ -70284,7 +71608,7 @@
     "lng": 77.38362899500068,
     "approx": true,
     "hiring": true,
-    "openJobs": 6,
+    "openJobs": 7,
     "domain": "siterecon.ai",
     "founded": 2020,
     "teamSize": "51-200",
@@ -70581,11 +71905,36 @@
     "lng": 77.35333212963359,
     "approx": true,
     "hiring": true,
-    "openJobs": 8,
+    "openJobs": 10,
     "domain": "skillinabox.in",
     "founded": 2019,
     "teamSize": "51-200",
     "careersUrl": "https://skillinabox.in/careers"
+  },
+  {
+    "slug": "skilllabs",
+    "name": "SkillLabs",
+    "type": "startup",
+    "tier": "startup",
+    "tagline": "𝐒𝐤𝐢𝐥𝐥𝐋𝐚𝐛𝐬 𝐑𝐞𝐬𝐨𝐮𝐫𝐜𝐞 𝐒𝐞𝐫𝐯𝐢𝐜𝐞𝐬 | 𝐈𝐧𝐝𝐮𝐬𝐭𝐫𝐲-𝐈𝐧𝐭𝐞𝐠𝐫𝐚𝐭𝐞𝐝 𝐁𝐮𝐬𝐢𝐧𝐞𝐬𝐬 &…",
+    "sector": "Edtech",
+    "stage": "Unknown",
+    "tags": [
+      "Consulting",
+      "Entrepreneurship",
+      "Financial Inclusion",
+      "and Employability"
+    ],
+    "area": "Noida",
+    "address": "Noida, Delhi NCR",
+    "lat": 28.581145376853407,
+    "lng": 77.39863850709084,
+    "approx": true,
+    "hiring": true,
+    "openJobs": 26,
+    "domain": "skilllabs.net",
+    "founded": 2016,
+    "teamSize": "51-200"
   },
   {
     "slug": "skillup-online",
@@ -70657,6 +72006,31 @@
     "domain": "skstechsolution.com",
     "founded": 2021,
     "teamSize": "51-200"
+  },
+  {
+    "slug": "skv-studiokon-ventures-private-limited",
+    "name": "SKV (Studiokon Ventures Private Limited)",
+    "type": "startup",
+    "tier": "company",
+    "tagline": "Creating spaces that matter",
+    "sector": "Other",
+    "stage": "Unknown",
+    "tags": [
+      "General Contracting",
+      "Turnkey Interior Solutions",
+      "Corporate Interiors",
+      "Design & Build"
+    ],
+    "area": "Gurugram",
+    "address": "Gurugram, Delhi NCR",
+    "lat": 28.466758550856603,
+    "lng": 77.09745921008843,
+    "approx": true,
+    "hiring": true,
+    "openJobs": 1,
+    "domain": "skvindia.com",
+    "founded": 2008,
+    "teamSize": "501-1000"
   },
   {
     "slug": "sky-communications-pr",
@@ -70763,6 +72137,31 @@
     "founded": 1998,
     "teamSize": "51-200",
     "careersUrl": "https://slp-holding.com/jobs"
+  },
+  {
+    "slug": "sltl-group-sahajanand-laser-technology-ltd",
+    "name": "SLTL Group - Sahajanand Laser Technology Ltd",
+    "type": "startup",
+    "tier": "company",
+    "tagline": "Sahajanand Laser Technology Limited (SLTL) - A pioneer in the field of lasers in India, caters to the need of various industries",
+    "sector": "Deeptech",
+    "stage": "Unknown",
+    "tags": [
+      "Laser Cutting",
+      "Laser Marking",
+      "Laser Welding",
+      "Laser Engraving"
+    ],
+    "area": "Delhi",
+    "address": "Delhi, Delhi NCR",
+    "lat": 28.612915800524235,
+    "lng": 77.21661899406567,
+    "approx": true,
+    "hiring": true,
+    "openJobs": 1,
+    "domain": "SLTL.com",
+    "founded": 1989,
+    "teamSize": "501-1000"
   },
   {
     "slug": "smarkupp-studios",
@@ -71211,7 +72610,8 @@
     "openJobs": 1,
     "domain": "snva.com",
     "founded": 2009,
-    "teamSize": "501-1000"
+    "teamSize": "501-1000",
+    "careersUrl": "https://snva.com/careers"
   },
   {
     "slug": "social-beat",
@@ -71327,7 +72727,7 @@
     "lng": 77.34762677870711,
     "approx": true,
     "hiring": true,
-    "openJobs": 9,
+    "openJobs": 10,
     "domain": "socialangel.org",
     "founded": 2024,
     "teamSize": "11-50",
@@ -71538,13 +72938,13 @@
       "data science",
       "machine learning"
     ],
-    "area": "Ghaziabad",
-    "address": "Ghaziabad, Delhi NCR",
-    "lat": 28.43562420191049,
-    "lng": 77.06246976448955,
+    "area": "Noida",
+    "address": "Noida, Delhi NCR",
+    "lat": 28.541014728138485,
+    "lng": 77.35022582464187,
     "approx": true,
     "hiring": true,
-    "openJobs": 57,
+    "openJobs": 60,
     "domain": "softcrayons.com",
     "founded": 2015,
     "teamSize": "11-50"
@@ -71682,6 +73082,26 @@
     "openJobs": 2,
     "domain": "solhapp.com",
     "teamSize": "11-50"
+  },
+  {
+    "slug": "solidcam-india",
+    "name": "SolidCAM INDIA",
+    "type": "startup",
+    "tier": "startup",
+    "tagline": "SolidCAM's CAM software, for all CNC applications, is seamlessly integrated into SOLIDWORKS and with full tool path…",
+    "sector": "SaaS",
+    "stage": "Unknown",
+    "tags": [],
+    "area": "Delhi",
+    "address": "Delhi, Delhi NCR",
+    "lat": 28.599270505744087,
+    "lng": 77.17839584356501,
+    "approx": true,
+    "hiring": true,
+    "openJobs": 1,
+    "domain": "solidcam.com",
+    "founded": 2008,
+    "teamSize": "51-200"
   },
   {
     "slug": "solis-technology",
@@ -72043,7 +73463,8 @@
     "openJobs": 1,
     "domain": "sourcingxpress.com",
     "founded": 2025,
-    "teamSize": "11-50"
+    "teamSize": "11-50",
+    "careersUrl": "https://sourcingxpress.com/jobs/new"
   },
   {
     "slug": "southco-inc",
@@ -72063,6 +73484,31 @@
     "domain": "southco.com",
     "founded": 1899,
     "teamSize": "1001-5000"
+  },
+  {
+    "slug": "southern-travels-pvt-ltd",
+    "name": "Southern Travels Pvt. Ltd.",
+    "type": "startup",
+    "tier": "company",
+    "tagline": "Southern Travels Pvt Ltd is synonymous with an undoubted assurance and absolute ease of travel headquartered in New…",
+    "sector": "Consumer",
+    "stage": "Unknown",
+    "tags": [
+      "Domestic Fixed Departures",
+      "Inbound Tours",
+      "Outbound - FIT and MICE",
+      "Hotel Bookings in India & International"
+    ],
+    "area": "Delhi",
+    "address": "Delhi, Delhi NCR",
+    "lat": 28.549272081387,
+    "lng": 77.1827619167877,
+    "approx": true,
+    "hiring": true,
+    "openJobs": 1,
+    "domain": "southerntravels.com",
+    "founded": 1970,
+    "teamSize": "201-500"
   },
   {
     "slug": "sova-health",
@@ -72132,7 +73578,8 @@
     "openJobs": 2,
     "domain": "spacetotech.com",
     "founded": 2022,
-    "teamSize": "11-50"
+    "teamSize": "11-50",
+    "careersUrl": "https://spacetotech.com/career"
   },
   {
     "slug": "sparix-global",
@@ -72914,6 +74361,31 @@
     "openJobs": 1
   },
   {
+    "slug": "srchout-software",
+    "name": "Srchout Software",
+    "type": "startup",
+    "tier": "startup",
+    "tagline": "Srchout Software is a leading software development company focused on building scalable, efficient, and user-centric…",
+    "sector": "SaaS",
+    "stage": "Unknown",
+    "tags": [
+      "App development",
+      "Android app development",
+      "IOS App development",
+      "ecommerce application development"
+    ],
+    "area": "Gurugram",
+    "address": "Gurugram, Delhi NCR",
+    "lat": 28.472341778625292,
+    "lng": 77.03131195440194,
+    "approx": true,
+    "hiring": true,
+    "openJobs": 1,
+    "domain": "srchoutsoftware.com",
+    "founded": 2018,
+    "teamSize": "11-50"
+  },
+  {
     "slug": "srf-limited",
     "name": "SRF Limited",
     "type": "startup",
@@ -73165,7 +74637,7 @@
     "lng": 77.19415635305553,
     "approx": true,
     "hiring": true,
-    "openJobs": 3,
+    "openJobs": 2,
     "domain": "stalwartsoft.com",
     "founded": 2014,
     "teamSize": "11-50",
@@ -73307,6 +74779,31 @@
     "careersUrl": "https://starconsultingglobal.com/careers"
   },
   {
+    "slug": "star-estate",
+    "name": "Star Estate",
+    "type": "startup",
+    "tier": "startup",
+    "tagline": "Star Estate is a synonymous to trust, known for honest and affordable dealing for the dream home that emerges through your eyes",
+    "sector": "Consumer",
+    "stage": "Unknown",
+    "tags": [
+      "Real Estate",
+      "Property",
+      "Property Investment",
+      "Properties"
+    ],
+    "area": "Ghaziabad",
+    "address": "Ghaziabad, Delhi NCR",
+    "lat": 28.427417765457815,
+    "lng": 77.0765908454876,
+    "approx": true,
+    "hiring": true,
+    "openJobs": 2,
+    "domain": "starestate.in",
+    "founded": 2012,
+    "teamSize": "501-1000"
+  },
+  {
     "slug": "starclinch-express",
     "name": "StarClinch Express",
     "type": "startup",
@@ -73402,7 +74899,7 @@
     "lng": 77.23492044719487,
     "approx": true,
     "hiring": true,
-    "openJobs": 2,
+    "openJobs": 3,
     "domain": "startupstorymedia.com",
     "founded": 2021,
     "teamSize": "11-50"
@@ -73608,10 +75105,30 @@
     "lng": 77.37819969234529,
     "approx": true,
     "hiring": true,
-    "openJobs": 9,
+    "openJobs": 10,
     "domain": "stefanini.com",
     "teamSize": "1001-5000",
     "careersUrl": "https://stefanini.com/en/careers-v2/"
+  },
+  {
+    "slug": "stefto",
+    "name": "Stefto",
+    "type": "startup",
+    "tier": "startup",
+    "tagline": "Stefto: Pioneering Digital Debt Collections & Recovery in India",
+    "sector": "Fintech",
+    "stage": "Unknown",
+    "tags": [],
+    "area": "Gurugram",
+    "address": "Gurugram, Delhi NCR",
+    "lat": 28.497271869978054,
+    "lng": 77.09012081175577,
+    "approx": true,
+    "hiring": true,
+    "openJobs": 1,
+    "domain": "stefto.com",
+    "founded": 2007,
+    "teamSize": "51-200"
   },
   {
     "slug": "stellar-gastronom",
@@ -73661,7 +75178,8 @@
     "openJobs": 2,
     "domain": "thestempedia.com",
     "founded": 2017,
-    "teamSize": "51-200"
+    "teamSize": "51-200",
+    "careersUrl": "https://thestempedia.com/careers/"
   },
   {
     "slug": "stemtech-medical-devices",
@@ -73728,7 +75246,7 @@
     "lng": 77.07124591068913,
     "approx": true,
     "hiring": true,
-    "openJobs": 3,
+    "openJobs": 2,
     "domain": "sterliteelectric.com",
     "teamSize": "1001-5000",
     "careersUrl": "https://sterliteelectric.com/life-at-sterlite"
@@ -73753,7 +75271,7 @@
     "lng": 77.08973561527476,
     "approx": true,
     "hiring": true,
-    "openJobs": 1,
+    "openJobs": 2,
     "founded": 2012,
     "teamSize": "11-50"
   },
@@ -74992,7 +76510,7 @@
     "lng": 77.19673459949763,
     "approx": true,
     "hiring": true,
-    "openJobs": 2,
+    "openJobs": 3,
     "domain": "surepass.io",
     "founded": 2019,
     "teamSize": "51-200",
@@ -75311,13 +76829,13 @@
     "sector": "Consumer",
     "stage": "Unknown",
     "tags": [],
-    "area": "Gurugram",
-    "address": "Gurugram, Delhi NCR",
-    "lat": 28.425230410661438,
-    "lng": 77.09381676889657,
+    "area": "Delhi",
+    "address": "Delhi, Delhi NCR",
+    "lat": 28.54506049461205,
+    "lng": 77.22962731766201,
     "approx": true,
     "hiring": true,
-    "openJobs": 4,
+    "openJobs": 6,
     "domain": "syncup.in",
     "founded": 2026,
     "teamSize": "11-50"
@@ -75907,7 +77425,7 @@
     "lng": 77.35974948560448,
     "approx": true,
     "hiring": true,
-    "openJobs": 2,
+    "openJobs": 3,
     "domain": "talent-rabbit.com",
     "founded": 2021,
     "teamSize": "11-50"
@@ -76141,8 +77659,7 @@
     "founded": 2015,
     "teamSize": "5000+",
     "tier": "startup",
-    "openJobs": 1,
-    "hiring": true,
+    "hiring": false,
     "careersUrl": "https://1mg.com/jobs"
   },
   {
@@ -76357,7 +77874,7 @@
     "lng": 77.05243660131255,
     "approx": true,
     "hiring": true,
-    "openJobs": 4,
+    "openJobs": 3,
     "domain": "tbo.com",
     "teamSize": "1001-5000",
     "careersUrl": "https://tbo.com/careers"
@@ -76565,7 +78082,7 @@
     "lng": 77.38207168236853,
     "approx": true,
     "hiring": true,
-    "openJobs": 17,
+    "openJobs": 16,
     "domain": "teamviewer.com",
     "teamSize": "1001-5000",
     "careersUrl": "https://www.teamviewer.com/en-in/global/company/careers/"
@@ -76666,7 +78183,8 @@
     "openJobs": 2,
     "domain": "cloudanalogy.com",
     "founded": 2015,
-    "teamSize": "11-50"
+    "teamSize": "11-50",
+    "careersUrl": "https://www.cloudanalogy.com/career/"
   },
   {
     "slug": "tech-data-apac",
@@ -76841,13 +78359,13 @@
       "Online Training",
       "SEO"
     ],
-    "area": "Delhi",
-    "address": "Delhi, Delhi NCR",
-    "lat": 28.58937481986555,
-    "lng": 77.1747574672567,
+    "area": "Noida",
+    "address": "Noida, Delhi NCR",
+    "lat": 28.574935262142937,
+    "lng": 77.32670297864358,
     "approx": true,
     "hiring": true,
-    "openJobs": 4,
+    "openJobs": 5,
     "domain": "techiegigs.com",
     "teamSize": "11-50",
     "careersUrl": "https://techiegigs.com/careers"
@@ -77664,7 +79182,7 @@
     "lng": 77.39389043712036,
     "approx": true,
     "hiring": true,
-    "openJobs": 1,
+    "openJobs": 2,
     "domain": "thebrandexact.com",
     "founded": 2018,
     "teamSize": "11-50"
@@ -78427,6 +79945,31 @@
     "teamSize": "201-500"
   },
   {
+    "slug": "the-red-carpet-ventures",
+    "name": "The Red Carpet Ventures",
+    "type": "startup",
+    "tier": "company",
+    "tagline": "TRCV is a professional event management company specializing in large-scale government, public, and corporate events",
+    "sector": "Other",
+    "stage": "Unknown",
+    "tags": [
+      "Corporate & Mice Events",
+      "Musical Concerts",
+      "Government Campaigns",
+      "Virtual Shows"
+    ],
+    "area": "Gurugram",
+    "address": "Gurugram, Delhi NCR",
+    "lat": 28.43894133917552,
+    "lng": 77.10743080320452,
+    "approx": true,
+    "hiring": true,
+    "openJobs": 1,
+    "domain": "trcv.in",
+    "founded": 2011,
+    "teamSize": "11-50"
+  },
+  {
     "slug": "the-sachdev-group-tsg-automotive",
     "name": "The Sachdev Group (TSG Automotive)",
     "type": "startup",
@@ -79023,7 +80566,7 @@
     "lng": 77.34293993675469,
     "approx": true,
     "hiring": true,
-    "openJobs": 1,
+    "openJobs": 2,
     "domain": "thynksuccess.com",
     "founded": 2016,
     "teamSize": "11-50",
@@ -79204,7 +80747,8 @@
     "hiring": true,
     "openJobs": 3,
     "domain": "timesnownews.com",
-    "teamSize": "1001-5000"
+    "teamSize": "1001-5000",
+    "careersUrl": "https://timesnownews.com/jobs"
   },
   {
     "slug": "tirth",
@@ -79357,7 +80901,7 @@
     "lng": 77.22702639385945,
     "approx": true,
     "hiring": true,
-    "openJobs": 3,
+    "openJobs": 4,
     "domain": "tncaviation.com",
     "founded": 2009,
     "teamSize": "11-50",
@@ -79523,7 +81067,7 @@
     "lng": 77.2339463898211,
     "approx": true,
     "hiring": true,
-    "openJobs": 3,
+    "openJobs": 4,
     "domain": "topsoe.com",
     "founded": 1940,
     "teamSize": "1001-5000",
@@ -79859,7 +81403,7 @@
     "lng": 77.38109277632078,
     "approx": true,
     "hiring": true,
-    "openJobs": 37,
+    "openJobs": 42,
     "domain": "trainingbasket.in",
     "founded": 2016,
     "teamSize": "51-200",
@@ -80135,10 +81679,11 @@
     "lng": 77.0464691651021,
     "approx": true,
     "hiring": true,
-    "openJobs": 1,
+    "openJobs": 2,
     "domain": "travelfreeby.com",
     "founded": 2017,
-    "teamSize": "11-50"
+    "teamSize": "11-50",
+    "careersUrl": "https://travelfreeby.com/career.html"
   },
   {
     "slug": "travel-junky",
@@ -80206,7 +81751,7 @@
     "lng": 77.07342885517052,
     "approx": true,
     "hiring": true,
-    "openJobs": 1,
+    "openJobs": 2,
     "domain": "travelobliss.com",
     "founded": 2020,
     "teamSize": "1-10"
@@ -80317,7 +81862,7 @@
     "lng": 77.17292210207718,
     "approx": true,
     "hiring": true,
-    "openJobs": 3,
+    "openJobs": 2,
     "domain": "trendmicro.com",
     "teamSize": "5000+",
     "careersUrl": "https://trendmicro.com/en_gb/about/careers.html"
@@ -80685,8 +82230,7 @@
     "lat": 28.56099604273227,
     "lng": 77.18814248900651,
     "approx": true,
-    "hiring": true,
-    "openJobs": 1,
+    "hiring": false,
     "domain": "truereckoner.com",
     "teamSize": "11-50",
     "careersUrl": "https://truereckoner.com/Career.php"
@@ -80706,7 +82250,7 @@
     "lng": 77.07168424204183,
     "approx": true,
     "hiring": true,
-    "openJobs": 4,
+    "openJobs": 3,
     "teamSize": "51-200"
   },
   {
@@ -80919,7 +82463,7 @@
     "lng": 77.1847083944711,
     "approx": true,
     "hiring": true,
-    "openJobs": 11,
+    "openJobs": 12,
     "domain": "turnerandtownsend.com",
     "founded": 1946,
     "teamSize": "5000+",
@@ -81509,7 +83053,8 @@
     "openJobs": 1,
     "domain": "ultramindlabs.com",
     "founded": 2024,
-    "teamSize": "11-50"
+    "teamSize": "11-50",
+    "careersUrl": "https://ultramindlabs.com/career"
   },
   {
     "slug": "umanist-na",
@@ -81525,13 +83070,13 @@
       "Software Development",
       "Embedded Technologies"
     ],
-    "area": "Delhi",
-    "address": "Delhi, Delhi NCR",
-    "lat": 28.54677587062044,
-    "lng": 77.19311902795523,
+    "area": "Noida",
+    "address": "Noida, Delhi NCR",
+    "lat": 28.532336312897826,
+    "lng": 77.34506453934212,
     "approx": true,
     "hiring": true,
-    "openJobs": 4,
+    "openJobs": 5,
     "domain": "umaniststaffing.com",
     "founded": 2022,
     "teamSize": "11-50"
@@ -81582,7 +83127,7 @@
     "founded": 2015,
     "teamSize": "1001-5000",
     "tier": "startup",
-    "openJobs": 6,
+    "openJobs": 5,
     "hiring": true,
     "careersUrl": "https://unacademy.com/careers"
   },
@@ -81606,6 +83151,26 @@
     "lng": 77.08022107135298,
     "approx": true,
     "hiring": false,
+    "teamSize": "11-50"
+  },
+  {
+    "slug": "unbox-industry",
+    "name": "Unbox Industry",
+    "type": "startup",
+    "tier": "company",
+    "tagline": "Unbox Industry is India's first platform providing a Marketplace for Automation Industry",
+    "sector": "Deeptech",
+    "stage": "Unknown",
+    "tags": [],
+    "area": "Gurugram",
+    "address": "Gurugram, Delhi NCR",
+    "lat": 28.43249274047402,
+    "lng": 77.06307184956431,
+    "approx": true,
+    "hiring": true,
+    "openJobs": 1,
+    "domain": "unboxindustry.com",
+    "founded": 2022,
     "teamSize": "11-50"
   },
   {
@@ -81793,7 +83358,8 @@
     "openJobs": 1,
     "domain": "ufsnetworks.com",
     "founded": 2012,
-    "teamSize": "11-50"
+    "teamSize": "11-50",
+    "careersUrl": "https://ufsnetworks.com/careers"
   },
   {
     "slug": "unified-mentor-private-limited",
@@ -81946,8 +83512,7 @@
     "lat": 28.472760289833747,
     "lng": 77.09216513558536,
     "approx": true,
-    "hiring": true,
-    "openJobs": 1,
+    "hiring": false,
     "domain": "unionliving.in",
     "teamSize": "51-200"
   },
@@ -82042,7 +83607,7 @@
     "lng": 77.35777853487029,
     "approx": true,
     "hiring": true,
-    "openJobs": 1,
+    "openJobs": 2,
     "domain": "unistal.com",
     "founded": 1994,
     "teamSize": "201-500",
@@ -82063,7 +83628,7 @@
     "lng": 77.07928757918953,
     "approx": true,
     "hiring": true,
-    "openJobs": 20,
+    "openJobs": 19,
     "domain": "careers.united.com",
     "teamSize": "51-200",
     "careersUrl": "https://careers.united.com/careers"
@@ -82126,7 +83691,7 @@
     "lng": 77.06029222787521,
     "approx": true,
     "hiring": true,
-    "openJobs": 8,
+    "openJobs": 9,
     "domain": "unitedlex.com",
     "founded": 2006,
     "teamSize": "1001-5000",
@@ -82146,13 +83711,13 @@
       "BFSI",
       "Legal"
     ],
-    "area": "Delhi",
-    "address": "Delhi, Delhi NCR",
-    "lat": 28.596960916793776,
-    "lng": 77.2204368454845,
+    "area": "Ghaziabad",
+    "address": "Ghaziabad, Delhi NCR",
+    "lat": 28.477130832843166,
+    "lng": 77.08462629671907,
     "approx": true,
     "hiring": true,
-    "openJobs": 7,
+    "openJobs": 8,
     "domain": "unitellindia.com",
     "founded": 1991,
     "teamSize": "11-50"
@@ -82268,7 +83833,7 @@
     "lng": 77.0799122334907,
     "approx": true,
     "hiring": true,
-    "openJobs": 2,
+    "openJobs": 3,
     "domain": "univisory.org",
     "founded": 2021,
     "teamSize": "11-50",
@@ -82988,7 +84553,7 @@
     "lng": 77.08747170303829,
     "approx": true,
     "hiring": true,
-    "openJobs": 4,
+    "openJobs": 5,
     "domain": "v2retail.com",
     "founded": 2011,
     "teamSize": "1001-5000",
@@ -83078,8 +84643,7 @@
     "lat": 28.562231920703642,
     "lng": 77.20074188268482,
     "approx": true,
-    "hiring": true,
-    "openJobs": 1,
+    "hiring": false,
     "domain": "va2pt.com",
     "founded": 2016,
     "teamSize": "11-50",
@@ -84184,8 +85748,7 @@
     "lat": 28.482001366860157,
     "lng": 77.06141547180842,
     "approx": true,
-    "hiring": true,
-    "openJobs": 1,
+    "hiring": false,
     "domain": "verolite.in",
     "founded": 2025,
     "teamSize": "1-10"
@@ -84490,7 +86053,8 @@
     "openJobs": 1,
     "domain": "vibranthospital.com",
     "founded": 2021,
-    "teamSize": "11-50"
+    "teamSize": "11-50",
+    "careersUrl": "https://vibranthospital.com/careers"
   },
   {
     "slug": "victorinox",
@@ -85079,6 +86643,25 @@
     "teamSize": "5000+"
   },
   {
+    "slug": "vision-square-inc",
+    "name": "Vision Square INC",
+    "type": "startup",
+    "tier": "startup",
+    "tagline": "Vision Square Inc, established in 2006, is a premier IT services and staffing firm dedicated to delivering high-quality…",
+    "sector": "SaaS",
+    "stage": "Unknown",
+    "tags": [],
+    "area": "Noida",
+    "address": "Noida, Delhi NCR",
+    "lat": 28.5935760264457,
+    "lng": 77.35623342142684,
+    "approx": true,
+    "hiring": true,
+    "openJobs": 1,
+    "domain": "visionsquareinc.com",
+    "teamSize": "11-50"
+  },
+  {
     "slug": "visionet-systems-inc",
     "name": "Visionet Systems Inc.",
     "type": "startup",
@@ -85549,7 +87132,7 @@
     "lng": 77.22929017653284,
     "approx": true,
     "hiring": true,
-    "openJobs": 2,
+    "openJobs": 3,
     "domain": "vrikshitfoundation.org",
     "founded": 2019,
     "teamSize": "201-500"
@@ -85701,7 +87284,8 @@
     "openJobs": 1,
     "domain": "vyntelligence.com",
     "founded": 2013,
-    "teamSize": "51-200"
+    "teamSize": "51-200",
+    "careersUrl": "https://vyntelligence.com/careers"
   },
   {
     "slug": "vysystems",
@@ -86170,11 +87754,36 @@
     "lng": 77.2396998129096,
     "approx": true,
     "hiring": true,
-    "openJobs": 5,
+    "openJobs": 4,
     "domain": "thewebgross.com",
     "founded": 2018,
     "teamSize": "11-50",
     "careersUrl": "https://thewebgross.com/careers"
+  },
+  {
+    "slug": "webmatriks-a-digital-marketing-agency-in-india",
+    "name": "WebMatriks: A Digital Marketing Agency in India",
+    "type": "startup",
+    "tier": "company",
+    "tagline": "Established in 2016, WebMatriks Technologies is a IT Certified Company which has ripened to become a global service…",
+    "sector": "Consumer",
+    "stage": "Unknown",
+    "tags": [
+      "Custom Applications Development",
+      "Smartphone Application Development",
+      "Digital Marketing",
+      "Web Design & Development"
+    ],
+    "area": "Faridabad",
+    "address": "Faridabad, Delhi NCR",
+    "lat": 28.433862820871536,
+    "lng": 77.32199125330455,
+    "approx": true,
+    "hiring": true,
+    "openJobs": 1,
+    "domain": "webmatriks.com",
+    "founded": 2016,
+    "teamSize": "11-50"
   },
   {
     "slug": "website-pandas",
@@ -86269,7 +87878,8 @@
     "openJobs": 1,
     "domain": "wechartered.com",
     "founded": 2009,
-    "teamSize": "51-200"
+    "teamSize": "51-200",
+    "careersUrl": "https://wechartered.com/careers"
   },
   {
     "slug": "wecredit",
@@ -86470,7 +88080,7 @@
     "lng": 77.05057152391608,
     "approx": true,
     "hiring": true,
-    "openJobs": 5,
+    "openJobs": 4,
     "domain": "wellbeingnutrition.com",
     "founded": 2019,
     "teamSize": "51-200",
@@ -87749,7 +89359,7 @@
     "lng": 77.2449853495232,
     "approx": true,
     "hiring": true,
-    "openJobs": 2,
+    "openJobs": 1,
     "domain": "go.wri.org",
     "founded": 1982,
     "teamSize": "1001-5000",
@@ -87911,7 +89521,7 @@
     "lng": 77.04985048240069,
     "approx": true,
     "hiring": true,
-    "openJobs": 1,
+    "openJobs": 2,
     "domain": "wppproduction.com",
     "founded": 2008,
     "teamSize": "201-500",
@@ -87989,7 +89599,7 @@
     "lng": 77.3567964458591,
     "approx": true,
     "hiring": true,
-    "openJobs": 243,
+    "openJobs": 244,
     "domain": "wsp.com",
     "founded": 1959,
     "teamSize": "1001-5000"
@@ -88131,6 +89741,25 @@
     "founded": 2024,
     "teamSize": "11-50",
     "careersUrl": "https://wyzard.ai/careers"
+  },
+  {
+    "slug": "xcelerate-media",
+    "name": "XCELERATE MEDIA",
+    "type": "startup",
+    "tier": "company",
+    "tagline": "At XCELERATE MEDIA, we give ambition a voice",
+    "sector": "Consumer",
+    "stage": "Unknown",
+    "tags": [],
+    "area": "Noida",
+    "address": "Noida, Delhi NCR",
+    "lat": 28.60749347038611,
+    "lng": 77.34676390067605,
+    "approx": true,
+    "hiring": true,
+    "openJobs": 1,
+    "founded": 2025,
+    "teamSize": "11-50"
   },
   {
     "slug": "xcelore",
@@ -88754,7 +90383,8 @@
     "openJobs": 1,
     "domain": "yogesher.com",
     "founded": 2020,
-    "teamSize": "51-200"
+    "teamSize": "51-200",
+    "careersUrl": "https://yogesher.com/career/"
   },
   {
     "slug": "yogi-arts-design-school",
@@ -88963,7 +90593,7 @@
     "lng": 77.1022632912589,
     "approx": true,
     "hiring": true,
-    "openJobs": 12,
+    "openJobs": 13,
     "domain": "yum.com",
     "teamSize": "5000+",
     "careersUrl": "https://yum.com/wps/portal/yumbrands/Yumbrands/careers/"
@@ -89056,6 +90686,26 @@
     "hiring": false
   },
   {
+    "slug": "zakkaa-home-decor",
+    "name": "ZAKKAA HOME DECOR",
+    "type": "startup",
+    "tier": "company",
+    "tagline": "Zakkaa Home Decor – A trusted name in metal furniture and storage solutions",
+    "sector": "Deeptech",
+    "stage": "Unknown",
+    "tags": [],
+    "area": "Gurugram",
+    "address": "Gurugram, Delhi NCR",
+    "lat": 28.503724635950977,
+    "lng": 77.0823712649071,
+    "approx": true,
+    "hiring": true,
+    "openJobs": 1,
+    "domain": "zakkaa.com",
+    "founded": 2025,
+    "teamSize": "11-50"
+  },
+  {
     "slug": "zappfresh",
     "name": "Zappfresh",
     "type": "startup",
@@ -89078,7 +90728,8 @@
     "openJobs": 1,
     "domain": "zappfresh.com",
     "founded": 2015,
-    "teamSize": "11-50"
+    "teamSize": "11-50",
+    "careersUrl": "https://zappfresh.com/careers"
   },
   {
     "slug": "zaprev-ai",
@@ -89141,7 +90792,7 @@
     "lng": 77.04522032192847,
     "approx": true,
     "hiring": true,
-    "openJobs": 3,
+    "openJobs": 4,
     "domain": "zavya.co",
     "founded": 2021,
     "teamSize": "51-200",
@@ -89193,7 +90844,7 @@
     "lng": 77.18046833871827,
     "approx": true,
     "hiring": true,
-    "openJobs": 2,
+    "openJobs": 3,
     "domain": "zentechnologies.com",
     "founded": 1993,
     "teamSize": "501-1000",
@@ -89320,6 +90971,28 @@
     "openJobs": 7,
     "domain": "zettamine.com",
     "founded": 2018,
+    "teamSize": "51-200"
+  },
+  {
+    "slug": "zex-pr-wire",
+    "name": "ZEX PR WIRE®",
+    "type": "startup",
+    "tier": "startup",
+    "tagline": "ZEX PR Wire is a global PR publishing and press release distribution platform designed to support in-house…",
+    "sector": "Other",
+    "stage": "Unknown",
+    "tags": [
+      "‏Public Relations، guest posting، content marketing، و Press Release Distribution‏"
+    ],
+    "area": "Noida",
+    "address": "Noida, Delhi NCR",
+    "lat": 28.553066039615526,
+    "lng": 77.40567298852615,
+    "approx": true,
+    "hiring": true,
+    "openJobs": 1,
+    "domain": "zexprwire.com",
+    "founded": 2020,
     "teamSize": "51-200"
   },
   {

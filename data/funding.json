@@ -1,11 +1,18 @@
 {
   "urban-company": {
     "amount": "₹2,500 Cr",
-    "title": "Urban Company Board Clears Plans To Raise Up To ₹2,500 Cr",
-    "url": "https://inc42.com/buzz/urban-company-board-clears-plans-to-raise-up-to-%e2%82%b92500-cr/",
-    "date": "Fri, 16 Oct 2026 11:57:51 +0000",
+    "title": "Decoding Urban Company’s ₹2,500 Cr Fundraise Proposal",
+    "url": "https://inc42.com/buzz/decoding-urban-companys-%e2%82%b92500-cr-fundraise-proposal/",
+    "date": "Sat, 17 Oct 2026 15:42:22 +0000",
     "source": "Inc42",
     "history": [
+      {
+        "amount": "₹2,500 Cr",
+        "title": "Urban Company Board Clears Plans To Raise Up To ₹2,500 Cr",
+        "url": "https://inc42.com/buzz/urban-company-board-clears-plans-to-raise-up-to-%e2%82%b92500-cr/",
+        "date": "Fri, 16 Oct 2026 11:57:51 +0000",
+        "source": "Inc42"
+      },
       {
         "amount": "₹854 Cr",
         "title": "Urban Company Secures rs 854 cr From Anchor Investors",
@@ -43,13 +50,44 @@
         "url": "https://entrackr.com/news/urban-company-board-approves-rs-528-cr-primary-fundraise-via-ipo-8947688",
         "date": "2025-04-10",
         "source": "Entrackr"
+      }
+    ]
+  },
+  "battery-smart": {
+    "amount": "$10 Mn",
+    "round": "Series C",
+    "title": "Exclusive: Battery Smart tops up Series C round with $10 Mn",
+    "url": "https://entrackr.com/exclusive/exclusive-battery-smart-tops-up-series-c-round-with-10-mn-12684307",
+    "date": "Sat, 17 Oct 2026 13:14:27 +0530",
+    "source": "Entrackr",
+    "history": [
+      {
+        "round": "Debt",
+        "title": "Battery Smart Secures 15 mn in Debt From Mirova",
+        "url": "https://entrackr.com/snippets/battery-smart-secures-15-mn-in-debt-from-mirova-11774330",
+        "date": "2026-04-28",
+        "source": "Entrackr"
       },
       {
-        "amount": "₹400 Cr",
-        "title": "Urban Company Raises INR 400 Cr From Dharana Capital Via Secondary Deal",
-        "url": "https://inc42.com/buzz/urban-company-raises-inr-400-cr-from-dharana-capital-via-secondary-deal/",
-        "date": "2024-07-17",
-        "source": "Inc42"
+        "round": "Pre Series C",
+        "title": "Exclusive Battery Smart Kicks Off Pre Series c Funding Round",
+        "url": "https://entrackr.com/exclusive/exclusive-battery-smart-kicks-off-pre-series-c-funding-round-11176828",
+        "date": "2026-03-05",
+        "source": "Entrackr"
+      },
+      {
+        "round": "Series B",
+        "title": "Battery Smart Raises 65 mn in Series b Round",
+        "url": "https://entrackr.com/2024/06/battery-smart-raises-65-mn-in-series-b-round/",
+        "date": "2024-06-11",
+        "source": "Entrackr"
+      },
+      {
+        "round": "Pre Series B",
+        "title": "Tiger Global Backed Battery Smart Raises 33 mn in Pre Series b",
+        "url": "https://entrackr.com/2023/07/tiger-global-backed-battery-smart-raises-33-mn-in-pre-series-b/",
+        "date": "2023-07-06",
+        "source": "Entrackr"
       }
     ]
   },
@@ -857,14 +895,31 @@
     "source": "Entrackr",
     "history": []
   },
-  "razorpay": {
+  "confidential": {
     "amount": "$600 Mn",
     "round": "IPO",
     "title": "Razorpay Files Confidential IPO Papers To Raise $600 Mn",
     "url": "https://inc42.com/buzz/razorpay-files-confidential-ipo-papers-to-raise-600-mn/",
     "date": "2026-06-15",
     "source": "Inc42",
-    "history": []
+    "history": [
+      {
+        "amount": "₹600800 Cr",
+        "round": "IPO",
+        "title": "Rediff Files Confidential Ipo Papers Targets rs 600800 cr Fundraise",
+        "url": "https://entrackr.com/news/rediff-files-confidential-ipo-papers-targets-rs-600800-cr-fundraise-11442381",
+        "date": "2026-04-01",
+        "source": "Entrackr"
+      },
+      {
+        "amount": "₹11000 Cr",
+        "round": "IPO",
+        "title": "Zepto Board Approves rs 11000 cr Raise Ahead of Confidential Ipo Filing",
+        "url": "https://entrackr.com/news/zepto-board-approves-rs-11000-cr-raise-ahead-of-confidential-ipo-filing-10947108",
+        "date": "2025-12-25",
+        "source": "Entrackr"
+      }
+    ]
   },
   "lenskart": {
     "amount": "$28 Mn",
@@ -1383,36 +1438,6 @@
     "date": "2026-04-29",
     "source": "Entrackr",
     "history": []
-  },
-  "battery-smart": {
-    "round": "Debt",
-    "title": "Battery Smart Secures 15 mn in Debt From Mirova",
-    "url": "https://entrackr.com/snippets/battery-smart-secures-15-mn-in-debt-from-mirova-11774330",
-    "date": "2026-04-28",
-    "source": "Entrackr",
-    "history": [
-      {
-        "round": "Pre Series C",
-        "title": "Exclusive Battery Smart Kicks Off Pre Series c Funding Round",
-        "url": "https://entrackr.com/exclusive/exclusive-battery-smart-kicks-off-pre-series-c-funding-round-11176828",
-        "date": "2026-03-05",
-        "source": "Entrackr"
-      },
-      {
-        "round": "Series B",
-        "title": "Battery Smart Raises 65 mn in Series b Round",
-        "url": "https://entrackr.com/2024/06/battery-smart-raises-65-mn-in-series-b-round/",
-        "date": "2024-06-11",
-        "source": "Entrackr"
-      },
-      {
-        "round": "Pre Series B",
-        "title": "Tiger Global Backed Battery Smart Raises 33 mn in Pre Series b",
-        "url": "https://entrackr.com/2023/07/tiger-global-backed-battery-smart-raises-33-mn-in-pre-series-b/",
-        "date": "2023-07-06",
-        "source": "Entrackr"
-      }
-    ]
   },
   "snabbit": {
     "round": "Series D",
