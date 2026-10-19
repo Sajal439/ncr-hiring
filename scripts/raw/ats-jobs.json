@@ -45,20 +45,6 @@
       "source": "careers"
     }
   ],
-  "smart-working": [
-    {
-      "title": "Lead PHP/Symfony Engineer (Remote, Full-Time) - [HR191]",
-      "url": "https://jobs.lever.co/smart-working-solutions/eb63f1a9-443b-48a4-88ec-99c8516a8c06",
-      "location": "Noida",
-      "source": "careers"
-    },
-    {
-      "title": "QA Automation Engineer (Remote, Full-Time) [HR217]",
-      "url": "https://jobs.lever.co/smart-working-solutions/9f10f23e-e6e5-4104-bf02-dc7e16f2f9bb",
-      "location": "Delhi",
-      "source": "careers"
-    }
-  ],
   "paypay-india": [
     {
       "title": "01.Backend Engineer",
@@ -127,11 +113,17 @@
       "source": "careers"
     }
   ],
-  "primevigilance": [
+  "athena-education": [
     {
-      "title": "Operations Manager (PV Technology)",
-      "url": "https://careers.smartrecruiters.com/Ergomed/744000155453259",
-      "location": "Noida, in",
+      "title": "Associate/ Associate Manager - Writing",
+      "url": "https://jobs.lever.co/athena-education/8f9cb4b5-155f-4eae-8f77-ef801a4110da",
+      "location": "Gurugram",
+      "source": "careers"
+    },
+    {
+      "title": "Technical Director- Writing",
+      "url": "https://jobs.lever.co/athena-education/4b1432e7-7ed4-4502-9441-506861d6ebe9",
+      "location": "Gurugram",
       "source": "careers"
     }
   ],
@@ -163,6 +155,14 @@
       "source": "careers"
     }
   ],
+  "primevigilance": [
+    {
+      "title": "Operations Manager (PV Technology)",
+      "url": "https://careers.smartrecruiters.com/Ergomed/744000155453259",
+      "location": "Noida, in",
+      "source": "careers"
+    }
+  ],
   "wizikey": [
     {
       "title": "Sales Executive - B2B SaaS",
@@ -180,38 +180,6 @@
       "title": "Sales Manager – Media Sales & Advertising Sales( 4-8 yrs)",
       "url": "https://careers.smartrecruiters.com/Wizikey/744000147203109",
       "location": "Gurugram, in",
-      "source": "careers"
-    }
-  ],
-  "alphasense": [
-    {
-      "title": "Business Analyst II",
-      "url": "https://job-boards.greenhouse.io/alphasense/jobs/8857586002",
-      "location": "Delhi",
-      "source": "careers"
-    },
-    {
-      "title": "Compliance Analyst",
-      "url": "https://job-boards.greenhouse.io/alphasense/jobs/8630664002",
-      "location": "Delhi",
-      "source": "careers"
-    },
-    {
-      "title": "Compliance Analyst, Expert Network",
-      "url": "https://job-boards.greenhouse.io/alphasense/jobs/8693025002",
-      "location": "Delhi",
-      "source": "careers"
-    },
-    {
-      "title": "Content Analyst",
-      "url": "https://job-boards.greenhouse.io/alphasense/jobs/8025882002",
-      "location": "Delhi",
-      "source": "careers"
-    },
-    {
-      "title": "Join AlphaSense India Talent Community",
-      "url": "https://job-boards.greenhouse.io/alphasense/jobs/7119398002",
-      "location": "Delhi",
       "source": "careers"
     }
   ],
@@ -301,6 +269,52 @@
       "source": "careers"
     }
   ],
+  "alphasense": [
+    {
+      "title": "Business Analyst II",
+      "url": "https://job-boards.greenhouse.io/alphasense/jobs/8857586002",
+      "location": "Delhi",
+      "source": "careers"
+    },
+    {
+      "title": "Compliance Analyst",
+      "url": "https://job-boards.greenhouse.io/alphasense/jobs/8630664002",
+      "location": "Delhi",
+      "source": "careers"
+    },
+    {
+      "title": "Compliance Analyst, Expert Network",
+      "url": "https://job-boards.greenhouse.io/alphasense/jobs/8693025002",
+      "location": "Delhi",
+      "source": "careers"
+    },
+    {
+      "title": "Content Analyst",
+      "url": "https://job-boards.greenhouse.io/alphasense/jobs/8025882002",
+      "location": "Delhi",
+      "source": "careers"
+    },
+    {
+      "title": "Join AlphaSense India Talent Community",
+      "url": "https://job-boards.greenhouse.io/alphasense/jobs/7119398002",
+      "location": "Delhi",
+      "source": "careers"
+    }
+  ],
+  "smart-working": [
+    {
+      "title": "Lead PHP/Symfony Engineer (Remote, Full-Time) - [HR191]",
+      "url": "https://jobs.lever.co/smart-working-solutions/eb63f1a9-443b-48a4-88ec-99c8516a8c06",
+      "location": "Noida",
+      "source": "careers"
+    },
+    {
+      "title": "QA Automation Engineer (Remote, Full-Time) [HR217]",
+      "url": "https://jobs.lever.co/smart-working-solutions/9f10f23e-e6e5-4104-bf02-dc7e16f2f9bb",
+      "location": "Delhi",
+      "source": "careers"
+    }
+  ],
   "cint": [
     {
       "title": "Senior Analyst, Survey Programming & Data Scrubbing ",
@@ -318,20 +332,6 @@
       "title": "Survey Programming & Data Scrubbing Consultant",
       "url": "https://careers.smartrecruiters.com/Cint/744000152914180",
       "location": "Gurugram, in",
-      "source": "careers"
-    }
-  ],
-  "athena-education": [
-    {
-      "title": "Associate/ Associate Manager - Writing",
-      "url": "https://jobs.lever.co/athena-education/8f9cb4b5-155f-4eae-8f77-ef801a4110da",
-      "location": "Gurugram",
-      "source": "careers"
-    },
-    {
-      "title": "Technical Director- Writing",
-      "url": "https://jobs.lever.co/athena-education/4b1432e7-7ed4-4502-9441-506861d6ebe9",
-      "location": "Gurugram",
       "source": "careers"
     }
   ],

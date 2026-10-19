@@ -16134,7 +16134,7 @@
   },
   {
     "kind": "job",
-    "title": "Operations Associate (Female)",
+    "title": "Operations Associate",
     "company": "Alt Tribe",
     "location": "Delhi",
     "url": "https://internshala.com/job/detail/store-experience-sales-specialist-job-in-delhi-at-alt-tribe1791265968",
@@ -18132,5 +18132,115 @@
     "location": "Gurgaon",
     "url": "https://internshala.com/job/detail/fresher-inside-sales-specialist-job-in-gurgaon-at-snyllo-estetica1792152292",
     "actively_hiring": true
+  },
+  {
+    "kind": "internship",
+    "title": "Financial Accountant",
+    "company": "Rekha Gupta & Associates",
+    "location": "Delhi",
+    "stipend": "₹ 8,000 - 15,000 /month",
+    "duration": "6 Months",
+    "url": "https://internshala.com/internship/detail/financial-accountant-internship-in-delhi-at-rekha-gupta-associates1792339088",
+    "actively_hiring": true
+  },
+  {
+    "kind": "internship",
+    "title": "Teaching",
+    "company": "Scope For Change",
+    "location": "Delhi, Gurgaon",
+    "stipend": "₹ 8,000 - 10,000 /month",
+    "duration": "6 Months",
+    "url": "https://internshala.com/internship/detail/teaching-internship-in-multiple-locations-at-scope-for-change1792383833",
+    "actively_hiring": true
+  },
+  {
+    "kind": "internship",
+    "title": "Legal",
+    "company": "MARS Cosmetics",
+    "location": "Delhi",
+    "stipend": "₹ 13,000 - 15,000 /month",
+    "duration": "3 Months",
+    "url": "https://internshala.com/internship/detail/legal-internship-in-delhi-at-mars-cosmetics1792385284",
+    "actively_hiring": true
+  },
+  {
+    "kind": "internship",
+    "title": "Teaching",
+    "company": "Scope For Change",
+    "location": "Delhi",
+    "stipend": "₹ 16,000 - 20,000 /month",
+    "duration": "6 Months",
+    "url": "https://internshala.com/internship/detail/part-time-teaching-internship-in-delhi-at-scope-for-change1792383775",
+    "actively_hiring": true
+  },
+  {
+    "kind": "internship",
+    "title": "Founders Office - Growth & Marketing",
+    "company": "NKS Royaluxuria",
+    "location": "Delhi, Gurgaon, Noida",
+    "stipend": "₹ 17,000 - 28,000 /month",
+    "duration": "3 Months",
+    "url": "https://internshala.com/internship/detail/founders-office-growth-marketing-internship-in-multiple-locations-at-nks-royaluxuria1792384932",
+    "actively_hiring": true
+  },
+  {
+    "kind": "internship",
+    "title": "Inside Sales",
+    "company": "RPATech",
+    "location": "Gurgaon",
+    "stipend": "₹ 15,000 /month",
+    "duration": "6 Months",
+    "url": "https://internshala.com/internship/detail/inside-sales-internship-in-gurgaon-at-rpatech1792047159",
+    "actively_hiring": true
+  },
+  {
+    "kind": "internship",
+    "title": "Content Writing",
+    "company": "Backdropsource Carolina Technology Solutions Private Limited",
+    "location": "Noida",
+    "stipend": "₹ 9,000 - 12,000 /month",
+    "duration": "6 Months",
+    "url": "https://internshala.com/internship/detail/content-writing-internship-in-noida-at-backdropsource-carolina-technology-solutions-private-limited1792320261",
+    "actively_hiring": true
+  },
+  {
+    "kind": "job",
+    "title": "Travel Consultant",
+    "company": "Hodophile Travels Private Limited",
+    "location": "Delhi",
+    "url": "https://internshala.com/job/detail/travel-consultant-job-in-delhi-at-hodophile-travels-private-limited1792137666",
+    "actively_hiring": true
+  },
+  {
+    "kind": "job",
+    "title": "Business Development Associate",
+    "company": "Innoknowvex",
+    "location": "Pune, Navi Mumbai, Mumbai, Delhi, Kerala Estate",
+    "url": "https://internshala.com/job/detail/fresher-business-development-associate-job-in-multiple-locations-at-innoknowvex1792384666",
+    "actively_hiring": true
+  },
+  {
+    "kind": "job",
+    "title": "High Ticket Sales Closer (B2C)",
+    "company": "Nishant Chauhan",
+    "location": "Delhi",
+    "url": "https://internshala.com/job/detail/high-ticket-sales-closer-b2c-job-in-delhi-at-nishant-chauhan1792384998",
+    "actively_hiring": true
+  },
+  {
+    "kind": "job",
+    "title": "Business Analyst",
+    "company": "DeepThought CultureTech Ventures Private Limited",
+    "location": "Gurgaon",
+    "url": "https://internshala.com/job/detail/fresher-business-analyst-job-in-gurgaon-at-deepthought-culturetech-ventures-private-limited1792385168",
+    "actively_hiring": true
+  },
+  {
+    "kind": "job",
+    "title": "STEM Expert",
+    "company": "Space Foundation",
+    "location": "Ghaziabad, Gurgaon, Delhi, Noida",
+    "url": "https://internshala.com/job/detail/fresher-stem-expert-job-in-multiple-locations-at-space-foundation1791877437",
+    "actively_hiring": false
   }
 ]
