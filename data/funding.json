@@ -1,17 +1,107 @@
 {
+  "invest-india": {
+    "amount": "₹35 Cr",
+    "title": "IndiQube to invest Rs 35 Cr in SaiEdge Realty for 49% stake",
+    "url": "https://entrackr.com/news/indiqube-to-invest-rs-35-cr-in-saiedge-realty-for-49-stake-12690289",
+    "date": "Mon, 19 Oct 2026 19:19:33 +0530",
+    "source": "Entrackr",
+    "history": [
+      {
+        "amount": "$550 Mn",
+        "title": "Accel Closes Ninth India Fund With $550 Mn Corpus To Invest In AI, Deeptech",
+        "url": "https://inc42.com/buzz/accel-closes-ninth-india-fund-with-550-mn-corpus-to-invest-in-ai-deeptech/",
+        "date": "2026-08-12",
+        "source": "Inc42"
+      },
+      {
+        "amount": "$250 Mn",
+        "title": "Semiconductor Major Marvell To Invest $250 Mn in India, Double Headcount",
+        "url": "https://inc42.com/buzz/semiconductor-major-marvell-to-invest-250-mn-in-india-double-headcount/",
+        "date": "2026-07-29",
+        "source": "Inc42"
+      },
+      {
+        "amount": "₹65 Cr",
+        "title": "IndiaMART To Invest ₹65 Cr More In Fleetx, Raise Stake To 25.8%",
+        "url": "https://inc42.com/buzz/indiamart-to-invest-%e2%82%b965-cr-more-in-fleetx-raise-stake-to-25-8/",
+        "date": "2026-07-27",
+        "source": "Inc42"
+      },
+      {
+        "amount": "₹100 Cr",
+        "title": "Paytm Drops Bonus Share Plan to Invest rs 100 cr in Paytm Money",
+        "url": "https://entrackr.com/news/paytm-drops-bonus-share-plan-to-invest-rs-100-cr-in-paytm-money-12183396",
+        "date": "2026-07-21",
+        "source": "Entrackr"
+      },
+      {
+        "amount": "₹15,000 Cr",
+        "title": "Delhi Government Plans To Invest ₹15,000 Cr To Fuel Electric Mobility",
+        "url": "https://inc42.com/buzz/delhi-government-plans-to-invest-%e2%82%b915000-cr-to-fuel-electric-mobility/",
+        "date": "2026-06-29",
+        "source": "Inc42"
+      },
+      {
+        "amount": "$30 Bn",
+        "title": "AirTrunk To Invest $30 Bn In India To Set Up 5 GW Data Centre",
+        "url": "https://inc42.com/buzz/airtrunk-to-invest-30-bn-in-india-to-set-up-5-gw-data-centre/",
+        "date": "2026-06-05",
+        "source": "Inc42"
+      }
+    ]
+  },
+  "even-healthcare": {
+    "amount": "$50 Mn",
+    "title": "Even Healthcare Raises $50 Mn To Expand Hospital Network Across Bengaluru",
+    "url": "https://inc42.com/buzz/even-healthcare-raises-50-mn-to-expand-hospital-network-across-bengaluru/",
+    "date": "Mon, 19 Oct 2026 08:05:42 +0000",
+    "source": "Inc42",
+    "history": [
+      {
+        "amount": "$50 Mn",
+        "round": "Series B",
+        "title": "Even Healthcare raises $50 Mn in Series B led by Khosla Ventures",
+        "url": "https://entrackr.com/news/even-healthcare-raises-50-mn-in-series-b-led-by-khosla-ventures-12688553",
+        "date": "Mon, 19 Oct 2026 13:30:37 +0530",
+        "source": "Entrackr"
+      },
+      {
+        "amount": "₹208 Cr",
+        "round": "Series B",
+        "title": "Exclusive Even Healthcare Set to Raise rs 208 cr in Series b Led by Khosla Ventures",
+        "url": "https://entrackr.com/exclusive/exclusive-even-healthcare-set-to-raise-rs-208-cr-in-series-b-led-by-khosla-ventures-12435223",
+        "date": "2026-08-26",
+        "source": "Entrackr"
+      },
+      {
+        "round": "Series A",
+        "title": "Even Healthcare Scoops up 30 mn in Series a Led by Khosla Venture",
+        "url": "https://entrackr.com/news/even-healthcare-scoops-up-30-mn-in-series-a-led-by-khosla-venture-7346466",
+        "date": "2024-10-23",
+        "source": "Entrackr"
+      }
+    ]
+  },
   "urban-company": {
     "amount": "₹2,500 Cr",
-    "title": "Decoding Urban Company’s ₹2,500 Cr Fundraise Proposal",
-    "url": "https://inc42.com/buzz/decoding-urban-companys-%e2%82%b92500-cr-fundraise-proposal/",
-    "date": "Sat, 17 Oct 2026 15:42:22 +0000",
+    "title": "Urban Company Slumps 9.5% After Q2 Loss Widens, Board Clears ₹2,500 Cr Fundraise",
+    "url": "https://inc42.com/buzz/urban-company-slumps-9-5-after-q2-loss-widens-board-clears-%e2%82%b92500-cr-fundraise/",
+    "date": "Mon, 19 Oct 2026 06:58:41 +0000",
     "source": "Inc42",
     "history": [
       {
         "amount": "₹2,500 Cr",
-        "title": "Urban Company Board Clears Plans To Raise Up To ₹2,500 Cr",
-        "url": "https://inc42.com/buzz/urban-company-board-clears-plans-to-raise-up-to-%e2%82%b92500-cr/",
-        "date": "Fri, 16 Oct 2026 11:57:51 +0000",
+        "title": "Decoding Urban Company’s ₹2,500 Cr Fundraise Proposal",
+        "url": "https://inc42.com/buzz/decoding-urban-companys-%e2%82%b92500-cr-fundraise-proposal/",
+        "date": "Sat, 17 Oct 2026 15:42:22 +0000",
         "source": "Inc42"
+      },
+      {
+        "amount": "₹2,500 Cr",
+        "title": "Urban Company approves Rs 2,500 Cr fundraise amid rising competition in InstaHelp",
+        "url": "https://entrackr.com/news/urban-company-approves-rs-2500-cr-fundraise-amid-rising-competition-in-instahelp-12682445",
+        "date": "Fri, 16 Oct 2026 17:08:45 +0530",
+        "source": "Entrackr"
       },
       {
         "amount": "₹854 Cr",
@@ -41,14 +131,6 @@
         "title": "Urban Company Drhp to Raise rs 1900 cr Via Primary Issue And Ofs",
         "url": "https://entrackr.com/news/urban-company-drhp-to-raise-rs-1900-cr-via-primary-issue-and-ofs-9012100",
         "date": "2025-04-28",
-        "source": "Entrackr"
-      },
-      {
-        "amount": "₹528 Cr",
-        "round": "IPO",
-        "title": "Urban Company Board Approves rs 528 cr Primary Fundraise Via Ipo",
-        "url": "https://entrackr.com/news/urban-company-board-approves-rs-528-cr-primary-fundraise-via-ipo-8947688",
-        "date": "2025-04-10",
         "source": "Entrackr"
       }
     ]
@@ -182,23 +264,6 @@
       }
     ]
   },
-  "even-healthcare": {
-    "amount": "₹208 Cr",
-    "round": "Series B",
-    "title": "Exclusive Even Healthcare Set to Raise rs 208 cr in Series b Led by Khosla Ventures",
-    "url": "https://entrackr.com/exclusive/exclusive-even-healthcare-set-to-raise-rs-208-cr-in-series-b-led-by-khosla-ventures-12435223",
-    "date": "2026-08-26",
-    "source": "Entrackr",
-    "history": [
-      {
-        "round": "Series A",
-        "title": "Even Healthcare Scoops up 30 mn in Series a Led by Khosla Venture",
-        "url": "https://entrackr.com/news/even-healthcare-scoops-up-30-mn-in-series-a-led-by-khosla-venture-7346466",
-        "date": "2024-10-23",
-        "source": "Entrackr"
-      }
-    ]
-  },
   "epigamia": {
     "amount": "$20 Mn",
     "title": "Verlinvest, Mirchandani Family Raise Stakes In Epigamia In $20 Mn Secondary Deal",
@@ -274,57 +339,6 @@
         "title": "Shiprocket To Raise INR 219 Cr From KDT Ventures, Others",
         "url": "https://inc42.com/buzz/shiprocket-to-raise-inr-219-cr-from-kdt-ventures-others/",
         "date": "2024-12-28",
-        "source": "Inc42"
-      }
-    ]
-  },
-  "invest-india": {
-    "amount": "$550 Mn",
-    "title": "Accel Closes Ninth India Fund With $550 Mn Corpus To Invest In AI, Deeptech",
-    "url": "https://inc42.com/buzz/accel-closes-ninth-india-fund-with-550-mn-corpus-to-invest-in-ai-deeptech/",
-    "date": "2026-08-12",
-    "source": "Inc42",
-    "history": [
-      {
-        "amount": "$250 Mn",
-        "title": "Semiconductor Major Marvell To Invest $250 Mn in India, Double Headcount",
-        "url": "https://inc42.com/buzz/semiconductor-major-marvell-to-invest-250-mn-in-india-double-headcount/",
-        "date": "2026-07-29",
-        "source": "Inc42"
-      },
-      {
-        "amount": "₹65 Cr",
-        "title": "IndiaMART To Invest ₹65 Cr More In Fleetx, Raise Stake To 25.8%",
-        "url": "https://inc42.com/buzz/indiamart-to-invest-%e2%82%b965-cr-more-in-fleetx-raise-stake-to-25-8/",
-        "date": "2026-07-27",
-        "source": "Inc42"
-      },
-      {
-        "amount": "₹100 Cr",
-        "title": "Paytm Drops Bonus Share Plan to Invest rs 100 cr in Paytm Money",
-        "url": "https://entrackr.com/news/paytm-drops-bonus-share-plan-to-invest-rs-100-cr-in-paytm-money-12183396",
-        "date": "2026-07-21",
-        "source": "Entrackr"
-      },
-      {
-        "amount": "₹15,000 Cr",
-        "title": "Delhi Government Plans To Invest ₹15,000 Cr To Fuel Electric Mobility",
-        "url": "https://inc42.com/buzz/delhi-government-plans-to-invest-%e2%82%b915000-cr-to-fuel-electric-mobility/",
-        "date": "2026-06-29",
-        "source": "Inc42"
-      },
-      {
-        "amount": "$30 Bn",
-        "title": "AirTrunk To Invest $30 Bn In India To Set Up 5 GW Data Centre",
-        "url": "https://inc42.com/buzz/airtrunk-to-invest-30-bn-in-india-to-set-up-5-gw-data-centre/",
-        "date": "2026-06-05",
-        "source": "Inc42"
-      },
-      {
-        "amount": "$20 Mn",
-        "title": "Cars24 To Invest $20 Mn In Early Stage AI Startups",
-        "url": "https://inc42.com/buzz/cars24-to-invest-20-mn-in-early-stage-ai-startups/",
-        "date": "2026-06-01",
         "source": "Inc42"
       }
     ]
@@ -1271,6 +1285,29 @@
       }
     ]
   },
+  "leverage-edu": {
+    "round": "Series D",
+    "title": "Exclusive Leverage Edu Set to Raise Over 20 mn Series d at 300 mn Valuation",
+    "url": "https://entrackr.com/exclusive/exclusive-leverage-edu-set-to-raise-over-20-mn-series-d-at-300-mn-valuation-11877155",
+    "date": "2026-05-26",
+    "source": "Entrackr",
+    "history": [
+      {
+        "round": "Debt",
+        "title": "Leverage Edu Bags 40 mn in a Mix of Equity And Debt Round",
+        "url": "https://entrackr.com/2023/07/leverage-edu-bags-40-mn-in-a-mix-of-equity-and-debt-round/",
+        "date": "2023-07-03",
+        "source": "Entrackr"
+      },
+      {
+        "round": "Series B",
+        "title": "Leverage Edu Raises 22 mn in Series b Round",
+        "url": "https://entrackr.com/2022/03/leverage-edu-raises-22-mn-in-series-b-round/",
+        "date": "2022-03-21",
+        "source": "Entrackr"
+      }
+    ]
+  },
   "fairdealmarket": {
     "amount": "$15 Mn",
     "title": "Fairdeal.Market Bags $15 Mn To Scale Its B2B Quick Commerce Platform",
@@ -2086,6 +2123,14 @@
       }
     ]
   },
+  "openhouse": {
+    "round": "Seed",
+    "title": "Proptech Startup Openhouse Raises 2 mn in Seed Round",
+    "url": "https://entrackr.com/snippets/proptech-startup-openhouse-raises-2-mn-in-seed-round-10606190",
+    "date": "2025-10-30",
+    "source": "Entrackr",
+    "history": []
+  },
   "snapmint": {
     "round": "Series B",
     "title": "Exclusive Snapmint to Raise 375 mn in Series b Led by General Atlantic",
@@ -2467,6 +2512,36 @@
     "source": "Entrackr",
     "history": []
   },
+  "truemeds": {
+    "round": "Series C",
+    "title": "Truemeds Closes 85 mn Series c Round Led by Accel And Peakxv",
+    "url": "https://entrackr.com/news/truemeds-closes-85-mn-series-c-round-led-by-accel-and-peakxv-9647343",
+    "date": "2025-08-11",
+    "source": "Entrackr",
+    "history": [
+      {
+        "round": "Series C",
+        "title": "Exclusive Peak xv Joins Truemeds Series c Round With 20 mn",
+        "url": "https://entrackr.com/exclusive/exclusive-peak-xv-joins-truemeds-series-c-round-with-20-mn-9500136",
+        "date": "2025-07-16",
+        "source": "Entrackr"
+      },
+      {
+        "amount": "$20 Mn",
+        "title": "Healthtech Startup Truemeds Bags $20 Mn From Peak XV",
+        "url": "https://inc42.com/buzz/healthtech-startup-truemeds-bags-20-mn-from-peak-xv/",
+        "date": "2025-07-16",
+        "source": "Inc42"
+      },
+      {
+        "amount": "$44 Mn",
+        "title": "Truemeds To Raise $44 Mn From Accel India, Others",
+        "url": "https://inc42.com/buzz/truemeds-to-raise-44-mn-from-accel-india-others/",
+        "date": "2025-03-06",
+        "source": "Inc42"
+      }
+    ]
+  },
   "bharatpe": {
     "round": "IPO",
     "title": "Exclusive Bharatpe Set to Raise 80 100 mn Pre Ipo Round Led by Coatue",
@@ -2761,6 +2836,14 @@
     "url": "https://entrackr.com/snippets/gostops-bags-rs-35-cr-in-series-a-round-led-by-blume-ventures-8841407",
     "date": "2025-03-11",
     "source": "Entrackr",
+    "history": []
+  },
+  "bacca-bucci": {
+    "amount": "$2.5 Mn",
+    "title": "Exclusive: D2C Footwear Brand Bacca Bucci Bags $2.5 Mn In Maiden Funding Round",
+    "url": "https://inc42.com/buzz/exclusive-d2c-footwear-brand-bacca-bucci-bags-2-5-mn-in-maiden-funding-round/",
+    "date": "2025-03-07",
+    "source": "Inc42",
     "history": []
   },
   "nuuk": {
@@ -3203,6 +3286,14 @@
     "source": "Inc42",
     "history": []
   },
+  "boon": {
+    "round": "Series A",
+    "title": "Watertech Startup Boon Raises 5 mn in Series a",
+    "url": "https://entrackr.com/2024/07/watertech-startup-boon-raises-5-mn-in-series-a/",
+    "date": "2024-07-17",
+    "source": "Entrackr",
+    "history": []
+  },
   "uber-india": {
     "amount": "$11 Mn",
     "title": "Ola, Uber Rival Namma Yatri Bags $11 Mn From Blume, Google",
@@ -3433,6 +3524,14 @@
     "title": "Westbridge Leads 35 mn Series c Round in Edtech Startup Sunstone",
     "url": "https://entrackr.com/2022/08/westbridge-leads-35-mn-series-c-round-in-edtech-startup-sunstone/",
     "date": "2022-08-19",
+    "source": "Entrackr",
+    "history": []
+  },
+  "clevertap": {
+    "round": "Series D",
+    "title": "Tiger And Sequoia Backed Clevertap Raises 105 mn in Series d",
+    "url": "https://entrackr.com/2022/08/tiger-and-sequoia-backed-clevertap-raises-105-mn-in-series-d/",
+    "date": "2022-08-10",
     "source": "Entrackr",
     "history": []
   },
