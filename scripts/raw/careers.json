@@ -23728,5 +23728,308 @@
     "domain": "mynonu.com",
     "ats": null,
     "careers": null
+  },
+  {
+    "slug": "deckoviz-space-labs",
+    "domain": "deckoviz.com",
+    "ats": null,
+    "careers": "https://deckoviz.com/careers"
+  },
+  {
+    "slug": "crimson-education",
+    "domain": "crimsoneducation.org",
+    "ats": null,
+    "careers": null
+  },
+  {
+    "slug": "encriss-technologies",
+    "domain": "encriss.com",
+    "ats": null,
+    "careers": null
+  },
+  {
+    "slug": "epistle",
+    "domain": "epistle.co",
+    "ats": null,
+    "careers": null
+  },
+  {
+    "slug": "clevertap",
+    "domain": "clevertap.com",
+    "ats": null,
+    "careers": "https://clevertap.com/careers/"
+  },
+  {
+    "slug": "brad-onegroup",
+    "domain": "bradonegroup.com",
+    "ats": null,
+    "careers": null
+  },
+  {
+    "slug": "brandmingo",
+    "domain": "brandmingo.com",
+    "ats": null,
+    "careers": "https://brandmingo.com/careers"
+  },
+  {
+    "slug": "achromic-point",
+    "domain": "achromicpoint.com",
+    "ats": null,
+    "careers": null
+  },
+  {
+    "slug": "food-security-summitx",
+    "domain": "foodsecuritysummitx.com",
+    "ats": null,
+    "careers": "https://foodsecuritysummitx.com/careers"
+  },
+  {
+    "slug": "frd-studio",
+    "domain": "frdstudio.com",
+    "ats": null,
+    "careers": "https://frdstudio.com/life-at-frd-studio/"
+  },
+  {
+    "slug": "bacca-bucci",
+    "domain": "baccabucci.com",
+    "ats": null,
+    "careers": null
+  },
+  {
+    "slug": "heera-moti-corporation",
+    "domain": "Heeramoticorporation.com",
+    "ats": null,
+    "careers": null
+  },
+  {
+    "slug": "devine-meditech",
+    "domain": "devinemeditech.com",
+    "ats": null,
+    "careers": null
+  },
+  {
+    "slug": "bytequest-softwares-011bq",
+    "domain": "011bq.com",
+    "ats": null,
+    "careers": "https://011bq.com/careers/"
+  },
+  {
+    "slug": "adm-indicia",
+    "domain": "adm-indicia.com",
+    "ats": null,
+    "careers": "https://careers.admgroup.com/"
+  },
+  {
+    "slug": "ibaby",
+    "domain": "ibabyxpress.com",
+    "ats": null,
+    "careers": null
+  },
+  {
+    "slug": "leverage-edu",
+    "domain": "lvrg.in",
+    "ats": null,
+    "careers": null
+  },
+  {
+    "slug": "openhouse",
+    "domain": "openhouse.study",
+    "ats": null,
+    "careers": null
+  },
+  {
+    "slug": "lea-clothing-co",
+    "domain": "leaclothingco.com",
+    "ats": null,
+    "careers": null
+  },
+  {
+    "slug": "qubixl",
+    "domain": "qubixl.com",
+    "ats": null,
+    "careers": "https://qubixl.com/careers"
+  },
+  {
+    "slug": "infinity-learn",
+    "domain": "bit.ly",
+    "ats": null,
+    "careers": "https://bit.ly/pages/careers/"
+  },
+  {
+    "slug": "mwm-spaces-pvt-ltd",
+    "domain": "mwmspaces.com",
+    "ats": null,
+    "careers": null
+  },
+  {
+    "slug": "rarefuture",
+    "domain": "rarefuture.in",
+    "ats": null,
+    "careers": null
+  },
+  {
+    "slug": "aaa-valuation-professionals-llp",
+    "domain": "aaavaluation.in",
+    "ats": null,
+    "careers": "https://aaavaluation.in/careers"
+  },
+  {
+    "slug": "kn-engineering-works",
+    "domain": "knengineeringworks.com",
+    "ats": null,
+    "careers": "https://knengineeringworks.com/careers"
+  },
+  {
+    "slug": "isra-india",
+    "domain": "israindia.org",
+    "ats": null,
+    "careers": "https://israindia.org/careers"
+  },
+  {
+    "slug": "technum-opus-private-limited",
+    "domain": "technumopus.com",
+    "ats": null,
+    "careers": "https://technumopus.com/careers"
+  },
+  {
+    "slug": "tools4trade",
+    "domain": "tools4trade.co.uk",
+    "ats": null,
+    "careers": "https://tools4trade.co.uk/collections/dewalt-jobsite-radio"
+  },
+  {
+    "slug": "perfect-finance",
+    "domain": "perfectgroup.org",
+    "ats": null,
+    "careers": "https://perfectgroup.org/careers/"
+  },
+  {
+    "slug": "boon",
+    "domain": "helloboon.com",
+    "ats": null,
+    "careers": null
+  },
+  {
+    "slug": "isya-aesthetics",
+    "domain": "isyaderm.com",
+    "ats": null,
+    "careers": null
+  },
+  {
+    "slug": "the-earth-store",
+    "domain": "earthstore.in",
+    "ats": null,
+    "careers": null
+  },
+  {
+    "slug": "medigrad",
+    "domain": "medigrad.com",
+    "ats": null,
+    "careers": "https://medigrad.com/career"
+  },
+  {
+    "slug": "vara5",
+    "domain": "vara5.com",
+    "ats": null,
+    "careers": "https://careers.vara5.com/"
+  },
+  {
+    "slug": "toyota-tsusho-nexty-electronics-india-private-limited",
+    "domain": "in.nexty-ele.com",
+    "ats": {
+      "provider": "zohorecruit",
+      "slug": "nexty-ele"
+    },
+    "careers": "https://www.in.nexty-ele.com/career/"
+  },
+  {
+    "slug": "scope-for-change",
+    "domain": "scopeforchange.org",
+    "ats": null,
+    "careers": "https://scopeforchange.org/careers/"
+  },
+  {
+    "slug": "viralbulls-viral-marketing-agency",
+    "domain": "viralbulls.com",
+    "ats": null,
+    "careers": "https://viralbulls.com/career"
+  },
+  {
+    "slug": "transcurators-the-content-factory",
+    "domain": "transcurators.com",
+    "ats": null,
+    "careers": "https://transcurators.com/careers"
+  },
+  {
+    "slug": "saltstayz",
+    "domain": "saltstayz.com",
+    "ats": null,
+    "careers": "https://saltstayz.com/career"
+  },
+  {
+    "slug": "sbs",
+    "domain": "sbs-software.com",
+    "ats": null,
+    "careers": "https://sbs-software.com/join-us/"
+  },
+  {
+    "slug": "recyclify",
+    "domain": "recyclify.in",
+    "ats": null,
+    "careers": null
+  },
+  {
+    "slug": "spectent",
+    "domain": "spectents.com",
+    "ats": null,
+    "careers": "https://spectents.com/careers"
+  },
+  {
+    "slug": "mogi-i-o-ott-podcast-short-video-apps-for-you",
+    "domain": "mogiio.com",
+    "ats": null,
+    "careers": "https://mogiio.com/careers/"
+  },
+  {
+    "slug": "truemeds",
+    "domain": "truemeds.in",
+    "ats": null,
+    "careers": null
+  },
+  {
+    "slug": "vyom-aec",
+    "domain": "vyomaec.com",
+    "ats": null,
+    "careers": "https://vyomaec.com/career/"
+  },
+  {
+    "slug": "techmatrix-consulting",
+    "domain": "techmatrixconsulting.com",
+    "ats": null,
+    "careers": "https://www.techmatrixconsulting.com/company/career-culture/"
+  },
+  {
+    "slug": "namaste-dwaar-the-gateway-to-rural-india",
+    "domain": "namastedwaar.com",
+    "ats": null,
+    "careers": null
+  },
+  {
+    "slug": "indovision-services-private-limited",
+    "domain": "indovisionglobal.com",
+    "ats": null,
+    "careers": "https://indovisionglobal.com/career"
+  },
+  {
+    "slug": "etihad",
+    "domain": "etihad.com",
+    "ats": null,
+    "careers": null
+  },
+  {
+    "slug": "smart-track-solutions-private-limited",
+    "domain": "smartrack.in",
+    "ats": null,
+    "careers": null
   }
 ]

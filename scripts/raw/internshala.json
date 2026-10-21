@@ -18531,5 +18531,101 @@
     "location": "Noida",
     "url": "https://internshala.com/job/detail/graphic-designer-job-in-noida-at-tvl-media1792404179",
     "actively_hiring": true
+  },
+  {
+    "kind": "internship",
+    "title": "Telecalling",
+    "company": "SNP",
+    "location": "Gurgaon",
+    "stipend": "₹ 10,000 - 15,000 /month",
+    "duration": "3 Months",
+    "url": "https://internshala.com/internship/detail/telecalling-internship-in-gurgaon-at-snp1792557397",
+    "actively_hiring": true
+  },
+  {
+    "kind": "internship",
+    "title": "Founder Office",
+    "company": "CollabAdda",
+    "location": "Gurgaon",
+    "stipend": "₹ 50,000 - 66,000 lump sum",
+    "duration": "3 Months",
+    "url": "https://internshala.com/internship/detail/founder-office-internship-in-gurgaon-at-collabadda1792557962",
+    "actively_hiring": true
+  },
+  {
+    "kind": "internship",
+    "title": "Content & Storytelling",
+    "company": "Dreams Travel & Tours",
+    "location": "Noida",
+    "stipend": "₹ 15,000 - 16,000 /month",
+    "duration": "3 Months",
+    "url": "https://internshala.com/internship/detail/part-time-content-storytelling-internship-in-noida-at-dreams-travel-tours1792556967",
+    "actively_hiring": true
+  },
+  {
+    "kind": "internship",
+    "title": "Interior Design",
+    "company": "SpaceUnbox Designs",
+    "location": "Gurgaon",
+    "stipend": "₹ 5,000 - 7,000 /month",
+    "duration": "4 Months",
+    "url": "https://internshala.com/internship/detail/interior-design-internship-in-gurgaon-at-spaceunbox-designs1792489310",
+    "actively_hiring": true
+  },
+  {
+    "kind": "job",
+    "title": "Fashion Consultant",
+    "company": "Ankit V Kapoor World",
+    "location": "Gurgaon",
+    "url": "https://internshala.com/job/detail/fashion-consultant-job-in-gurgaon-at-ankit-v-kapoor-world1792556444",
+    "actively_hiring": false
+  },
+  {
+    "kind": "job",
+    "title": "Digital Marketing Executive",
+    "company": "Honhr",
+    "location": "Chennai, Delhi, Kolkata, Mumbai, Bangalore",
+    "url": "https://internshala.com/job/detail/digital-marketing-executive-job-in-multiple-locations-at-honhr1792555931",
+    "actively_hiring": true
+  },
+  {
+    "kind": "job",
+    "title": "Performance Marketing Executive",
+    "company": "Honhr",
+    "location": "Chennai, Delhi, Kolkata, Mumbai, Bangalore",
+    "url": "https://internshala.com/job/detail/performance-marketing-executive-job-in-multiple-locations-at-honhr1792555864",
+    "actively_hiring": true
+  },
+  {
+    "kind": "job",
+    "title": "Campus Recruiter",
+    "company": "Honhr",
+    "location": "Chennai, Delhi, Kolkata, Mumbai, Bangalore",
+    "url": "https://internshala.com/job/detail/campus-recruiter-job-in-multiple-locations-at-honhr1792555963",
+    "actively_hiring": true
+  },
+  {
+    "kind": "job",
+    "title": "Non-IT Recruiter",
+    "company": "Honhr",
+    "location": "Chennai, Delhi, Kolkata, Mumbai, Bangalore",
+    "url": "https://internshala.com/job/detail/non-it-recruiter-job-in-multiple-locations-at-honhr1792556001",
+    "actively_hiring": true
+  },
+  {
+    "kind": "job",
+    "title": "Backend Engineer",
+    "company": "Honhr",
+    "location": "Chennai, Delhi, Kolkata, Mumbai, Bangalore",
+    "url": "https://internshala.com/job/detail/backend-engineer-job-in-multiple-locations-at-honhr1792555799",
+    "actively_hiring": true
+  },
+  {
+    "kind": "job",
+    "title": "Junior Sales Executive",
+    "company": "TheUnityWave",
+    "location": "Noida",
+    "url": "https://internshala.com/job/detail/junior-sales-executive-job-in-noida-at-theunitywave1792475250",
+    "actively_hiring": true
   }
 ]

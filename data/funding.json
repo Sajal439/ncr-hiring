@@ -1,11 +1,18 @@
 {
   "invest-india": {
     "amount": "₹35 Cr",
-    "title": "IndiQube to invest Rs 35 Cr in SaiEdge Realty for 49% stake",
-    "url": "https://entrackr.com/news/indiqube-to-invest-rs-35-cr-in-saiedge-realty-for-49-stake-12690289",
-    "date": "Mon, 19 Oct 2026 19:19:33 +0530",
-    "source": "Entrackr",
+    "title": "IndiQube To Invest ₹35 Cr In Office Space Developer SaiEdge Realty",
+    "url": "https://inc42.com/buzz/indiqube-to-invest-%e2%82%b935-cr-in-office-space-developer-saiedge-realty/",
+    "date": "Tue, 20 Oct 2026 08:44:42 +0000",
+    "source": "Inc42",
     "history": [
+      {
+        "amount": "₹35 Cr",
+        "title": "IndiQube to invest Rs 35 Cr in SaiEdge Realty for 49% stake",
+        "url": "https://entrackr.com/news/indiqube-to-invest-rs-35-cr-in-saiedge-realty-for-49-stake-12690289",
+        "date": "Mon, 19 Oct 2026 19:19:33 +0530",
+        "source": "Entrackr"
+      },
       {
         "amount": "$550 Mn",
         "title": "Accel Closes Ninth India Fund With $550 Mn Corpus To Invest In AI, Deeptech",
@@ -40,23 +47,23 @@
         "url": "https://inc42.com/buzz/delhi-government-plans-to-invest-%e2%82%b915000-cr-to-fuel-electric-mobility/",
         "date": "2026-06-29",
         "source": "Inc42"
-      },
-      {
-        "amount": "$30 Bn",
-        "title": "AirTrunk To Invest $30 Bn In India To Set Up 5 GW Data Centre",
-        "url": "https://inc42.com/buzz/airtrunk-to-invest-30-bn-in-india-to-set-up-5-gw-data-centre/",
-        "date": "2026-06-05",
-        "source": "Inc42"
       }
     ]
   },
   "even-healthcare": {
     "amount": "$50 Mn",
-    "title": "Even Healthcare Raises $50 Mn To Expand Hospital Network Across Bengaluru",
-    "url": "https://inc42.com/buzz/even-healthcare-raises-50-mn-to-expand-hospital-network-across-bengaluru/",
-    "date": "Mon, 19 Oct 2026 08:05:42 +0000",
+    "title": "Zerodha’s Wall Street Leap, Even Healthcare&#8217;s $50 Mn Raise &#038; More",
+    "url": "https://inc42.com/buzz/zerodhas-wall-street-leap-even-healthcares-50-mn-raise-more/",
+    "date": "Tue, 20 Oct 2026 06:51:11 +0000",
     "source": "Inc42",
     "history": [
+      {
+        "amount": "$50 Mn",
+        "title": "Even Healthcare Raises $50 Mn To Expand Hospital Network Across Bengaluru",
+        "url": "https://inc42.com/buzz/even-healthcare-raises-50-mn-to-expand-hospital-network-across-bengaluru/",
+        "date": "Mon, 19 Oct 2026 08:05:42 +0000",
+        "source": "Inc42"
+      },
       {
         "amount": "$50 Mn",
         "round": "Series B",
@@ -89,13 +96,6 @@
     "date": "Mon, 19 Oct 2026 06:58:41 +0000",
     "source": "Inc42",
     "history": [
-      {
-        "amount": "₹2,500 Cr",
-        "title": "Decoding Urban Company’s ₹2,500 Cr Fundraise Proposal",
-        "url": "https://inc42.com/buzz/decoding-urban-companys-%e2%82%b92500-cr-fundraise-proposal/",
-        "date": "Sat, 17 Oct 2026 15:42:22 +0000",
-        "source": "Inc42"
-      },
       {
         "amount": "₹2,500 Cr",
         "title": "Urban Company approves Rs 2,500 Cr fundraise amid rising competition in InstaHelp",
@@ -131,6 +131,14 @@
         "title": "Urban Company Drhp to Raise rs 1900 cr Via Primary Issue And Ofs",
         "url": "https://entrackr.com/news/urban-company-drhp-to-raise-rs-1900-cr-via-primary-issue-and-ofs-9012100",
         "date": "2025-04-28",
+        "source": "Entrackr"
+      },
+      {
+        "amount": "₹528 Cr",
+        "round": "IPO",
+        "title": "Urban Company Board Approves rs 528 cr Primary Fundraise Via Ipo",
+        "url": "https://entrackr.com/news/urban-company-board-approves-rs-528-cr-primary-fundraise-via-ipo-8947688",
+        "date": "2025-04-10",
         "source": "Entrackr"
       }
     ]
