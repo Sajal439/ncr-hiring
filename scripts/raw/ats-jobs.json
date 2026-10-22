@@ -19,21 +19,19 @@
       "source": "careers"
     }
   ],
-  "athena-education": [
+  "trackier": [
     {
-      "title": "Associate/ Associate Manager - Writing",
-      "url": "https://jobs.lever.co/athena-education/8f9cb4b5-155f-4eae-8f77-ef801a4110da",
-      "location": "Gurugram",
+      "title": "Business Development Representative - Apptrove",
+      "url": "https://apply.workable.com/j/72C52AF55B",
+      "location": "Noida, India",
       "source": "careers"
     },
     {
-      "title": "Technical Director- Writing",
-      "url": "https://jobs.lever.co/athena-education/4b1432e7-7ed4-4502-9441-506861d6ebe9",
-      "location": "Gurugram",
+      "title": "Business Development Representative - Trackier",
+      "url": "https://apply.workable.com/j/63CCB35972",
+      "location": "Noida, India",
       "source": "careers"
-    }
-  ],
-  "trackier": [
+    },
     {
       "title": "Content Intern - Hybrid",
       "url": "https://apply.workable.com/j/3491801CB7",
@@ -53,8 +51,14 @@
       "source": "careers"
     },
     {
+      "title": "Engineering Manager - Affnook (Remote)",
+      "url": "https://apply.workable.com/j/D0177E5AC5",
+      "location": "Noida, India",
+      "source": "careers"
+    },
+    {
       "title": "Engineering Manager - Apptrove",
-      "url": "https://apply.workable.com/j/10691B789F",
+      "url": "https://apply.workable.com/j/2FEE06A3C4",
       "location": "Noida, India",
       "source": "careers"
     },
@@ -62,6 +66,32 @@
       "title": "Performance Marketing Lead (Growth & Operations) - B.Tech",
       "url": "https://apply.workable.com/j/6D6218644C",
       "location": "Noida, India",
+      "source": "careers"
+    },
+    {
+      "title": "Senior Business Development Represenatative - Trackier",
+      "url": "https://apply.workable.com/j/0B96C287AF",
+      "location": "Noida, India",
+      "source": "careers"
+    },
+    {
+      "title": "Senior Business Development Representative - Apptrove",
+      "url": "https://apply.workable.com/j/C23D61BB0A",
+      "location": "Noida, India",
+      "source": "careers"
+    }
+  ],
+  "athena-education": [
+    {
+      "title": "Associate/ Associate Manager - Writing",
+      "url": "https://jobs.lever.co/athena-education/8f9cb4b5-155f-4eae-8f77-ef801a4110da",
+      "location": "Gurugram",
+      "source": "careers"
+    },
+    {
+      "title": "Technical Director- Writing",
+      "url": "https://jobs.lever.co/athena-education/4b1432e7-7ed4-4502-9441-506861d6ebe9",
+      "location": "Gurugram",
       "source": "careers"
     }
   ],
@@ -127,14 +157,6 @@
       "source": "careers"
     }
   ],
-  "primevigilance": [
-    {
-      "title": "Operations Manager (PV Technology)",
-      "url": "https://careers.smartrecruiters.com/Ergomed/744000155453259",
-      "location": "Noida, in",
-      "source": "careers"
-    }
-  ],
   "map": [
     {
       "title": "AEM - UI EDS - Consultant",
@@ -163,6 +185,14 @@
       "source": "careers"
     }
   ],
+  "primevigilance": [
+    {
+      "title": "Operations Manager (PV Technology)",
+      "url": "https://careers.smartrecruiters.com/Ergomed/744000155453259",
+      "location": "Noida, in",
+      "source": "careers"
+    }
+  ],
   "wizikey": [
     {
       "title": "Sales Executive - B2B SaaS",
@@ -180,6 +210,20 @@
       "title": "Sales Manager – Media Sales & Advertising Sales( 4-8 yrs)",
       "url": "https://careers.smartrecruiters.com/Wizikey/744000147203109",
       "location": "Gurugram, in",
+      "source": "careers"
+    }
+  ],
+  "smart-working": [
+    {
+      "title": "Lead PHP/Symfony Engineer (Remote, Full-Time) - [HR191]",
+      "url": "https://jobs.lever.co/smart-working-solutions/eb63f1a9-443b-48a4-88ec-99c8516a8c06",
+      "location": "Noida",
+      "source": "careers"
+    },
+    {
+      "title": "QA Automation Engineer (Remote, Full-Time) [HR217]",
+      "url": "https://jobs.lever.co/smart-working-solutions/9f10f23e-e6e5-4104-bf02-dc7e16f2f9bb",
+      "location": "Delhi",
       "source": "careers"
     }
   ],
@@ -212,44 +256,6 @@
       "title": "Join AlphaSense India Talent Community",
       "url": "https://job-boards.greenhouse.io/alphasense/jobs/7119398002",
       "location": "Delhi",
-      "source": "careers"
-    }
-  ],
-  "welocalize": [
-    {
-      "title": "Associate Project Manager- Gen AI Operations",
-      "url": "https://jobs.lever.co/weloglobal/b1e0450f-3f8e-4c0d-8db5-f2e40278f8fa",
-      "location": "Gurgaon, India",
-      "source": "careers"
-    },
-    {
-      "title": "Associate Technical Publication Engineer",
-      "url": "https://jobs.lever.co/weloglobal/7903f79a-fe0f-46e3-ac8b-83b607574453",
-      "location": "Gurgaon, India",
-      "source": "careers"
-    },
-    {
-      "title": "Hindi Linguist",
-      "url": "https://jobs.lever.co/weloglobal/b1209960-15d0-4bca-883f-0304548215c0",
-      "location": "Gurgaon, India",
-      "source": "careers"
-    },
-    {
-      "title": "IT Support Engineer",
-      "url": "https://jobs.lever.co/weloglobal/952e6188-856a-490a-bf4d-d7e2b0ff484f",
-      "location": "Gurgaon, India",
-      "source": "careers"
-    },
-    {
-      "title": "Lead Program Manager- Generative AI Data Operations",
-      "url": "https://jobs.lever.co/weloglobal/7a1cd362-365b-41a3-b8b7-d484c749dc36",
-      "location": "Gurgaon, India",
-      "source": "careers"
-    },
-    {
-      "title": "Trust and Safety Specialist",
-      "url": "https://jobs.lever.co/weloglobal/affa98bf-9d49-4b66-b57b-aae2c8f1c89c",
-      "location": "Gurgaon, India",
       "source": "careers"
     }
   ],
@@ -359,17 +365,91 @@
       "source": "careers"
     }
   ],
-  "smart-working": [
+  "welocalize": [
     {
-      "title": "Lead PHP/Symfony Engineer (Remote, Full-Time) - [HR191]",
-      "url": "https://jobs.lever.co/smart-working-solutions/eb63f1a9-443b-48a4-88ec-99c8516a8c06",
-      "location": "Noida",
+      "title": "Associate Project Manager- Gen AI Operations",
+      "url": "https://jobs.lever.co/weloglobal/b1e0450f-3f8e-4c0d-8db5-f2e40278f8fa",
+      "location": "Gurgaon, India",
       "source": "careers"
     },
     {
-      "title": "QA Automation Engineer (Remote, Full-Time) [HR217]",
-      "url": "https://jobs.lever.co/smart-working-solutions/9f10f23e-e6e5-4104-bf02-dc7e16f2f9bb",
-      "location": "Delhi",
+      "title": "Associate Technical Publication Engineer",
+      "url": "https://jobs.lever.co/weloglobal/7903f79a-fe0f-46e3-ac8b-83b607574453",
+      "location": "Gurgaon, India",
+      "source": "careers"
+    },
+    {
+      "title": "Hindi Linguist",
+      "url": "https://jobs.lever.co/weloglobal/b1209960-15d0-4bca-883f-0304548215c0",
+      "location": "Gurgaon, India",
+      "source": "careers"
+    },
+    {
+      "title": "IT Support Engineer",
+      "url": "https://jobs.lever.co/weloglobal/952e6188-856a-490a-bf4d-d7e2b0ff484f",
+      "location": "Gurgaon, India",
+      "source": "careers"
+    },
+    {
+      "title": "Lead Program Manager- Generative AI Data Operations",
+      "url": "https://jobs.lever.co/weloglobal/7a1cd362-365b-41a3-b8b7-d484c749dc36",
+      "location": "Gurgaon, India",
+      "source": "careers"
+    },
+    {
+      "title": "Trust and Safety Specialist",
+      "url": "https://jobs.lever.co/weloglobal/affa98bf-9d49-4b66-b57b-aae2c8f1c89c",
+      "location": "Gurgaon, India",
+      "source": "careers"
+    }
+  ],
+  "shield-ai": [
+    {
+      "title": "Chief of Staff, AI Hive (R5599)",
+      "url": "https://jobs.lever.co/shieldai/a0e81787-f1f0-4bd0-be97-49039b3bed07",
+      "location": "New Delhi",
+      "source": "careers"
+    },
+    {
+      "title": "Field Marketing Manager, India (R5942)",
+      "url": "https://jobs.lever.co/shieldai/28136dd4-edd8-4da6-a6a1-7ce139654c96",
+      "location": "New Delhi",
+      "source": "careers"
+    },
+    {
+      "title": "Senior Proposal Manager",
+      "url": "https://jobs.lever.co/shieldai/8a7a6074-0334-4f08-a6d7-303580f5fb01",
+      "location": "New Delhi",
+      "source": "careers"
+    },
+    {
+      "title": "Senior Software Engineer, Autonomy Applications Engineering",
+      "url": "https://jobs.lever.co/shieldai/c223a9c5-e3b3-4da1-b523-1b1045bdf296",
+      "location": "New Delhi",
+      "source": "careers"
+    },
+    {
+      "title": "Senior Staff BD Account Executive - Autonomy Specialist, India (R6015)",
+      "url": "https://jobs.lever.co/shieldai/3964b72e-ae5a-4a9f-a197-1ef07854644d",
+      "location": "New Delhi",
+      "source": "careers"
+    },
+    {
+      "title": "Senior Staff Engineer, Software Autonomy (R5125)",
+      "url": "https://jobs.lever.co/shieldai/0a4c3e5c-3b63-4f16-a483-3a8247f78228",
+      "location": "New Delhi",
+      "source": "careers"
+    },
+    {
+      "title": "Simulation Specialist, India (R6016)",
+      "url": "https://jobs.lever.co/shieldai/dc5f3c97-0b1f-4fc7-bd7e-b4a8504486b5",
+      "location": "New Delhi",
+      "source": "careers"
+    },
+    {
+      "title": "Staff Software Engineer, Autonomy Applications Engineering",
+      "url": "https://jobs.lever.co/shieldai/20ba2fbb-f9b3-4408-ac5c-7809a8446ea3",
+      "location": "New Delhi",
       "source": "careers"
     }
   ]

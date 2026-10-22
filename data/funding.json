@@ -52,26 +52,12 @@
   },
   "even-healthcare": {
     "amount": "$50 Mn",
-    "title": "Zerodha’s Wall Street Leap, Even Healthcare&#8217;s $50 Mn Raise &#038; More",
-    "url": "https://inc42.com/buzz/zerodhas-wall-street-leap-even-healthcares-50-mn-raise-more/",
-    "date": "Tue, 20 Oct 2026 06:51:11 +0000",
-    "source": "Inc42",
+    "round": "Series B",
+    "title": "Even Healthcare raises $50 Mn in Series B led by Khosla Ventures",
+    "url": "https://entrackr.com/news/even-healthcare-raises-50-mn-in-series-b-led-by-khosla-ventures-12688553",
+    "date": "Mon, 19 Oct 2026 13:30:37 +0530",
+    "source": "Entrackr",
     "history": [
-      {
-        "amount": "$50 Mn",
-        "title": "Even Healthcare Raises $50 Mn To Expand Hospital Network Across Bengaluru",
-        "url": "https://inc42.com/buzz/even-healthcare-raises-50-mn-to-expand-hospital-network-across-bengaluru/",
-        "date": "Mon, 19 Oct 2026 08:05:42 +0000",
-        "source": "Inc42"
-      },
-      {
-        "amount": "$50 Mn",
-        "round": "Series B",
-        "title": "Even Healthcare raises $50 Mn in Series B led by Khosla Ventures",
-        "url": "https://entrackr.com/news/even-healthcare-raises-50-mn-in-series-b-led-by-khosla-ventures-12688553",
-        "date": "Mon, 19 Oct 2026 13:30:37 +0530",
-        "source": "Entrackr"
-      },
       {
         "amount": "₹208 Cr",
         "round": "Series B",
@@ -85,60 +71,6 @@
         "title": "Even Healthcare Scoops up 30 mn in Series a Led by Khosla Venture",
         "url": "https://entrackr.com/news/even-healthcare-scoops-up-30-mn-in-series-a-led-by-khosla-venture-7346466",
         "date": "2024-10-23",
-        "source": "Entrackr"
-      }
-    ]
-  },
-  "urban-company": {
-    "amount": "₹2,500 Cr",
-    "title": "Urban Company Slumps 9.5% After Q2 Loss Widens, Board Clears ₹2,500 Cr Fundraise",
-    "url": "https://inc42.com/buzz/urban-company-slumps-9-5-after-q2-loss-widens-board-clears-%e2%82%b92500-cr-fundraise/",
-    "date": "Mon, 19 Oct 2026 06:58:41 +0000",
-    "source": "Inc42",
-    "history": [
-      {
-        "amount": "₹2,500 Cr",
-        "title": "Urban Company approves Rs 2,500 Cr fundraise amid rising competition in InstaHelp",
-        "url": "https://entrackr.com/news/urban-company-approves-rs-2500-cr-fundraise-amid-rising-competition-in-instahelp-12682445",
-        "date": "Fri, 16 Oct 2026 17:08:45 +0530",
-        "source": "Entrackr"
-      },
-      {
-        "amount": "₹854 Cr",
-        "title": "Urban Company Secures rs 854 cr From Anchor Investors",
-        "url": "https://entrackr.com/news/urban-company-secures-rs-854-cr-from-anchor-investors-10066875",
-        "date": "2025-09-09",
-        "source": "Entrackr"
-      },
-      {
-        "amount": "₹854 Cr",
-        "round": "IPO",
-        "title": "Urban Company IPO: INR 854 Cr Raised From Anchor Investors",
-        "url": "https://inc42.com/buzz/urban-company-ipo-inr-854-cr-raised-from-anchor-investors/",
-        "date": "2025-09-09",
-        "source": "Inc42"
-      },
-      {
-        "amount": "₹1395 Cr",
-        "round": "IPO",
-        "title": "Urban Company Founders And Investors Cash Out rs 1395 cr in Pre Ipo Deals",
-        "url": "https://entrackr.com/news/urban-company-founders-and-investors-cash-out-rs-1395-cr-in-pre-ipo-deals-9014293",
-        "date": "2025-04-29",
-        "source": "Entrackr"
-      },
-      {
-        "amount": "₹1900 Cr",
-        "title": "Urban Company Drhp to Raise rs 1900 cr Via Primary Issue And Ofs",
-        "url": "https://entrackr.com/news/urban-company-drhp-to-raise-rs-1900-cr-via-primary-issue-and-ofs-9012100",
-        "date": "2025-04-28",
-        "source": "Entrackr"
-      },
-      {
-        "amount": "₹528 Cr",
-        "round": "IPO",
-        "title": "Urban Company Board Approves rs 528 cr Primary Fundraise Via Ipo",
-        "url": "https://entrackr.com/news/urban-company-board-approves-rs-528-cr-primary-fundraise-via-ipo-8947688",
-        "date": "2025-04-10",
         "source": "Entrackr"
       }
     ]
@@ -181,6 +113,60 @@
       }
     ]
   },
+  "urban-company": {
+    "amount": "₹2,500 Cr",
+    "title": "Urban Company approves Rs 2,500 Cr fundraise amid rising competition in InstaHelp",
+    "url": "https://entrackr.com/news/urban-company-approves-rs-2500-cr-fundraise-amid-rising-competition-in-instahelp-12682445",
+    "date": "Fri, 16 Oct 2026 17:08:45 +0530",
+    "source": "Entrackr",
+    "history": [
+      {
+        "amount": "₹854 Cr",
+        "title": "Urban Company Secures rs 854 cr From Anchor Investors",
+        "url": "https://entrackr.com/news/urban-company-secures-rs-854-cr-from-anchor-investors-10066875",
+        "date": "2025-09-09",
+        "source": "Entrackr"
+      },
+      {
+        "amount": "₹854 Cr",
+        "round": "IPO",
+        "title": "Urban Company IPO: INR 854 Cr Raised From Anchor Investors",
+        "url": "https://inc42.com/buzz/urban-company-ipo-inr-854-cr-raised-from-anchor-investors/",
+        "date": "2025-09-09",
+        "source": "Inc42"
+      },
+      {
+        "amount": "₹1395 Cr",
+        "round": "IPO",
+        "title": "Urban Company Founders And Investors Cash Out rs 1395 cr in Pre Ipo Deals",
+        "url": "https://entrackr.com/news/urban-company-founders-and-investors-cash-out-rs-1395-cr-in-pre-ipo-deals-9014293",
+        "date": "2025-04-29",
+        "source": "Entrackr"
+      },
+      {
+        "amount": "₹1900 Cr",
+        "title": "Urban Company Drhp to Raise rs 1900 cr Via Primary Issue And Ofs",
+        "url": "https://entrackr.com/news/urban-company-drhp-to-raise-rs-1900-cr-via-primary-issue-and-ofs-9012100",
+        "date": "2025-04-28",
+        "source": "Entrackr"
+      },
+      {
+        "amount": "₹528 Cr",
+        "round": "IPO",
+        "title": "Urban Company Board Approves rs 528 cr Primary Fundraise Via Ipo",
+        "url": "https://entrackr.com/news/urban-company-board-approves-rs-528-cr-primary-fundraise-via-ipo-8947688",
+        "date": "2025-04-10",
+        "source": "Entrackr"
+      },
+      {
+        "amount": "₹400 Cr",
+        "title": "Urban Company Raises INR 400 Cr From Dharana Capital Via Secondary Deal",
+        "url": "https://inc42.com/buzz/urban-company-raises-inr-400-cr-from-dharana-capital-via-secondary-deal/",
+        "date": "2024-07-17",
+        "source": "Inc42"
+      }
+    ]
+  },
   "tonbo-imaging": {
     "amount": "₹255 Cr",
     "round": "IPO",
@@ -194,31 +180,6 @@
         "title": "Tonbo Imaging Raises 21 mn in Pre Ipo Round",
         "url": "https://entrackr.com/snippets/tonbo-imaging-raises-21-mn-in-pre-ipo-round-8921571",
         "date": "2025-04-03",
-        "source": "Entrackr"
-      }
-    ]
-  },
-  "dyson": {
-    "amount": "₹12 Cr",
-    "round": "Pre-Seed",
-    "title": "Former Dyson India MD Ankit Jain launches Foundry with Rs 12 Cr pre-seed round",
-    "url": "https://entrackr.com/snippets/former-dyson-india-md-ankit-jain-launches-foundry-with-rs-12-cr-pre-seed-round-12675854",
-    "date": "Wed, 14 Oct 2026 17:47:30 +0530",
-    "source": "Entrackr",
-    "history": []
-  },
-  "circle": {
-    "amount": "₹25 Cr",
-    "title": "Pre-owned goods marketplace Circle raises Rs 25 Cr led by Nexus Venture Partners",
-    "url": "https://entrackr.com/snippets/pre-owned-goods-marketplace-circle-raises-rs-25-cr-led-by-nexus-venture-partners-12675485",
-    "date": "Wed, 14 Oct 2026 16:16:09 +0530",
-    "source": "Entrackr",
-    "history": [
-      {
-        "amount": "₹100 Cr",
-        "title": "Oyos Ritesh Agarwal Invests in Culture Circle at Over rs 100 cr Valuation",
-        "url": "https://entrackr.com/snippets/oyos-ritesh-agarwal-invests-in-culture-circle-at-over-rs-100-cr-valuation-9503107",
-        "date": "2025-07-16",
         "source": "Entrackr"
       }
     ]
@@ -2610,6 +2571,14 @@
     "title": "Safe Security Raises 70 mn in Series c Led by Avataar Ventures",
     "url": "https://entrackr.com/news/safe-security-raises-70-mn-in-series-c-led-by-avataar-ventures-9611500",
     "date": "2025-07-31",
+    "source": "Entrackr",
+    "history": []
+  },
+  "circle": {
+    "amount": "₹100 Cr",
+    "title": "Oyos Ritesh Agarwal Invests in Culture Circle at Over rs 100 cr Valuation",
+    "url": "https://entrackr.com/snippets/oyos-ritesh-agarwal-invests-in-culture-circle-at-over-rs-100-cr-valuation-9503107",
+    "date": "2025-07-16",
     "source": "Entrackr",
     "history": []
   },
