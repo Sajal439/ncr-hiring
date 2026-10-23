@@ -69,6 +69,12 @@
       "source": "careers"
     },
     {
+      "title": "Product Manager",
+      "url": "https://apply.workable.com/j/14A8660015",
+      "location": "Noida, India",
+      "source": "careers"
+    },
+    {
       "title": "Senior Business Development Represenatative - Trackier",
       "url": "https://apply.workable.com/j/0B96C287AF",
       "location": "Noida, India",
@@ -81,17 +87,39 @@
       "source": "careers"
     }
   ],
-  "athena-education": [
+  "primevigilance": [
     {
-      "title": "Associate/ Associate Manager - Writing",
-      "url": "https://jobs.lever.co/athena-education/8f9cb4b5-155f-4eae-8f77-ef801a4110da",
-      "location": "Gurugram",
+      "title": "Operations Manager (PV Technology)",
+      "url": "https://careers.smartrecruiters.com/Ergomed/744000155453259",
+      "location": "Noida, in",
+      "source": "careers"
+    }
+  ],
+  "wizikey": [
+    {
+      "title": "Sales Executive - B2B SaaS",
+      "url": "https://careers.smartrecruiters.com/Wizikey/744000150346079",
+      "location": "Gurugram, in",
       "source": "careers"
     },
     {
-      "title": "Technical Director- Writing",
-      "url": "https://jobs.lever.co/athena-education/4b1432e7-7ed4-4502-9441-506861d6ebe9",
-      "location": "Gurugram",
+      "title": "Sales Manager – B2B SaaS",
+      "url": "https://careers.smartrecruiters.com/Wizikey/744000148672349",
+      "location": "Gurugram, in",
+      "source": "careers"
+    },
+    {
+      "title": "Sales Manager – Media Sales & Advertising Sales( 4-8 yrs)",
+      "url": "https://careers.smartrecruiters.com/Wizikey/744000147203109",
+      "location": "Gurugram, in",
+      "source": "careers"
+    }
+  ],
+  "ontic": [
+    {
+      "title": "Manager, Product Design",
+      "url": "https://jobs.ashbyhq.com/Ontic/d47d7285-75bd-43cb-87e4-f06070249283",
+      "location": "Noida, India",
       "source": "careers"
     }
   ],
@@ -157,105 +185,17 @@
       "source": "careers"
     }
   ],
-  "map": [
+  "athena-education": [
     {
-      "title": "AEM - UI EDS - Consultant",
-      "url": "https://job-boards.greenhouse.io/map/jobs/8706872002",
-      "location": "New Delhi, India",
+      "title": "Associate/ Associate Manager - Writing",
+      "url": "https://jobs.lever.co/athena-education/8f9cb4b5-155f-4eae-8f77-ef801a4110da",
+      "location": "Gurugram",
       "source": "careers"
     },
     {
-      "title": "Lead QA Engineer",
-      "url": "https://job-boards.greenhouse.io/map/jobs/8441199002",
-      "location": "New Delhi, Delhi, India",
-      "source": "careers"
-    },
-    {
-      "title": "Senior QA Engineer (automation) Contractor",
-      "url": "https://job-boards.greenhouse.io/map/jobs/8630694002",
-      "location": "New Delhi, India",
-      "source": "careers"
-    }
-  ],
-  "ontic": [
-    {
-      "title": "Manager, Product Design",
-      "url": "https://jobs.ashbyhq.com/Ontic/d47d7285-75bd-43cb-87e4-f06070249283",
-      "location": "Noida, India",
-      "source": "careers"
-    }
-  ],
-  "primevigilance": [
-    {
-      "title": "Operations Manager (PV Technology)",
-      "url": "https://careers.smartrecruiters.com/Ergomed/744000155453259",
-      "location": "Noida, in",
-      "source": "careers"
-    }
-  ],
-  "wizikey": [
-    {
-      "title": "Sales Executive - B2B SaaS",
-      "url": "https://careers.smartrecruiters.com/Wizikey/744000150346079",
-      "location": "Gurugram, in",
-      "source": "careers"
-    },
-    {
-      "title": "Sales Manager – B2B SaaS",
-      "url": "https://careers.smartrecruiters.com/Wizikey/744000148672349",
-      "location": "Gurugram, in",
-      "source": "careers"
-    },
-    {
-      "title": "Sales Manager – Media Sales & Advertising Sales( 4-8 yrs)",
-      "url": "https://careers.smartrecruiters.com/Wizikey/744000147203109",
-      "location": "Gurugram, in",
-      "source": "careers"
-    }
-  ],
-  "smart-working": [
-    {
-      "title": "Lead PHP/Symfony Engineer (Remote, Full-Time) - [HR191]",
-      "url": "https://jobs.lever.co/smart-working-solutions/eb63f1a9-443b-48a4-88ec-99c8516a8c06",
-      "location": "Noida",
-      "source": "careers"
-    },
-    {
-      "title": "QA Automation Engineer (Remote, Full-Time) [HR217]",
-      "url": "https://jobs.lever.co/smart-working-solutions/9f10f23e-e6e5-4104-bf02-dc7e16f2f9bb",
-      "location": "Delhi",
-      "source": "careers"
-    }
-  ],
-  "alphasense": [
-    {
-      "title": "Business Analyst II",
-      "url": "https://job-boards.greenhouse.io/alphasense/jobs/8857586002",
-      "location": "Delhi",
-      "source": "careers"
-    },
-    {
-      "title": "Compliance Analyst",
-      "url": "https://job-boards.greenhouse.io/alphasense/jobs/8630664002",
-      "location": "Delhi",
-      "source": "careers"
-    },
-    {
-      "title": "Compliance Analyst, Expert Network",
-      "url": "https://job-boards.greenhouse.io/alphasense/jobs/8693025002",
-      "location": "Delhi",
-      "source": "careers"
-    },
-    {
-      "title": "Content Analyst",
-      "url": "https://job-boards.greenhouse.io/alphasense/jobs/8025882002",
-      "location": "Delhi",
-      "source": "careers"
-    },
-    {
-      "title": "Join AlphaSense India Talent Community",
-      "url": "https://job-boards.greenhouse.io/alphasense/jobs/7119398002",
-      "location": "Delhi",
+      "title": "Technical Director- Writing",
+      "url": "https://jobs.lever.co/athena-education/4b1432e7-7ed4-4502-9441-506861d6ebe9",
+      "location": "Gurugram",
       "source": "careers"
     }
   ],
@@ -345,6 +285,58 @@
       "source": "careers"
     }
   ],
+  "map": [
+    {
+      "title": "AEM - UI EDS - Consultant",
+      "url": "https://job-boards.greenhouse.io/map/jobs/8706872002",
+      "location": "New Delhi, India",
+      "source": "careers"
+    },
+    {
+      "title": "Lead QA Engineer",
+      "url": "https://job-boards.greenhouse.io/map/jobs/8441199002",
+      "location": "New Delhi, Delhi, India",
+      "source": "careers"
+    },
+    {
+      "title": "Senior QA Engineer (automation) Contractor",
+      "url": "https://job-boards.greenhouse.io/map/jobs/8630694002",
+      "location": "New Delhi, India",
+      "source": "careers"
+    }
+  ],
+  "alphasense": [
+    {
+      "title": "Business Analyst II",
+      "url": "https://job-boards.greenhouse.io/alphasense/jobs/8857586002",
+      "location": "Delhi",
+      "source": "careers"
+    },
+    {
+      "title": "Compliance Analyst",
+      "url": "https://job-boards.greenhouse.io/alphasense/jobs/8630664002",
+      "location": "Delhi",
+      "source": "careers"
+    },
+    {
+      "title": "Compliance Analyst, Expert Network",
+      "url": "https://job-boards.greenhouse.io/alphasense/jobs/8693025002",
+      "location": "Delhi",
+      "source": "careers"
+    },
+    {
+      "title": "Content Analyst",
+      "url": "https://job-boards.greenhouse.io/alphasense/jobs/8025882002",
+      "location": "Delhi",
+      "source": "careers"
+    },
+    {
+      "title": "Join AlphaSense India Talent Community",
+      "url": "https://job-boards.greenhouse.io/alphasense/jobs/7119398002",
+      "location": "Delhi",
+      "source": "careers"
+    }
+  ],
   "cint": [
     {
       "title": "Senior Analyst, Survey Programming & Data Scrubbing ",
@@ -400,6 +392,20 @@
       "title": "Trust and Safety Specialist",
       "url": "https://jobs.lever.co/weloglobal/affa98bf-9d49-4b66-b57b-aae2c8f1c89c",
       "location": "Gurgaon, India",
+      "source": "careers"
+    }
+  ],
+  "smart-working": [
+    {
+      "title": "Lead PHP/Symfony Engineer (Remote, Full-Time) - [HR191]",
+      "url": "https://jobs.lever.co/smart-working-solutions/eb63f1a9-443b-48a4-88ec-99c8516a8c06",
+      "location": "Noida",
+      "source": "careers"
+    },
+    {
+      "title": "QA Automation Engineer (Remote, Full-Time) [HR217]",
+      "url": "https://jobs.lever.co/smart-working-solutions/9f10f23e-e6e5-4104-bf02-dc7e16f2f9bb",
+      "location": "Delhi",
       "source": "careers"
     }
   ],

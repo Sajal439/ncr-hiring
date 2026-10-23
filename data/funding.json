@@ -1,18 +1,19 @@
 {
+  "travclan": {
+    "amount": "$5 Mn",
+    "title": "[Update] TravClan Raises $5 Mn From Flipkart, August One",
+    "url": "https://inc42.com/buzz/flipkart-acquires-minority-stake-in-travel-tech-startup-travclan-to-scale-offerings/",
+    "date": "Thu, 22 Oct 2026 11:21:47 +0000",
+    "source": "Inc42",
+    "history": []
+  },
   "invest-india": {
     "amount": "₹35 Cr",
-    "title": "IndiQube To Invest ₹35 Cr In Office Space Developer SaiEdge Realty",
-    "url": "https://inc42.com/buzz/indiqube-to-invest-%e2%82%b935-cr-in-office-space-developer-saiedge-realty/",
-    "date": "Tue, 20 Oct 2026 08:44:42 +0000",
-    "source": "Inc42",
+    "title": "IndiQube to invest Rs 35 Cr in SaiEdge Realty for 49% stake",
+    "url": "https://entrackr.com/news/indiqube-to-invest-rs-35-cr-in-saiedge-realty-for-49-stake-12690289",
+    "date": "Mon, 19 Oct 2026 19:19:33 +0530",
+    "source": "Entrackr",
     "history": [
-      {
-        "amount": "₹35 Cr",
-        "title": "IndiQube to invest Rs 35 Cr in SaiEdge Realty for 49% stake",
-        "url": "https://entrackr.com/news/indiqube-to-invest-rs-35-cr-in-saiedge-realty-for-49-stake-12690289",
-        "date": "Mon, 19 Oct 2026 19:19:33 +0530",
-        "source": "Entrackr"
-      },
       {
         "amount": "$550 Mn",
         "title": "Accel Closes Ninth India Fund With $550 Mn Corpus To Invest In AI, Deeptech",
@@ -46,6 +47,13 @@
         "title": "Delhi Government Plans To Invest ₹15,000 Cr To Fuel Electric Mobility",
         "url": "https://inc42.com/buzz/delhi-government-plans-to-invest-%e2%82%b915000-cr-to-fuel-electric-mobility/",
         "date": "2026-06-29",
+        "source": "Inc42"
+      },
+      {
+        "amount": "$30 Bn",
+        "title": "AirTrunk To Invest $30 Bn In India To Set Up 5 GW Data Centre",
+        "url": "https://inc42.com/buzz/airtrunk-to-invest-30-bn-in-india-to-set-up-5-gw-data-centre/",
+        "date": "2026-06-05",
         "source": "Inc42"
       }
     ]
@@ -164,23 +172,6 @@
         "url": "https://inc42.com/buzz/urban-company-raises-inr-400-cr-from-dharana-capital-via-secondary-deal/",
         "date": "2024-07-17",
         "source": "Inc42"
-      }
-    ]
-  },
-  "tonbo-imaging": {
-    "amount": "₹255 Cr",
-    "round": "IPO",
-    "title": "Tonbo Imaging raises Rs 255 Cr from anchor investors ahead of IPO",
-    "url": "https://entrackr.com/news/tonbo-imaging-raises-rs-255-cr-from-anchor-investors-ahead-of-ipo-12678412",
-    "date": "Thu, 15 Oct 2026 13:44:03 +0530",
-    "source": "Entrackr",
-    "history": [
-      {
-        "round": "IPO",
-        "title": "Tonbo Imaging Raises 21 mn in Pre Ipo Round",
-        "url": "https://entrackr.com/snippets/tonbo-imaging-raises-21-mn-in-pre-ipo-round-8921571",
-        "date": "2025-04-03",
-        "source": "Entrackr"
       }
     ]
   },
@@ -2803,6 +2794,14 @@
     "title": "Matbook Raises 750k in Pre Seed Round",
     "url": "https://entrackr.com/snippets/matbook-raises-750k-in-pre-seed-round-8984090",
     "date": "2025-04-21",
+    "source": "Entrackr",
+    "history": []
+  },
+  "tonbo-imaging": {
+    "round": "IPO",
+    "title": "Tonbo Imaging Raises 21 mn in Pre Ipo Round",
+    "url": "https://entrackr.com/snippets/tonbo-imaging-raises-21-mn-in-pre-ipo-round-8921571",
+    "date": "2025-04-03",
     "source": "Entrackr",
     "history": []
   },
