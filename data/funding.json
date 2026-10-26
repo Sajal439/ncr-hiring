@@ -113,60 +113,6 @@
       }
     ]
   },
-  "urban-company": {
-    "amount": "₹2,500 Cr",
-    "title": "Urban Company approves Rs 2,500 Cr fundraise amid rising competition in InstaHelp",
-    "url": "https://entrackr.com/news/urban-company-approves-rs-2500-cr-fundraise-amid-rising-competition-in-instahelp-12682445",
-    "date": "Fri, 16 Oct 2026 17:08:45 +0530",
-    "source": "Entrackr",
-    "history": [
-      {
-        "amount": "₹854 Cr",
-        "title": "Urban Company Secures rs 854 cr From Anchor Investors",
-        "url": "https://entrackr.com/news/urban-company-secures-rs-854-cr-from-anchor-investors-10066875",
-        "date": "2025-09-09",
-        "source": "Entrackr"
-      },
-      {
-        "amount": "₹854 Cr",
-        "round": "IPO",
-        "title": "Urban Company IPO: INR 854 Cr Raised From Anchor Investors",
-        "url": "https://inc42.com/buzz/urban-company-ipo-inr-854-cr-raised-from-anchor-investors/",
-        "date": "2025-09-09",
-        "source": "Inc42"
-      },
-      {
-        "amount": "₹1395 Cr",
-        "round": "IPO",
-        "title": "Urban Company Founders And Investors Cash Out rs 1395 cr in Pre Ipo Deals",
-        "url": "https://entrackr.com/news/urban-company-founders-and-investors-cash-out-rs-1395-cr-in-pre-ipo-deals-9014293",
-        "date": "2025-04-29",
-        "source": "Entrackr"
-      },
-      {
-        "amount": "₹1900 Cr",
-        "title": "Urban Company Drhp to Raise rs 1900 cr Via Primary Issue And Ofs",
-        "url": "https://entrackr.com/news/urban-company-drhp-to-raise-rs-1900-cr-via-primary-issue-and-ofs-9012100",
-        "date": "2025-04-28",
-        "source": "Entrackr"
-      },
-      {
-        "amount": "₹528 Cr",
-        "round": "IPO",
-        "title": "Urban Company Board Approves rs 528 cr Primary Fundraise Via Ipo",
-        "url": "https://entrackr.com/news/urban-company-board-approves-rs-528-cr-primary-fundraise-via-ipo-8947688",
-        "date": "2025-04-10",
-        "source": "Entrackr"
-      },
-      {
-        "amount": "₹400 Cr",
-        "title": "Urban Company Raises INR 400 Cr From Dharana Capital Via Secondary Deal",
-        "url": "https://inc42.com/buzz/urban-company-raises-inr-400-cr-from-dharana-capital-via-secondary-deal/",
-        "date": "2024-07-17",
-        "source": "Inc42"
-      }
-    ]
-  },
   "yoga-clean-air": {
     "amount": "₹20 Cr",
     "round": "Series A",
@@ -2197,6 +2143,53 @@
         "url": "https://entrackr.com/snippets/playsuper-raises-500k-in-seed-round-led-by-ian-group-and-100xvc-8695102",
         "date": "2025-02-06",
         "source": "Entrackr"
+      }
+    ]
+  },
+  "urban-company": {
+    "amount": "₹854 Cr",
+    "title": "Urban Company Secures rs 854 cr From Anchor Investors",
+    "url": "https://entrackr.com/news/urban-company-secures-rs-854-cr-from-anchor-investors-10066875",
+    "date": "2025-09-09",
+    "source": "Entrackr",
+    "history": [
+      {
+        "amount": "₹854 Cr",
+        "round": "IPO",
+        "title": "Urban Company IPO: INR 854 Cr Raised From Anchor Investors",
+        "url": "https://inc42.com/buzz/urban-company-ipo-inr-854-cr-raised-from-anchor-investors/",
+        "date": "2025-09-09",
+        "source": "Inc42"
+      },
+      {
+        "amount": "₹1395 Cr",
+        "round": "IPO",
+        "title": "Urban Company Founders And Investors Cash Out rs 1395 cr in Pre Ipo Deals",
+        "url": "https://entrackr.com/news/urban-company-founders-and-investors-cash-out-rs-1395-cr-in-pre-ipo-deals-9014293",
+        "date": "2025-04-29",
+        "source": "Entrackr"
+      },
+      {
+        "amount": "₹1900 Cr",
+        "title": "Urban Company Drhp to Raise rs 1900 cr Via Primary Issue And Ofs",
+        "url": "https://entrackr.com/news/urban-company-drhp-to-raise-rs-1900-cr-via-primary-issue-and-ofs-9012100",
+        "date": "2025-04-28",
+        "source": "Entrackr"
+      },
+      {
+        "amount": "₹528 Cr",
+        "round": "IPO",
+        "title": "Urban Company Board Approves rs 528 cr Primary Fundraise Via Ipo",
+        "url": "https://entrackr.com/news/urban-company-board-approves-rs-528-cr-primary-fundraise-via-ipo-8947688",
+        "date": "2025-04-10",
+        "source": "Entrackr"
+      },
+      {
+        "amount": "₹400 Cr",
+        "title": "Urban Company Raises INR 400 Cr From Dharana Capital Via Secondary Deal",
+        "url": "https://inc42.com/buzz/urban-company-raises-inr-400-cr-from-dharana-capital-via-secondary-deal/",
+        "date": "2024-07-17",
+        "source": "Inc42"
       }
     ]
   },
