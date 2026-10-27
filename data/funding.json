@@ -50,69 +50,6 @@
       }
     ]
   },
-  "even-healthcare": {
-    "amount": "$50 Mn",
-    "round": "Series B",
-    "title": "Even Healthcare raises $50 Mn in Series B led by Khosla Ventures",
-    "url": "https://entrackr.com/news/even-healthcare-raises-50-mn-in-series-b-led-by-khosla-ventures-12688553",
-    "date": "Mon, 19 Oct 2026 13:30:37 +0530",
-    "source": "Entrackr",
-    "history": [
-      {
-        "amount": "₹208 Cr",
-        "round": "Series B",
-        "title": "Exclusive Even Healthcare Set to Raise rs 208 cr in Series b Led by Khosla Ventures",
-        "url": "https://entrackr.com/exclusive/exclusive-even-healthcare-set-to-raise-rs-208-cr-in-series-b-led-by-khosla-ventures-12435223",
-        "date": "2026-08-26",
-        "source": "Entrackr"
-      },
-      {
-        "round": "Series A",
-        "title": "Even Healthcare Scoops up 30 mn in Series a Led by Khosla Venture",
-        "url": "https://entrackr.com/news/even-healthcare-scoops-up-30-mn-in-series-a-led-by-khosla-venture-7346466",
-        "date": "2024-10-23",
-        "source": "Entrackr"
-      }
-    ]
-  },
-  "battery-smart": {
-    "amount": "$10 Mn",
-    "round": "Series C",
-    "title": "Exclusive: Battery Smart tops up Series C round with $10 Mn",
-    "url": "https://entrackr.com/exclusive/exclusive-battery-smart-tops-up-series-c-round-with-10-mn-12684307",
-    "date": "Sat, 17 Oct 2026 13:14:27 +0530",
-    "source": "Entrackr",
-    "history": [
-      {
-        "round": "Debt",
-        "title": "Battery Smart Secures 15 mn in Debt From Mirova",
-        "url": "https://entrackr.com/snippets/battery-smart-secures-15-mn-in-debt-from-mirova-11774330",
-        "date": "2026-04-28",
-        "source": "Entrackr"
-      },
-      {
-        "round": "Pre Series C",
-        "title": "Exclusive Battery Smart Kicks Off Pre Series c Funding Round",
-        "url": "https://entrackr.com/exclusive/exclusive-battery-smart-kicks-off-pre-series-c-funding-round-11176828",
-        "date": "2026-03-05",
-        "source": "Entrackr"
-      },
-      {
-        "round": "Series B",
-        "title": "Battery Smart Raises 65 mn in Series b Round",
-        "url": "https://entrackr.com/2024/06/battery-smart-raises-65-mn-in-series-b-round/",
-        "date": "2024-06-11",
-        "source": "Entrackr"
-      },
-      {
-        "round": "Pre Series B",
-        "title": "Tiger Global Backed Battery Smart Raises 33 mn in Pre Series b",
-        "url": "https://entrackr.com/2023/07/tiger-global-backed-battery-smart-raises-33-mn-in-pre-series-b/",
-        "date": "2023-07-06",
-        "source": "Entrackr"
-      }
-    ]
-  },
   "yoga-clean-air": {
     "amount": "₹20 Cr",
     "round": "Series A",
@@ -159,6 +96,23 @@
         "url": "https://inc42.com/buzz/instaastro-bags-12-mn-to-build-ai-tools-expand-online-pooja-services/",
         "date": "2026-08-27",
         "source": "Inc42"
+      }
+    ]
+  },
+  "even-healthcare": {
+    "amount": "₹208 Cr",
+    "round": "Series B",
+    "title": "Exclusive Even Healthcare Set to Raise rs 208 cr in Series b Led by Khosla Ventures",
+    "url": "https://entrackr.com/exclusive/exclusive-even-healthcare-set-to-raise-rs-208-cr-in-series-b-led-by-khosla-ventures-12435223",
+    "date": "2026-08-26",
+    "source": "Entrackr",
+    "history": [
+      {
+        "round": "Series A",
+        "title": "Even Healthcare Scoops up 30 mn in Series a Led by Khosla Venture",
+        "url": "https://entrackr.com/news/even-healthcare-scoops-up-30-mn-in-series-a-led-by-khosla-venture-7346466",
+        "date": "2024-10-23",
+        "source": "Entrackr"
       }
     ]
   },
@@ -1373,6 +1327,36 @@
     "date": "2026-04-29",
     "source": "Entrackr",
     "history": []
+  },
+  "battery-smart": {
+    "round": "Debt",
+    "title": "Battery Smart Secures 15 mn in Debt From Mirova",
+    "url": "https://entrackr.com/snippets/battery-smart-secures-15-mn-in-debt-from-mirova-11774330",
+    "date": "2026-04-28",
+    "source": "Entrackr",
+    "history": [
+      {
+        "round": "Pre Series C",
+        "title": "Exclusive Battery Smart Kicks Off Pre Series c Funding Round",
+        "url": "https://entrackr.com/exclusive/exclusive-battery-smart-kicks-off-pre-series-c-funding-round-11176828",
+        "date": "2026-03-05",
+        "source": "Entrackr"
+      },
+      {
+        "round": "Series B",
+        "title": "Battery Smart Raises 65 mn in Series b Round",
+        "url": "https://entrackr.com/2024/06/battery-smart-raises-65-mn-in-series-b-round/",
+        "date": "2024-06-11",
+        "source": "Entrackr"
+      },
+      {
+        "round": "Pre Series B",
+        "title": "Tiger Global Backed Battery Smart Raises 33 mn in Pre Series b",
+        "url": "https://entrackr.com/2023/07/tiger-global-backed-battery-smart-raises-33-mn-in-pre-series-b/",
+        "date": "2023-07-06",
+        "source": "Entrackr"
+      }
+    ]
   },
   "snabbit": {
     "round": "Series D",

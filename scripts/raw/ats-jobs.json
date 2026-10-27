@@ -17,6 +17,12 @@
       "url": "https://job-boards.greenhouse.io/theknotworldwide/jobs/5437509008",
       "location": "Gurugram, Haryana, India",
       "source": "careers"
+    },
+    {
+      "title": "US Couples Support (Customer)",
+      "url": "https://job-boards.greenhouse.io/theknotworldwide/jobs/5395115008",
+      "location": "Gurugram, Haryana, India",
+      "source": "careers"
     }
   ],
   "athena-education": [
@@ -107,14 +113,6 @@
       "source": "careers"
     }
   ],
-  "ontic": [
-    {
-      "title": "Manager, Product Design",
-      "url": "https://jobs.ashbyhq.com/Ontic/d47d7285-75bd-43cb-87e4-f06070249283",
-      "location": "Noida, India",
-      "source": "careers"
-    }
-  ],
   "paypay-india": [
     {
       "title": "01.Backend Engineer",
@@ -183,21 +181,7 @@
       "source": "careers"
     }
   ],
-  "smart-working": [
-    {
-      "title": "Lead PHP/Symfony Engineer (Remote, Full-Time) - [HR191]",
-      "url": "https://jobs.lever.co/smart-working-solutions/eb63f1a9-443b-48a4-88ec-99c8516a8c06",
-      "location": "Noida",
-      "source": "careers"
-    }
-  ],
   "map": [
-    {
-      "title": "AEM - UI EDS - Consultant",
-      "url": "https://job-boards.greenhouse.io/map/jobs/8706872002",
-      "location": "New Delhi, India",
-      "source": "careers"
-    },
     {
       "title": "Lead QA Engineer",
       "url": "https://job-boards.greenhouse.io/map/jobs/8441199002",
@@ -208,6 +192,14 @@
       "title": "Senior QA Engineer (automation) Contractor",
       "url": "https://job-boards.greenhouse.io/map/jobs/8630694002",
       "location": "New Delhi, India",
+      "source": "careers"
+    }
+  ],
+  "ontic": [
+    {
+      "title": "Manager, Product Design",
+      "url": "https://jobs.ashbyhq.com/Ontic/d47d7285-75bd-43cb-87e4-f06070249283",
+      "location": "Noida, India",
       "source": "careers"
     }
   ],
@@ -242,38 +234,6 @@
       "title": "Sales Manager – Media Sales & Advertising Sales( 4-8 yrs)",
       "url": "https://careers.smartrecruiters.com/Wizikey/744000147203109",
       "location": "Gurugram, in",
-      "source": "careers"
-    }
-  ],
-  "alphasense": [
-    {
-      "title": "Business Analyst II",
-      "url": "https://job-boards.greenhouse.io/alphasense/jobs/8857586002",
-      "location": "Delhi",
-      "source": "careers"
-    },
-    {
-      "title": "Compliance Analyst",
-      "url": "https://job-boards.greenhouse.io/alphasense/jobs/8630664002",
-      "location": "Delhi",
-      "source": "careers"
-    },
-    {
-      "title": "Compliance Analyst, Expert Network",
-      "url": "https://job-boards.greenhouse.io/alphasense/jobs/8693025002",
-      "location": "Delhi",
-      "source": "careers"
-    },
-    {
-      "title": "Content Analyst",
-      "url": "https://job-boards.greenhouse.io/alphasense/jobs/8025882002",
-      "location": "Delhi",
-      "source": "careers"
-    },
-    {
-      "title": "Join AlphaSense India Talent Community",
-      "url": "https://job-boards.greenhouse.io/alphasense/jobs/7119398002",
-      "location": "Delhi",
       "source": "careers"
     }
   ],
@@ -363,6 +323,46 @@
       "source": "careers"
     }
   ],
+  "alphasense": [
+    {
+      "title": "Business Analyst II",
+      "url": "https://job-boards.greenhouse.io/alphasense/jobs/8857586002",
+      "location": "Delhi",
+      "source": "careers"
+    },
+    {
+      "title": "Compliance Analyst",
+      "url": "https://job-boards.greenhouse.io/alphasense/jobs/8630664002",
+      "location": "Delhi",
+      "source": "careers"
+    },
+    {
+      "title": "Compliance Analyst, Expert Network",
+      "url": "https://job-boards.greenhouse.io/alphasense/jobs/8693025002",
+      "location": "Delhi",
+      "source": "careers"
+    },
+    {
+      "title": "Content Analyst",
+      "url": "https://job-boards.greenhouse.io/alphasense/jobs/8025882002",
+      "location": "Delhi",
+      "source": "careers"
+    },
+    {
+      "title": "Join AlphaSense India Talent Community",
+      "url": "https://job-boards.greenhouse.io/alphasense/jobs/7119398002",
+      "location": "Delhi",
+      "source": "careers"
+    }
+  ],
+  "smart-working": [
+    {
+      "title": "Lead PHP/Symfony Engineer (Remote, Full-Time) - [HR191]",
+      "url": "https://jobs.lever.co/smart-working-solutions/eb63f1a9-443b-48a4-88ec-99c8516a8c06",
+      "location": "Noida",
+      "source": "careers"
+    }
+  ],
   "welocalize": [
     {
       "title": "Associate Project Manager- Gen AI Operations",
@@ -411,12 +411,6 @@
     {
       "title": "Senior Analyst, Survey Programming & Data Scrubbing ",
       "url": "https://careers.smartrecruiters.com/Cint/744000154069055",
-      "location": "Gurugram, in",
-      "source": "careers"
-    },
-    {
-      "title": "Survey Programming & Data Scrubbing Consultant",
-      "url": "https://careers.smartrecruiters.com/Cint/744000152914180",
       "location": "Gurugram, in",
       "source": "careers"
     }
