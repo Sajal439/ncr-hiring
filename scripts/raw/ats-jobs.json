@@ -25,20 +25,6 @@
       "source": "careers"
     }
   ],
-  "athena-education": [
-    {
-      "title": "Associate/ Associate Manager - Writing",
-      "url": "https://jobs.lever.co/athena-education/8f9cb4b5-155f-4eae-8f77-ef801a4110da",
-      "location": "Gurugram",
-      "source": "careers"
-    },
-    {
-      "title": "Technical Director- Writing",
-      "url": "https://jobs.lever.co/athena-education/4b1432e7-7ed4-4502-9441-506861d6ebe9",
-      "location": "Gurugram",
-      "source": "careers"
-    }
-  ],
   "trackier": [
     {
       "title": "Business Development Representative - Apptrove",
@@ -109,6 +95,28 @@
     {
       "title": "Senior Business Development Representative - Apptrove",
       "url": "https://apply.workable.com/j/C23D61BB0A",
+      "location": "Noida, India",
+      "source": "careers"
+    }
+  ],
+  "primevigilance": [
+    {
+      "title": "Senior Principal Consultant ",
+      "url": "https://careers.smartrecruiters.com/Ergomed/744000157464573",
+      "location": "Noida, in",
+      "source": "careers"
+    },
+    {
+      "title": "Operations Manager (PV Technology)",
+      "url": "https://careers.smartrecruiters.com/Ergomed/744000155453259",
+      "location": "Noida, in",
+      "source": "careers"
+    }
+  ],
+  "ontic": [
+    {
+      "title": "Manager, Product Design",
+      "url": "https://jobs.ashbyhq.com/Ontic/d47d7285-75bd-43cb-87e4-f06070249283",
       "location": "Noida, India",
       "source": "careers"
     }
@@ -195,28 +203,6 @@
       "source": "careers"
     }
   ],
-  "ontic": [
-    {
-      "title": "Manager, Product Design",
-      "url": "https://jobs.ashbyhq.com/Ontic/d47d7285-75bd-43cb-87e4-f06070249283",
-      "location": "Noida, India",
-      "source": "careers"
-    }
-  ],
-  "primevigilance": [
-    {
-      "title": "Senior Principal Consultant ",
-      "url": "https://careers.smartrecruiters.com/Ergomed/744000157464573",
-      "location": "Noida, in",
-      "source": "careers"
-    },
-    {
-      "title": "Operations Manager (PV Technology)",
-      "url": "https://careers.smartrecruiters.com/Ergomed/744000155453259",
-      "location": "Noida, in",
-      "source": "careers"
-    }
-  ],
   "wizikey": [
     {
       "title": "Sales Executive - B2B SaaS",
@@ -234,6 +220,82 @@
       "title": "Sales Manager – Media Sales & Advertising Sales( 4-8 yrs)",
       "url": "https://careers.smartrecruiters.com/Wizikey/744000147203109",
       "location": "Gurugram, in",
+      "source": "careers"
+    }
+  ],
+  "alphasense": [
+    {
+      "title": "Business Analyst II",
+      "url": "https://job-boards.greenhouse.io/alphasense/jobs/8857586002",
+      "location": "Delhi",
+      "source": "careers"
+    },
+    {
+      "title": "Compliance Analyst",
+      "url": "https://job-boards.greenhouse.io/alphasense/jobs/8630664002",
+      "location": "Delhi",
+      "source": "careers"
+    },
+    {
+      "title": "Compliance Analyst, Expert Network",
+      "url": "https://job-boards.greenhouse.io/alphasense/jobs/8693025002",
+      "location": "Delhi",
+      "source": "careers"
+    },
+    {
+      "title": "Content Analyst",
+      "url": "https://job-boards.greenhouse.io/alphasense/jobs/8025882002",
+      "location": "Delhi",
+      "source": "careers"
+    },
+    {
+      "title": "Join AlphaSense India Talent Community",
+      "url": "https://job-boards.greenhouse.io/alphasense/jobs/7119398002",
+      "location": "Delhi",
+      "source": "careers"
+    }
+  ],
+  "shield-ai": [
+    {
+      "title": "Field Marketing Manager, India (R5942)",
+      "url": "https://jobs.lever.co/shieldai/28136dd4-edd8-4da6-a6a1-7ce139654c96",
+      "location": "New Delhi",
+      "source": "careers"
+    },
+    {
+      "title": "Senior Proposal Manager",
+      "url": "https://jobs.lever.co/shieldai/8a7a6074-0334-4f08-a6d7-303580f5fb01",
+      "location": "New Delhi",
+      "source": "careers"
+    },
+    {
+      "title": "Senior Software Engineer, Autonomy Applications Engineering",
+      "url": "https://jobs.lever.co/shieldai/c223a9c5-e3b3-4da1-b523-1b1045bdf296",
+      "location": "New Delhi",
+      "source": "careers"
+    },
+    {
+      "title": "Senior Staff BD Account Executive - Autonomy Specialist, India (R6015)",
+      "url": "https://jobs.lever.co/shieldai/3964b72e-ae5a-4a9f-a197-1ef07854644d",
+      "location": "New Delhi",
+      "source": "careers"
+    },
+    {
+      "title": "Senior Staff Engineer, Software Autonomy (R5125)",
+      "url": "https://jobs.lever.co/shieldai/0a4c3e5c-3b63-4f16-a483-3a8247f78228",
+      "location": "New Delhi",
+      "source": "careers"
+    },
+    {
+      "title": "Simulation Specialist, India (R6016)",
+      "url": "https://jobs.lever.co/shieldai/dc5f3c97-0b1f-4fc7-bd7e-b4a8504486b5",
+      "location": "New Delhi",
+      "source": "careers"
+    },
+    {
+      "title": "Staff Software Engineer, Autonomy Applications Engineering",
+      "url": "https://jobs.lever.co/shieldai/20ba2fbb-f9b3-4408-ac5c-7809a8446ea3",
+      "location": "New Delhi",
       "source": "careers"
     }
   ],
@@ -323,43 +385,31 @@
       "source": "careers"
     }
   ],
-  "alphasense": [
+  "athena-education": [
     {
-      "title": "Business Analyst II",
-      "url": "https://job-boards.greenhouse.io/alphasense/jobs/8857586002",
-      "location": "Delhi",
+      "title": "Associate/ Associate Manager - Writing",
+      "url": "https://jobs.lever.co/athena-education/8f9cb4b5-155f-4eae-8f77-ef801a4110da",
+      "location": "Gurugram",
       "source": "careers"
     },
     {
-      "title": "Compliance Analyst",
-      "url": "https://job-boards.greenhouse.io/alphasense/jobs/8630664002",
-      "location": "Delhi",
-      "source": "careers"
-    },
-    {
-      "title": "Compliance Analyst, Expert Network",
-      "url": "https://job-boards.greenhouse.io/alphasense/jobs/8693025002",
-      "location": "Delhi",
-      "source": "careers"
-    },
-    {
-      "title": "Content Analyst",
-      "url": "https://job-boards.greenhouse.io/alphasense/jobs/8025882002",
-      "location": "Delhi",
-      "source": "careers"
-    },
-    {
-      "title": "Join AlphaSense India Talent Community",
-      "url": "https://job-boards.greenhouse.io/alphasense/jobs/7119398002",
-      "location": "Delhi",
+      "title": "Technical Director- Writing",
+      "url": "https://jobs.lever.co/athena-education/4b1432e7-7ed4-4502-9441-506861d6ebe9",
+      "location": "Gurugram",
       "source": "careers"
     }
   ],
-  "smart-working": [
+  "cint": [
     {
-      "title": "Lead PHP/Symfony Engineer (Remote, Full-Time) - [HR191]",
-      "url": "https://jobs.lever.co/smart-working-solutions/eb63f1a9-443b-48a4-88ec-99c8516a8c06",
-      "location": "Noida",
+      "title": "Senior Manager, Global Coverage/Project Manager",
+      "url": "https://careers.smartrecruiters.com/Cint/744000157448229",
+      "location": "Gurugram, in",
+      "source": "careers"
+    },
+    {
+      "title": "Senior Analyst, Survey Programming & Data Scrubbing ",
+      "url": "https://careers.smartrecruiters.com/Cint/744000154069055",
+      "location": "Gurugram, in",
       "source": "careers"
     }
   ],
@@ -398,64 +448,6 @@
       "title": "Trust and Safety Specialist",
       "url": "https://jobs.lever.co/weloglobal/affa98bf-9d49-4b66-b57b-aae2c8f1c89c",
       "location": "Gurgaon, India",
-      "source": "careers"
-    }
-  ],
-  "cint": [
-    {
-      "title": "Senior Manager, Global Coverage/Project Manager",
-      "url": "https://careers.smartrecruiters.com/Cint/744000157448229",
-      "location": "Gurugram, in",
-      "source": "careers"
-    },
-    {
-      "title": "Senior Analyst, Survey Programming & Data Scrubbing ",
-      "url": "https://careers.smartrecruiters.com/Cint/744000154069055",
-      "location": "Gurugram, in",
-      "source": "careers"
-    }
-  ],
-  "shield-ai": [
-    {
-      "title": "Field Marketing Manager, India (R5942)",
-      "url": "https://jobs.lever.co/shieldai/28136dd4-edd8-4da6-a6a1-7ce139654c96",
-      "location": "New Delhi",
-      "source": "careers"
-    },
-    {
-      "title": "Senior Proposal Manager",
-      "url": "https://jobs.lever.co/shieldai/8a7a6074-0334-4f08-a6d7-303580f5fb01",
-      "location": "New Delhi",
-      "source": "careers"
-    },
-    {
-      "title": "Senior Software Engineer, Autonomy Applications Engineering",
-      "url": "https://jobs.lever.co/shieldai/c223a9c5-e3b3-4da1-b523-1b1045bdf296",
-      "location": "New Delhi",
-      "source": "careers"
-    },
-    {
-      "title": "Senior Staff BD Account Executive - Autonomy Specialist, India (R6015)",
-      "url": "https://jobs.lever.co/shieldai/3964b72e-ae5a-4a9f-a197-1ef07854644d",
-      "location": "New Delhi",
-      "source": "careers"
-    },
-    {
-      "title": "Senior Staff Engineer, Software Autonomy (R5125)",
-      "url": "https://jobs.lever.co/shieldai/0a4c3e5c-3b63-4f16-a483-3a8247f78228",
-      "location": "New Delhi",
-      "source": "careers"
-    },
-    {
-      "title": "Simulation Specialist, India (R6016)",
-      "url": "https://jobs.lever.co/shieldai/dc5f3c97-0b1f-4fc7-bd7e-b4a8504486b5",
-      "location": "New Delhi",
-      "source": "careers"
-    },
-    {
-      "title": "Staff Software Engineer, Autonomy Applications Engineering",
-      "url": "https://jobs.lever.co/shieldai/20ba2fbb-f9b3-4408-ac5c-7809a8446ea3",
-      "location": "New Delhi",
       "source": "careers"
     }
   ]

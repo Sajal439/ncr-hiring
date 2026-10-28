@@ -1,52 +1,64 @@
 {
-  "invest-india": {
-    "amount": "₹35 Cr",
-    "title": "IndiQube to invest Rs 35 Cr in SaiEdge Realty for 49% stake",
-    "url": "https://entrackr.com/news/indiqube-to-invest-rs-35-cr-in-saiedge-realty-for-49-stake-12690289",
-    "date": "Mon, 19 Oct 2026 19:19:33 +0530",
-    "source": "Entrackr",
+  "troovy": {
+    "amount": "₹100 Cr",
+    "title": "Healthy Snacking Brand Troovy Bags ₹100 Cr To Expand Offline Presence, Enter New Categories",
+    "url": "https://inc42.com/buzz/healthy-snacking-brand-troovy-bags-%e2%82%b9100-cr-to-expand-offline-presence-enter-new-categories/",
+    "date": "Tue, 27 Oct 2026 12:30:34 +0000",
+    "source": "Inc42",
     "history": [
       {
-        "amount": "$550 Mn",
-        "title": "Accel Closes Ninth India Fund With $550 Mn Corpus To Invest In AI, Deeptech",
-        "url": "https://inc42.com/buzz/accel-closes-ninth-india-fund-with-550-mn-corpus-to-invest-in-ai-deeptech/",
-        "date": "2026-08-12",
-        "source": "Inc42"
-      },
-      {
-        "amount": "$250 Mn",
-        "title": "Semiconductor Major Marvell To Invest $250 Mn in India, Double Headcount",
-        "url": "https://inc42.com/buzz/semiconductor-major-marvell-to-invest-250-mn-in-india-double-headcount/",
-        "date": "2026-07-29",
-        "source": "Inc42"
-      },
-      {
-        "amount": "₹65 Cr",
-        "title": "IndiaMART To Invest ₹65 Cr More In Fleetx, Raise Stake To 25.8%",
-        "url": "https://inc42.com/buzz/indiamart-to-invest-%e2%82%b965-cr-more-in-fleetx-raise-stake-to-25-8/",
-        "date": "2026-07-27",
-        "source": "Inc42"
-      },
-      {
         "amount": "₹100 Cr",
-        "title": "Paytm Drops Bonus Share Plan to Invest rs 100 cr in Paytm Money",
-        "url": "https://entrackr.com/news/paytm-drops-bonus-share-plan-to-invest-rs-100-cr-in-paytm-money-12183396",
-        "date": "2026-07-21",
+        "round": "Series B",
+        "title": "Fireside Ventures leads Rs 100 Cr Series B round in snack brand Troovy",
+        "url": "https://entrackr.com/news/fireside-ventures-leads-rs-100-cr-series-b-round-in-snack-brand-troovy-12755228",
+        "date": "Tue, 27 Oct 2026 13:00:37 +0530",
         "source": "Entrackr"
       },
       {
-        "amount": "₹15,000 Cr",
-        "title": "Delhi Government Plans To Invest ₹15,000 Cr To Fuel Electric Mobility",
-        "url": "https://inc42.com/buzz/delhi-government-plans-to-invest-%e2%82%b915000-cr-to-fuel-electric-mobility/",
-        "date": "2026-06-29",
+        "amount": "₹200 Cr",
+        "title": "Exclusive Snack Brand Troovy to Raise up to rs 200 cr Led by Adia",
+        "url": "https://entrackr.com/exclusive/exclusive-snack-brand-troovy-to-raise-up-to-rs-200-cr-led-by-adia-12042730",
+        "date": "2026-06-16",
+        "source": "Entrackr"
+      },
+      {
+        "round": "Series A",
+        "title": "Snack Brand Troovy Raises 5 mn in Series a Led by Fireside And Sharrp Ventures",
+        "url": "https://entrackr.com/snippets/snack-brand-troovy-raises-5-mn-in-series-a-led-by-fireside-and-sharrp-ventures-11015748",
+        "date": "2026-01-20",
+        "source": "Entrackr"
+      },
+      {
+        "amount": "₹20 Cr",
+        "title": "D2C Brand Troovy Raises INR 20 Cr To Bolster Its Quick Commerce Play",
+        "url": "https://inc42.com/buzz/d2c-brand-troovy-raises-inr-20-cr-to-bolster-its-quick-commerce-play/",
+        "date": "2025-05-07",
         "source": "Inc42"
       },
       {
-        "amount": "$30 Bn",
-        "title": "AirTrunk To Invest $30 Bn In India To Set Up 5 GW Data Centre",
-        "url": "https://inc42.com/buzz/airtrunk-to-invest-30-bn-in-india-to-set-up-5-gw-data-centre/",
-        "date": "2026-06-05",
-        "source": "Inc42"
+        "amount": "₹20 Cr",
+        "round": "Pre Series A",
+        "title": "Troovy Raises rs 20 cr in Pre Series a Round Led by Fireside Ventures",
+        "url": "https://entrackr.com/snippets/troovy-raises-rs-20-cr-in-pre-series-a-round-led-by-fireside-ventures-9039471",
+        "date": "2025-05-06",
+        "source": "Entrackr"
+      }
+    ]
+  },
+  "rotoris": {
+    "amount": "$8.5 Mn",
+    "title": "Luxury Watch Brand Rotoris Raises $8.5 Mn To Grow Retail Footprint",
+    "url": "https://inc42.com/buzz/luxury-watch-brand-rotoris-raises-8-5-mn-to-grow-retail-footprint/",
+    "date": "Tue, 27 Oct 2026 09:16:55 +0000",
+    "source": "Inc42",
+    "history": [
+      {
+        "amount": "₹70 Cr",
+        "round": "Series A",
+        "title": "Luxury watch brand Rotoris raises Rs 70 Cr in Series A round led by Blume Ventures",
+        "url": "https://entrackr.com/news/luxury-watch-brand-rotoris-raises-rs-70-cr-in-series-a-round-led-by-blume-ventures-12757062",
+        "date": "Tue, 27 Oct 2026 13:16:11 +0530",
+        "source": "Entrackr"
       }
     ]
   },
@@ -191,6 +203,57 @@
         "title": "Shiprocket To Raise INR 219 Cr From KDT Ventures, Others",
         "url": "https://inc42.com/buzz/shiprocket-to-raise-inr-219-cr-from-kdt-ventures-others/",
         "date": "2024-12-28",
+        "source": "Inc42"
+      }
+    ]
+  },
+  "invest-india": {
+    "amount": "$550 Mn",
+    "title": "Accel Closes Ninth India Fund With $550 Mn Corpus To Invest In AI, Deeptech",
+    "url": "https://inc42.com/buzz/accel-closes-ninth-india-fund-with-550-mn-corpus-to-invest-in-ai-deeptech/",
+    "date": "2026-08-12",
+    "source": "Inc42",
+    "history": [
+      {
+        "amount": "$250 Mn",
+        "title": "Semiconductor Major Marvell To Invest $250 Mn in India, Double Headcount",
+        "url": "https://inc42.com/buzz/semiconductor-major-marvell-to-invest-250-mn-in-india-double-headcount/",
+        "date": "2026-07-29",
+        "source": "Inc42"
+      },
+      {
+        "amount": "₹65 Cr",
+        "title": "IndiaMART To Invest ₹65 Cr More In Fleetx, Raise Stake To 25.8%",
+        "url": "https://inc42.com/buzz/indiamart-to-invest-%e2%82%b965-cr-more-in-fleetx-raise-stake-to-25-8/",
+        "date": "2026-07-27",
+        "source": "Inc42"
+      },
+      {
+        "amount": "₹100 Cr",
+        "title": "Paytm Drops Bonus Share Plan to Invest rs 100 cr in Paytm Money",
+        "url": "https://entrackr.com/news/paytm-drops-bonus-share-plan-to-invest-rs-100-cr-in-paytm-money-12183396",
+        "date": "2026-07-21",
+        "source": "Entrackr"
+      },
+      {
+        "amount": "₹15,000 Cr",
+        "title": "Delhi Government Plans To Invest ₹15,000 Cr To Fuel Electric Mobility",
+        "url": "https://inc42.com/buzz/delhi-government-plans-to-invest-%e2%82%b915000-cr-to-fuel-electric-mobility/",
+        "date": "2026-06-29",
+        "source": "Inc42"
+      },
+      {
+        "amount": "$30 Bn",
+        "title": "AirTrunk To Invest $30 Bn In India To Set Up 5 GW Data Centre",
+        "url": "https://inc42.com/buzz/airtrunk-to-invest-30-bn-in-india-to-set-up-5-gw-data-centre/",
+        "date": "2026-06-05",
+        "source": "Inc42"
+      },
+      {
+        "amount": "$20 Mn",
+        "title": "Cars24 To Invest $20 Mn In Early Stage AI Startups",
+        "url": "https://inc42.com/buzz/cars24-to-invest-20-mn-in-early-stage-ai-startups/",
+        "date": "2026-06-01",
         "source": "Inc42"
       }
     ]
@@ -718,37 +781,6 @@
         "title": "Fmcg Startup Mitra Raises rs 14 cr in Bridge Round Led by Bestvantage",
         "url": "https://entrackr.com/snippets/fmcg-startup-mitra-raises-rs-14-cr-in-bridge-round-led-by-bestvantage-9682768",
         "date": "2025-08-21",
-        "source": "Entrackr"
-      }
-    ]
-  },
-  "troovy": {
-    "amount": "₹200 Cr",
-    "title": "Exclusive Snack Brand Troovy to Raise up to rs 200 cr Led by Adia",
-    "url": "https://entrackr.com/exclusive/exclusive-snack-brand-troovy-to-raise-up-to-rs-200-cr-led-by-adia-12042730",
-    "date": "2026-06-16",
-    "source": "Entrackr",
-    "history": [
-      {
-        "round": "Series A",
-        "title": "Snack Brand Troovy Raises 5 mn in Series a Led by Fireside And Sharrp Ventures",
-        "url": "https://entrackr.com/snippets/snack-brand-troovy-raises-5-mn-in-series-a-led-by-fireside-and-sharrp-ventures-11015748",
-        "date": "2026-01-20",
-        "source": "Entrackr"
-      },
-      {
-        "amount": "₹20 Cr",
-        "title": "D2C Brand Troovy Raises INR 20 Cr To Bolster Its Quick Commerce Play",
-        "url": "https://inc42.com/buzz/d2c-brand-troovy-raises-inr-20-cr-to-bolster-its-quick-commerce-play/",
-        "date": "2025-05-07",
-        "source": "Inc42"
-      },
-      {
-        "amount": "₹20 Cr",
-        "round": "Pre Series A",
-        "title": "Troovy Raises rs 20 cr in Pre Series a Round Led by Fireside Ventures",
-        "url": "https://entrackr.com/snippets/troovy-raises-rs-20-cr-in-pre-series-a-round-led-by-fireside-ventures-9039471",
-        "date": "2025-05-06",
         "source": "Entrackr"
       }
     ]
