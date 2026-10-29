@@ -1,4 +1,80 @@
 {
+  "holiday-tribe": {
+    "amount": "₹50 Cr",
+    "title": "Exclusive: Holiday Tribe In Talks To Raise ₹50 Cr From RPSG Capital Ventures, Others",
+    "url": "https://inc42.com/buzz/holiday-tribe-in-talks-to-raise-%e2%82%b950-cr-from-rpsg-capital-ventures-others/",
+    "date": "Wed, 28 Oct 2026 14:36:05 +0000",
+    "source": "Inc42",
+    "history": [
+      {
+        "amount": "₹25 Cr",
+        "round": "Pre Series A",
+        "title": "Holiday Tribe Raises rs 25 cr in Pre Series a Round",
+        "url": "https://entrackr.com/snippets/holiday-tribe-raises-rs-25-cr-in-pre-series-a-round-9653385",
+        "date": "2025-08-12",
+        "source": "Entrackr"
+      }
+    ]
+  },
+  "bijnis": {
+    "amount": "₹27 Cr",
+    "title": "Bijnis rebrands as Zorit, raises Rs 27 Cr led by Sparrow Capital",
+    "url": "https://entrackr.com/news/bijnis-rebrands-as-zorit-raises-rs-27-cr-led-by-sparrow-capital-12762019",
+    "date": "Wed, 28 Oct 2026 19:05:55 +0530",
+    "source": "Entrackr",
+    "history": []
+  },
+  "invest-india": {
+    "amount": "$3.5 Bn",
+    "title": "Cognizant In Talks To Invest In Sarvam At $3.5 Bn To $4 Bn Valuation: Report",
+    "url": "https://inc42.com/buzz/cognizant-in-talks-to-invest-in-sarvam-at-3-5-bn-to-4-bn-valuation-report/",
+    "date": "Wed, 28 Oct 2026 09:50:02 +0000",
+    "source": "Inc42",
+    "history": [
+      {
+        "amount": "$550 Mn",
+        "title": "Accel Closes Ninth India Fund With $550 Mn Corpus To Invest In AI, Deeptech",
+        "url": "https://inc42.com/buzz/accel-closes-ninth-india-fund-with-550-mn-corpus-to-invest-in-ai-deeptech/",
+        "date": "2026-08-12",
+        "source": "Inc42"
+      },
+      {
+        "amount": "$250 Mn",
+        "title": "Semiconductor Major Marvell To Invest $250 Mn in India, Double Headcount",
+        "url": "https://inc42.com/buzz/semiconductor-major-marvell-to-invest-250-mn-in-india-double-headcount/",
+        "date": "2026-07-29",
+        "source": "Inc42"
+      },
+      {
+        "amount": "₹65 Cr",
+        "title": "IndiaMART To Invest ₹65 Cr More In Fleetx, Raise Stake To 25.8%",
+        "url": "https://inc42.com/buzz/indiamart-to-invest-%e2%82%b965-cr-more-in-fleetx-raise-stake-to-25-8/",
+        "date": "2026-07-27",
+        "source": "Inc42"
+      },
+      {
+        "amount": "₹100 Cr",
+        "title": "Paytm Drops Bonus Share Plan to Invest rs 100 cr in Paytm Money",
+        "url": "https://entrackr.com/news/paytm-drops-bonus-share-plan-to-invest-rs-100-cr-in-paytm-money-12183396",
+        "date": "2026-07-21",
+        "source": "Entrackr"
+      },
+      {
+        "amount": "₹15,000 Cr",
+        "title": "Delhi Government Plans To Invest ₹15,000 Cr To Fuel Electric Mobility",
+        "url": "https://inc42.com/buzz/delhi-government-plans-to-invest-%e2%82%b915000-cr-to-fuel-electric-mobility/",
+        "date": "2026-06-29",
+        "source": "Inc42"
+      },
+      {
+        "amount": "$30 Bn",
+        "title": "AirTrunk To Invest $30 Bn In India To Set Up 5 GW Data Centre",
+        "url": "https://inc42.com/buzz/airtrunk-to-invest-30-bn-in-india-to-set-up-5-gw-data-centre/",
+        "date": "2026-06-05",
+        "source": "Inc42"
+      }
+    ]
+  },
   "troovy": {
     "amount": "₹100 Cr",
     "title": "Healthy Snacking Brand Troovy Bags ₹100 Cr To Expand Offline Presence, Enter New Categories",
@@ -46,21 +122,13 @@
     ]
   },
   "rotoris": {
-    "amount": "$8.5 Mn",
-    "title": "Luxury Watch Brand Rotoris Raises $8.5 Mn To Grow Retail Footprint",
-    "url": "https://inc42.com/buzz/luxury-watch-brand-rotoris-raises-8-5-mn-to-grow-retail-footprint/",
-    "date": "Tue, 27 Oct 2026 09:16:55 +0000",
-    "source": "Inc42",
-    "history": [
-      {
-        "amount": "₹70 Cr",
-        "round": "Series A",
-        "title": "Luxury watch brand Rotoris raises Rs 70 Cr in Series A round led by Blume Ventures",
-        "url": "https://entrackr.com/news/luxury-watch-brand-rotoris-raises-rs-70-cr-in-series-a-round-led-by-blume-ventures-12757062",
-        "date": "Tue, 27 Oct 2026 13:16:11 +0530",
-        "source": "Entrackr"
-      }
-    ]
+    "amount": "₹70 Cr",
+    "round": "Series A",
+    "title": "Luxury watch brand Rotoris raises Rs 70 Cr in Series A round led by Blume Ventures",
+    "url": "https://entrackr.com/news/luxury-watch-brand-rotoris-raises-rs-70-cr-in-series-a-round-led-by-blume-ventures-12757062",
+    "date": "Tue, 27 Oct 2026 13:16:11 +0530",
+    "source": "Entrackr",
+    "history": []
   },
   "yoga-clean-air": {
     "amount": "₹20 Cr",
@@ -203,57 +271,6 @@
         "title": "Shiprocket To Raise INR 219 Cr From KDT Ventures, Others",
         "url": "https://inc42.com/buzz/shiprocket-to-raise-inr-219-cr-from-kdt-ventures-others/",
         "date": "2024-12-28",
-        "source": "Inc42"
-      }
-    ]
-  },
-  "invest-india": {
-    "amount": "$550 Mn",
-    "title": "Accel Closes Ninth India Fund With $550 Mn Corpus To Invest In AI, Deeptech",
-    "url": "https://inc42.com/buzz/accel-closes-ninth-india-fund-with-550-mn-corpus-to-invest-in-ai-deeptech/",
-    "date": "2026-08-12",
-    "source": "Inc42",
-    "history": [
-      {
-        "amount": "$250 Mn",
-        "title": "Semiconductor Major Marvell To Invest $250 Mn in India, Double Headcount",
-        "url": "https://inc42.com/buzz/semiconductor-major-marvell-to-invest-250-mn-in-india-double-headcount/",
-        "date": "2026-07-29",
-        "source": "Inc42"
-      },
-      {
-        "amount": "₹65 Cr",
-        "title": "IndiaMART To Invest ₹65 Cr More In Fleetx, Raise Stake To 25.8%",
-        "url": "https://inc42.com/buzz/indiamart-to-invest-%e2%82%b965-cr-more-in-fleetx-raise-stake-to-25-8/",
-        "date": "2026-07-27",
-        "source": "Inc42"
-      },
-      {
-        "amount": "₹100 Cr",
-        "title": "Paytm Drops Bonus Share Plan to Invest rs 100 cr in Paytm Money",
-        "url": "https://entrackr.com/news/paytm-drops-bonus-share-plan-to-invest-rs-100-cr-in-paytm-money-12183396",
-        "date": "2026-07-21",
-        "source": "Entrackr"
-      },
-      {
-        "amount": "₹15,000 Cr",
-        "title": "Delhi Government Plans To Invest ₹15,000 Cr To Fuel Electric Mobility",
-        "url": "https://inc42.com/buzz/delhi-government-plans-to-invest-%e2%82%b915000-cr-to-fuel-electric-mobility/",
-        "date": "2026-06-29",
-        "source": "Inc42"
-      },
-      {
-        "amount": "$30 Bn",
-        "title": "AirTrunk To Invest $30 Bn In India To Set Up 5 GW Data Centre",
-        "url": "https://inc42.com/buzz/airtrunk-to-invest-30-bn-in-india-to-set-up-5-gw-data-centre/",
-        "date": "2026-06-05",
-        "source": "Inc42"
-      },
-      {
-        "amount": "$20 Mn",
-        "title": "Cars24 To Invest $20 Mn In Early Stage AI Startups",
-        "url": "https://inc42.com/buzz/cars24-to-invest-20-mn-in-early-stage-ai-startups/",
-        "date": "2026-06-01",
         "source": "Inc42"
       }
     ]
@@ -2461,15 +2478,6 @@
     "title": "Cureous Labs Raises rs 166 cr in Seed Round",
     "url": "https://entrackr.com/snippets/cureous-labs-raises-rs-166-cr-in-seed-round-9655177",
     "date": "2025-08-13",
-    "source": "Entrackr",
-    "history": []
-  },
-  "holiday-tribe": {
-    "amount": "₹25 Cr",
-    "round": "Pre Series A",
-    "title": "Holiday Tribe Raises rs 25 cr in Pre Series a Round",
-    "url": "https://entrackr.com/snippets/holiday-tribe-raises-rs-25-cr-in-pre-series-a-round-9653385",
-    "date": "2025-08-12",
     "source": "Entrackr",
     "history": []
   },
