@@ -75,6 +75,12 @@
       "source": "careers"
     },
     {
+      "title": "Human Resources",
+      "url": "https://apply.workable.com/j/09BC3B7951",
+      "location": "Noida, India",
+      "source": "careers"
+    },
+    {
       "title": "Performance Marketing Lead (Growth & Operations) - B.Tech",
       "url": "https://apply.workable.com/j/6D6218644C",
       "location": "Noida, India",
@@ -119,11 +125,17 @@
       "source": "careers"
     }
   ],
-  "ontic": [
+  "primevigilance": [
     {
-      "title": "Manager, Product Design",
-      "url": "https://jobs.ashbyhq.com/Ontic/d47d7285-75bd-43cb-87e4-f06070249283",
-      "location": "Noida, India",
+      "title": "Senior Principal Consultant ",
+      "url": "https://careers.smartrecruiters.com/Ergomed/744000157464573",
+      "location": "Noida, in",
+      "source": "careers"
+    },
+    {
+      "title": "Operations Manager (PV Technology)",
+      "url": "https://careers.smartrecruiters.com/Ergomed/744000155453259",
+      "location": "Noida, in",
       "source": "careers"
     }
   ],
@@ -195,20 +207,6 @@
       "source": "careers"
     }
   ],
-  "map": [
-    {
-      "title": "Lead QA Engineer",
-      "url": "https://job-boards.greenhouse.io/map/jobs/8441199002",
-      "location": "New Delhi, Delhi, India",
-      "source": "careers"
-    },
-    {
-      "title": "Senior QA Engineer (automation) Contractor",
-      "url": "https://job-boards.greenhouse.io/map/jobs/8630694002",
-      "location": "New Delhi, India",
-      "source": "careers"
-    }
-  ],
   "wizikey": [
     {
       "title": "Sales Executive - B2B SaaS",
@@ -229,17 +227,25 @@
       "source": "careers"
     }
   ],
-  "primevigilance": [
+  "map": [
     {
-      "title": "Senior Principal Consultant ",
-      "url": "https://careers.smartrecruiters.com/Ergomed/744000157464573",
-      "location": "Noida, in",
+      "title": "Lead QA Engineer",
+      "url": "https://job-boards.greenhouse.io/map/jobs/8441199002",
+      "location": "New Delhi, Delhi, India",
       "source": "careers"
     },
     {
-      "title": "Operations Manager (PV Technology)",
-      "url": "https://careers.smartrecruiters.com/Ergomed/744000155453259",
-      "location": "Noida, in",
+      "title": "Senior QA Engineer (automation) Contractor",
+      "url": "https://job-boards.greenhouse.io/map/jobs/8630694002",
+      "location": "New Delhi, India",
+      "source": "careers"
+    }
+  ],
+  "ontic": [
+    {
+      "title": "Manager, Product Design",
+      "url": "https://jobs.ashbyhq.com/Ontic/d47d7285-75bd-43cb-87e4-f06070249283",
+      "location": "Noida, India",
       "source": "careers"
     }
   ],
@@ -375,14 +381,6 @@
       "source": "careers"
     }
   ],
-  "arket": [
-    {
-      "title": "RETAIL OPS LEAD (FIXED TERM)",
-      "url": "https://careers.smartrecruiters.com/HMGroup/744000158251841",
-      "location": "Delhi, Bangalore, in",
-      "source": "careers"
-    }
-  ],
   "welocalize": [
     {
       "title": "Associate Technical Publication Engineer",
@@ -406,6 +404,50 @@
       "title": "Trust and Safety Specialist",
       "url": "https://jobs.lever.co/weloglobal/affa98bf-9d49-4b66-b57b-aae2c8f1c89c",
       "location": "Gurgaon, India",
+      "source": "careers"
+    }
+  ],
+  "shield-ai": [
+    {
+      "title": "Field Marketing Manager, India (R5942)",
+      "url": "https://jobs.lever.co/shieldai/28136dd4-edd8-4da6-a6a1-7ce139654c96",
+      "location": "New Delhi",
+      "source": "careers"
+    },
+    {
+      "title": "Senior Proposal Manager",
+      "url": "https://jobs.lever.co/shieldai/8a7a6074-0334-4f08-a6d7-303580f5fb01",
+      "location": "New Delhi",
+      "source": "careers"
+    },
+    {
+      "title": "Senior Software Engineer, Autonomy Applications Engineering",
+      "url": "https://jobs.lever.co/shieldai/c223a9c5-e3b3-4da1-b523-1b1045bdf296",
+      "location": "New Delhi",
+      "source": "careers"
+    },
+    {
+      "title": "Senior Staff BD Account Executive - Autonomy Specialist, India (R6015)",
+      "url": "https://jobs.lever.co/shieldai/3964b72e-ae5a-4a9f-a197-1ef07854644d",
+      "location": "New Delhi",
+      "source": "careers"
+    },
+    {
+      "title": "Senior Staff Engineer, Software Autonomy (R5125)",
+      "url": "https://jobs.lever.co/shieldai/0a4c3e5c-3b63-4f16-a483-3a8247f78228",
+      "location": "New Delhi",
+      "source": "careers"
+    },
+    {
+      "title": "Simulation Specialist, India (R6016)",
+      "url": "https://jobs.lever.co/shieldai/dc5f3c97-0b1f-4fc7-bd7e-b4a8504486b5",
+      "location": "New Delhi",
+      "source": "careers"
+    },
+    {
+      "title": "Staff Software Engineer, Autonomy Applications Engineering",
+      "url": "https://jobs.lever.co/shieldai/20ba2fbb-f9b3-4408-ac5c-7809a8446ea3",
+      "location": "New Delhi",
       "source": "careers"
     }
   ]
