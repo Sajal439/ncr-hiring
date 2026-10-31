@@ -1,11 +1,51 @@
 {
+  "pine-labs": {
+    "amount": "$9.9 Mn",
+    "title": "Pine Labs Hits New High, Ace Blend Bags $9.9 Mn &#038; More",
+    "url": "https://inc42.com/buzz/pine-labs-hits-new-high-ace-blend-bags-9-9-mn-more/",
+    "date": "Fri, 30 Oct 2026 02:30:22 +0000",
+    "source": "Inc42",
+    "history": [
+      {
+        "round": "IPO",
+        "title": "Retail Investors Give Lukewarm Response to Pine Labs Ipo",
+        "url": "https://entrackr.com/news/retail-investors-give-lukewarm-response-to-pine-labs-ipo-10647980",
+        "date": "2025-11-11",
+        "source": "Entrackr"
+      },
+      {
+        "amount": "₹1754 Cr",
+        "round": "IPO",
+        "title": "Pine Labs Raises rs 1754 cr From Anchor Investors Ahead of Ipo",
+        "url": "https://entrackr.com/news/pine-labs-raises-rs-1754-cr-from-anchor-investors-ahead-of-ipo-10635121",
+        "date": "2025-11-07",
+        "source": "Entrackr"
+      }
+    ]
+  },
+  "smylo": {
+    "amount": "₹30 Cr",
+    "title": "Exclusive: Smylo In Talks To Raise ₹30 Cr To Expand Cat Food Portfolio",
+    "url": "https://inc42.com/buzz/exclusive-smylo-in-talks-to-raise-%e2%82%b930-cr-to-expand-cat-food-portfolio/",
+    "date": "Fri, 30 Oct 2026 02:30:12 +0000",
+    "source": "Inc42",
+    "history": []
+  },
   "bijnis": {
     "amount": "₹27 Cr",
-    "title": "Bijnis rebrands as Zorit, raises Rs 27 Cr led by Sparrow Capital",
-    "url": "https://entrackr.com/news/bijnis-rebrands-as-zorit-raises-rs-27-cr-led-by-sparrow-capital-12762019",
-    "date": "Wed, 28 Oct 2026 19:05:55 +0530",
-    "source": "Entrackr",
-    "history": []
+    "title": "Bijnis Rebrands As Zorit, Raises ₹27 Cr For B2B Quick Commerce",
+    "url": "https://inc42.com/buzz/bijnis-rebrands-as-zorit-raises-%e2%82%b927-cr-for-b2b-quick-commerce/",
+    "date": "Thu, 29 Oct 2026 16:36:22 +0000",
+    "source": "Inc42",
+    "history": [
+      {
+        "amount": "₹27 Cr",
+        "title": "Bijnis rebrands as Zorit, raises Rs 27 Cr led by Sparrow Capital",
+        "url": "https://entrackr.com/news/bijnis-rebrands-as-zorit-raises-rs-27-cr-led-by-sparrow-capital-12762019",
+        "date": "Wed, 28 Oct 2026 19:05:55 +0530",
+        "source": "Entrackr"
+      }
+    ]
   },
   "rotoris": {
     "amount": "₹70 Cr",
@@ -2012,23 +2052,6 @@
     "date": "2025-11-12",
     "source": "Entrackr",
     "history": []
-  },
-  "pine-labs": {
-    "round": "IPO",
-    "title": "Retail Investors Give Lukewarm Response to Pine Labs Ipo",
-    "url": "https://entrackr.com/news/retail-investors-give-lukewarm-response-to-pine-labs-ipo-10647980",
-    "date": "2025-11-11",
-    "source": "Entrackr",
-    "history": [
-      {
-        "amount": "₹1754 Cr",
-        "round": "IPO",
-        "title": "Pine Labs Raises rs 1754 cr From Anchor Investors Ahead of Ipo",
-        "url": "https://entrackr.com/news/pine-labs-raises-rs-1754-cr-from-anchor-investors-ahead-of-ipo-10635121",
-        "date": "2025-11-07",
-        "source": "Entrackr"
-      }
-    ]
   },
   "openhouse": {
     "round": "Seed",

@@ -87,12 +87,6 @@
       "source": "careers"
     },
     {
-      "title": "Product Manager",
-      "url": "https://apply.workable.com/j/14A8660015",
-      "location": "Noida, India",
-      "source": "careers"
-    },
-    {
       "title": "Senior Business Development Represenatative - Trackier",
       "url": "https://apply.workable.com/j/0B96C287AF",
       "location": "Noida, India",
@@ -108,34 +102,6 @@
       "title": "Web Developer (Marketing Technology & Integrations)",
       "url": "https://apply.workable.com/j/E72B6CAB4A",
       "location": "Noida, India",
-      "source": "careers"
-    }
-  ],
-  "athena-education": [
-    {
-      "title": "Associate/ Associate Manager - Writing",
-      "url": "https://jobs.lever.co/athena-education/8f9cb4b5-155f-4eae-8f77-ef801a4110da",
-      "location": "Gurugram",
-      "source": "careers"
-    },
-    {
-      "title": "Technical Director- Writing",
-      "url": "https://jobs.lever.co/athena-education/4b1432e7-7ed4-4502-9441-506861d6ebe9",
-      "location": "Gurugram",
-      "source": "careers"
-    }
-  ],
-  "primevigilance": [
-    {
-      "title": "Senior Principal Consultant ",
-      "url": "https://careers.smartrecruiters.com/Ergomed/744000157464573",
-      "location": "Noida, in",
-      "source": "careers"
-    },
-    {
-      "title": "Operations Manager (PV Technology)",
-      "url": "https://careers.smartrecruiters.com/Ergomed/744000155453259",
-      "location": "Noida, in",
       "source": "careers"
     }
   ],
@@ -207,23 +173,25 @@
       "source": "careers"
     }
   ],
-  "wizikey": [
+  "ontic": [
     {
-      "title": "Sales Executive - B2B SaaS",
-      "url": "https://careers.smartrecruiters.com/Wizikey/744000150346079",
-      "location": "Gurugram, in",
+      "title": "Manager, Product Design",
+      "url": "https://jobs.ashbyhq.com/Ontic/d47d7285-75bd-43cb-87e4-f06070249283",
+      "location": "Noida, India",
+      "source": "careers"
+    }
+  ],
+  "primevigilance": [
+    {
+      "title": "Senior Principal Consultant ",
+      "url": "https://careers.smartrecruiters.com/Ergomed/744000157464573",
+      "location": "Noida, in",
       "source": "careers"
     },
     {
-      "title": "Sales Manager – B2B SaaS",
-      "url": "https://careers.smartrecruiters.com/Wizikey/744000148672349",
-      "location": "Gurugram, in",
-      "source": "careers"
-    },
-    {
-      "title": "Sales Manager – Media Sales & Advertising Sales( 4-8 yrs)",
-      "url": "https://careers.smartrecruiters.com/Wizikey/744000147203109",
-      "location": "Gurugram, in",
+      "title": "Operations Manager (PV Technology)",
+      "url": "https://careers.smartrecruiters.com/Ergomed/744000155453259",
+      "location": "Noida, in",
       "source": "careers"
     }
   ],
@@ -241,11 +209,23 @@
       "source": "careers"
     }
   ],
-  "ontic": [
+  "wizikey": [
     {
-      "title": "Manager, Product Design",
-      "url": "https://jobs.ashbyhq.com/Ontic/d47d7285-75bd-43cb-87e4-f06070249283",
-      "location": "Noida, India",
+      "title": "Sales Executive - B2B SaaS",
+      "url": "https://careers.smartrecruiters.com/Wizikey/744000150346079",
+      "location": "Gurugram, in",
+      "source": "careers"
+    },
+    {
+      "title": "Sales Manager – B2B SaaS",
+      "url": "https://careers.smartrecruiters.com/Wizikey/744000148672349",
+      "location": "Gurugram, in",
+      "source": "careers"
+    },
+    {
+      "title": "Sales Manager – Media Sales & Advertising Sales( 4-8 yrs)",
+      "url": "https://careers.smartrecruiters.com/Wizikey/744000147203109",
+      "location": "Gurugram, in",
       "source": "careers"
     }
   ],
@@ -381,32 +361,6 @@
       "source": "careers"
     }
   ],
-  "welocalize": [
-    {
-      "title": "Associate Technical Publication Engineer",
-      "url": "https://jobs.lever.co/weloglobal/7903f79a-fe0f-46e3-ac8b-83b607574453",
-      "location": "Gurgaon, India",
-      "source": "careers"
-    },
-    {
-      "title": "Hindi Linguist",
-      "url": "https://jobs.lever.co/weloglobal/b1209960-15d0-4bca-883f-0304548215c0",
-      "location": "Gurgaon, India",
-      "source": "careers"
-    },
-    {
-      "title": "Lead Program Manager- Generative AI Data Operations",
-      "url": "https://jobs.lever.co/weloglobal/7a1cd362-365b-41a3-b8b7-d484c749dc36",
-      "location": "Gurgaon, India",
-      "source": "careers"
-    },
-    {
-      "title": "Trust and Safety Specialist",
-      "url": "https://jobs.lever.co/weloglobal/affa98bf-9d49-4b66-b57b-aae2c8f1c89c",
-      "location": "Gurgaon, India",
-      "source": "careers"
-    }
-  ],
   "shield-ai": [
     {
       "title": "Field Marketing Manager, India (R5942)",
@@ -448,6 +402,40 @@
       "title": "Staff Software Engineer, Autonomy Applications Engineering",
       "url": "https://jobs.lever.co/shieldai/20ba2fbb-f9b3-4408-ac5c-7809a8446ea3",
       "location": "New Delhi",
+      "source": "careers"
+    }
+  ],
+  "athena-education": [
+    {
+      "title": "Associate/ Associate Manager - Writing",
+      "url": "https://jobs.lever.co/athena-education/8f9cb4b5-155f-4eae-8f77-ef801a4110da",
+      "location": "Gurugram",
+      "source": "careers"
+    },
+    {
+      "title": "Technical Director- Writing",
+      "url": "https://jobs.lever.co/athena-education/4b1432e7-7ed4-4502-9441-506861d6ebe9",
+      "location": "Gurugram",
+      "source": "careers"
+    }
+  ],
+  "welocalize": [
+    {
+      "title": "Associate Technical Publication Engineer",
+      "url": "https://jobs.lever.co/weloglobal/7903f79a-fe0f-46e3-ac8b-83b607574453",
+      "location": "Gurgaon, India",
+      "source": "careers"
+    },
+    {
+      "title": "Hindi Linguist",
+      "url": "https://jobs.lever.co/weloglobal/b1209960-15d0-4bca-883f-0304548215c0",
+      "location": "Gurgaon, India",
+      "source": "careers"
+    },
+    {
+      "title": "Trust and Safety Specialist",
+      "url": "https://jobs.lever.co/weloglobal/affa98bf-9d49-4b66-b57b-aae2c8f1c89c",
+      "location": "Gurgaon, India",
       "source": "careers"
     }
   ]
