@@ -17,12 +17,6 @@
       "url": "https://job-boards.greenhouse.io/theknotworldwide/jobs/5437509008",
       "location": "Gurugram, Haryana, India",
       "source": "careers"
-    },
-    {
-      "title": "US Couples Support (Customer)",
-      "url": "https://job-boards.greenhouse.io/theknotworldwide/jobs/5395115008",
-      "location": "Gurugram, Haryana, India",
-      "source": "careers"
     }
   ],
   "trackier": [
@@ -99,20 +93,6 @@
       "source": "careers"
     }
   ],
-  "athena-education": [
-    {
-      "title": "Associate/ Associate Manager - Writing",
-      "url": "https://jobs.lever.co/athena-education/8f9cb4b5-155f-4eae-8f77-ef801a4110da",
-      "location": "Gurugram",
-      "source": "careers"
-    },
-    {
-      "title": "Technical Director- Writing",
-      "url": "https://jobs.lever.co/athena-education/4b1432e7-7ed4-4502-9441-506861d6ebe9",
-      "location": "Gurugram",
-      "source": "careers"
-    }
-  ],
   "paypay-india": [
     {
       "title": "01.Backend Engineer",
@@ -163,13 +143,13 @@
       "source": "careers"
     },
     {
-      "title": "10.Senior Product Manager",
+      "title": "09.Senior Product Manager",
       "url": "https://job-boards.greenhouse.io/pay2dc/jobs/4722496006",
       "location": "Gurugram,India",
       "source": "careers"
     },
     {
-      "title": "11.Employee Referral (PayPay India)  - For Internal Use Only",
+      "title": "10.Employee Referral (PayPay India)  - For Internal Use Only",
       "url": "https://job-boards.greenhouse.io/pay2dc/jobs/4055032006",
       "location": "Gurugram,India",
       "source": "careers"
@@ -222,38 +202,6 @@
       "title": "Sales Manager – Media Sales & Advertising Sales( 4-8 yrs)",
       "url": "https://careers.smartrecruiters.com/Wizikey/744000147203109",
       "location": "Gurugram, in",
-      "source": "careers"
-    }
-  ],
-  "alphasense": [
-    {
-      "title": "Business Analyst II",
-      "url": "https://job-boards.greenhouse.io/alphasense/jobs/8857586002",
-      "location": "Delhi",
-      "source": "careers"
-    },
-    {
-      "title": "Compliance Analyst",
-      "url": "https://job-boards.greenhouse.io/alphasense/jobs/8630664002",
-      "location": "Delhi",
-      "source": "careers"
-    },
-    {
-      "title": "Compliance Analyst, Expert Network",
-      "url": "https://job-boards.greenhouse.io/alphasense/jobs/8693025002",
-      "location": "Delhi",
-      "source": "careers"
-    },
-    {
-      "title": "Content Analyst",
-      "url": "https://job-boards.greenhouse.io/alphasense/jobs/8025882002",
-      "location": "Delhi",
-      "source": "careers"
-    },
-    {
-      "title": "Join AlphaSense India Talent Community",
-      "url": "https://job-boards.greenhouse.io/alphasense/jobs/7119398002",
-      "location": "Delhi",
       "source": "careers"
     }
   ],
@@ -343,6 +291,38 @@
       "source": "careers"
     }
   ],
+  "alphasense": [
+    {
+      "title": "Business Analyst II",
+      "url": "https://job-boards.greenhouse.io/alphasense/jobs/8857586002",
+      "location": "Delhi",
+      "source": "careers"
+    },
+    {
+      "title": "Compliance Analyst",
+      "url": "https://job-boards.greenhouse.io/alphasense/jobs/8630664002",
+      "location": "Delhi",
+      "source": "careers"
+    },
+    {
+      "title": "Compliance Analyst, Expert Network",
+      "url": "https://job-boards.greenhouse.io/alphasense/jobs/8693025002",
+      "location": "Delhi",
+      "source": "careers"
+    },
+    {
+      "title": "Content Analyst",
+      "url": "https://job-boards.greenhouse.io/alphasense/jobs/8025882002",
+      "location": "Delhi",
+      "source": "careers"
+    },
+    {
+      "title": "Join AlphaSense India Talent Community",
+      "url": "https://job-boards.greenhouse.io/alphasense/jobs/7119398002",
+      "location": "Delhi",
+      "source": "careers"
+    }
+  ],
   "cint": [
     {
       "title": "Senior Manager, Global Coverage/Project Manager",
@@ -354,6 +334,54 @@
       "title": "Senior Analyst, Survey Programming & Data Scrubbing ",
       "url": "https://careers.smartrecruiters.com/Cint/744000154069055",
       "location": "Gurugram, in",
+      "source": "careers"
+    }
+  ],
+  "athena-education": [
+    {
+      "title": "Associate/ Associate Manager - Writing",
+      "url": "https://jobs.lever.co/athena-education/8f9cb4b5-155f-4eae-8f77-ef801a4110da",
+      "location": "Gurugram",
+      "source": "careers"
+    },
+    {
+      "title": "Technical Director- Writing",
+      "url": "https://jobs.lever.co/athena-education/4b1432e7-7ed4-4502-9441-506861d6ebe9",
+      "location": "Gurugram",
+      "source": "careers"
+    }
+  ],
+  "arket": [
+    {
+      "title": "Administration Specialist",
+      "url": "https://careers.smartrecruiters.com/HMGroup/744000159347264",
+      "location": "Delhi, in",
+      "source": "careers"
+    }
+  ],
+  "welocalize": [
+    {
+      "title": "Associate Technical Publication Engineer",
+      "url": "https://jobs.lever.co/weloglobal/7903f79a-fe0f-46e3-ac8b-83b607574453",
+      "location": "Gurgaon, India",
+      "source": "careers"
+    },
+    {
+      "title": "Hindi Linguist",
+      "url": "https://jobs.lever.co/weloglobal/b1209960-15d0-4bca-883f-0304548215c0",
+      "location": "Gurgaon, India",
+      "source": "careers"
+    },
+    {
+      "title": "Localization Quality Coordinator",
+      "url": "https://jobs.lever.co/weloglobal/de45c6df-455b-4626-9c9d-b46a69ab8c00",
+      "location": "Gurgaon, India",
+      "source": "careers"
+    },
+    {
+      "title": "Trust and Safety Specialist",
+      "url": "https://jobs.lever.co/weloglobal/affa98bf-9d49-4b66-b57b-aae2c8f1c89c",
+      "location": "Gurgaon, India",
       "source": "careers"
     }
   ],
@@ -398,26 +426,6 @@
       "title": "Staff Software Engineer, Autonomy Applications Engineering",
       "url": "https://jobs.lever.co/shieldai/20ba2fbb-f9b3-4408-ac5c-7809a8446ea3",
       "location": "New Delhi",
-      "source": "careers"
-    }
-  ],
-  "welocalize": [
-    {
-      "title": "Associate Technical Publication Engineer",
-      "url": "https://jobs.lever.co/weloglobal/7903f79a-fe0f-46e3-ac8b-83b607574453",
-      "location": "Gurgaon, India",
-      "source": "careers"
-    },
-    {
-      "title": "Hindi Linguist",
-      "url": "https://jobs.lever.co/weloglobal/b1209960-15d0-4bca-883f-0304548215c0",
-      "location": "Gurgaon, India",
-      "source": "careers"
-    },
-    {
-      "title": "Trust and Safety Specialist",
-      "url": "https://jobs.lever.co/weloglobal/affa98bf-9d49-4b66-b57b-aae2c8f1c89c",
-      "location": "Gurgaon, India",
       "source": "careers"
     }
   ]
