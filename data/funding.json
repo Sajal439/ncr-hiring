@@ -1,34 +1,4 @@
 {
-  "physicswallah": {
-    "amount": "$80 Mn",
-    "title": "PhysicsWallah’s Q2 Profit Surge, Elo Elo Bags $80 Mn &#038; More",
-    "url": "https://inc42.com/buzz/physicswallahs-q2-profit-surge-elo-elo-bags-80-mn-more/",
-    "date": "Thu, 05 Nov 2026 02:30:11 +0000",
-    "source": "Inc42",
-    "history": [
-      {
-        "amount": "₹718 Cr",
-        "title": "Physicswallah Acquires Controlling Stake in Sarrthi Ias With rs 718 cr Investment",
-        "url": "https://entrackr.com/news/physicswallah-acquires-controlling-stake-in-sarrthi-ias-with-rs-718-cr-investment-12171448",
-        "date": "2026-07-16",
-        "source": "Entrackr"
-      },
-      {
-        "amount": "₹123 Cr",
-        "title": "Physicswallah Raises Stake in Xylem Learning to 7727 in rs 123 cr Deal",
-        "url": "https://entrackr.com/news/physicswallah-raises-stake-in-xylem-learning-to-7727-in-rs-123-cr-deal-10921819",
-        "date": "2025-12-18",
-        "source": "Entrackr"
-      },
-      {
-        "amount": "₹1563 Cr",
-        "title": "Physicswallah Raises rs 1563 cr From Anchor Investors",
-        "url": "https://entrackr.com/news/physicswallah-raises-rs-1563-cr-from-anchor-investors-10645636",
-        "date": "2025-11-10",
-        "source": "Entrackr"
-      }
-    ]
-  },
   "yoga-clean-air": {
     "amount": "₹20 Cr",
     "round": "Series A",
@@ -438,6 +408,29 @@
         "title": "Travel Tech Startup 30 Sundays Raises 770k in Pre Seed Round",
         "url": "https://entrackr.com/snippets/travel-tech-startup-30-sundays-raises-770k-in-pre-seed-round-7563966",
         "date": "2024-11-08",
+        "source": "Entrackr"
+      }
+    ]
+  },
+  "physicswallah": {
+    "amount": "₹718 Cr",
+    "title": "Physicswallah Acquires Controlling Stake in Sarrthi Ias With rs 718 cr Investment",
+    "url": "https://entrackr.com/news/physicswallah-acquires-controlling-stake-in-sarrthi-ias-with-rs-718-cr-investment-12171448",
+    "date": "2026-07-16",
+    "source": "Entrackr",
+    "history": [
+      {
+        "amount": "₹123 Cr",
+        "title": "Physicswallah Raises Stake in Xylem Learning to 7727 in rs 123 cr Deal",
+        "url": "https://entrackr.com/news/physicswallah-raises-stake-in-xylem-learning-to-7727-in-rs-123-cr-deal-10921819",
+        "date": "2025-12-18",
+        "source": "Entrackr"
+      },
+      {
+        "amount": "₹1563 Cr",
+        "title": "Physicswallah Raises rs 1563 cr From Anchor Investors",
+        "url": "https://entrackr.com/news/physicswallah-raises-rs-1563-cr-from-anchor-investors-10645636",
+        "date": "2025-11-10",
         "source": "Entrackr"
       }
     ]
