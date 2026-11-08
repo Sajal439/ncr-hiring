@@ -17236,7 +17236,7 @@
     "company": "Alvineient",
     "location": "Gurgaon",
     "url": "https://internshala.com/job/detail/fresher-inside-sales-associate-job-in-gurgaon-at-alvineient1791964040",
-    "actively_hiring": true
+    "actively_hiring": false
   },
   {
     "kind": "job",
@@ -18881,7 +18881,7 @@
     "company": "Alvineient",
     "location": "Gurgaon, Bangalore",
     "url": "https://internshala.com/job/detail/fresher-business-development-associate-job-in-multiple-locations-at-alvineient1792588609",
-    "actively_hiring": true
+    "actively_hiring": false
   },
   {
     "kind": "job",
@@ -22941,7 +22941,7 @@
     "company": "Alvineient",
     "location": "Gurgaon",
     "url": "https://internshala.com/job/detail/team-leader-edtech-sales-job-in-gurgaon-at-alvineient1793869897",
-    "actively_hiring": true
+    "actively_hiring": false
   },
   {
     "kind": "job",
@@ -23251,6 +23251,54 @@
     "company": "TheUnityWave",
     "location": "Noida, Delhi",
     "url": "https://internshala.com/job/detail/fresher-corporate-sales-associate-job-in-multiple-locations-at-theunitywave1793957156",
+    "actively_hiring": true
+  },
+  {
+    "kind": "job",
+    "title": "Copywriter",
+    "company": "Ayurveda House Private Limited",
+    "location": "Delhi",
+    "url": "https://internshala.com/job/detail/fresher-copywriter-job-in-delhi-at-ayurveda-house-private-limited1793958822",
+    "actively_hiring": true
+  },
+  {
+    "kind": "job",
+    "title": "Content Creator (Male)",
+    "company": "Ayurveda House Private Limited",
+    "location": "Delhi",
+    "url": "https://internshala.com/job/detail/content-creator-male-job-in-delhi-at-ayurveda-house-private-limited1793958878",
+    "actively_hiring": true
+  },
+  {
+    "kind": "job",
+    "title": "Graphic Designer",
+    "company": "Faodil Productions",
+    "location": "Noida",
+    "url": "https://internshala.com/job/detail/graphic-designer-job-in-noida-at-faodil-productions1793941577",
+    "actively_hiring": false
+  },
+  {
+    "kind": "job",
+    "title": "Business Development Executive ( Female )",
+    "company": "Misha Arora",
+    "location": "Faridabad, Delhi, Gurgaon, Noida",
+    "url": "https://internshala.com/job/detail/fresher-business-development-executive-job-in-faridabad-at-misha-arora1793766277",
+    "actively_hiring": true
+  },
+  {
+    "kind": "job",
+    "title": "Junior Talent Acquisition Associate",
+    "company": "Isourse",
+    "location": "Gurgaon, Delhi",
+    "url": "https://internshala.com/job/detail/junior-talent-acquisition-associate-job-in-multiple-locations-at-isourse1793769205",
+    "actively_hiring": true
+  },
+  {
+    "kind": "job",
+    "title": "Graphic Designer",
+    "company": "Art Of Puja",
+    "location": "Gurgaon",
+    "url": "https://internshala.com/job/detail/graphic-designer-job-in-gurgaon-at-art-of-puja1794067484",
     "actively_hiring": true
   }
 ]

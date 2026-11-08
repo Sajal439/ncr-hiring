@@ -219,6 +219,18 @@
       "source": "adzuna",
       "fn": "Software Engineer",
       "level": "Mid"
+    },
+    {
+      "title": "Data Flow Engineer III",
+      "url": "https://www.adzuna.in/details/5955888033?utm_medium=api&utm_source=1b39c183",
+      "location": "Noida, Ghaziabad",
+      "posted": "",
+      "postedAt": "2026-11-07",
+      "firstSeen": "2026-11-07",
+      "type": "Full-time",
+      "source": "adzuna",
+      "fn": "Software Engineer",
+      "level": "Mid"
     }
   ],
   "mongodb": [
@@ -2236,6 +2248,18 @@
       "source": "adzuna",
       "fn": "HR & Recruiter",
       "level": "Senior"
+    },
+    {
+      "title": "Actuarial Associate (26-27 batch - off campus)",
+      "url": "https://www.adzuna.in/details/5955798497?utm_medium=api&utm_source=1b39c183",
+      "location": "Dlf Qe, Gurgaon",
+      "posted": "",
+      "postedAt": "2026-11-06",
+      "firstSeen": "2026-11-06",
+      "type": "Full-time",
+      "source": "adzuna",
+      "fn": "Other",
+      "level": "Intern"
     }
   ],
   "simcorp": [
@@ -2472,6 +2496,30 @@
       "source": "adzuna",
       "fn": "Consultant",
       "level": "Mid"
+    },
+    {
+      "title": "Financial Data Analyst (Reference Data/Financial Instruments)",
+      "url": "https://www.adzuna.in/details/5953174882?utm_medium=api&utm_source=1b39c183",
+      "location": "Noida, Ghaziabad",
+      "posted": "",
+      "postedAt": "2026-11-04",
+      "firstSeen": "2026-11-04",
+      "type": "Full-time",
+      "source": "adzuna",
+      "fn": "Data Analyst",
+      "level": "Junior"
+    },
+    {
+      "title": "Engineering Manager / Senior Engineering Manager",
+      "url": "https://www.adzuna.in/details/5957214967?utm_medium=api&utm_source=1b39c183",
+      "location": "Noida, Ghaziabad",
+      "posted": "",
+      "postedAt": "2026-11-07",
+      "firstSeen": "2026-11-07",
+      "type": "Full-time",
+      "source": "adzuna",
+      "fn": "Software Engineer",
+      "level": "Senior"
     }
   ],
   "cadence": [
@@ -3486,8 +3534,9 @@
       "url": "https://in.linkedin.com/jobs/view/optimise-account-manager-at-taboola-4478794376?trk=public_jobs_topcard-title",
       "location": "Gurugram, Haryana",
       "posted": "17 hours ago",
-      "postedAt": "2026-10-13",
+      "postedAt": "2026-11-03",
       "firstSeen": "2026-10-14",
+      "checkedAt": "2026-11-08T06:44:33.198Z",
       "type": "Full-time",
       "level": "Senior",
       "source": "linkedin",
@@ -3581,18 +3630,6 @@
       "checkedAt": "2026-10-09T06:43:37.151Z",
       "type": "Full-time",
       "level": "Intern",
-      "source": "linkedin",
-      "fn": "Other"
-    },
-    {
-      "title": "Data Management Specialist",
-      "url": "https://in.linkedin.com/jobs/view/data-management-specialist-at-moody-s-corporation-4467624464?trk=public_jobs_topcard-title",
-      "location": "Gurugram, Haryana",
-      "posted": "18 hours ago",
-      "postedAt": "2026-10-13",
-      "firstSeen": "2026-10-14",
-      "type": "Full-time",
-      "level": "Senior",
       "source": "linkedin",
       "fn": "Other"
     },
@@ -4143,8 +4180,9 @@
       "url": "https://in.linkedin.com/jobs/view/lead-data-engineer-t-t-at-mccormick-company-4477976993?trk=public_jobs_topcard-title",
       "location": "Gurugram, Haryana",
       "posted": "19 hours ago",
-      "postedAt": "2026-10-13",
+      "postedAt": "2026-11-04",
       "firstSeen": "2026-10-14",
+      "checkedAt": "2026-11-08T06:44:33.198Z",
       "type": "Full-time",
       "level": "Lead",
       "source": "linkedin",
@@ -7483,8 +7521,9 @@
       "url": "https://in.linkedin.com/jobs/view/senior-engineer-devops-aws-automation-at-bold-4452475164?trk=public_jobs_topcard-title",
       "location": "Noida, Uttar Pradesh",
       "posted": "12 hours ago",
-      "postedAt": "2026-10-14",
+      "postedAt": "2026-11-05",
       "firstSeen": "2026-10-15",
+      "checkedAt": "2026-11-08T06:44:33.198Z",
       "type": "Full-time",
       "level": "Senior",
       "source": "linkedin",
@@ -8595,6 +8634,63 @@
       "source": "adzuna",
       "fn": "Software Engineer",
       "level": "Mid"
+    },
+    {
+      "title": "AI Research Engineer",
+      "url": "https://www.adzuna.in/details/5955571634?utm_medium=api&utm_source=1b39c183",
+      "location": "Ator Nagla, Ghaziabad",
+      "posted": "",
+      "postedAt": "2026-11-06",
+      "firstSeen": "2026-11-06",
+      "source": "adzuna",
+      "fn": "Software Engineer",
+      "level": "Mid"
+    },
+    {
+      "title": "Backend Developer",
+      "url": "https://www.adzuna.in/details/5955571649?utm_medium=api&utm_source=1b39c183",
+      "location": "Ator Nagla, Ghaziabad",
+      "posted": "",
+      "postedAt": "2026-11-06",
+      "firstSeen": "2026-11-06",
+      "source": "adzuna",
+      "fn": "Software Engineer",
+      "specialty": "Backend",
+      "level": "Mid"
+    },
+    {
+      "title": "Google Ads Specialist",
+      "url": "https://www.adzuna.in/details/5957411952?utm_medium=api&utm_source=1b39c183",
+      "location": "Ator Nagla, Ghaziabad",
+      "posted": "",
+      "postedAt": "2026-11-08",
+      "firstSeen": "2026-11-08",
+      "source": "adzuna",
+      "fn": "Digital Marketing",
+      "level": "Senior"
+    },
+    {
+      "title": "Cybersecurity Analyst",
+      "url": "https://www.adzuna.in/details/5957411951?utm_medium=api&utm_source=1b39c183",
+      "location": "Ator Nagla, Ghaziabad",
+      "posted": "",
+      "postedAt": "2026-11-08",
+      "firstSeen": "2026-11-08",
+      "source": "adzuna",
+      "fn": "Cybersecurity",
+      "level": "Junior"
+    },
+    {
+      "title": "SEO Executive",
+      "url": "https://www.adzuna.in/details/5950768397?utm_medium=api&utm_source=1b39c183",
+      "location": "Ator Nagla, Ghaziabad",
+      "posted": "",
+      "postedAt": "2026-11-02",
+      "firstSeen": "2026-11-02",
+      "salary": "₹18k – ₹30k",
+      "source": "adzuna",
+      "fn": "Digital Marketing",
+      "level": "Junior"
     }
   ],
   "ihg-hotels-and-resorts": [
@@ -8760,6 +8856,7 @@
       "posted": "18 hours ago",
       "postedAt": "2026-10-13",
       "firstSeen": "2026-10-14",
+      "checkedAt": "2026-11-08T06:44:33.198Z",
       "type": "Full-time",
       "level": "Lead",
       "source": "linkedin",
@@ -8896,11 +8993,12 @@
   "voy": [
     {
       "title": "Sales Executive",
-      "url": "https://in.linkedin.com/jobs/view/sales-executive-at-voy-4476458257?trk=public_jobs_topcard-title",
-      "location": "Faridabad, Haryana",
-      "posted": "14 hours ago",
-      "postedAt": "2026-10-13",
+      "url": "https://in.linkedin.com/jobs/view/sales-executive-at-voy-4477964968?trk=public_jobs_topcard-title",
+      "location": "Delhi, Delhi",
+      "posted": "21 hours ago",
+      "postedAt": "2026-11-03",
       "firstSeen": "2026-10-14",
+      "checkedAt": "2026-11-06T07:26:21.525Z",
       "type": "Full-time",
       "level": "Junior",
       "source": "linkedin",
@@ -9374,6 +9472,7 @@
       "posted": "12 hours ago",
       "postedAt": "2026-10-14",
       "firstSeen": "2026-10-15",
+      "checkedAt": "2026-11-08T06:44:33.198Z",
       "type": "Full-time",
       "level": "Junior",
       "source": "linkedin",
@@ -9600,19 +9699,1177 @@
       "fn": "Other"
     }
   ],
-  "sharda-consultancy-services": [
+  "world-courier": [
     {
-      "title": "BPO Executive - Outbound Sales",
-      "url": "https://in.linkedin.com/jobs/view/bpo-executive-outbound-sales-at-sharda-consultancy-services-4477977470?trk=public_jobs_topcard-title",
+      "title": "Senior Executive",
+      "url": "https://in.linkedin.com/jobs/view/senior-executive-at-world-courier-4476468053?trk=public_jobs_topcard-title",
+      "location": "New Delhi, Delhi",
+      "posted": "2 hours ago",
+      "postedAt": "2026-10-15",
+      "firstSeen": "2026-10-14",
+      "checkedAt": "2026-11-08T06:44:33.198Z",
+      "type": "Full-time",
+      "level": "Senior",
+      "source": "linkedin",
+      "fn": "Other"
+    }
+  ],
+  "delta-system-and-software-inc": [
+    {
+      "title": "Vice President – Global Recruitment & Staffing / Recruitment Business & Operations",
+      "url": "https://in.linkedin.com/jobs/view/vice-president-%E2%80%93-global-recruitment-staffing-recruitment-business-operations-at-delta-system-software-inc-4478104242?trk=public_jobs_topcard-title",
       "location": "Noida, Uttar Pradesh",
-      "posted": "21 hours ago",
+      "posted": "17 hours ago",
       "postedAt": "2026-10-13",
+      "firstSeen": "2026-10-14",
+      "checkedAt": "2026-11-08T06:44:33.198Z",
+      "type": "Full-time",
+      "level": "Exec",
+      "source": "linkedin",
+      "fn": "HR & Recruiter"
+    },
+    {
+      "title": "SAP S/4HANA FICO Consultant – RISE with SAP",
+      "url": "https://www.adzuna.in/land/ad/5864422008?se=ctP8BDao8RG5EMkOnuyoTA&utm_medium=api&utm_source=116859ef&v=2123E1C5946745F107BF9C6C23F83D094AF71542",
+      "location": "Noida, Ghaziabad",
+      "posted": "",
+      "postedAt": "2026-09-01",
+      "firstSeen": "2026-09-01",
+      "source": "adzuna",
+      "fn": "Consultant",
+      "level": "Mid"
+    },
+    {
+      "title": "Senior Sap Finance Control Consultant",
+      "url": "https://www.adzuna.in/land/ad/5864428860?se=tO_tBTao8RGxWp4A46G3QA&utm_medium=api&utm_source=116859ef&v=3F74735B245A14C13023CE6C073D4EC1B70B6AC7",
+      "location": "Noida, Ghaziabad",
+      "posted": "",
+      "postedAt": "2026-09-01",
+      "firstSeen": "2026-09-01",
+      "type": "Full-time",
+      "source": "adzuna",
+      "fn": "Consultant",
+      "level": "Senior"
+    },
+    {
+      "title": "Engineering and Non- IT Recruiter",
+      "url": "https://www.adzuna.in/land/ad/5864433896?se=pgBmpVeo8RGpTs1Lc1il5g&utm_medium=api&utm_source=116859ef&v=942780188B0A0E03775A5665A9ED11F7597089D4",
+      "location": "Noida, Ghaziabad",
+      "posted": "",
+      "postedAt": "2026-09-01",
+      "firstSeen": "2026-09-01",
+      "type": "Full-time",
+      "source": "adzuna",
+      "fn": "Software Engineer",
+      "level": "Mid"
+    },
+    {
+      "title": "Sr. SuccessFactors Integration Developer",
+      "url": "https://www.adzuna.in/land/ad/5876027919?se=BJvz6Ays8RGwn507sZh0kw&utm_medium=api&utm_source=116859ef&v=88E2B7C954D1F59E97F4B08D83EC392F9E65C484",
+      "location": "Noida, Ghaziabad",
+      "posted": "",
+      "postedAt": "2026-09-09",
+      "firstSeen": "2026-09-09",
+      "type": "Full-time",
+      "source": "adzuna",
+      "fn": "Software Engineer",
+      "level": "Senior"
+    },
+    {
+      "title": "Walkme Developer- Hybrid in Noida",
+      "url": "https://www.adzuna.in/land/ad/5876025757?se=Ltp16Qys8RG-Tvy4q0iO2Q&utm_medium=api&utm_source=116859ef&v=C19C614F83D2756B533CC01451109943F2C48334",
+      "location": "Noida, Ghaziabad",
+      "posted": "",
+      "postedAt": "2026-09-09",
+      "firstSeen": "2026-09-09",
+      "source": "adzuna",
+      "fn": "Software Engineer",
+      "level": "Mid"
+    },
+    {
+      "title": "Salesforce Solution Architect",
+      "url": "https://www.adzuna.in/land/ad/5876027016?se=Ltp16Qys8RG-Tvy4q0iO2Q&utm_medium=api&utm_source=116859ef&v=146CF24E94138E4B0D7D25E59E2035A4E9900D76",
+      "location": "Noida, Ghaziabad",
+      "posted": "",
+      "postedAt": "2026-09-09",
+      "firstSeen": "2026-09-09",
+      "source": "adzuna",
+      "fn": "Consultant",
+      "level": "Mid"
+    }
+  ],
+  "muditam-ayurveda": [
+    {
+      "title": "Telesales Executive",
+      "url": "https://in.linkedin.com/jobs/view/telesales-executive-at-muditam-ayurveda-4476094550?trk=public_jobs_topcard-title",
+      "location": "Saket, Delhi",
+      "posted": "22 hours ago",
+      "postedAt": "2026-10-13",
+      "firstSeen": "2026-10-14",
+      "type": "Full-time",
+      "level": "Junior",
+      "source": "linkedin",
+      "fn": "Other"
+    }
+  ],
+  "oxane-partners": [
+    {
+      "title": "Senior Analyst/ Associate - Leverage Facility Management - Platform Solutions Group",
+      "url": "https://in.linkedin.com/jobs/view/senior-analyst-associate-leverage-facility-management-platform-solutions-group-at-oxane-partners-4478774625?trk=public_jobs_topcard-title",
+      "location": "Gurgaon, Haryana",
+      "posted": "20 hours ago",
+      "postedAt": "2026-10-13",
+      "firstSeen": "2026-10-14",
+      "checkedAt": "2026-11-01T06:52:47.561Z",
+      "type": "Full-time",
+      "level": "Senior",
+      "source": "linkedin",
+      "fn": "Operations & Supply Chain"
+    },
+    {
+      "title": "Analyst / Senior Analyst - Financial Spreading - Credit Monitoring",
+      "url": "https://in.linkedin.com/jobs/view/analyst-senior-analyst-financial-spreading-credit-monitoring-at-oxane-partners-4480947831?trk=public_jobs_topcard-title",
+      "location": "Gurgaon, Haryana",
+      "posted": "20 hours ago",
+      "postedAt": "2026-10-19",
+      "firstSeen": "2026-10-20",
+      "type": "Full-time",
+      "level": "Senior",
+      "source": "linkedin",
+      "fn": "Finance & Accounts"
+    }
+  ],
+  "agilent-technologies": [
+    {
+      "title": "Associate Vice President Global Credit & Collections",
+      "url": "https://in.linkedin.com/jobs/view/associate-vice-president-global-credit-collections-at-agilent-technologies-4476369795?trk=public_jobs_topcard-title",
+      "location": "Gurgaon, Haryana",
+      "posted": "8 hours ago",
+      "postedAt": "2026-10-13",
+      "firstSeen": "2026-10-14",
+      "checkedAt": "2026-11-01T06:52:47.561Z",
+      "type": "Full-time",
+      "level": "Exec",
+      "source": "linkedin",
+      "fn": "Finance & Accounts"
+    },
+    {
+      "title": "Trade Compliance Manager",
+      "url": "https://in.linkedin.com/jobs/view/trade-compliance-manager-at-agilent-technologies-4479093518?trk=public_jobs_topcard-title",
+      "location": "Gurgaon, Haryana",
+      "posted": "8 hours ago",
+      "postedAt": "2026-10-15",
+      "firstSeen": "2026-10-14",
+      "checkedAt": "2026-11-07T06:38:08.389Z",
+      "type": "Full-time",
+      "level": "Senior",
+      "source": "linkedin",
+      "fn": "Admin & Legal"
+    },
+    {
+      "title": "Regional Marketing Program Manager",
+      "url": "https://in.linkedin.com/jobs/view/regional-marketing-program-manager-at-agilent-technologies-4479593552?trk=public_jobs_topcard-title",
+      "location": "Delhi, Delhi",
+      "posted": "8 hours ago",
+      "postedAt": "2026-10-14",
+      "firstSeen": "2026-10-15",
+      "type": "Full-time",
+      "level": "Senior",
+      "source": "linkedin",
+      "fn": "Digital Marketing"
+    },
+    {
+      "title": "Business Process",
+      "url": "https://www.adzuna.in/details/5861796356?utm_medium=api&utm_source=116859ef",
+      "location": "Gurgaon",
+      "posted": "",
+      "postedAt": "2026-08-30",
+      "firstSeen": "2026-08-30",
+      "source": "adzuna",
+      "fn": "Other",
+      "level": "Mid"
+    },
+    {
+      "title": "Lead Localization Engineer",
+      "url": "https://www.adzuna.in/details/5861796315?utm_medium=api&utm_source=116859ef",
+      "location": "Gurgaon",
+      "posted": "",
+      "postedAt": "2026-08-30",
+      "firstSeen": "2026-08-30",
+      "source": "adzuna",
+      "fn": "Software Engineer",
+      "level": "Lead"
+    },
+    {
+      "title": "Inventory Integrity Coordinator",
+      "url": "https://www.adzuna.in/details/5867242838?utm_medium=api&utm_source=116859ef",
+      "location": "Nsg Camp Manesar, Gurgaon",
+      "posted": "",
+      "postedAt": "2026-09-02",
+      "firstSeen": "2026-09-02",
+      "salary": "₹31k",
+      "type": "Full-time",
+      "source": "adzuna",
+      "fn": "Operations & Supply Chain",
+      "level": "Mid"
+    },
+    {
+      "title": "LC/LCMS Application Engineer",
+      "url": "https://www.adzuna.in/details/5861796307?utm_medium=api&utm_source=116859ef",
+      "location": "Gurgaon",
+      "posted": "",
+      "postedAt": "2026-08-30",
+      "firstSeen": "2026-08-30",
+      "source": "adzuna",
+      "fn": "Software Engineer",
+      "level": "Mid"
+    },
+    {
+      "title": "Inside Sales",
+      "url": "https://www.adzuna.in/details/5861796339?utm_medium=api&utm_source=116859ef",
+      "location": "Delhi",
+      "posted": "",
+      "postedAt": "2026-08-30",
+      "firstSeen": "2026-08-30",
+      "source": "adzuna",
+      "fn": "Business Development & Sales",
+      "level": "Mid"
+    },
+    {
+      "title": "Business Development Manager - Government Projects",
+      "url": "https://www.adzuna.in/details/5861796316?utm_medium=api&utm_source=116859ef",
+      "location": "Delhi",
+      "posted": "",
+      "postedAt": "2026-08-30",
+      "firstSeen": "2026-08-30",
+      "source": "adzuna",
+      "fn": "Business Development & Sales",
+      "level": "Senior"
+    },
+    {
+      "title": "Customer Service Admin Senior Specialist",
+      "url": "https://www.adzuna.in/details/5861796384?utm_medium=api&utm_source=116859ef",
+      "location": "Gurgaon",
+      "posted": "",
+      "postedAt": "2026-08-30",
+      "firstSeen": "2026-08-30",
+      "source": "adzuna",
+      "fn": "Customer Support",
+      "level": "Senior"
+    },
+    {
+      "title": "Manager, Solution Center",
+      "url": "https://www.adzuna.in/details/5861796310?utm_medium=api&utm_source=116859ef",
+      "location": "Gurgaon",
+      "posted": "",
+      "postedAt": "2026-08-30",
+      "firstSeen": "2026-08-30",
+      "source": "adzuna",
+      "fn": "Other",
+      "level": "Senior"
+    },
+    {
+      "title": "Tax Associate",
+      "url": "https://www.adzuna.in/details/5861796301?utm_medium=api&utm_source=116859ef",
+      "location": "Gurgaon",
+      "posted": "",
+      "postedAt": "2026-08-30",
+      "firstSeen": "2026-08-30",
+      "source": "adzuna",
+      "fn": "Finance & Accounts",
+      "level": "Junior"
+    },
+    {
+      "title": "ICM Varicent Technical Lead",
+      "url": "https://www.adzuna.in/details/5861796374?utm_medium=api&utm_source=116859ef",
+      "location": "Gurgaon",
+      "posted": "",
+      "postedAt": "2026-08-30",
+      "firstSeen": "2026-08-30",
+      "source": "adzuna",
+      "fn": "Other",
+      "level": "Lead"
+    },
+    {
+      "title": "Finance Associate",
+      "url": "https://www.adzuna.in/details/5864853075?utm_medium=api&utm_source=116859ef",
+      "location": "Nsg Camp Manesar, Gurgaon",
+      "posted": "",
+      "postedAt": "2026-09-01",
+      "firstSeen": "2026-09-01",
+      "type": "Full-time",
+      "source": "adzuna",
+      "fn": "Finance & Accounts",
+      "level": "Junior"
+    },
+    {
+      "title": "Product Data Management- Change Coordinator",
+      "url": "https://www.adzuna.in/details/5861796320?utm_medium=api&utm_source=116859ef",
+      "location": "Gurgaon",
+      "posted": "",
+      "postedAt": "2026-08-30",
+      "firstSeen": "2026-08-30",
+      "source": "adzuna",
+      "fn": "Operations & Supply Chain",
+      "level": "Mid"
+    },
+    {
+      "title": "Field Service Center Coordinator",
+      "url": "https://www.adzuna.in/details/5861796321?utm_medium=api&utm_source=116859ef",
+      "location": "Gurgaon",
+      "posted": "",
+      "postedAt": "2026-08-30",
+      "firstSeen": "2026-08-30",
+      "source": "adzuna",
+      "fn": "Operations & Supply Chain",
+      "level": "Mid"
+    },
+    {
+      "title": "Training Program Manager",
+      "url": "https://www.adzuna.in/details/5861796334?utm_medium=api&utm_source=116859ef",
+      "location": "Gurgaon",
+      "posted": "",
+      "postedAt": "2026-08-30",
+      "firstSeen": "2026-08-30",
+      "source": "adzuna",
+      "fn": "Operations & Supply Chain",
+      "level": "Senior"
+    },
+    {
+      "title": "Financial Analyst",
+      "url": "https://www.adzuna.in/details/5861796365?utm_medium=api&utm_source=116859ef",
+      "location": "Gurgaon",
+      "posted": "",
+      "postedAt": "2026-08-30",
+      "firstSeen": "2026-08-30",
+      "source": "adzuna",
+      "fn": "Finance & Accounts",
+      "level": "Junior"
+    },
+    {
+      "title": "Customer Service Admin",
+      "url": "https://www.adzuna.in/details/5861796351?utm_medium=api&utm_source=116859ef",
+      "location": "Gurgaon",
+      "posted": "",
+      "postedAt": "2026-08-30",
+      "firstSeen": "2026-08-30",
+      "source": "adzuna",
+      "fn": "Customer Support",
+      "level": "Mid"
+    },
+    {
+      "title": "CIM Business Process Analyst",
+      "url": "https://www.adzuna.in/details/5861796341?utm_medium=api&utm_source=116859ef",
+      "location": "Gurgaon",
+      "posted": "",
+      "postedAt": "2026-08-30",
+      "firstSeen": "2026-08-30",
+      "source": "adzuna",
+      "fn": "Data Analyst",
+      "level": "Junior"
+    },
+    {
+      "title": "IT System Design & Implementation Professional",
+      "url": "https://www.adzuna.in/details/5861796308?utm_medium=api&utm_source=116859ef",
+      "location": "Gurgaon",
+      "posted": "",
+      "postedAt": "2026-08-30",
+      "firstSeen": "2026-08-30",
+      "source": "adzuna",
+      "fn": "UI/UX & Graphic Design",
+      "level": "Mid"
+    },
+    {
+      "title": "SAP FICO Consultant",
+      "url": "https://www.adzuna.in/details/5861796353?utm_medium=api&utm_source=116859ef",
+      "location": "Gurgaon",
+      "posted": "",
+      "postedAt": "2026-08-30",
+      "firstSeen": "2026-08-30",
+      "source": "adzuna",
+      "fn": "Consultant",
+      "level": "Mid"
+    },
+    {
+      "title": "Finance Analyst",
+      "url": "https://www.adzuna.in/details/5870776973?utm_medium=api&utm_source=116859ef",
+      "location": "Nsg Camp Manesar, Gurgaon",
+      "posted": "",
+      "postedAt": "2026-09-04",
+      "firstSeen": "2026-09-04",
+      "type": "Full-time",
+      "source": "adzuna",
+      "fn": "Finance & Accounts",
+      "level": "Junior"
+    },
+    {
+      "title": "Finance Admin - Accounts Receivable",
+      "url": "https://www.adzuna.in/details/5886391452?utm_medium=api&utm_source=1b39c183",
+      "location": "Nsg Camp Manesar, Gurgaon",
+      "posted": "",
+      "postedAt": "2026-09-16",
+      "firstSeen": "2026-09-16",
+      "type": "Full-time",
+      "source": "adzuna",
+      "fn": "Finance & Accounts",
+      "level": "Mid"
+    },
+    {
+      "title": "Finance Admin",
+      "url": "https://www.adzuna.in/details/5889532504?utm_medium=api&utm_source=1b39c183",
+      "location": "Nsg Camp Manesar, Gurgaon",
+      "posted": "",
+      "postedAt": "2026-09-18",
+      "firstSeen": "2026-09-18",
+      "type": "Full-time",
+      "source": "adzuna",
+      "fn": "Finance & Accounts",
+      "level": "Mid"
+    },
+    {
+      "title": "Scheduling Success Coordinator",
+      "url": "https://www.adzuna.in/details/5890768391?utm_medium=api&utm_source=1b39c183",
+      "location": "Nsg Camp Manesar, Gurgaon",
+      "posted": "",
+      "postedAt": "2026-09-19",
+      "firstSeen": "2026-09-19",
+      "type": "Full-time",
+      "source": "adzuna",
+      "fn": "Operations & Supply Chain",
+      "level": "Mid"
+    },
+    {
+      "title": "Business Process Associate",
+      "url": "https://www.adzuna.in/details/5889569640?utm_medium=api&utm_source=1b39c183",
+      "location": "Nsg Camp Manesar, Gurgaon",
+      "posted": "",
+      "postedAt": "2026-09-18",
+      "firstSeen": "2026-09-18",
+      "type": "Full-time",
+      "source": "adzuna",
+      "fn": "Operations & Supply Chain",
+      "level": "Junior"
+    },
+    {
+      "title": "Service Delivery Manager",
+      "url": "https://www.adzuna.in/details/5890797254?utm_medium=api&utm_source=1b39c183",
+      "location": "Delhi",
+      "posted": "",
+      "postedAt": "2026-09-19",
+      "firstSeen": "2026-09-19",
+      "type": "Full-time",
+      "source": "adzuna",
+      "fn": "Other",
+      "level": "Senior"
+    },
+    {
+      "title": "ECAD Design Engineer",
+      "url": "https://www.adzuna.in/details/5897039836?utm_medium=api&utm_source=1b39c183",
+      "location": "Nsg Camp Manesar, Gurgaon",
+      "posted": "",
+      "postedAt": "2026-09-24",
+      "firstSeen": "2026-09-24",
+      "type": "Full-time",
+      "source": "adzuna",
+      "fn": "Software Engineer",
+      "level": "Mid"
+    },
+    {
+      "title": "APAC Sales Productivity Specialist (SPS)",
+      "url": "https://www.adzuna.in/details/5904051684?utm_medium=api&utm_source=1b39c183",
+      "location": "Nsg Camp Manesar, Gurgaon",
+      "posted": "",
+      "postedAt": "2026-09-30",
+      "firstSeen": "2026-09-30",
+      "type": "Full-time",
+      "source": "adzuna",
+      "fn": "Business Development & Sales",
+      "level": "Senior"
+    },
+    {
+      "title": "Workplace Services Operations Manager",
+      "url": "https://www.adzuna.in/details/5914012021?utm_medium=api&utm_source=1b39c183",
+      "location": "Nsg Camp Manesar, Gurgaon",
+      "posted": "",
+      "postedAt": "2026-10-06",
+      "firstSeen": "2026-10-06",
+      "type": "Full-time",
+      "source": "adzuna",
+      "fn": "Operations & Supply Chain",
+      "level": "Senior"
+    },
+    {
+      "title": "Manesar CrossLab Education Center Instructor",
+      "url": "https://www.adzuna.in/details/5919340398?utm_medium=api&utm_source=1b39c183",
+      "location": "Nsg Camp Manesar, Gurgaon",
+      "posted": "",
+      "postedAt": "2026-10-08",
+      "firstSeen": "2026-10-08",
+      "type": "Full-time",
+      "source": "adzuna",
+      "fn": "Teaching & Training",
+      "level": "Mid"
+    },
+    {
+      "title": "Customer Service Collections",
+      "url": "https://www.adzuna.in/details/5923523400?utm_medium=api&utm_source=1b39c183",
+      "location": "Nsg Camp Manesar, Gurgaon",
+      "posted": "",
+      "postedAt": "2026-10-11",
+      "firstSeen": "2026-10-11",
+      "type": "Full-time",
+      "source": "adzuna",
+      "fn": "Finance & Accounts",
+      "level": "Mid"
+    },
+    {
+      "title": "Trade Compliance Sr.Representative",
+      "url": "https://www.adzuna.in/details/5927750073?utm_medium=api&utm_source=1b39c183",
+      "location": "Nsg Camp Manesar, Gurgaon",
+      "posted": "",
+      "postedAt": "2026-10-14",
+      "firstSeen": "2026-10-14",
+      "type": "Full-time",
+      "source": "adzuna",
+      "fn": "Admin & Legal",
+      "level": "Senior"
+    },
+    {
+      "title": "Tax Compliance & Planning Associate",
+      "url": "https://www.adzuna.in/details/5935585226?utm_medium=api&utm_source=1b39c183",
+      "location": "Nsg Camp Manesar, Gurgaon",
+      "posted": "",
+      "postedAt": "2026-10-20",
+      "firstSeen": "2026-10-20",
+      "type": "Full-time",
+      "source": "adzuna",
+      "fn": "Finance & Accounts",
+      "level": "Junior"
+    },
+    {
+      "title": "CIM - Customer Service Admin",
+      "url": "https://www.adzuna.in/details/5941572019?utm_medium=api&utm_source=1b39c183",
+      "location": "Nsg Camp Manesar, Gurgaon",
+      "posted": "",
+      "postedAt": "2026-10-25",
+      "firstSeen": "2026-10-25",
+      "type": "Full-time",
+      "source": "adzuna",
+      "fn": "Customer Support",
+      "level": "Mid"
+    },
+    {
+      "title": "Finance",
+      "url": "https://www.adzuna.in/details/5941587337?utm_medium=api&utm_source=1b39c183",
+      "location": "Nsg Camp Manesar, Gurgaon",
+      "posted": "",
+      "postedAt": "2026-10-25",
+      "firstSeen": "2026-10-25",
+      "type": "Full-time",
+      "source": "adzuna",
+      "fn": "Finance & Accounts",
+      "level": "Mid"
+    },
+    {
+      "title": "Sourcing Support Coordinator",
+      "url": "https://www.adzuna.in/details/5941565002?utm_medium=api&utm_source=1b39c183",
+      "location": "Nsg Camp Manesar, Gurgaon",
+      "posted": "",
+      "postedAt": "2026-10-25",
+      "firstSeen": "2026-10-25",
+      "type": "Full-time",
+      "source": "adzuna",
+      "fn": "Operations & Supply Chain",
+      "level": "Mid"
+    },
+    {
+      "title": "Senior US Tax & Compliance Analyst",
+      "url": "https://www.adzuna.in/details/5954473859?utm_medium=api&utm_source=1b39c183",
+      "location": "Nsg Camp Manesar, Gurgaon",
+      "posted": "",
+      "postedAt": "2026-11-05",
+      "firstSeen": "2026-11-05",
+      "type": "Full-time",
+      "source": "adzuna",
+      "fn": "Finance & Accounts",
+      "level": "Senior"
+    },
+    {
+      "title": "US State Tax Analyst",
+      "url": "https://www.adzuna.in/details/5954488671?utm_medium=api&utm_source=1b39c183",
+      "location": "Nsg Camp Manesar, Gurgaon",
+      "posted": "",
+      "postedAt": "2026-11-05",
+      "firstSeen": "2026-11-05",
+      "type": "Full-time",
+      "source": "adzuna",
+      "fn": "Finance & Accounts",
+      "level": "Junior"
+    }
+  ],
+  "rkivecity": [
+    {
+      "title": "Entrepreneur in Residence",
+      "url": "https://in.linkedin.com/jobs/view/entrepreneur-in-residence-at-rkivecity-4477976693?trk=public_jobs_topcard-title",
+      "location": "Delhi",
+      "posted": "20 hours ago",
+      "postedAt": "2026-10-13",
+      "firstSeen": "2026-10-14",
+      "type": "Full-time",
+      "level": "Lead",
+      "source": "linkedin",
+      "fn": "Founder's Office & Strategy"
+    }
+  ],
+  "learningshala": [
+    {
+      "title": "Sales Business Development Executive",
+      "url": "https://in.linkedin.com/jobs/view/sales-business-development-executive-at-learningshala-4478825174?trk=public_jobs_topcard-title",
+      "location": "Noida, Uttar Pradesh",
+      "posted": "4 hours ago",
+      "postedAt": "2026-10-15",
+      "firstSeen": "2026-10-15",
+      "type": "Full-time",
+      "level": "Junior",
+      "source": "linkedin",
+      "fn": "Business Development & Sales"
+    },
+    {
+      "title": "Product & Manufacturing Intern",
+      "url": "https://in.linkedin.com/jobs/view/product-manufacturing-intern-at-learningshala-4479670218?trk=public_jobs_topcard-title",
+      "location": "Noida, Uttar Pradesh",
+      "posted": "7 minutes ago",
+      "postedAt": "2026-10-16",
+      "firstSeen": "2026-10-17",
+      "type": "Full-time",
+      "level": "Intern",
+      "source": "linkedin",
+      "fn": "Operations & Supply Chain"
+    },
+    {
+      "title": "Senior Business Development Associate",
+      "url": "https://in.linkedin.com/jobs/view/senior-business-development-associate-at-learningshala-4480842237?trk=public_jobs_topcard-title",
+      "location": "Noida, Uttar Pradesh",
+      "posted": "13 hours ago",
+      "postedAt": "2026-10-17",
+      "firstSeen": "2026-10-18",
+      "type": "Full-time",
+      "level": "Senior",
+      "source": "linkedin",
+      "fn": "Business Development & Sales"
+    },
+    {
+      "title": "Business Development Executive",
+      "url": "https://in.linkedin.com/jobs/view/business-development-executive-at-learningshala-4480437364?trk=public_jobs_topcard-title",
+      "location": "Noida, Uttar Pradesh",
+      "posted": "14 minutes ago",
+      "postedAt": "2026-10-19",
+      "firstSeen": "2026-10-20",
+      "type": "Full-time",
+      "level": "Junior",
+      "source": "linkedin",
+      "fn": "Business Development & Sales"
+    },
+    {
+      "title": "Business Development Associate  - Fresher Candidate",
+      "url": "https://in.linkedin.com/jobs/view/business-development-associate-fresher-candidate-at-learningshala-4479109387?trk=public_jobs_topcard-title",
+      "location": "Noida, Uttar Pradesh",
+      "posted": "16 hours ago",
+      "postedAt": "2026-10-15",
+      "firstSeen": "2026-10-16",
+      "type": "Full-time",
+      "level": "Junior",
+      "source": "linkedin",
+      "fn": "Business Development & Sales"
+    },
+    {
+      "title": "Sales Executive",
+      "url": "https://in.linkedin.com/jobs/view/sales-executive-at-learningshala-4479987419?trk=public_jobs_topcard-title",
+      "location": "Delhi, Delhi",
+      "posted": "18 hours ago",
+      "postedAt": "2026-10-19",
+      "firstSeen": "2026-10-20",
+      "type": "Full-time",
+      "level": "Junior",
+      "source": "linkedin",
+      "fn": "Business Development & Sales"
+    },
+    {
+      "title": "Senior Sales Associate",
+      "url": "https://in.linkedin.com/jobs/view/senior-sales-associate-at-learningshala-4477048612?trk=public_jobs_topcard-title",
+      "location": "Delhi, Delhi",
+      "posted": "20 minutes ago",
+      "postedAt": "2026-10-14",
+      "firstSeen": "2026-10-15",
+      "type": "Full-time",
+      "level": "Senior",
+      "source": "linkedin",
+      "fn": "Business Development & Sales"
+    },
+    {
+      "title": "Business Development Intern",
+      "url": "https://in.linkedin.com/jobs/view/business-development-intern-at-learningshala-4479666554?trk=public_jobs_topcard-title",
+      "location": "Noida, Uttar Pradesh",
+      "posted": "20 hours ago",
+      "postedAt": "2026-10-17",
+      "firstSeen": "2026-10-18",
+      "type": "Full-time",
+      "level": "Intern",
+      "source": "linkedin",
+      "fn": "Business Development & Sales"
+    },
+    {
+      "title": "Business Development Associate",
+      "url": "https://in.linkedin.com/jobs/view/business-development-associate-at-learningshala-4479342116?trk=public_jobs_topcard-title",
+      "location": "Noida, Uttar Pradesh",
+      "posted": "22 hours ago",
+      "postedAt": "2026-10-16",
+      "firstSeen": "2026-10-17",
+      "type": "Full-time",
+      "level": "Junior",
+      "source": "linkedin",
+      "fn": "Business Development & Sales"
+    }
+  ],
+  "planetspark": [
+    {
+      "title": "Business Development Executive - Urgent Hiring - CTC6.5-7.5LPA",
+      "url": "https://in.linkedin.com/jobs/view/business-development-executive-urgent-hiring-ctc6-5-7-5lpa-at-planetspark-4476606572?trk=public_jobs_topcard-title",
+      "location": "New Delhi, Delhi",
+      "posted": "1 hour ago",
+      "postedAt": "2026-10-14",
       "firstSeen": "2026-10-14",
       "type": "Full-time",
       "level": "Junior",
       "source": "linkedin",
       "fn": "Business Development & Sales"
     },
+    {
+      "title": "Sales Executive (Fresher Hiring) in Ghaziabad, Delhi, Faridabad",
+      "url": "https://in.linkedin.com/jobs/view/sales-executive-fresher-hiring-in-ghaziabad-delhi-faridabad-at-planetspark-4481289976?trk=public_jobs_topcard-title",
+      "location": "Delhi",
+      "posted": "5 hours ago",
+      "postedAt": "2026-10-20",
+      "firstSeen": "2026-10-20",
+      "type": "Full-time",
+      "level": "Junior",
+      "source": "linkedin",
+      "fn": "Business Development & Sales"
+    },
+    {
+      "title": "Business Development Manager",
+      "url": "https://www.adzuna.in/land/ad/5867035773?se=GKnyATao8RGxWp4A46G3QA&utm_medium=api&utm_source=116859ef&v=6D8FE1AB229C23592294314DFEC88A77FD090EE8",
+      "location": "Gurgaon",
+      "posted": "",
+      "postedAt": "2026-09-02",
+      "firstSeen": "2026-09-02",
+      "type": "Full-time",
+      "source": "adzuna",
+      "fn": "Business Development & Sales",
+      "level": "Senior"
+    },
+    {
+      "title": "Soft Skills Trainer for Professionals - Work from Home - Part Time",
+      "url": "https://www.adzuna.in/details/5917530108?utm_medium=api&utm_source=1b39c183",
+      "location": "Faridabad",
+      "posted": "",
+      "postedAt": "2026-10-08",
+      "firstSeen": "2026-10-08",
+      "type": "Part-time",
+      "source": "adzuna",
+      "fn": "Teaching & Training",
+      "level": "Mid",
+      "remote": true
+    },
+    {
+      "title": "Business Development Executive (BDE)",
+      "url": "https://internshala.com/job/detail/fresher-business-development-executive-bde-job-in-multiple-locations-at-planetspark1788420275",
+      "location": "Delhi, Ghaziabad, Gurgaon",
+      "posted": "",
+      "postedAt": "2026-09-03",
+      "firstSeen": "2026-09-03",
+      "type": "Full-time",
+      "source": "internshala",
+      "fn": "Business Development & Sales",
+      "level": "Junior"
+    },
+    {
+      "title": "Business Development Associate",
+      "url": "https://internshala.com/job/detail/fresher-business-development-associate-job-in-multiple-locations-at-planetspark1788421237",
+      "location": "Delhi, Noida, Gurgaon",
+      "posted": "",
+      "postedAt": "2026-09-03",
+      "firstSeen": "2026-09-03",
+      "type": "Full-time",
+      "source": "internshala",
+      "fn": "Business Development & Sales",
+      "level": "Junior"
+    },
+    {
+      "title": "Business Development Executive",
+      "url": "https://internshala.com/job/detail/fresher-business-development-executive-job-in-noida-at-planetspark1789026774",
+      "location": "Noida",
+      "posted": "",
+      "postedAt": "2026-09-10",
+      "firstSeen": "2026-09-10",
+      "type": "Full-time",
+      "source": "internshala",
+      "fn": "Business Development & Sales",
+      "level": "Junior"
+    },
+    {
+      "title": "Sales Executive (Fresher Hiring)",
+      "url": "https://internshala.com/job/detail/fresher-sales-executive-fresher-hiring-job-in-multiple-locations-at-planetspark1792388607",
+      "location": "Faridabad, Delhi, Ghaziabad",
+      "posted": "",
+      "postedAt": "2026-10-19",
+      "firstSeen": "2026-10-19",
+      "type": "Full-time",
+      "source": "internshala",
+      "fn": "Business Development & Sales",
+      "level": "Junior"
+    },
+    {
+      "title": "Sales Associate",
+      "url": "https://internshala.com/job/detail/fresher-sales-associate-job-in-multiple-locations-at-planetspark1792388578",
+      "location": "Ahmedabad, Gurgaon, Noida",
+      "posted": "",
+      "postedAt": "2026-10-19",
+      "firstSeen": "2026-10-19",
+      "type": "Full-time",
+      "source": "internshala",
+      "fn": "Business Development & Sales",
+      "level": "Junior"
+    },
+    {
+      "title": "Inside Sales Associate",
+      "url": "https://internshala.com/job/detail/fresher-inside-sales-associate-job-in-multiple-locations-at-planetspark1792743369",
+      "location": "Ahmedabad, Agra, Noida",
+      "posted": "",
+      "postedAt": "2026-10-23",
+      "firstSeen": "2026-10-23",
+      "type": "Full-time",
+      "source": "internshala",
+      "fn": "Business Development & Sales",
+      "level": "Junior"
+    },
+    {
+      "title": "Business Development Associate - Fresher Hiring",
+      "url": "https://internshala.com/job/detail/fresher-business-development-associate-fresher-hiring-job-in-multiple-locations-at-planetspark1792743353",
+      "location": "Delhi, Indore, Lucknow",
+      "posted": "",
+      "postedAt": "2026-10-23",
+      "firstSeen": "2026-10-23",
+      "type": "Full-time",
+      "source": "internshala",
+      "fn": "Business Development & Sales",
+      "level": "Junior"
+    },
+    {
+      "title": "Corporate Sales Associate",
+      "url": "https://internshala.com/job/detail/fresher-corporate-sales-associate-job-in-multiple-locations-at-planetspark1792741095",
+      "location": "Faridabad, Chennai, Thane",
+      "posted": "",
+      "postedAt": "2026-10-23",
+      "firstSeen": "2026-10-23",
+      "type": "Full-time",
+      "source": "internshala",
+      "fn": "Business Development & Sales",
+      "level": "Junior"
+    },
+    {
+      "title": "Business Development (Sales) Executive",
+      "url": "https://internshala.com/job/detail/fresher-business-development-sales-executive-job-in-multiple-locations-at-planetspark1792991503",
+      "location": "Faridabad, Mumbai, Raipur",
+      "posted": "",
+      "postedAt": "2026-10-26",
+      "firstSeen": "2026-10-26",
+      "type": "Full-time",
+      "source": "internshala",
+      "fn": "Business Development & Sales",
+      "level": "Junior"
+    },
+    {
+      "title": "Inside Sales Executive - Fresher Hiring",
+      "url": "https://internshala.com/job/detail/fresher-inside-sales-executive-fresher-hiring-job-in-multiple-locations-at-planetspark1793180014",
+      "location": "Ghaziabad, Moradabad, Delhi, Najafgarh",
+      "posted": "",
+      "postedAt": "2026-10-28",
+      "firstSeen": "2026-10-28",
+      "type": "Full-time",
+      "source": "internshala",
+      "fn": "Business Development & Sales",
+      "level": "Junior"
+    },
+    {
+      "title": "Sales Executive",
+      "url": "https://internshala.com/job/detail/fresher-sales-executive-job-in-multiple-locations-at-planetspark1793356080",
+      "location": "Agra, Bareilly, Noida",
+      "posted": "",
+      "postedAt": "2026-10-30",
+      "firstSeen": "2026-10-30",
+      "type": "Full-time",
+      "source": "internshala",
+      "fn": "Business Development & Sales",
+      "level": "Junior"
+    },
+    {
+      "title": "Sales Associate - Urgent Hiring",
+      "url": "https://internshala.com/job/detail/fresher-sales-associate-urgent-hiring-job-in-multiple-locations-at-planetspark1793597283",
+      "location": "Delhi, Gurgaon, Madurai",
+      "posted": "",
+      "postedAt": "2026-11-02",
+      "firstSeen": "2026-11-02",
+      "type": "Full-time",
+      "source": "internshala",
+      "fn": "Business Development & Sales",
+      "level": "Junior"
+    },
+    {
+      "title": "Inside Sales Executive - URGENT HIRING",
+      "url": "https://internshala.com/job/detail/fresher-inside-sales-executive-urgent-hiring-job-in-multiple-locations-at-planetspark1793780808",
+      "location": "Faridabad, Delhi, Ghaziabad, Lucknow",
+      "posted": "",
+      "postedAt": "2026-11-04",
+      "firstSeen": "2026-11-04",
+      "type": "Full-time",
+      "source": "internshala",
+      "fn": "Business Development & Sales",
+      "level": "Junior"
+    }
+  ],
+  "digital-web-solutions": [
+    {
+      "title": "Podcast Outreach",
+      "url": "https://in.linkedin.com/jobs/view/podcast-outreach-at-digital-web-solutions-4477979908?trk=public_jobs_topcard-title",
+      "location": "Delhi",
+      "posted": "18 hours ago",
+      "postedAt": "2026-10-13",
+      "firstSeen": "2026-10-14",
+      "type": "Full-time",
+      "level": "Junior",
+      "source": "linkedin",
+      "fn": "Content Writer"
+    },
+    {
+      "title": "Influencer Marketing",
+      "url": "https://internshala.com/internship/detail/influencer-marketing-internship-in-gurgaon-at-digital-web-solutions1789042774",
+      "location": "Gurgaon",
+      "posted": "",
+      "postedAt": "2026-09-10",
+      "firstSeen": "2026-09-10",
+      "salary": "₹ 4,999 - 25,000 /month",
+      "type": "Internship",
+      "source": "internshala",
+      "fn": "Digital Marketing",
+      "level": "Mid"
+    },
+    {
+      "title": "Digital Marketing Trainee",
+      "url": "https://internshala.com/job/detail/fresher-digital-marketing-trainee-job-in-gurgaon-at-digital-web-solutions1792167824",
+      "location": "Gurgaon",
+      "posted": "",
+      "postedAt": "2026-10-16",
+      "firstSeen": "2026-10-16",
+      "type": "Full-time",
+      "source": "internshala",
+      "fn": "Digital Marketing",
+      "level": "Intern"
+    }
+  ],
+  "cleangrid-energy": [
+    {
+      "title": "Manager - Regulatory & Business Development (Renewable)",
+      "url": "https://in.linkedin.com/jobs/view/manager-regulatory-business-development-renewable-at-cleangrid-energy-4478840496?trk=public_jobs_topcard-title",
+      "location": "Gurugram, Haryana",
+      "posted": "1 hour ago",
+      "postedAt": "2026-10-15",
+      "firstSeen": "2026-10-15",
+      "type": "Full-time",
+      "level": "Senior",
+      "source": "linkedin",
+      "fn": "Business Development & Sales"
+    },
+    {
+      "title": "Senior Executive - Regulatory & Business Development (Renewable)",
+      "url": "https://in.linkedin.com/jobs/view/senior-executive-regulatory-business-development-renewable-at-cleangrid-energy-4479956492?trk=public_jobs_topcard-title",
+      "location": "Gurugram, Haryana",
+      "posted": "1 hour ago",
+      "postedAt": "2026-10-19",
+      "firstSeen": "2026-10-19",
+      "type": "Full-time",
+      "level": "Senior",
+      "source": "linkedin",
+      "fn": "Business Development & Sales"
+    },
+    {
+      "title": "Sr. Executive - Regulatory & Business Development (Solar)",
+      "url": "https://in.linkedin.com/jobs/view/sr-executive-regulatory-business-development-solar-at-cleangrid-energy-4479969782?trk=public_jobs_topcard-title",
+      "location": "Gurugram, Haryana",
+      "posted": "20 hours ago",
+      "postedAt": "2026-10-19",
+      "firstSeen": "2026-10-20",
+      "type": "Full-time",
+      "level": "Senior",
+      "source": "linkedin",
+      "fn": "Business Development & Sales"
+    },
+    {
+      "title": "Sr. Executive - Regulatory & Business Development (Renewable)",
+      "url": "https://in.linkedin.com/jobs/view/sr-executive-regulatory-business-development-renewable-at-cleangrid-energy-4478408432?trk=public_jobs_topcard-title",
+      "location": "Gurugram, Haryana",
+      "posted": "36 minutes ago",
+      "postedAt": "2026-10-12",
+      "firstSeen": "2026-10-14",
+      "type": "Full-time",
+      "level": "Senior",
+      "source": "linkedin",
+      "fn": "Business Development & Sales"
+    },
+    {
+      "title": "Sr. Executive - Regulatory & Business Development",
+      "url": "https://in.linkedin.com/jobs/view/sr-executive-regulatory-business-development-at-cleangrid-energy-4479322486?trk=public_jobs_topcard-title",
+      "location": "Gurugram, Haryana",
+      "posted": "38 minutes ago",
+      "postedAt": "2026-10-14",
+      "firstSeen": "2026-10-16",
+      "type": "Full-time",
+      "level": "Senior",
+      "source": "linkedin",
+      "fn": "Business Development & Sales"
+    }
+  ],
+  "ample": [
+    {
+      "title": "Presales Engineer- Apple & MDM",
+      "url": "https://in.linkedin.com/jobs/view/presales-engineer-apple-mdm-at-ample-4477976378?trk=public_jobs_topcard-title",
+      "location": "Delhi",
+      "posted": "22 hours ago",
+      "postedAt": "2026-10-13",
+      "firstSeen": "2026-10-14",
+      "checkedAt": "2026-11-04T07:01:37.692Z",
+      "type": "Full-time",
+      "level": "Mid",
+      "source": "linkedin",
+      "fn": "Software Engineer"
+    }
+  ],
+  "zone-it-solutions": [
+    {
+      "title": "Account Manager - IT Recruitment (Supporting Australia based clients)",
+      "url": "https://in.linkedin.com/jobs/view/account-manager-it-recruitment-supporting-australia-based-clients-at-zone-it-solutions-4478781600?trk=public_jobs_topcard-title",
+      "location": "Delhi",
+      "posted": "18 hours ago",
+      "postedAt": "2026-10-13",
+      "firstSeen": "2026-10-14",
+      "checkedAt": "2026-11-01T06:52:47.561Z",
+      "type": "Full-time",
+      "level": "Senior",
+      "source": "linkedin",
+      "fn": "Business Development & Sales"
+    },
+    {
+      "title": "Business Development Representative",
+      "url": "https://in.linkedin.com/jobs/view/business-development-representative-at-zone-it-solutions-4478790153?trk=public_jobs_topcard-title",
+      "location": "Noida, Uttar Pradesh",
+      "posted": "19 hours ago",
+      "postedAt": "2026-10-13",
+      "firstSeen": "2026-10-14",
+      "checkedAt": "2026-11-08T06:44:33.198Z",
+      "type": "Full-time",
+      "level": "Senior",
+      "source": "linkedin",
+      "fn": "Business Development & Sales"
+    },
+    {
+      "title": "AI Solution Architect",
+      "url": "https://www.adzuna.in/land/ad/5877457727?se=fjHad9as8RGLWNueJPgGLw&utm_medium=api&utm_source=116859ef&v=65A240FB4DC08C780CA4881C040E88EA56F84608",
+      "location": "Delhi",
+      "posted": "",
+      "postedAt": "2026-09-10",
+      "firstSeen": "2026-09-10",
+      "source": "adzuna",
+      "fn": "Consultant",
+      "level": "Mid"
+    },
+    {
+      "title": "Ataccama Support Engineer",
+      "url": "https://www.adzuna.in/land/ad/5880951315?se=5oQmKjOv8RGILs9Ns592sg&utm_medium=api&utm_source=116859ef&v=E7FF6B52A60CC0703348F51B7E80095C60E57AC1",
+      "location": "New Delhi",
+      "posted": "",
+      "postedAt": "2026-09-12",
+      "firstSeen": "2026-09-12",
+      "source": "adzuna",
+      "fn": "Software Engineer",
+      "level": "Mid"
+    },
+    {
+      "title": "Admin Support",
+      "url": "https://www.adzuna.in/land/ad/5886097830?se=6OLjJViy8RGezJEXxpo3fA&utm_medium=api&utm_source=1b39c183&v=C8E9F0A07565704E9D7565268FFE7E57C77EF017",
+      "location": "Noida, Ghaziabad",
+      "posted": "",
+      "postedAt": "2026-09-16",
+      "firstSeen": "2026-09-16",
+      "source": "adzuna",
+      "fn": "Admin & Legal",
+      "level": "Mid"
+    }
+  ],
+  "iconic-fashion-india": [
+    {
+      "title": "Key Account Manager (Marketplace Business)",
+      "url": "https://in.linkedin.com/jobs/view/key-account-manager-marketplace-business-at-iconic-fashion-india-4476424260?trk=public_jobs_topcard-title",
+      "location": "Gurugram, Haryana",
+      "posted": "18 hours ago",
+      "postedAt": "2026-10-13",
+      "firstSeen": "2026-10-14",
+      "checkedAt": "2026-11-01T06:52:47.561Z",
+      "type": "Full-time",
+      "level": "Senior",
+      "source": "linkedin",
+      "fn": "Business Development & Sales"
+    },
+    {
+      "title": "Retail Fashion Consultant",
+      "url": "https://in.linkedin.com/jobs/view/retail-fashion-consultant-at-iconic-fashion-india-4479325500?trk=public_jobs_topcard-title",
+      "location": "Delhi",
+      "posted": "23 hours ago",
+      "postedAt": "2026-10-16",
+      "firstSeen": "2026-10-17",
+      "type": "Internship",
+      "level": "Senior",
+      "source": "linkedin",
+      "fn": "Consultant"
+    }
+  ],
+  "novartis-india": [
+    {
+      "title": "Sales Representative / Territory Business Executive (Dermatology Specialty Sales)",
+      "url": "https://in.linkedin.com/jobs/view/sales-representative-territory-business-executive-dermatology-specialty-sales-at-novartis-india-4459284776?trk=public_jobs_topcard-title",
+      "location": "Greater Delhi Area",
+      "posted": "16 hours ago",
+      "postedAt": "2026-10-13",
+      "firstSeen": "2026-10-14",
+      "checkedAt": "2026-11-04T07:01:37.692Z",
+      "type": "Full-time",
+      "level": "Junior",
+      "source": "linkedin",
+      "fn": "Business Development & Sales"
+    },
+    {
+      "title": "Area Manager / Regional Business Manager (Dermatology Specialty Sales)",
+      "url": "https://in.linkedin.com/jobs/view/area-manager-regional-business-manager-dermatology-specialty-sales-at-novartis-india-4459539167?trk=public_jobs_topcard-title",
+      "location": "Greater Delhi Area",
+      "posted": "16 hours ago",
+      "postedAt": "2026-10-14",
+      "firstSeen": "2026-10-15",
+      "type": "Full-time",
+      "level": "Senior",
+      "source": "linkedin",
+      "fn": "Business Development & Sales"
+    }
+  ],
+  "sharda-consultancy-services": [
     {
       "title": "Sales Executive",
       "url": "https://in.linkedin.com/jobs/view/sales-executive-at-sharda-consultancy-services-4477979375?trk=public_jobs_topcard-title",
@@ -10607,1364 +11864,6 @@
       "level": "Senior"
     }
   ],
-  "convegeniusai": [
-    {
-      "title": "SDE-2",
-      "url": "https://in.linkedin.com/jobs/view/sde-2-at-convegenius-ai-4476089993?trk=public_jobs_topcard-title",
-      "location": "Noida, Uttar Pradesh",
-      "posted": "21 hours ago",
-      "postedAt": "2026-10-13",
-      "firstSeen": "2026-10-14",
-      "type": "Full-time",
-      "level": "Senior",
-      "source": "linkedin",
-      "fn": "Software Engineer"
-    }
-  ],
-  "scoobies": [
-    {
-      "title": "Chemical Testing Executive",
-      "url": "https://in.linkedin.com/jobs/view/chemical-testing-executive-at-scoobies-4477985001?trk=public_jobs_topcard-title",
-      "location": "Noida, Uttar Pradesh",
-      "posted": "19 hours ago",
-      "postedAt": "2026-10-13",
-      "firstSeen": "2026-10-14",
-      "type": "Full-time",
-      "level": "Junior",
-      "source": "linkedin",
-      "fn": "QA & Testing"
-    }
-  ],
-  "world-courier": [
-    {
-      "title": "Senior Executive",
-      "url": "https://in.linkedin.com/jobs/view/senior-executive-at-world-courier-4476468053?trk=public_jobs_topcard-title",
-      "location": "New Delhi, Delhi",
-      "posted": "2 hours ago",
-      "postedAt": "2026-10-13",
-      "firstSeen": "2026-10-14",
-      "type": "Full-time",
-      "level": "Senior",
-      "source": "linkedin",
-      "fn": "Other"
-    }
-  ],
-  "delta-system-and-software-inc": [
-    {
-      "title": "Vice President – Global Recruitment & Staffing / Recruitment Business & Operations",
-      "url": "https://in.linkedin.com/jobs/view/vice-president-%E2%80%93-global-recruitment-staffing-recruitment-business-operations-at-delta-system-software-inc-4478104242?trk=public_jobs_topcard-title",
-      "location": "Noida, Uttar Pradesh",
-      "posted": "17 hours ago",
-      "postedAt": "2026-10-13",
-      "firstSeen": "2026-10-14",
-      "type": "Full-time",
-      "level": "Exec",
-      "source": "linkedin",
-      "fn": "HR & Recruiter"
-    },
-    {
-      "title": "SAP S/4HANA FICO Consultant – RISE with SAP",
-      "url": "https://www.adzuna.in/land/ad/5864422008?se=ctP8BDao8RG5EMkOnuyoTA&utm_medium=api&utm_source=116859ef&v=2123E1C5946745F107BF9C6C23F83D094AF71542",
-      "location": "Noida, Ghaziabad",
-      "posted": "",
-      "postedAt": "2026-09-01",
-      "firstSeen": "2026-09-01",
-      "source": "adzuna",
-      "fn": "Consultant",
-      "level": "Mid"
-    },
-    {
-      "title": "Senior Sap Finance Control Consultant",
-      "url": "https://www.adzuna.in/land/ad/5864428860?se=tO_tBTao8RGxWp4A46G3QA&utm_medium=api&utm_source=116859ef&v=3F74735B245A14C13023CE6C073D4EC1B70B6AC7",
-      "location": "Noida, Ghaziabad",
-      "posted": "",
-      "postedAt": "2026-09-01",
-      "firstSeen": "2026-09-01",
-      "type": "Full-time",
-      "source": "adzuna",
-      "fn": "Consultant",
-      "level": "Senior"
-    },
-    {
-      "title": "Engineering and Non- IT Recruiter",
-      "url": "https://www.adzuna.in/land/ad/5864433896?se=pgBmpVeo8RGpTs1Lc1il5g&utm_medium=api&utm_source=116859ef&v=942780188B0A0E03775A5665A9ED11F7597089D4",
-      "location": "Noida, Ghaziabad",
-      "posted": "",
-      "postedAt": "2026-09-01",
-      "firstSeen": "2026-09-01",
-      "type": "Full-time",
-      "source": "adzuna",
-      "fn": "Software Engineer",
-      "level": "Mid"
-    },
-    {
-      "title": "Sr. SuccessFactors Integration Developer",
-      "url": "https://www.adzuna.in/land/ad/5876027919?se=BJvz6Ays8RGwn507sZh0kw&utm_medium=api&utm_source=116859ef&v=88E2B7C954D1F59E97F4B08D83EC392F9E65C484",
-      "location": "Noida, Ghaziabad",
-      "posted": "",
-      "postedAt": "2026-09-09",
-      "firstSeen": "2026-09-09",
-      "type": "Full-time",
-      "source": "adzuna",
-      "fn": "Software Engineer",
-      "level": "Senior"
-    },
-    {
-      "title": "Walkme Developer- Hybrid in Noida",
-      "url": "https://www.adzuna.in/land/ad/5876025757?se=Ltp16Qys8RG-Tvy4q0iO2Q&utm_medium=api&utm_source=116859ef&v=C19C614F83D2756B533CC01451109943F2C48334",
-      "location": "Noida, Ghaziabad",
-      "posted": "",
-      "postedAt": "2026-09-09",
-      "firstSeen": "2026-09-09",
-      "source": "adzuna",
-      "fn": "Software Engineer",
-      "level": "Mid"
-    },
-    {
-      "title": "Salesforce Solution Architect",
-      "url": "https://www.adzuna.in/land/ad/5876027016?se=Ltp16Qys8RG-Tvy4q0iO2Q&utm_medium=api&utm_source=116859ef&v=146CF24E94138E4B0D7D25E59E2035A4E9900D76",
-      "location": "Noida, Ghaziabad",
-      "posted": "",
-      "postedAt": "2026-09-09",
-      "firstSeen": "2026-09-09",
-      "source": "adzuna",
-      "fn": "Consultant",
-      "level": "Mid"
-    }
-  ],
-  "muditam-ayurveda": [
-    {
-      "title": "Telesales Executive",
-      "url": "https://in.linkedin.com/jobs/view/telesales-executive-at-muditam-ayurveda-4476094550?trk=public_jobs_topcard-title",
-      "location": "Saket, Delhi",
-      "posted": "22 hours ago",
-      "postedAt": "2026-10-13",
-      "firstSeen": "2026-10-14",
-      "type": "Full-time",
-      "level": "Junior",
-      "source": "linkedin",
-      "fn": "Other"
-    }
-  ],
-  "oxane-partners": [
-    {
-      "title": "Senior Analyst/ Associate - Leverage Facility Management - Platform Solutions Group",
-      "url": "https://in.linkedin.com/jobs/view/senior-analyst-associate-leverage-facility-management-platform-solutions-group-at-oxane-partners-4478774625?trk=public_jobs_topcard-title",
-      "location": "Gurgaon, Haryana",
-      "posted": "20 hours ago",
-      "postedAt": "2026-10-13",
-      "firstSeen": "2026-10-14",
-      "checkedAt": "2026-11-01T06:52:47.561Z",
-      "type": "Full-time",
-      "level": "Senior",
-      "source": "linkedin",
-      "fn": "Operations & Supply Chain"
-    },
-    {
-      "title": "Analyst / Senior Analyst - Financial Spreading - Credit Monitoring",
-      "url": "https://in.linkedin.com/jobs/view/analyst-senior-analyst-financial-spreading-credit-monitoring-at-oxane-partners-4480947831?trk=public_jobs_topcard-title",
-      "location": "Gurgaon, Haryana",
-      "posted": "20 hours ago",
-      "postedAt": "2026-10-19",
-      "firstSeen": "2026-10-20",
-      "type": "Full-time",
-      "level": "Senior",
-      "source": "linkedin",
-      "fn": "Finance & Accounts"
-    }
-  ],
-  "agilent-technologies": [
-    {
-      "title": "Associate Vice President Global Credit & Collections",
-      "url": "https://in.linkedin.com/jobs/view/associate-vice-president-global-credit-collections-at-agilent-technologies-4476369795?trk=public_jobs_topcard-title",
-      "location": "Gurgaon, Haryana",
-      "posted": "8 hours ago",
-      "postedAt": "2026-10-13",
-      "firstSeen": "2026-10-14",
-      "checkedAt": "2026-11-01T06:52:47.561Z",
-      "type": "Full-time",
-      "level": "Exec",
-      "source": "linkedin",
-      "fn": "Finance & Accounts"
-    },
-    {
-      "title": "Trade Compliance Manager",
-      "url": "https://in.linkedin.com/jobs/view/trade-compliance-manager-at-agilent-technologies-4479093518?trk=public_jobs_topcard-title",
-      "location": "Gurgaon, Haryana",
-      "posted": "8 hours ago",
-      "postedAt": "2026-10-15",
-      "firstSeen": "2026-10-14",
-      "checkedAt": "2026-11-07T06:38:08.389Z",
-      "type": "Full-time",
-      "level": "Senior",
-      "source": "linkedin",
-      "fn": "Admin & Legal"
-    },
-    {
-      "title": "Regional Marketing Program Manager",
-      "url": "https://in.linkedin.com/jobs/view/regional-marketing-program-manager-at-agilent-technologies-4479593552?trk=public_jobs_topcard-title",
-      "location": "Delhi, Delhi",
-      "posted": "8 hours ago",
-      "postedAt": "2026-10-14",
-      "firstSeen": "2026-10-15",
-      "type": "Full-time",
-      "level": "Senior",
-      "source": "linkedin",
-      "fn": "Digital Marketing"
-    },
-    {
-      "title": "Business Process",
-      "url": "https://www.adzuna.in/details/5861796356?utm_medium=api&utm_source=116859ef",
-      "location": "Gurgaon",
-      "posted": "",
-      "postedAt": "2026-08-30",
-      "firstSeen": "2026-08-30",
-      "source": "adzuna",
-      "fn": "Other",
-      "level": "Mid"
-    },
-    {
-      "title": "Lead Localization Engineer",
-      "url": "https://www.adzuna.in/details/5861796315?utm_medium=api&utm_source=116859ef",
-      "location": "Gurgaon",
-      "posted": "",
-      "postedAt": "2026-08-30",
-      "firstSeen": "2026-08-30",
-      "source": "adzuna",
-      "fn": "Software Engineer",
-      "level": "Lead"
-    },
-    {
-      "title": "Inventory Integrity Coordinator",
-      "url": "https://www.adzuna.in/details/5867242838?utm_medium=api&utm_source=116859ef",
-      "location": "Nsg Camp Manesar, Gurgaon",
-      "posted": "",
-      "postedAt": "2026-09-02",
-      "firstSeen": "2026-09-02",
-      "salary": "₹31k",
-      "type": "Full-time",
-      "source": "adzuna",
-      "fn": "Operations & Supply Chain",
-      "level": "Mid"
-    },
-    {
-      "title": "LC/LCMS Application Engineer",
-      "url": "https://www.adzuna.in/details/5861796307?utm_medium=api&utm_source=116859ef",
-      "location": "Gurgaon",
-      "posted": "",
-      "postedAt": "2026-08-30",
-      "firstSeen": "2026-08-30",
-      "source": "adzuna",
-      "fn": "Software Engineer",
-      "level": "Mid"
-    },
-    {
-      "title": "Inside Sales",
-      "url": "https://www.adzuna.in/details/5861796339?utm_medium=api&utm_source=116859ef",
-      "location": "Delhi",
-      "posted": "",
-      "postedAt": "2026-08-30",
-      "firstSeen": "2026-08-30",
-      "source": "adzuna",
-      "fn": "Business Development & Sales",
-      "level": "Mid"
-    },
-    {
-      "title": "Business Development Manager - Government Projects",
-      "url": "https://www.adzuna.in/details/5861796316?utm_medium=api&utm_source=116859ef",
-      "location": "Delhi",
-      "posted": "",
-      "postedAt": "2026-08-30",
-      "firstSeen": "2026-08-30",
-      "source": "adzuna",
-      "fn": "Business Development & Sales",
-      "level": "Senior"
-    },
-    {
-      "title": "Customer Service Admin Senior Specialist",
-      "url": "https://www.adzuna.in/details/5861796384?utm_medium=api&utm_source=116859ef",
-      "location": "Gurgaon",
-      "posted": "",
-      "postedAt": "2026-08-30",
-      "firstSeen": "2026-08-30",
-      "source": "adzuna",
-      "fn": "Customer Support",
-      "level": "Senior"
-    },
-    {
-      "title": "Manager, Solution Center",
-      "url": "https://www.adzuna.in/details/5861796310?utm_medium=api&utm_source=116859ef",
-      "location": "Gurgaon",
-      "posted": "",
-      "postedAt": "2026-08-30",
-      "firstSeen": "2026-08-30",
-      "source": "adzuna",
-      "fn": "Other",
-      "level": "Senior"
-    },
-    {
-      "title": "Tax Associate",
-      "url": "https://www.adzuna.in/details/5861796301?utm_medium=api&utm_source=116859ef",
-      "location": "Gurgaon",
-      "posted": "",
-      "postedAt": "2026-08-30",
-      "firstSeen": "2026-08-30",
-      "source": "adzuna",
-      "fn": "Finance & Accounts",
-      "level": "Junior"
-    },
-    {
-      "title": "ICM Varicent Technical Lead",
-      "url": "https://www.adzuna.in/details/5861796374?utm_medium=api&utm_source=116859ef",
-      "location": "Gurgaon",
-      "posted": "",
-      "postedAt": "2026-08-30",
-      "firstSeen": "2026-08-30",
-      "source": "adzuna",
-      "fn": "Other",
-      "level": "Lead"
-    },
-    {
-      "title": "Finance Associate",
-      "url": "https://www.adzuna.in/details/5864853075?utm_medium=api&utm_source=116859ef",
-      "location": "Nsg Camp Manesar, Gurgaon",
-      "posted": "",
-      "postedAt": "2026-09-01",
-      "firstSeen": "2026-09-01",
-      "type": "Full-time",
-      "source": "adzuna",
-      "fn": "Finance & Accounts",
-      "level": "Junior"
-    },
-    {
-      "title": "Product Data Management- Change Coordinator",
-      "url": "https://www.adzuna.in/details/5861796320?utm_medium=api&utm_source=116859ef",
-      "location": "Gurgaon",
-      "posted": "",
-      "postedAt": "2026-08-30",
-      "firstSeen": "2026-08-30",
-      "source": "adzuna",
-      "fn": "Operations & Supply Chain",
-      "level": "Mid"
-    },
-    {
-      "title": "Field Service Center Coordinator",
-      "url": "https://www.adzuna.in/details/5861796321?utm_medium=api&utm_source=116859ef",
-      "location": "Gurgaon",
-      "posted": "",
-      "postedAt": "2026-08-30",
-      "firstSeen": "2026-08-30",
-      "source": "adzuna",
-      "fn": "Operations & Supply Chain",
-      "level": "Mid"
-    },
-    {
-      "title": "Training Program Manager",
-      "url": "https://www.adzuna.in/details/5861796334?utm_medium=api&utm_source=116859ef",
-      "location": "Gurgaon",
-      "posted": "",
-      "postedAt": "2026-08-30",
-      "firstSeen": "2026-08-30",
-      "source": "adzuna",
-      "fn": "Operations & Supply Chain",
-      "level": "Senior"
-    },
-    {
-      "title": "Financial Analyst",
-      "url": "https://www.adzuna.in/details/5861796365?utm_medium=api&utm_source=116859ef",
-      "location": "Gurgaon",
-      "posted": "",
-      "postedAt": "2026-08-30",
-      "firstSeen": "2026-08-30",
-      "source": "adzuna",
-      "fn": "Finance & Accounts",
-      "level": "Junior"
-    },
-    {
-      "title": "Customer Service Admin",
-      "url": "https://www.adzuna.in/details/5861796351?utm_medium=api&utm_source=116859ef",
-      "location": "Gurgaon",
-      "posted": "",
-      "postedAt": "2026-08-30",
-      "firstSeen": "2026-08-30",
-      "source": "adzuna",
-      "fn": "Customer Support",
-      "level": "Mid"
-    },
-    {
-      "title": "CIM Business Process Analyst",
-      "url": "https://www.adzuna.in/details/5861796341?utm_medium=api&utm_source=116859ef",
-      "location": "Gurgaon",
-      "posted": "",
-      "postedAt": "2026-08-30",
-      "firstSeen": "2026-08-30",
-      "source": "adzuna",
-      "fn": "Data Analyst",
-      "level": "Junior"
-    },
-    {
-      "title": "IT System Design & Implementation Professional",
-      "url": "https://www.adzuna.in/details/5861796308?utm_medium=api&utm_source=116859ef",
-      "location": "Gurgaon",
-      "posted": "",
-      "postedAt": "2026-08-30",
-      "firstSeen": "2026-08-30",
-      "source": "adzuna",
-      "fn": "UI/UX & Graphic Design",
-      "level": "Mid"
-    },
-    {
-      "title": "SAP FICO Consultant",
-      "url": "https://www.adzuna.in/details/5861796353?utm_medium=api&utm_source=116859ef",
-      "location": "Gurgaon",
-      "posted": "",
-      "postedAt": "2026-08-30",
-      "firstSeen": "2026-08-30",
-      "source": "adzuna",
-      "fn": "Consultant",
-      "level": "Mid"
-    },
-    {
-      "title": "Finance Analyst",
-      "url": "https://www.adzuna.in/details/5870776973?utm_medium=api&utm_source=116859ef",
-      "location": "Nsg Camp Manesar, Gurgaon",
-      "posted": "",
-      "postedAt": "2026-09-04",
-      "firstSeen": "2026-09-04",
-      "type": "Full-time",
-      "source": "adzuna",
-      "fn": "Finance & Accounts",
-      "level": "Junior"
-    },
-    {
-      "title": "Finance Admin - Accounts Receivable",
-      "url": "https://www.adzuna.in/details/5886391452?utm_medium=api&utm_source=1b39c183",
-      "location": "Nsg Camp Manesar, Gurgaon",
-      "posted": "",
-      "postedAt": "2026-09-16",
-      "firstSeen": "2026-09-16",
-      "type": "Full-time",
-      "source": "adzuna",
-      "fn": "Finance & Accounts",
-      "level": "Mid"
-    },
-    {
-      "title": "Finance Admin",
-      "url": "https://www.adzuna.in/details/5889532504?utm_medium=api&utm_source=1b39c183",
-      "location": "Nsg Camp Manesar, Gurgaon",
-      "posted": "",
-      "postedAt": "2026-09-18",
-      "firstSeen": "2026-09-18",
-      "type": "Full-time",
-      "source": "adzuna",
-      "fn": "Finance & Accounts",
-      "level": "Mid"
-    },
-    {
-      "title": "Scheduling Success Coordinator",
-      "url": "https://www.adzuna.in/details/5890768391?utm_medium=api&utm_source=1b39c183",
-      "location": "Nsg Camp Manesar, Gurgaon",
-      "posted": "",
-      "postedAt": "2026-09-19",
-      "firstSeen": "2026-09-19",
-      "type": "Full-time",
-      "source": "adzuna",
-      "fn": "Operations & Supply Chain",
-      "level": "Mid"
-    },
-    {
-      "title": "Business Process Associate",
-      "url": "https://www.adzuna.in/details/5889569640?utm_medium=api&utm_source=1b39c183",
-      "location": "Nsg Camp Manesar, Gurgaon",
-      "posted": "",
-      "postedAt": "2026-09-18",
-      "firstSeen": "2026-09-18",
-      "type": "Full-time",
-      "source": "adzuna",
-      "fn": "Operations & Supply Chain",
-      "level": "Junior"
-    },
-    {
-      "title": "Service Delivery Manager",
-      "url": "https://www.adzuna.in/details/5890797254?utm_medium=api&utm_source=1b39c183",
-      "location": "Delhi",
-      "posted": "",
-      "postedAt": "2026-09-19",
-      "firstSeen": "2026-09-19",
-      "type": "Full-time",
-      "source": "adzuna",
-      "fn": "Other",
-      "level": "Senior"
-    },
-    {
-      "title": "ECAD Design Engineer",
-      "url": "https://www.adzuna.in/details/5897039836?utm_medium=api&utm_source=1b39c183",
-      "location": "Nsg Camp Manesar, Gurgaon",
-      "posted": "",
-      "postedAt": "2026-09-24",
-      "firstSeen": "2026-09-24",
-      "type": "Full-time",
-      "source": "adzuna",
-      "fn": "Software Engineer",
-      "level": "Mid"
-    },
-    {
-      "title": "APAC Sales Productivity Specialist (SPS)",
-      "url": "https://www.adzuna.in/details/5904051684?utm_medium=api&utm_source=1b39c183",
-      "location": "Nsg Camp Manesar, Gurgaon",
-      "posted": "",
-      "postedAt": "2026-09-30",
-      "firstSeen": "2026-09-30",
-      "type": "Full-time",
-      "source": "adzuna",
-      "fn": "Business Development & Sales",
-      "level": "Senior"
-    },
-    {
-      "title": "Workplace Services Operations Manager",
-      "url": "https://www.adzuna.in/details/5914012021?utm_medium=api&utm_source=1b39c183",
-      "location": "Nsg Camp Manesar, Gurgaon",
-      "posted": "",
-      "postedAt": "2026-10-06",
-      "firstSeen": "2026-10-06",
-      "type": "Full-time",
-      "source": "adzuna",
-      "fn": "Operations & Supply Chain",
-      "level": "Senior"
-    },
-    {
-      "title": "Manesar CrossLab Education Center Instructor",
-      "url": "https://www.adzuna.in/details/5919340398?utm_medium=api&utm_source=1b39c183",
-      "location": "Nsg Camp Manesar, Gurgaon",
-      "posted": "",
-      "postedAt": "2026-10-08",
-      "firstSeen": "2026-10-08",
-      "type": "Full-time",
-      "source": "adzuna",
-      "fn": "Teaching & Training",
-      "level": "Mid"
-    },
-    {
-      "title": "Customer Service Collections",
-      "url": "https://www.adzuna.in/details/5923523400?utm_medium=api&utm_source=1b39c183",
-      "location": "Nsg Camp Manesar, Gurgaon",
-      "posted": "",
-      "postedAt": "2026-10-11",
-      "firstSeen": "2026-10-11",
-      "type": "Full-time",
-      "source": "adzuna",
-      "fn": "Finance & Accounts",
-      "level": "Mid"
-    },
-    {
-      "title": "Trade Compliance Sr.Representative",
-      "url": "https://www.adzuna.in/details/5927750073?utm_medium=api&utm_source=1b39c183",
-      "location": "Nsg Camp Manesar, Gurgaon",
-      "posted": "",
-      "postedAt": "2026-10-14",
-      "firstSeen": "2026-10-14",
-      "type": "Full-time",
-      "source": "adzuna",
-      "fn": "Admin & Legal",
-      "level": "Senior"
-    },
-    {
-      "title": "Tax Compliance & Planning Associate",
-      "url": "https://www.adzuna.in/details/5935585226?utm_medium=api&utm_source=1b39c183",
-      "location": "Nsg Camp Manesar, Gurgaon",
-      "posted": "",
-      "postedAt": "2026-10-20",
-      "firstSeen": "2026-10-20",
-      "type": "Full-time",
-      "source": "adzuna",
-      "fn": "Finance & Accounts",
-      "level": "Junior"
-    },
-    {
-      "title": "CIM - Customer Service Admin",
-      "url": "https://www.adzuna.in/details/5941572019?utm_medium=api&utm_source=1b39c183",
-      "location": "Nsg Camp Manesar, Gurgaon",
-      "posted": "",
-      "postedAt": "2026-10-25",
-      "firstSeen": "2026-10-25",
-      "type": "Full-time",
-      "source": "adzuna",
-      "fn": "Customer Support",
-      "level": "Mid"
-    },
-    {
-      "title": "Finance",
-      "url": "https://www.adzuna.in/details/5941587337?utm_medium=api&utm_source=1b39c183",
-      "location": "Nsg Camp Manesar, Gurgaon",
-      "posted": "",
-      "postedAt": "2026-10-25",
-      "firstSeen": "2026-10-25",
-      "type": "Full-time",
-      "source": "adzuna",
-      "fn": "Finance & Accounts",
-      "level": "Mid"
-    },
-    {
-      "title": "Sourcing Support Coordinator",
-      "url": "https://www.adzuna.in/details/5941565002?utm_medium=api&utm_source=1b39c183",
-      "location": "Nsg Camp Manesar, Gurgaon",
-      "posted": "",
-      "postedAt": "2026-10-25",
-      "firstSeen": "2026-10-25",
-      "type": "Full-time",
-      "source": "adzuna",
-      "fn": "Operations & Supply Chain",
-      "level": "Mid"
-    },
-    {
-      "title": "Senior US Tax & Compliance Analyst",
-      "url": "https://www.adzuna.in/details/5954473859?utm_medium=api&utm_source=1b39c183",
-      "location": "Nsg Camp Manesar, Gurgaon",
-      "posted": "",
-      "postedAt": "2026-11-05",
-      "firstSeen": "2026-11-05",
-      "type": "Full-time",
-      "source": "adzuna",
-      "fn": "Finance & Accounts",
-      "level": "Senior"
-    },
-    {
-      "title": "US State Tax Analyst",
-      "url": "https://www.adzuna.in/details/5954488671?utm_medium=api&utm_source=1b39c183",
-      "location": "Nsg Camp Manesar, Gurgaon",
-      "posted": "",
-      "postedAt": "2026-11-05",
-      "firstSeen": "2026-11-05",
-      "type": "Full-time",
-      "source": "adzuna",
-      "fn": "Finance & Accounts",
-      "level": "Junior"
-    }
-  ],
-  "iitjobs-inc": [
-    {
-      "title": "ServiceNow Administrator - Noida, India",
-      "url": "https://in.linkedin.com/jobs/view/servicenow-administrator-noida-india-at-iitjobs-inc-4478197749?trk=public_jobs_topcard-title",
-      "location": "Noida, Uttar Pradesh",
-      "posted": "1 hour ago",
-      "postedAt": "2026-10-15",
-      "firstSeen": "2026-10-15",
-      "type": "Contract",
-      "level": "Senior",
-      "source": "linkedin",
-      "fn": "IT Support & Admin"
-    },
-    {
-      "title": "IAM Analyst",
-      "url": "https://in.linkedin.com/jobs/view/iam-analyst-at-iitjobs-inc-4478100181?trk=public_jobs_topcard-title",
-      "location": "Noida, Uttar Pradesh",
-      "posted": "18 hours ago",
-      "postedAt": "2026-10-13",
-      "firstSeen": "2026-10-14",
-      "type": "Full-time",
-      "level": "Junior",
-      "source": "linkedin",
-      "fn": "Cybersecurity"
-    }
-  ],
-  "rkivecity": [
-    {
-      "title": "Entrepreneur in Residence",
-      "url": "https://in.linkedin.com/jobs/view/entrepreneur-in-residence-at-rkivecity-4477976693?trk=public_jobs_topcard-title",
-      "location": "Delhi",
-      "posted": "20 hours ago",
-      "postedAt": "2026-10-13",
-      "firstSeen": "2026-10-14",
-      "type": "Full-time",
-      "level": "Lead",
-      "source": "linkedin",
-      "fn": "Founder's Office & Strategy"
-    }
-  ],
-  "learningshala": [
-    {
-      "title": "Sales Business Development Executive",
-      "url": "https://in.linkedin.com/jobs/view/sales-business-development-executive-at-learningshala-4478825174?trk=public_jobs_topcard-title",
-      "location": "Noida, Uttar Pradesh",
-      "posted": "4 hours ago",
-      "postedAt": "2026-10-15",
-      "firstSeen": "2026-10-15",
-      "type": "Full-time",
-      "level": "Junior",
-      "source": "linkedin",
-      "fn": "Business Development & Sales"
-    },
-    {
-      "title": "Product & Manufacturing Intern",
-      "url": "https://in.linkedin.com/jobs/view/product-manufacturing-intern-at-learningshala-4479670218?trk=public_jobs_topcard-title",
-      "location": "Noida, Uttar Pradesh",
-      "posted": "7 minutes ago",
-      "postedAt": "2026-10-16",
-      "firstSeen": "2026-10-17",
-      "type": "Full-time",
-      "level": "Intern",
-      "source": "linkedin",
-      "fn": "Operations & Supply Chain"
-    },
-    {
-      "title": "Senior Business Development Associate",
-      "url": "https://in.linkedin.com/jobs/view/senior-business-development-associate-at-learningshala-4480842237?trk=public_jobs_topcard-title",
-      "location": "Noida, Uttar Pradesh",
-      "posted": "13 hours ago",
-      "postedAt": "2026-10-17",
-      "firstSeen": "2026-10-18",
-      "type": "Full-time",
-      "level": "Senior",
-      "source": "linkedin",
-      "fn": "Business Development & Sales"
-    },
-    {
-      "title": "Business Development Executive",
-      "url": "https://in.linkedin.com/jobs/view/business-development-executive-at-learningshala-4480437364?trk=public_jobs_topcard-title",
-      "location": "Noida, Uttar Pradesh",
-      "posted": "14 minutes ago",
-      "postedAt": "2026-10-19",
-      "firstSeen": "2026-10-20",
-      "type": "Full-time",
-      "level": "Junior",
-      "source": "linkedin",
-      "fn": "Business Development & Sales"
-    },
-    {
-      "title": "Business Development Associate  - Fresher Candidate",
-      "url": "https://in.linkedin.com/jobs/view/business-development-associate-fresher-candidate-at-learningshala-4479109387?trk=public_jobs_topcard-title",
-      "location": "Noida, Uttar Pradesh",
-      "posted": "16 hours ago",
-      "postedAt": "2026-10-15",
-      "firstSeen": "2026-10-16",
-      "type": "Full-time",
-      "level": "Junior",
-      "source": "linkedin",
-      "fn": "Business Development & Sales"
-    },
-    {
-      "title": "Sales Executive",
-      "url": "https://in.linkedin.com/jobs/view/sales-executive-at-learningshala-4479987419?trk=public_jobs_topcard-title",
-      "location": "Delhi, Delhi",
-      "posted": "18 hours ago",
-      "postedAt": "2026-10-19",
-      "firstSeen": "2026-10-20",
-      "type": "Full-time",
-      "level": "Junior",
-      "source": "linkedin",
-      "fn": "Business Development & Sales"
-    },
-    {
-      "title": "Senior Sales Associate",
-      "url": "https://in.linkedin.com/jobs/view/senior-sales-associate-at-learningshala-4477048612?trk=public_jobs_topcard-title",
-      "location": "Delhi, Delhi",
-      "posted": "20 minutes ago",
-      "postedAt": "2026-10-14",
-      "firstSeen": "2026-10-15",
-      "type": "Full-time",
-      "level": "Senior",
-      "source": "linkedin",
-      "fn": "Business Development & Sales"
-    },
-    {
-      "title": "Business Development Intern",
-      "url": "https://in.linkedin.com/jobs/view/business-development-intern-at-learningshala-4479666554?trk=public_jobs_topcard-title",
-      "location": "Noida, Uttar Pradesh",
-      "posted": "20 hours ago",
-      "postedAt": "2026-10-17",
-      "firstSeen": "2026-10-18",
-      "type": "Full-time",
-      "level": "Intern",
-      "source": "linkedin",
-      "fn": "Business Development & Sales"
-    },
-    {
-      "title": "Business Development Associate",
-      "url": "https://in.linkedin.com/jobs/view/business-development-associate-at-learningshala-4479342116?trk=public_jobs_topcard-title",
-      "location": "Noida, Uttar Pradesh",
-      "posted": "22 hours ago",
-      "postedAt": "2026-10-16",
-      "firstSeen": "2026-10-17",
-      "type": "Full-time",
-      "level": "Junior",
-      "source": "linkedin",
-      "fn": "Business Development & Sales"
-    }
-  ],
-  "planetspark": [
-    {
-      "title": "Business Development Executive - Urgent Hiring - CTC6.5-7.5LPA",
-      "url": "https://in.linkedin.com/jobs/view/business-development-executive-urgent-hiring-ctc6-5-7-5lpa-at-planetspark-4476606572?trk=public_jobs_topcard-title",
-      "location": "New Delhi, Delhi",
-      "posted": "1 hour ago",
-      "postedAt": "2026-10-14",
-      "firstSeen": "2026-10-14",
-      "type": "Full-time",
-      "level": "Junior",
-      "source": "linkedin",
-      "fn": "Business Development & Sales"
-    },
-    {
-      "title": "Sales Executive (Fresher Hiring) in Ghaziabad, Delhi, Faridabad",
-      "url": "https://in.linkedin.com/jobs/view/sales-executive-fresher-hiring-in-ghaziabad-delhi-faridabad-at-planetspark-4481289976?trk=public_jobs_topcard-title",
-      "location": "Delhi",
-      "posted": "5 hours ago",
-      "postedAt": "2026-10-20",
-      "firstSeen": "2026-10-20",
-      "type": "Full-time",
-      "level": "Junior",
-      "source": "linkedin",
-      "fn": "Business Development & Sales"
-    },
-    {
-      "title": "Business Development Manager",
-      "url": "https://www.adzuna.in/land/ad/5867035773?se=GKnyATao8RGxWp4A46G3QA&utm_medium=api&utm_source=116859ef&v=6D8FE1AB229C23592294314DFEC88A77FD090EE8",
-      "location": "Gurgaon",
-      "posted": "",
-      "postedAt": "2026-09-02",
-      "firstSeen": "2026-09-02",
-      "type": "Full-time",
-      "source": "adzuna",
-      "fn": "Business Development & Sales",
-      "level": "Senior"
-    },
-    {
-      "title": "Soft Skills Trainer for Professionals - Work from Home - Part Time",
-      "url": "https://www.adzuna.in/details/5917530108?utm_medium=api&utm_source=1b39c183",
-      "location": "Faridabad",
-      "posted": "",
-      "postedAt": "2026-10-08",
-      "firstSeen": "2026-10-08",
-      "type": "Part-time",
-      "source": "adzuna",
-      "fn": "Teaching & Training",
-      "level": "Mid",
-      "remote": true
-    },
-    {
-      "title": "Business Development Executive (BDE)",
-      "url": "https://internshala.com/job/detail/fresher-business-development-executive-bde-job-in-multiple-locations-at-planetspark1788420275",
-      "location": "Delhi, Ghaziabad, Gurgaon",
-      "posted": "",
-      "postedAt": "2026-09-03",
-      "firstSeen": "2026-09-03",
-      "type": "Full-time",
-      "source": "internshala",
-      "fn": "Business Development & Sales",
-      "level": "Junior"
-    },
-    {
-      "title": "Business Development Associate",
-      "url": "https://internshala.com/job/detail/fresher-business-development-associate-job-in-multiple-locations-at-planetspark1788421237",
-      "location": "Delhi, Noida, Gurgaon",
-      "posted": "",
-      "postedAt": "2026-09-03",
-      "firstSeen": "2026-09-03",
-      "type": "Full-time",
-      "source": "internshala",
-      "fn": "Business Development & Sales",
-      "level": "Junior"
-    },
-    {
-      "title": "Business Development Executive",
-      "url": "https://internshala.com/job/detail/fresher-business-development-executive-job-in-noida-at-planetspark1789026774",
-      "location": "Noida",
-      "posted": "",
-      "postedAt": "2026-09-10",
-      "firstSeen": "2026-09-10",
-      "type": "Full-time",
-      "source": "internshala",
-      "fn": "Business Development & Sales",
-      "level": "Junior"
-    },
-    {
-      "title": "Sales Executive (Fresher Hiring)",
-      "url": "https://internshala.com/job/detail/fresher-sales-executive-fresher-hiring-job-in-multiple-locations-at-planetspark1792388607",
-      "location": "Faridabad, Delhi, Ghaziabad",
-      "posted": "",
-      "postedAt": "2026-10-19",
-      "firstSeen": "2026-10-19",
-      "type": "Full-time",
-      "source": "internshala",
-      "fn": "Business Development & Sales",
-      "level": "Junior"
-    },
-    {
-      "title": "Sales Associate",
-      "url": "https://internshala.com/job/detail/fresher-sales-associate-job-in-multiple-locations-at-planetspark1792388578",
-      "location": "Ahmedabad, Gurgaon, Noida",
-      "posted": "",
-      "postedAt": "2026-10-19",
-      "firstSeen": "2026-10-19",
-      "type": "Full-time",
-      "source": "internshala",
-      "fn": "Business Development & Sales",
-      "level": "Junior"
-    },
-    {
-      "title": "Inside Sales Associate",
-      "url": "https://internshala.com/job/detail/fresher-inside-sales-associate-job-in-multiple-locations-at-planetspark1792743369",
-      "location": "Ahmedabad, Agra, Noida",
-      "posted": "",
-      "postedAt": "2026-10-23",
-      "firstSeen": "2026-10-23",
-      "type": "Full-time",
-      "source": "internshala",
-      "fn": "Business Development & Sales",
-      "level": "Junior"
-    },
-    {
-      "title": "Business Development Associate - Fresher Hiring",
-      "url": "https://internshala.com/job/detail/fresher-business-development-associate-fresher-hiring-job-in-multiple-locations-at-planetspark1792743353",
-      "location": "Delhi, Indore, Lucknow",
-      "posted": "",
-      "postedAt": "2026-10-23",
-      "firstSeen": "2026-10-23",
-      "type": "Full-time",
-      "source": "internshala",
-      "fn": "Business Development & Sales",
-      "level": "Junior"
-    },
-    {
-      "title": "Corporate Sales Associate",
-      "url": "https://internshala.com/job/detail/fresher-corporate-sales-associate-job-in-multiple-locations-at-planetspark1792741095",
-      "location": "Faridabad, Chennai, Thane",
-      "posted": "",
-      "postedAt": "2026-10-23",
-      "firstSeen": "2026-10-23",
-      "type": "Full-time",
-      "source": "internshala",
-      "fn": "Business Development & Sales",
-      "level": "Junior"
-    },
-    {
-      "title": "Business Development (Sales) Executive",
-      "url": "https://internshala.com/job/detail/fresher-business-development-sales-executive-job-in-multiple-locations-at-planetspark1792991503",
-      "location": "Faridabad, Mumbai, Raipur",
-      "posted": "",
-      "postedAt": "2026-10-26",
-      "firstSeen": "2026-10-26",
-      "type": "Full-time",
-      "source": "internshala",
-      "fn": "Business Development & Sales",
-      "level": "Junior"
-    },
-    {
-      "title": "Inside Sales Executive - Fresher Hiring",
-      "url": "https://internshala.com/job/detail/fresher-inside-sales-executive-fresher-hiring-job-in-multiple-locations-at-planetspark1793180014",
-      "location": "Ghaziabad, Moradabad, Delhi, Najafgarh",
-      "posted": "",
-      "postedAt": "2026-10-28",
-      "firstSeen": "2026-10-28",
-      "type": "Full-time",
-      "source": "internshala",
-      "fn": "Business Development & Sales",
-      "level": "Junior"
-    },
-    {
-      "title": "Sales Executive",
-      "url": "https://internshala.com/job/detail/fresher-sales-executive-job-in-multiple-locations-at-planetspark1793356080",
-      "location": "Agra, Bareilly, Noida",
-      "posted": "",
-      "postedAt": "2026-10-30",
-      "firstSeen": "2026-10-30",
-      "type": "Full-time",
-      "source": "internshala",
-      "fn": "Business Development & Sales",
-      "level": "Junior"
-    },
-    {
-      "title": "Sales Associate - Urgent Hiring",
-      "url": "https://internshala.com/job/detail/fresher-sales-associate-urgent-hiring-job-in-multiple-locations-at-planetspark1793597283",
-      "location": "Delhi, Gurgaon, Madurai",
-      "posted": "",
-      "postedAt": "2026-11-02",
-      "firstSeen": "2026-11-02",
-      "type": "Full-time",
-      "source": "internshala",
-      "fn": "Business Development & Sales",
-      "level": "Junior"
-    },
-    {
-      "title": "Inside Sales Executive - URGENT HIRING",
-      "url": "https://internshala.com/job/detail/fresher-inside-sales-executive-urgent-hiring-job-in-multiple-locations-at-planetspark1793780808",
-      "location": "Faridabad, Delhi, Ghaziabad, Lucknow",
-      "posted": "",
-      "postedAt": "2026-11-04",
-      "firstSeen": "2026-11-04",
-      "type": "Full-time",
-      "source": "internshala",
-      "fn": "Business Development & Sales",
-      "level": "Junior"
-    }
-  ],
-  "digital-web-solutions": [
-    {
-      "title": "Podcast Outreach",
-      "url": "https://in.linkedin.com/jobs/view/podcast-outreach-at-digital-web-solutions-4477979908?trk=public_jobs_topcard-title",
-      "location": "Delhi",
-      "posted": "18 hours ago",
-      "postedAt": "2026-10-13",
-      "firstSeen": "2026-10-14",
-      "type": "Full-time",
-      "level": "Junior",
-      "source": "linkedin",
-      "fn": "Content Writer"
-    },
-    {
-      "title": "Influencer Marketing",
-      "url": "https://internshala.com/internship/detail/influencer-marketing-internship-in-gurgaon-at-digital-web-solutions1789042774",
-      "location": "Gurgaon",
-      "posted": "",
-      "postedAt": "2026-09-10",
-      "firstSeen": "2026-09-10",
-      "salary": "₹ 4,999 - 25,000 /month",
-      "type": "Internship",
-      "source": "internshala",
-      "fn": "Digital Marketing",
-      "level": "Mid"
-    },
-    {
-      "title": "Digital Marketing Trainee",
-      "url": "https://internshala.com/job/detail/fresher-digital-marketing-trainee-job-in-gurgaon-at-digital-web-solutions1792167824",
-      "location": "Gurgaon",
-      "posted": "",
-      "postedAt": "2026-10-16",
-      "firstSeen": "2026-10-16",
-      "type": "Full-time",
-      "source": "internshala",
-      "fn": "Digital Marketing",
-      "level": "Intern"
-    }
-  ],
-  "cleangrid-energy": [
-    {
-      "title": "Manager - Regulatory & Business Development (Renewable)",
-      "url": "https://in.linkedin.com/jobs/view/manager-regulatory-business-development-renewable-at-cleangrid-energy-4478840496?trk=public_jobs_topcard-title",
-      "location": "Gurugram, Haryana",
-      "posted": "1 hour ago",
-      "postedAt": "2026-10-15",
-      "firstSeen": "2026-10-15",
-      "type": "Full-time",
-      "level": "Senior",
-      "source": "linkedin",
-      "fn": "Business Development & Sales"
-    },
-    {
-      "title": "Senior Executive - Regulatory & Business Development (Renewable)",
-      "url": "https://in.linkedin.com/jobs/view/senior-executive-regulatory-business-development-renewable-at-cleangrid-energy-4479956492?trk=public_jobs_topcard-title",
-      "location": "Gurugram, Haryana",
-      "posted": "1 hour ago",
-      "postedAt": "2026-10-19",
-      "firstSeen": "2026-10-19",
-      "type": "Full-time",
-      "level": "Senior",
-      "source": "linkedin",
-      "fn": "Business Development & Sales"
-    },
-    {
-      "title": "Sr. Executive - Regulatory & Business Development (Solar)",
-      "url": "https://in.linkedin.com/jobs/view/sr-executive-regulatory-business-development-solar-at-cleangrid-energy-4479969782?trk=public_jobs_topcard-title",
-      "location": "Gurugram, Haryana",
-      "posted": "20 hours ago",
-      "postedAt": "2026-10-19",
-      "firstSeen": "2026-10-20",
-      "type": "Full-time",
-      "level": "Senior",
-      "source": "linkedin",
-      "fn": "Business Development & Sales"
-    },
-    {
-      "title": "Sr. Executive - Regulatory & Business Development (Renewable)",
-      "url": "https://in.linkedin.com/jobs/view/sr-executive-regulatory-business-development-renewable-at-cleangrid-energy-4478408432?trk=public_jobs_topcard-title",
-      "location": "Gurugram, Haryana",
-      "posted": "36 minutes ago",
-      "postedAt": "2026-10-12",
-      "firstSeen": "2026-10-14",
-      "type": "Full-time",
-      "level": "Senior",
-      "source": "linkedin",
-      "fn": "Business Development & Sales"
-    },
-    {
-      "title": "Sr. Executive - Regulatory & Business Development",
-      "url": "https://in.linkedin.com/jobs/view/sr-executive-regulatory-business-development-at-cleangrid-energy-4479322486?trk=public_jobs_topcard-title",
-      "location": "Gurugram, Haryana",
-      "posted": "38 minutes ago",
-      "postedAt": "2026-10-14",
-      "firstSeen": "2026-10-16",
-      "type": "Full-time",
-      "level": "Senior",
-      "source": "linkedin",
-      "fn": "Business Development & Sales"
-    }
-  ],
-  "ample": [
-    {
-      "title": "Presales Engineer- Apple & MDM",
-      "url": "https://in.linkedin.com/jobs/view/presales-engineer-apple-mdm-at-ample-4477976378?trk=public_jobs_topcard-title",
-      "location": "Delhi",
-      "posted": "22 hours ago",
-      "postedAt": "2026-10-13",
-      "firstSeen": "2026-10-14",
-      "checkedAt": "2026-11-04T07:01:37.692Z",
-      "type": "Full-time",
-      "level": "Mid",
-      "source": "linkedin",
-      "fn": "Software Engineer"
-    }
-  ],
-  "zone-it-solutions": [
-    {
-      "title": "Account Manager - IT Recruitment (Supporting Australia based clients)",
-      "url": "https://in.linkedin.com/jobs/view/account-manager-it-recruitment-supporting-australia-based-clients-at-zone-it-solutions-4478781600?trk=public_jobs_topcard-title",
-      "location": "Delhi",
-      "posted": "18 hours ago",
-      "postedAt": "2026-10-13",
-      "firstSeen": "2026-10-14",
-      "checkedAt": "2026-11-01T06:52:47.561Z",
-      "type": "Full-time",
-      "level": "Senior",
-      "source": "linkedin",
-      "fn": "Business Development & Sales"
-    },
-    {
-      "title": "Business Development Representative",
-      "url": "https://in.linkedin.com/jobs/view/business-development-representative-at-zone-it-solutions-4478790153?trk=public_jobs_topcard-title",
-      "location": "Noida, Uttar Pradesh",
-      "posted": "19 hours ago",
-      "postedAt": "2026-10-13",
-      "firstSeen": "2026-10-14",
-      "type": "Full-time",
-      "level": "Senior",
-      "source": "linkedin",
-      "fn": "Business Development & Sales"
-    },
-    {
-      "title": "AI Solution Architect",
-      "url": "https://www.adzuna.in/land/ad/5877457727?se=fjHad9as8RGLWNueJPgGLw&utm_medium=api&utm_source=116859ef&v=65A240FB4DC08C780CA4881C040E88EA56F84608",
-      "location": "Delhi",
-      "posted": "",
-      "postedAt": "2026-09-10",
-      "firstSeen": "2026-09-10",
-      "source": "adzuna",
-      "fn": "Consultant",
-      "level": "Mid"
-    },
-    {
-      "title": "Ataccama Support Engineer",
-      "url": "https://www.adzuna.in/land/ad/5880951315?se=5oQmKjOv8RGILs9Ns592sg&utm_medium=api&utm_source=116859ef&v=E7FF6B52A60CC0703348F51B7E80095C60E57AC1",
-      "location": "New Delhi",
-      "posted": "",
-      "postedAt": "2026-09-12",
-      "firstSeen": "2026-09-12",
-      "source": "adzuna",
-      "fn": "Software Engineer",
-      "level": "Mid"
-    },
-    {
-      "title": "Admin Support",
-      "url": "https://www.adzuna.in/land/ad/5886097830?se=6OLjJViy8RGezJEXxpo3fA&utm_medium=api&utm_source=1b39c183&v=C8E9F0A07565704E9D7565268FFE7E57C77EF017",
-      "location": "Noida, Ghaziabad",
-      "posted": "",
-      "postedAt": "2026-09-16",
-      "firstSeen": "2026-09-16",
-      "source": "adzuna",
-      "fn": "Admin & Legal",
-      "level": "Mid"
-    }
-  ],
-  "iconic-fashion-india": [
-    {
-      "title": "Key Account Manager (Marketplace Business)",
-      "url": "https://in.linkedin.com/jobs/view/key-account-manager-marketplace-business-at-iconic-fashion-india-4476424260?trk=public_jobs_topcard-title",
-      "location": "Gurugram, Haryana",
-      "posted": "18 hours ago",
-      "postedAt": "2026-10-13",
-      "firstSeen": "2026-10-14",
-      "checkedAt": "2026-11-01T06:52:47.561Z",
-      "type": "Full-time",
-      "level": "Senior",
-      "source": "linkedin",
-      "fn": "Business Development & Sales"
-    },
-    {
-      "title": "Retail Fashion Consultant",
-      "url": "https://in.linkedin.com/jobs/view/retail-fashion-consultant-at-iconic-fashion-india-4479325500?trk=public_jobs_topcard-title",
-      "location": "Delhi",
-      "posted": "23 hours ago",
-      "postedAt": "2026-10-16",
-      "firstSeen": "2026-10-17",
-      "type": "Internship",
-      "level": "Senior",
-      "source": "linkedin",
-      "fn": "Consultant"
-    }
-  ],
-  "next-art-creations": [
-    {
-      "title": "Business Development Executive",
-      "url": "https://in.linkedin.com/jobs/view/business-development-executive-at-next-art-creations-4478199816?trk=public_jobs_topcard-title",
-      "location": "Noida, Uttar Pradesh",
-      "posted": "54 minutes ago",
-      "postedAt": "2026-10-11",
-      "firstSeen": "2026-10-14",
-      "type": "Full-time",
-      "level": "Junior",
-      "source": "linkedin",
-      "fn": "Business Development & Sales"
-    }
-  ],
-  "novartis-india": [
-    {
-      "title": "Sales Representative / Territory Business Executive (Dermatology Specialty Sales)",
-      "url": "https://in.linkedin.com/jobs/view/sales-representative-territory-business-executive-dermatology-specialty-sales-at-novartis-india-4459284776?trk=public_jobs_topcard-title",
-      "location": "Greater Delhi Area",
-      "posted": "16 hours ago",
-      "postedAt": "2026-10-13",
-      "firstSeen": "2026-10-14",
-      "checkedAt": "2026-11-04T07:01:37.692Z",
-      "type": "Full-time",
-      "level": "Junior",
-      "source": "linkedin",
-      "fn": "Business Development & Sales"
-    },
-    {
-      "title": "Area Manager / Regional Business Manager (Dermatology Specialty Sales)",
-      "url": "https://in.linkedin.com/jobs/view/area-manager-regional-business-manager-dermatology-specialty-sales-at-novartis-india-4459539167?trk=public_jobs_topcard-title",
-      "location": "Greater Delhi Area",
-      "posted": "16 hours ago",
-      "postedAt": "2026-10-14",
-      "firstSeen": "2026-10-15",
-      "type": "Full-time",
-      "level": "Senior",
-      "source": "linkedin",
-      "fn": "Business Development & Sales"
-    }
-  ],
-  "mink-retail-pvt-ltd": [
-    {
-      "title": "Sales Consultant",
-      "url": "https://in.linkedin.com/jobs/view/sales-consultant-at-mink-retail-pvt-ltd-4478100361?trk=public_jobs_topcard-title",
-      "location": "New Delhi, Delhi",
-      "posted": "17 hours ago",
-      "postedAt": "2026-10-13",
-      "firstSeen": "2026-10-14",
-      "type": "Full-time",
-      "level": "Senior",
-      "source": "linkedin",
-      "fn": "Consultant"
-    }
-  ],
-  "skillinabox": [
-    {
-      "title": "Senior Business Development Executive",
-      "url": "https://in.linkedin.com/jobs/view/senior-business-development-executive-at-skillinabox-4479691276?trk=public_jobs_topcard-title",
-      "location": "Noida, Uttar Pradesh",
-      "posted": "15 hours ago",
-      "postedAt": "2026-10-17",
-      "firstSeen": "2026-10-18",
-      "type": "Full-time",
-      "level": "Senior",
-      "source": "linkedin",
-      "fn": "Business Development & Sales"
-    },
-    {
-      "title": "Cinematographer Intern",
-      "url": "https://in.linkedin.com/jobs/view/cinematographer-intern-at-skillinabox-4479690271?trk=public_jobs_topcard-title",
-      "location": "Noida, Uttar Pradesh",
-      "posted": "15 hours ago",
-      "postedAt": "2026-10-17",
-      "firstSeen": "2026-10-18",
-      "type": "Internship",
-      "level": "Intern",
-      "source": "linkedin",
-      "fn": "Other"
-    },
-    {
-      "title": "Social Media Marketing Intern",
-      "url": "https://in.linkedin.com/jobs/view/social-media-marketing-intern-at-skillinabox-4479685604?trk=public_jobs_topcard-title",
-      "location": "Noida, Uttar Pradesh",
-      "posted": "15 hours ago",
-      "postedAt": "2026-10-17",
-      "firstSeen": "2026-10-18",
-      "type": "Internship",
-      "level": "Intern",
-      "source": "linkedin",
-      "fn": "Digital Marketing"
-    },
-    {
-      "title": "Business Development Executive",
-      "url": "https://in.linkedin.com/jobs/view/business-development-executive-at-skillinabox-4478100490?trk=public_jobs_topcard-title",
-      "location": "Noida, Uttar Pradesh",
-      "posted": "16 hours ago",
-      "postedAt": "2026-10-13",
-      "firstSeen": "2026-10-14",
-      "type": "Full-time",
-      "level": "Junior",
-      "source": "linkedin",
-      "fn": "Business Development & Sales"
-    },
-    {
-      "title": "Academic Counsellor",
-      "url": "https://www.adzuna.in/land/ad/5881766495?se=ULchKTOv8RGhe8--YZ_w9w&utm_medium=api&utm_source=116859ef&v=EBD7D1BEF69DD7DFBBBF40CC7D2A1F32BD4A6554",
-      "location": "Noida, Ghaziabad",
-      "posted": "",
-      "postedAt": "2026-09-13",
-      "firstSeen": "2026-09-13",
-      "source": "adzuna",
-      "fn": "Business Development & Sales",
-      "level": "Mid"
-    },
-    {
-      "title": "Executive Assistant Intern",
-      "url": "https://www.adzuna.in/land/ad/5882598079?se=ZjxxOfGv8RGQCqo3hlJMDA&utm_medium=api&utm_source=1b39c183&v=3E3DCE19EEA6210673051F0154F594707C27806C",
-      "location": "Noida, Ghaziabad",
-      "posted": "",
-      "postedAt": "2026-09-13",
-      "firstSeen": "2026-09-13",
-      "source": "adzuna",
-      "fn": "Admin & Legal",
-      "level": "Intern"
-    },
-    {
-      "title": "Makeup Artist Trainer",
-      "url": "https://www.adzuna.in/land/ad/5893930141?se=ZoDKgg238RGKAvdujdZdoA&utm_medium=api&utm_source=1b39c183&v=67D0143C28447FEB8EA2C6550F1C9708EB78124E",
-      "location": "Noida, Ghaziabad",
-      "posted": "",
-      "postedAt": "2026-09-22",
-      "firstSeen": "2026-09-22",
-      "type": "Part-time",
-      "source": "adzuna",
-      "fn": "UI/UX & Graphic Design",
-      "level": "Mid"
-    },
-    {
-      "title": "Fashion Designer",
-      "url": "https://www.adzuna.in/land/ad/5893925063?se=ZoDKgg238RGKAvdujdZdoA&utm_medium=api&utm_source=1b39c183&v=FFE2C6FD175B919C83345B4D18203282C7B711B1",
-      "location": "Noida, Ghaziabad",
-      "posted": "",
-      "postedAt": "2026-09-22",
-      "firstSeen": "2026-09-22",
-      "type": "Full-time",
-      "source": "adzuna",
-      "fn": "UI/UX & Graphic Design",
-      "level": "Mid"
-    },
-    {
-      "title": "UI/UX Designer",
-      "url": "https://www.adzuna.in/details/5927319610?utm_medium=api&utm_source=1b39c183",
-      "location": "Noida, Ghaziabad",
-      "posted": "",
-      "postedAt": "2026-10-14",
-      "firstSeen": "2026-10-14",
-      "salary": "3.5 LPA – 5 LPA",
-      "type": "Full-time",
-      "source": "adzuna",
-      "fn": "UI/UX & Graphic Design",
-      "level": "Mid"
-    }
-  ],
   "ibroad-media": [
     {
       "title": "Manager-Sales/BD",
@@ -12587,84 +12486,6 @@
       "fn": "Business Development & Sales"
     }
   ],
-  "prospurts-wealth": [
-    {
-      "title": "Manager - Wealth Management",
-      "url": "https://in.linkedin.com/jobs/view/manager-wealth-management-at-prospurts-wealth-4477988329?trk=public_jobs_topcard-title",
-      "location": "Gurugram, Haryana",
-      "posted": "20 hours ago",
-      "postedAt": "2026-10-13",
-      "firstSeen": "2026-10-14",
-      "type": "Full-time",
-      "level": "Senior",
-      "source": "linkedin",
-      "fn": "Other"
-    }
-  ],
-  "artarium": [
-    {
-      "title": "Field Sales Specialist",
-      "url": "https://in.linkedin.com/jobs/view/field-sales-specialist-at-artarium-4479669964?trk=public_jobs_topcard-title",
-      "location": "Gurugram, Haryana",
-      "posted": "3 hours ago",
-      "postedAt": "2026-10-18",
-      "firstSeen": "2026-10-18",
-      "type": "Full-time",
-      "level": "Senior",
-      "source": "linkedin",
-      "fn": "Business Development & Sales"
-    },
-    {
-      "title": "Retail Sales Executive",
-      "url": "https://in.linkedin.com/jobs/view/retail-sales-executive-at-artarium-4477970777?trk=public_jobs_topcard-title",
-      "location": "Gurugram, Haryana",
-      "posted": "21 hours ago",
-      "postedAt": "2026-10-13",
-      "firstSeen": "2026-10-14",
-      "type": "Full-time",
-      "level": "Junior",
-      "source": "linkedin",
-      "fn": "Business Development & Sales"
-    }
-  ],
-  "traviyo": [
-    {
-      "title": "Human Resources Intern",
-      "url": "https://in.linkedin.com/jobs/view/human-resources-intern-at-traviyo-4478454629?trk=public_jobs_topcard-title",
-      "location": "Noida, Uttar Pradesh",
-      "posted": "14 hours ago",
-      "postedAt": "2026-10-14",
-      "firstSeen": "2026-10-15",
-      "type": "Full-time",
-      "level": "Intern",
-      "source": "linkedin",
-      "fn": "HR & Recruiter"
-    },
-    {
-      "title": "Recruiting Intern",
-      "url": "https://in.linkedin.com/jobs/view/recruiting-intern-at-traviyo-4478110126?trk=public_jobs_topcard-title",
-      "location": "Noida, Uttar Pradesh",
-      "posted": "16 hours ago",
-      "postedAt": "2026-10-13",
-      "firstSeen": "2026-10-14",
-      "type": "Full-time",
-      "level": "Intern",
-      "source": "linkedin",
-      "fn": "HR & Recruiter"
-    },
-    {
-      "title": "Sales Executive",
-      "url": "https://in.linkedin.com/jobs/view/sales-executive-at-traviyo-4479672789?trk=public_jobs_topcard-title",
-      "location": "Noida, Uttar Pradesh",
-      "posted": "17 hours ago",
-      "postedAt": "2026-10-17",
-      "firstSeen": "2026-10-18",
-      "type": "Full-time",
-      "level": "Junior",
-      "source": "linkedin",
-      "fn": "Business Development & Sales"
-    }
-  ],
   "np-digital-india": [
     {
       "title": "Search Engine Optimization Manager",
@@ -12699,6 +12520,7 @@
       "posted": "2 hours ago",
       "postedAt": "2026-10-15",
       "firstSeen": "2026-10-15",
+      "checkedAt": "2026-11-08T06:44:33.198Z",
       "type": "Full-time",
       "level": "Mid",
       "source": "linkedin",
@@ -12711,8 +12533,9 @@
       "url": "https://in.linkedin.com/jobs/view/supply-planner-at-sunpan-4478109912?trk=public_jobs_topcard-title",
       "location": "Hauz Khas, Delhi",
       "posted": "13 hours ago",
-      "postedAt": "2026-10-13",
+      "postedAt": "2026-11-04",
       "firstSeen": "2026-10-14",
+      "checkedAt": "2026-11-08T06:44:33.198Z",
       "type": "Full-time",
       "level": "Mid",
       "source": "linkedin",
@@ -12953,18 +12776,6 @@
       "level": "Senior",
       "source": "linkedin",
       "fn": "Other"
-    },
-    {
-      "title": "Manager - Media Strategy",
-      "url": "https://in.linkedin.com/jobs/view/manager-media-strategy-at-dentsu-4478781547?trk=public_jobs_topcard-title",
-      "location": "Gurugram, Haryana",
-      "posted": "19 hours ago",
-      "postedAt": "2026-10-13",
-      "firstSeen": "2026-10-14",
-      "type": "Full-time",
-      "level": "Senior",
-      "source": "linkedin",
-      "fn": "Founder's Office & Strategy"
     },
     {
       "title": "Group Manager - Copy",
@@ -13573,32 +13384,6 @@
       "fn": "Operations & Supply Chain"
     }
   ],
-  "yaaradigi-media": [
-    {
-      "title": "Senior Laravel Developer",
-      "url": "https://in.linkedin.com/jobs/view/senior-laravel-developer-at-yaaradigi-media-4477966931?trk=public_jobs_topcard-title",
-      "location": "Noida, Uttar Pradesh",
-      "posted": "22 hours ago",
-      "postedAt": "2026-10-13",
-      "firstSeen": "2026-10-14",
-      "type": "Full-time",
-      "level": "Senior",
-      "source": "linkedin",
-      "fn": "Software Engineer"
-    },
-    {
-      "title": "Social Media Marketing Specialist",
-      "url": "https://in.linkedin.com/jobs/view/social-media-marketing-specialist-at-yaaradigi-media-4477975481?trk=public_jobs_topcard-title",
-      "location": "Noida, Uttar Pradesh",
-      "posted": "22 hours ago",
-      "postedAt": "2026-10-13",
-      "firstSeen": "2026-10-14",
-      "type": "Full-time",
-      "level": "Senior",
-      "source": "linkedin",
-      "fn": "Digital Marketing"
-    }
-  ],
   "insurity": [
     {
       "title": "Cloud Operations Analyst",
@@ -13739,6 +13524,7 @@
       "posted": "5 hours ago",
       "postedAt": "2026-10-14",
       "firstSeen": "2026-10-14",
+      "checkedAt": "2026-11-08T06:44:33.198Z",
       "type": "Full-time",
       "level": "Mid",
       "source": "linkedin",
@@ -14416,6 +14202,20 @@
       "fn": "Software Engineer"
     }
   ],
+  "yaaradigi-media": [
+    {
+      "title": "Social Media Marketing Specialist",
+      "url": "https://in.linkedin.com/jobs/view/social-media-marketing-specialist-at-yaaradigi-media-4477975481?trk=public_jobs_topcard-title",
+      "location": "Noida, Uttar Pradesh",
+      "posted": "22 hours ago",
+      "postedAt": "2026-10-13",
+      "firstSeen": "2026-10-14",
+      "type": "Full-time",
+      "level": "Senior",
+      "source": "linkedin",
+      "fn": "Digital Marketing"
+    }
+  ],
   "hclsoftware": [
     {
       "title": "HCL DRYiCE Product (Noida) _Sr. Integration Engineer (Dell Boomi/Apache NiFi)",
@@ -14567,32 +14367,6 @@
       "source": "adzuna",
       "fn": "Business Development & Sales",
       "level": "Mid"
-    }
-  ],
-  "hypronline": [
-    {
-      "title": "Client Servicing Manager- Digital Marketing Agency",
-      "url": "https://in.linkedin.com/jobs/view/client-servicing-manager-digital-marketing-agency-at-hypronline%E2%84%A2-4479949645?trk=public_jobs_topcard-title",
-      "location": "Gurugram, Haryana",
-      "posted": "1 hour ago",
-      "postedAt": "2026-10-19",
-      "firstSeen": "2026-10-19",
-      "type": "Full-time",
-      "level": "Senior",
-      "source": "linkedin",
-      "fn": "Digital Marketing"
-    },
-    {
-      "title": "Account Director (Digital Marketing Agency)",
-      "url": "https://in.linkedin.com/jobs/view/account-director-digital-marketing-agency-at-hypronline%E2%84%A2-4477963688?trk=public_jobs_topcard-title",
-      "location": "Gurugram, Haryana",
-      "posted": "23 hours ago",
-      "postedAt": "2026-10-13",
-      "firstSeen": "2026-10-14",
-      "type": "Full-time",
-      "level": "Lead",
-      "source": "linkedin",
-      "fn": "Digital Marketing"
     }
   ],
   "ncr-eduservices": [
@@ -15334,104 +15108,6 @@
       "level": "Senior",
       "source": "linkedin",
       "fn": "Business Development & Sales"
-    }
-  ],
-  "alignerr": [
-    {
-      "title": "Natural Resource Conservation Scientist",
-      "url": "https://in.linkedin.com/jobs/view/natural-resource-conservation-scientist-at-alignerr-4480184910?trk=public_jobs_topcard-title",
-      "location": "Delhi, Delhi",
-      "posted": "3 hours ago",
-      "postedAt": "2026-10-16",
-      "firstSeen": "2026-10-16",
-      "type": "Contract",
-      "level": "Mid",
-      "source": "linkedin",
-      "fn": "Other"
-    },
-    {
-      "title": "Senior Machine Learning Engineer",
-      "url": "https://in.linkedin.com/jobs/view/senior-machine-learning-engineer-at-alignerr-4479248183?trk=public_jobs_topcard-title",
-      "location": "Delhi, Delhi",
-      "posted": "4 hours ago",
-      "postedAt": "2026-10-14",
-      "firstSeen": "2026-10-14",
-      "type": "Contract",
-      "level": "Senior",
-      "source": "linkedin",
-      "fn": "Data Scientist & AI/ML"
-    },
-    {
-      "title": "Senior Machine Learning Expert",
-      "url": "https://in.linkedin.com/jobs/view/senior-machine-learning-expert-at-alignerr-4479245252?trk=public_jobs_topcard-title",
-      "location": "Delhi, Delhi",
-      "posted": "4 hours ago",
-      "postedAt": "2026-10-14",
-      "firstSeen": "2026-10-14",
-      "type": "Contract",
-      "level": "Senior",
-      "source": "linkedin",
-      "fn": "Data Scientist & AI/ML"
-    },
-    {
-      "title": "Business Performance Analyst",
-      "url": "https://in.linkedin.com/jobs/view/business-performance-analyst-at-alignerr-4479241492?trk=public_jobs_topcard-title",
-      "location": "Delhi, Delhi",
-      "posted": "4 hours ago",
-      "postedAt": "2026-10-14",
-      "firstSeen": "2026-10-14",
-      "type": "Contract",
-      "level": "Junior",
-      "source": "linkedin",
-      "fn": "Data Analyst"
-    },
-    {
-      "title": "Computer Engineering Expert - AI Content Specialist",
-      "url": "https://in.linkedin.com/jobs/view/computer-engineering-expert-ai-content-specialist-at-alignerr-4479744360?trk=public_jobs_topcard-title",
-      "location": "Delhi, Delhi",
-      "posted": "4 hours ago",
-      "postedAt": "2026-10-15",
-      "firstSeen": "2026-10-15",
-      "type": "Contract",
-      "level": "Senior",
-      "source": "linkedin",
-      "fn": "Software Engineer"
-    },
-    {
-      "title": "Lean 4 Proof Engineer - Mathematical Formalization",
-      "url": "https://in.linkedin.com/jobs/view/lean-4-proof-engineer-mathematical-formalization-at-alignerr-4480185958?trk=public_jobs_topcard-title",
-      "location": "Delhi, Delhi",
-      "posted": "4 hours ago",
-      "postedAt": "2026-10-16",
-      "firstSeen": "2026-10-16",
-      "type": "Contract",
-      "level": "Mid",
-      "source": "linkedin",
-      "fn": "Software Engineer"
-    },
-    {
-      "title": "Cloud Security Analyst",
-      "url": "https://in.linkedin.com/jobs/view/cloud-security-analyst-at-alignerr-4480922708?trk=public_jobs_topcard-title",
-      "location": "Delhi, Delhi",
-      "posted": "4 hours ago",
-      "postedAt": "2026-10-19",
-      "firstSeen": "2026-10-19",
-      "type": "Contract",
-      "level": "Junior",
-      "source": "linkedin",
-      "fn": "Cybersecurity"
-    },
-    {
-      "title": "Material Science Specialist (Masters/PhDs)",
-      "url": "https://in.linkedin.com/jobs/view/material-science-specialist-masters-phds-at-alignerr-4480912979?trk=public_jobs_topcard-title",
-      "location": "Delhi, Delhi",
-      "posted": "4 hours ago",
-      "postedAt": "2026-10-19",
-      "firstSeen": "2026-10-19",
-      "type": "Contract",
-      "level": "Senior",
-      "source": "linkedin",
-      "fn": "Other"
     }
   ],
   "neolytix": [
@@ -16554,132 +16230,6 @@
       "level": "Mid"
     }
   ],
-  "flix": [
-    {
-      "title": "Global Finance Process Excellence Manager – Accounting (m/f/d)",
-      "url": "https://in.linkedin.com/jobs/view/global-finance-process-excellence-manager-%E2%80%93-accounting-m-f-d-at-flix-4461278015?trk=public_jobs_topcard-title",
-      "location": "Gurugram, Haryana",
-      "posted": "3 hours ago",
-      "postedAt": "2026-10-13",
-      "firstSeen": "2026-10-14",
-      "type": "Full-time",
-      "level": "Senior",
-      "source": "linkedin",
-      "fn": "Finance & Accounts"
-    },
-    {
-      "title": "Global Accounting Process Manager (m/f/d)",
-      "url": "https://in.linkedin.com/jobs/view/global-accounting-process-manager-m-f-d-at-flix-4461260328?trk=public_jobs_topcard-title",
-      "location": "Gurugram, Haryana",
-      "posted": "16 hours ago",
-      "postedAt": "2026-10-13",
-      "firstSeen": "2026-10-14",
-      "type": "Full-time",
-      "level": "Senior",
-      "source": "linkedin",
-      "fn": "Other"
-    },
-    {
-      "title": "Project Management (Central Operations) - Gurugram (Contractual)",
-      "url": "https://in.linkedin.com/jobs/view/project-management-central-operations-gurugram-contractual-at-flix-4468643278?trk=public_jobs_topcard-title",
-      "location": "Gurugram, Haryana",
-      "posted": "19 hours ago",
-      "postedAt": "2026-10-16",
-      "firstSeen": "2026-10-17",
-      "type": "Contract",
-      "level": "Mid",
-      "source": "linkedin",
-      "fn": "Operations & Supply Chain"
-    },
-    {
-      "title": "Last-Mile Operations - Delhi (contractual)",
-      "url": "https://www.adzuna.in/details/5878708545?utm_medium=api&utm_source=1b39c183",
-      "location": "Delhi",
-      "posted": "",
-      "postedAt": "2026-09-10",
-      "firstSeen": "2026-09-10",
-      "source": "adzuna",
-      "fn": "Operations & Supply Chain",
-      "level": "Mid"
-    },
-    {
-      "title": "Fleet Coordinator - Last Mile(Delhi) - Contractual",
-      "url": "https://www.adzuna.in/details/5894078839?utm_medium=api&utm_source=1b39c183",
-      "location": "Delhi",
-      "posted": "",
-      "postedAt": "2026-09-22",
-      "firstSeen": "2026-09-22",
-      "source": "adzuna",
-      "fn": "Operations & Supply Chain",
-      "level": "Mid"
-    },
-    {
-      "title": "Fleet Manager - (Delhi) - Contractual",
-      "url": "https://www.adzuna.in/details/5904042949?utm_medium=api&utm_source=1b39c183",
-      "location": "Delhi",
-      "posted": "",
-      "postedAt": "2026-09-30",
-      "firstSeen": "2026-09-30",
-      "source": "adzuna",
-      "fn": "Operations & Supply Chain",
-      "level": "Senior"
-    },
-    {
-      "title": "Fleet Coordinator - (Delhi) - Contractual",
-      "url": "https://www.adzuna.in/details/5904052663?utm_medium=api&utm_source=1b39c183",
-      "location": "Delhi",
-      "posted": "",
-      "postedAt": "2026-09-30",
-      "firstSeen": "2026-09-30",
-      "source": "adzuna",
-      "fn": "Operations & Supply Chain",
-      "level": "Mid"
-    },
-    {
-      "title": "Account Manager - (Delhi) - Contractual",
-      "url": "https://www.adzuna.in/details/5904043556?utm_medium=api&utm_source=1b39c183",
-      "location": "Delhi",
-      "posted": "",
-      "postedAt": "2026-09-30",
-      "firstSeen": "2026-09-30",
-      "source": "adzuna",
-      "fn": "Business Development & Sales",
-      "level": "Senior"
-    },
-    {
-      "title": "Customer Support & Crisis Management (Australia region) - Delhi",
-      "url": "https://www.adzuna.in/details/5910244545?utm_medium=api&utm_source=1b39c183",
-      "location": "Delhi",
-      "posted": "",
-      "postedAt": "2026-10-03",
-      "firstSeen": "2026-10-03",
-      "source": "adzuna",
-      "fn": "Customer Support",
-      "level": "Mid"
-    },
-    {
-      "title": "Customer Service & Transportation Dispatcher (Australia region) - Delhi",
-      "url": "https://www.adzuna.in/details/5910247444?utm_medium=api&utm_source=1b39c183",
-      "location": "Delhi",
-      "posted": "",
-      "postedAt": "2026-10-03",
-      "firstSeen": "2026-10-03",
-      "source": "adzuna",
-      "fn": "Customer Support",
-      "level": "Mid"
-    },
-    {
-      "title": "Fleet Manager - Last Mile(Delhi) - Contractual",
-      "url": "https://www.adzuna.in/details/5945915856?utm_medium=api&utm_source=1b39c183",
-      "location": "Delhi",
-      "posted": "",
-      "postedAt": "2026-10-29",
-      "firstSeen": "2026-10-29",
-      "source": "adzuna",
-      "fn": "Operations & Supply Chain",
-      "level": "Senior"
-    }
-  ],
   "lumenci": [
     {
       "title": "Multimedia Expert",
@@ -16688,6 +16238,7 @@
       "posted": "21 hours ago",
       "postedAt": "2026-10-13",
       "firstSeen": "2026-10-14",
+      "checkedAt": "2026-11-08T06:44:33.198Z",
       "type": "Full-time",
       "level": "Senior",
       "source": "linkedin",
@@ -16702,6 +16253,7 @@
       "posted": "19 hours ago",
       "postedAt": "2026-10-13",
       "firstSeen": "2026-10-14",
+      "checkedAt": "2026-11-08T06:44:33.198Z",
       "type": "Full-time",
       "level": "Junior",
       "source": "linkedin",
@@ -16759,56 +16311,6 @@
       "level": "Lead",
       "source": "linkedin",
       "fn": "Operations & Supply Chain"
-    }
-  ],
-  "enviropol-engineers-pvt-ltd": [
-    {
-      "title": "Assistant Account Executive",
-      "url": "https://in.linkedin.com/jobs/view/assistant-account-executive-at-enviropol-engineers-pvt-ltd-4479661393?trk=public_jobs_topcard-title",
-      "location": "Noida, Uttar Pradesh",
-      "posted": "1 hour ago",
-      "postedAt": "2026-10-17",
-      "firstSeen": "2026-10-17",
-      "type": "Full-time",
-      "level": "Junior",
-      "source": "linkedin",
-      "fn": "Business Development & Sales"
-    },
-    {
-      "title": "Asi. Account-Executive",
-      "url": "https://in.linkedin.com/jobs/view/asi-account-executive-at-enviropol-engineers-pvt-ltd-4479968019?trk=public_jobs_topcard-title",
-      "location": "Noida, Uttar Pradesh",
-      "posted": "1 hour ago",
-      "postedAt": "2026-10-19",
-      "firstSeen": "2026-10-19",
-      "type": "Full-time",
-      "level": "Junior",
-      "source": "linkedin",
-      "fn": "Other"
-    },
-    {
-      "title": "Account Executive",
-      "url": "https://in.linkedin.com/jobs/view/account-executive-at-enviropol-engineers-pvt-ltd-4478834816?trk=public_jobs_topcard-title",
-      "location": "Noida, Uttar Pradesh",
-      "posted": "4 minutes ago",
-      "postedAt": "2026-10-15",
-      "firstSeen": "2026-10-15",
-      "type": "Full-time",
-      "level": "Junior",
-      "source": "linkedin",
-      "fn": "Business Development & Sales"
-    },
-    {
-      "title": "Sales & Proposal Executive",
-      "url": "https://in.linkedin.com/jobs/view/sales-proposal-executive-at-enviropol-engineers-pvt-ltd-4478423003?trk=public_jobs_topcard-title",
-      "location": "Noida, Uttar Pradesh",
-      "posted": "17 minutes ago",
-      "postedAt": "2026-10-13",
-      "firstSeen": "2026-10-14",
-      "type": "Full-time",
-      "level": "Junior",
-      "source": "linkedin",
-      "fn": "Business Development & Sales"
     }
   ],
   "mace": [
@@ -16906,6 +16408,7 @@
       "posted": "22 hours ago",
       "postedAt": "2026-10-13",
       "firstSeen": "2026-10-14",
+      "checkedAt": "2026-11-08T06:44:33.198Z",
       "type": "Full-time",
       "level": "Junior",
       "source": "linkedin",
@@ -17240,114 +16743,118 @@
       "level": "Senior"
     }
   ],
-  "niit": [
+  "flix": [
     {
-      "title": "PROJECT MANAGER - TECHNICAL",
-      "url": "https://in.linkedin.com/jobs/view/project-manager-technical-at-niit-4471603028?trk=public_jobs_topcard-title",
-      "location": "Gurgaon, Haryana",
-      "posted": "10 hours ago",
-      "postedAt": "2026-10-15",
-      "firstSeen": "2026-10-16",
+      "title": "Global Accounting Process Manager (m/f/d)",
+      "url": "https://in.linkedin.com/jobs/view/global-accounting-process-manager-m-f-d-at-flix-4461260328?trk=public_jobs_topcard-title",
+      "location": "Gurugram, Haryana",
+      "posted": "16 hours ago",
+      "postedAt": "2026-10-13",
+      "firstSeen": "2026-10-14",
       "type": "Full-time",
       "level": "Senior",
+      "source": "linkedin",
+      "fn": "Other"
+    },
+    {
+      "title": "Project Management (Central Operations) - Gurugram (Contractual)",
+      "url": "https://in.linkedin.com/jobs/view/project-management-central-operations-gurugram-contractual-at-flix-4468643278?trk=public_jobs_topcard-title",
+      "location": "Gurugram, Haryana",
+      "posted": "19 hours ago",
+      "postedAt": "2026-10-16",
+      "firstSeen": "2026-10-17",
+      "type": "Contract",
+      "level": "Mid",
       "source": "linkedin",
       "fn": "Operations & Supply Chain"
     },
     {
-      "title": "ASSISTANT MANAGER-FINANCE OPERATIONS",
-      "url": "https://in.linkedin.com/jobs/view/assistant-manager-finance-operations-at-niit-4462845432?trk=public_jobs_topcard-title",
-      "location": "Gurgaon, Haryana",
-      "posted": "10 hours ago",
-      "postedAt": "2026-10-15",
-      "firstSeen": "2026-10-16",
-      "type": "Full-time",
-      "level": "Senior",
-      "source": "linkedin",
-      "fn": "Finance & Accounts"
+      "title": "Last-Mile Operations - Delhi (contractual)",
+      "url": "https://www.adzuna.in/details/5878708545?utm_medium=api&utm_source=1b39c183",
+      "location": "Delhi",
+      "posted": "",
+      "postedAt": "2026-09-10",
+      "firstSeen": "2026-09-10",
+      "source": "adzuna",
+      "fn": "Operations & Supply Chain",
+      "level": "Mid"
     },
     {
-      "title": "EXECUTIVE-LMS SUPPORT",
-      "url": "https://in.linkedin.com/jobs/view/executive-lms-support-at-niit-4470910299?trk=public_jobs_topcard-title",
-      "location": "Gurgaon, Haryana",
-      "posted": "10 hours ago",
-      "postedAt": "2026-10-16",
-      "firstSeen": "2026-10-17",
-      "type": "Full-time",
-      "level": "Junior",
-      "source": "linkedin",
-      "fn": "Other"
+      "title": "Fleet Coordinator - Last Mile(Delhi) - Contractual",
+      "url": "https://www.adzuna.in/details/5894078839?utm_medium=api&utm_source=1b39c183",
+      "location": "Delhi",
+      "posted": "",
+      "postedAt": "2026-09-22",
+      "firstSeen": "2026-09-22",
+      "source": "adzuna",
+      "fn": "Operations & Supply Chain",
+      "level": "Mid"
     },
     {
-      "title": "ASSOCIATE CONTENT LEAD (LC)",
-      "url": "https://in.linkedin.com/jobs/view/associate-content-lead-lc-at-niit-4470458049?trk=public_jobs_topcard-title",
-      "location": "Gurgaon, Haryana",
-      "posted": "12 hours ago",
-      "postedAt": "2026-10-13",
-      "firstSeen": "2026-10-14",
-      "type": "Full-time",
-      "level": "Lead",
-      "source": "linkedin",
-      "fn": "Content Writer"
+      "title": "Fleet Manager - (Delhi) - Contractual",
+      "url": "https://www.adzuna.in/details/5904042949?utm_medium=api&utm_source=1b39c183",
+      "location": "Delhi",
+      "posted": "",
+      "postedAt": "2026-09-30",
+      "firstSeen": "2026-09-30",
+      "source": "adzuna",
+      "fn": "Operations & Supply Chain",
+      "level": "Senior"
     },
     {
-      "title": "DGM - Global Finance",
-      "url": "https://in.linkedin.com/jobs/view/dgm-global-finance-at-niit-4479508201?trk=public_jobs_topcard-title",
-      "location": "Gurugram, Haryana",
-      "posted": "19 hours ago",
-      "postedAt": "2026-10-14",
-      "firstSeen": "2026-10-15",
-      "type": "Full-time",
-      "level": "Senior",
-      "source": "linkedin",
-      "fn": "Finance & Accounts"
+      "title": "Fleet Coordinator - (Delhi) - Contractual",
+      "url": "https://www.adzuna.in/details/5904052663?utm_medium=api&utm_source=1b39c183",
+      "location": "Delhi",
+      "posted": "",
+      "postedAt": "2026-09-30",
+      "firstSeen": "2026-09-30",
+      "source": "adzuna",
+      "fn": "Operations & Supply Chain",
+      "level": "Mid"
     },
     {
-      "title": "ASSOCIATE CONTENT LEAD",
-      "url": "https://in.linkedin.com/jobs/view/associate-content-lead-at-niit-4479796709?trk=public_jobs_topcard-title",
-      "location": "Gurgaon, Haryana",
-      "posted": "20 hours ago",
-      "postedAt": "2026-10-15",
-      "firstSeen": "2026-10-16",
-      "type": "Contract",
-      "level": "Lead",
-      "source": "linkedin",
-      "fn": "Content Writer"
+      "title": "Account Manager - (Delhi) - Contractual",
+      "url": "https://www.adzuna.in/details/5904043556?utm_medium=api&utm_source=1b39c183",
+      "location": "Delhi",
+      "posted": "",
+      "postedAt": "2026-09-30",
+      "firstSeen": "2026-09-30",
+      "source": "adzuna",
+      "fn": "Business Development & Sales",
+      "level": "Senior"
     },
     {
-      "title": "SENIOR EXECUTIVE-SUCCESSFACTORS",
-      "url": "https://in.linkedin.com/jobs/view/senior-executive-successfactors-at-niit-4478779120?trk=public_jobs_topcard-title",
-      "location": "Gurgaon, Haryana",
-      "posted": "21 hours ago",
-      "postedAt": "2026-10-13",
-      "firstSeen": "2026-10-14",
-      "type": "Full-time",
-      "level": "Senior",
-      "source": "linkedin",
-      "fn": "Other"
+      "title": "Customer Support & Crisis Management (Australia region) - Delhi",
+      "url": "https://www.adzuna.in/details/5910244545?utm_medium=api&utm_source=1b39c183",
+      "location": "Delhi",
+      "posted": "",
+      "postedAt": "2026-10-03",
+      "firstSeen": "2026-10-03",
+      "source": "adzuna",
+      "fn": "Customer Support",
+      "level": "Mid"
     },
     {
-      "title": "SENIOR BUSINESS HR EXECUTIVE",
-      "url": "https://in.linkedin.com/jobs/view/senior-business-hr-executive-at-niit-4479288391?trk=public_jobs_topcard-title",
-      "location": "Gurgaon, Haryana",
-      "posted": "21 hours ago",
-      "postedAt": "2026-10-14",
-      "firstSeen": "2026-10-15",
-      "type": "Full-time",
-      "level": "Senior",
-      "source": "linkedin",
-      "fn": "HR & Recruiter"
+      "title": "Customer Service & Transportation Dispatcher (Australia region) - Delhi",
+      "url": "https://www.adzuna.in/details/5910247444?utm_medium=api&utm_source=1b39c183",
+      "location": "Delhi",
+      "posted": "",
+      "postedAt": "2026-10-03",
+      "firstSeen": "2026-10-03",
+      "source": "adzuna",
+      "fn": "Customer Support",
+      "level": "Mid"
     },
     {
-      "title": "SENIOR SOFTWARE ENGINEER",
-      "url": "https://in.linkedin.com/jobs/view/senior-software-engineer-at-niit-4480946657?trk=public_jobs_topcard-title",
-      "location": "Gurgaon, Haryana",
-      "posted": "21 hours ago",
-      "postedAt": "2026-10-19",
-      "firstSeen": "2026-10-20",
-      "type": "Full-time",
-      "level": "Senior",
-      "source": "linkedin",
-      "fn": "Software Engineer"
+      "title": "Fleet Manager - Last Mile(Delhi) - Contractual",
+      "url": "https://www.adzuna.in/details/5945915856?utm_medium=api&utm_source=1b39c183",
+      "location": "Delhi",
+      "posted": "",
+      "postedAt": "2026-10-29",
+      "firstSeen": "2026-10-29",
+      "source": "adzuna",
+      "fn": "Operations & Supply Chain",
+      "level": "Senior"
     }
   ],
   "rws": [
@@ -17524,6 +17031,92 @@
       "level": "Mid",
       "source": "linkedin",
       "fn": "Software Engineer"
+    }
+  ],
+  "alignerr": [
+    {
+      "title": "Natural Resource Conservation Scientist",
+      "url": "https://in.linkedin.com/jobs/view/natural-resource-conservation-scientist-at-alignerr-4480184910?trk=public_jobs_topcard-title",
+      "location": "Delhi, Delhi",
+      "posted": "3 hours ago",
+      "postedAt": "2026-10-16",
+      "firstSeen": "2026-10-16",
+      "type": "Contract",
+      "level": "Mid",
+      "source": "linkedin",
+      "fn": "Other"
+    },
+    {
+      "title": "Senior Machine Learning Expert",
+      "url": "https://in.linkedin.com/jobs/view/senior-machine-learning-expert-at-alignerr-4479245252?trk=public_jobs_topcard-title",
+      "location": "Delhi, Delhi",
+      "posted": "4 hours ago",
+      "postedAt": "2026-10-14",
+      "firstSeen": "2026-10-14",
+      "type": "Contract",
+      "level": "Senior",
+      "source": "linkedin",
+      "fn": "Data Scientist & AI/ML"
+    },
+    {
+      "title": "Business Performance Analyst",
+      "url": "https://in.linkedin.com/jobs/view/business-performance-analyst-at-alignerr-4479241492?trk=public_jobs_topcard-title",
+      "location": "Delhi, Delhi",
+      "posted": "4 hours ago",
+      "postedAt": "2026-10-14",
+      "firstSeen": "2026-10-14",
+      "type": "Contract",
+      "level": "Junior",
+      "source": "linkedin",
+      "fn": "Data Analyst"
+    },
+    {
+      "title": "Computer Engineering Expert - AI Content Specialist",
+      "url": "https://in.linkedin.com/jobs/view/computer-engineering-expert-ai-content-specialist-at-alignerr-4479744360?trk=public_jobs_topcard-title",
+      "location": "Delhi, Delhi",
+      "posted": "4 hours ago",
+      "postedAt": "2026-10-15",
+      "firstSeen": "2026-10-15",
+      "type": "Contract",
+      "level": "Senior",
+      "source": "linkedin",
+      "fn": "Software Engineer"
+    },
+    {
+      "title": "Lean 4 Proof Engineer - Mathematical Formalization",
+      "url": "https://in.linkedin.com/jobs/view/lean-4-proof-engineer-mathematical-formalization-at-alignerr-4480185958?trk=public_jobs_topcard-title",
+      "location": "Delhi, Delhi",
+      "posted": "4 hours ago",
+      "postedAt": "2026-10-16",
+      "firstSeen": "2026-10-16",
+      "type": "Contract",
+      "level": "Mid",
+      "source": "linkedin",
+      "fn": "Software Engineer"
+    },
+    {
+      "title": "Cloud Security Analyst",
+      "url": "https://in.linkedin.com/jobs/view/cloud-security-analyst-at-alignerr-4480922708?trk=public_jobs_topcard-title",
+      "location": "Delhi, Delhi",
+      "posted": "4 hours ago",
+      "postedAt": "2026-10-19",
+      "firstSeen": "2026-10-19",
+      "type": "Contract",
+      "level": "Junior",
+      "source": "linkedin",
+      "fn": "Cybersecurity"
+    },
+    {
+      "title": "Material Science Specialist (Masters/PhDs)",
+      "url": "https://in.linkedin.com/jobs/view/material-science-specialist-masters-phds-at-alignerr-4480912979?trk=public_jobs_topcard-title",
+      "location": "Delhi, Delhi",
+      "posted": "4 hours ago",
+      "postedAt": "2026-10-19",
+      "firstSeen": "2026-10-19",
+      "type": "Contract",
+      "level": "Senior",
+      "source": "linkedin",
+      "fn": "Other"
     }
   ],
   "zorba-ai": [
@@ -18986,6 +18579,104 @@
       "level": "Mid"
     }
   ],
+  "niit": [
+    {
+      "title": "PROJECT MANAGER - TECHNICAL",
+      "url": "https://in.linkedin.com/jobs/view/project-manager-technical-at-niit-4471603028?trk=public_jobs_topcard-title",
+      "location": "Gurgaon, Haryana",
+      "posted": "10 hours ago",
+      "postedAt": "2026-10-15",
+      "firstSeen": "2026-10-16",
+      "type": "Full-time",
+      "level": "Senior",
+      "source": "linkedin",
+      "fn": "Operations & Supply Chain"
+    },
+    {
+      "title": "ASSISTANT MANAGER-FINANCE OPERATIONS",
+      "url": "https://in.linkedin.com/jobs/view/assistant-manager-finance-operations-at-niit-4462845432?trk=public_jobs_topcard-title",
+      "location": "Gurgaon, Haryana",
+      "posted": "10 hours ago",
+      "postedAt": "2026-10-15",
+      "firstSeen": "2026-10-16",
+      "type": "Full-time",
+      "level": "Senior",
+      "source": "linkedin",
+      "fn": "Finance & Accounts"
+    },
+    {
+      "title": "EXECUTIVE-LMS SUPPORT",
+      "url": "https://in.linkedin.com/jobs/view/executive-lms-support-at-niit-4470910299?trk=public_jobs_topcard-title",
+      "location": "Gurgaon, Haryana",
+      "posted": "10 hours ago",
+      "postedAt": "2026-10-16",
+      "firstSeen": "2026-10-17",
+      "type": "Full-time",
+      "level": "Junior",
+      "source": "linkedin",
+      "fn": "Other"
+    },
+    {
+      "title": "ASSOCIATE CONTENT LEAD (LC)",
+      "url": "https://in.linkedin.com/jobs/view/associate-content-lead-lc-at-niit-4470458049?trk=public_jobs_topcard-title",
+      "location": "Gurgaon, Haryana",
+      "posted": "12 hours ago",
+      "postedAt": "2026-10-13",
+      "firstSeen": "2026-10-14",
+      "type": "Full-time",
+      "level": "Lead",
+      "source": "linkedin",
+      "fn": "Content Writer"
+    },
+    {
+      "title": "DGM - Global Finance",
+      "url": "https://in.linkedin.com/jobs/view/dgm-global-finance-at-niit-4479508201?trk=public_jobs_topcard-title",
+      "location": "Gurugram, Haryana",
+      "posted": "19 hours ago",
+      "postedAt": "2026-10-14",
+      "firstSeen": "2026-10-15",
+      "type": "Full-time",
+      "level": "Senior",
+      "source": "linkedin",
+      "fn": "Finance & Accounts"
+    },
+    {
+      "title": "ASSOCIATE CONTENT LEAD",
+      "url": "https://in.linkedin.com/jobs/view/associate-content-lead-at-niit-4479796709?trk=public_jobs_topcard-title",
+      "location": "Gurgaon, Haryana",
+      "posted": "20 hours ago",
+      "postedAt": "2026-10-15",
+      "firstSeen": "2026-10-16",
+      "type": "Contract",
+      "level": "Lead",
+      "source": "linkedin",
+      "fn": "Content Writer"
+    },
+    {
+      "title": "SENIOR BUSINESS HR EXECUTIVE",
+      "url": "https://in.linkedin.com/jobs/view/senior-business-hr-executive-at-niit-4479288391?trk=public_jobs_topcard-title",
+      "location": "Gurgaon, Haryana",
+      "posted": "21 hours ago",
+      "postedAt": "2026-10-14",
+      "firstSeen": "2026-10-15",
+      "type": "Full-time",
+      "level": "Senior",
+      "source": "linkedin",
+      "fn": "HR & Recruiter"
+    },
+    {
+      "title": "SENIOR SOFTWARE ENGINEER",
+      "url": "https://in.linkedin.com/jobs/view/senior-software-engineer-at-niit-4480946657?trk=public_jobs_topcard-title",
+      "location": "Gurgaon, Haryana",
+      "posted": "21 hours ago",
+      "postedAt": "2026-10-19",
+      "firstSeen": "2026-10-20",
+      "type": "Full-time",
+      "level": "Senior",
+      "source": "linkedin",
+      "fn": "Software Engineer"
+    }
+  ],
   "magnon-group": [
     {
       "title": "Full Stack Developer (.Net exp is a must)",
@@ -19238,20 +18929,6 @@
       "level": "Junior",
       "source": "linkedin",
       "fn": "Finance & Accounts"
-    }
-  ],
-  "anon-management": [
-    {
-      "title": "Talent Manager",
-      "url": "https://in.linkedin.com/jobs/view/talent-manager-at-anon-management-4476436208?trk=public_jobs_topcard-title",
-      "location": "Gurugram, Haryana",
-      "posted": "17 hours ago",
-      "postedAt": "2026-10-13",
-      "firstSeen": "2026-10-14",
-      "type": "Full-time",
-      "level": "Senior",
-      "source": "linkedin",
-      "fn": "HR & Recruiter"
     }
   ],
   "virtusa": [
@@ -19600,6 +19277,17 @@
       "posted": "",
       "postedAt": "2026-10-28",
       "firstSeen": "2026-10-28",
+      "source": "adzuna",
+      "fn": "QA & Testing",
+      "level": "Mid"
+    },
+    {
+      "title": "Automation Engineer Salesforce Claims",
+      "url": "https://www.adzuna.in/details/5956304555?utm_medium=api&utm_source=1b39c183",
+      "location": "Gurgaon",
+      "posted": "",
+      "postedAt": "2026-11-07",
+      "firstSeen": "2026-11-07",
       "source": "adzuna",
       "fn": "QA & Testing",
       "level": "Mid"
@@ -20342,18 +20030,6 @@
       "fn": "Finance & Accounts"
     },
     {
-      "title": "Financial Plan & Analysis Analyst",
-      "url": "https://in.linkedin.com/jobs/view/financial-plan-analysis-analyst-at-accenture-services-pvt-ltd-4478496895?trk=public_jobs_topcard-title",
-      "location": "Gurugram, Haryana",
-      "posted": "7 hours ago",
-      "postedAt": "2026-10-14",
-      "firstSeen": "2026-10-15",
-      "type": "Full-time",
-      "level": "Junior",
-      "source": "linkedin",
-      "fn": "Finance & Accounts"
-    },
-    {
       "title": "#ACN GN - SC&O - BPM – PM - Manager",
       "url": "https://in.linkedin.com/jobs/view/%23acn-gn-sc-o-bpm-%E2%80%93-pm-manager-at-accenture-services-pvt-ltd-4478821009?trk=public_jobs_topcard-title",
       "location": "Gurugram, Haryana",
@@ -20785,6 +20461,18 @@
       "level": "Senior",
       "source": "linkedin",
       "fn": "Data Scientist & AI/ML"
+    },
+    {
+      "title": "Financial Plan & Analysis Analyst",
+      "url": "https://in.linkedin.com/jobs/view/financial-plan-analysis-analyst-at-accenture-services-pvt-ltd-4479671719?trk=public_jobs_topcard-title",
+      "location": "Gurugram, Haryana",
+      "posted": "19 hours ago",
+      "postedAt": "2026-10-17",
+      "firstSeen": "2026-10-18",
+      "type": "Full-time",
+      "level": "Junior",
+      "source": "linkedin",
+      "fn": "Finance & Accounts"
     },
     {
       "title": "#ACN I&P- GN -Talent - Graphic Designer - Senior Analyst",
@@ -21852,6 +21540,7 @@
       "posted": "21 hours ago",
       "postedAt": "2026-10-14",
       "firstSeen": "2026-10-15",
+      "checkedAt": "2026-11-08T06:44:33.198Z",
       "type": "Full-time",
       "level": "Senior",
       "source": "linkedin",
@@ -22396,20 +22085,6 @@
       "level": "Senior"
     }
   ],
-  "monetizely": [
-    {
-      "title": "DELHI/NCR Fresh MBA Graduate - Pricing Analyst",
-      "url": "https://in.linkedin.com/jobs/view/delhi-ncr-fresh-mba-graduate-pricing-analyst-at-monetizely-4478464479?trk=public_jobs_topcard-title",
-      "location": "Greater Delhi Area",
-      "posted": "13 hours ago",
-      "postedAt": "2026-10-14",
-      "firstSeen": "2026-10-15",
-      "type": "Full-time",
-      "level": "Junior",
-      "source": "linkedin",
-      "fn": "Data Analyst"
-    }
-  ],
   "vida-shoes-international": [
     {
       "title": "Analyst",
@@ -22567,8 +22242,9 @@
       "url": "https://in.linkedin.com/jobs/view/sr-solutions-sales-account-executive-public-sector-at-sas-4470669605?trk=public_jobs_topcard-title",
       "location": "Delhi, Delhi",
       "posted": "12 hours ago",
-      "postedAt": "2026-10-14",
+      "postedAt": "2026-11-05",
       "firstSeen": "2026-10-15",
+      "checkedAt": "2026-11-08T06:44:33.198Z",
       "type": "Full-time",
       "level": "Senior",
       "source": "linkedin",
@@ -22592,12 +22268,24 @@
       "url": "https://in.linkedin.com/jobs/view/inside-sales-consultant-at-hear-com-india-4477054337?trk=public_jobs_topcard-title",
       "location": "Gurugram, Haryana",
       "posted": "20 minutes ago",
-      "postedAt": "2026-10-14",
+      "postedAt": "2026-10-15",
       "firstSeen": "2026-10-15",
+      "checkedAt": "2026-11-08T06:44:33.198Z",
       "type": "Full-time",
       "level": "Junior",
       "source": "linkedin",
       "fn": "Consultant"
+    },
+    {
+      "title": "Assistant Manager- Online Marketing",
+      "url": "https://www.adzuna.in/details/5957218994?utm_medium=api&utm_source=1b39c183",
+      "location": "Gurgaon",
+      "posted": "",
+      "postedAt": "2026-11-07",
+      "firstSeen": "2026-11-07",
+      "source": "adzuna",
+      "fn": "Digital Marketing",
+      "level": "Senior"
     }
   ],
   "hopcharge": [
@@ -22638,45 +22326,6 @@
       "fn": "Business Development & Sales"
     }
   ],
-  "quickflo": [
-    {
-      "title": "Influencer Marketing Manager",
-      "url": "https://in.linkedin.com/jobs/view/influencer-marketing-manager-at-quickflo-4477732143?trk=public_jobs_topcard-title",
-      "location": "Gurugram, Haryana",
-      "posted": "8 hours ago",
-      "postedAt": "2026-10-16",
-      "firstSeen": "2026-10-17",
-      "type": "Full-time",
-      "level": "Senior",
-      "source": "linkedin",
-      "fn": "Digital Marketing"
-    },
-    {
-      "title": "Sales Specialist",
-      "url": "https://in.linkedin.com/jobs/view/sales-specialist-at-quickflo-4476660476?trk=public_jobs_topcard-title",
-      "location": "Gurugram, Haryana",
-      "posted": "17 hours ago",
-      "postedAt": "2026-10-14",
-      "firstSeen": "2026-10-15",
-      "type": "Full-time",
-      "level": "Senior",
-      "source": "linkedin",
-      "fn": "Business Development & Sales"
-    },
-    {
-      "title": "Recruitment Consultant",
-      "url": "https://internshala.com/internship/detail/recruitment-consultant-internship-in-gurgaon-at-quickflo1789302124",
-      "location": "Gurgaon",
-      "posted": "",
-      "postedAt": "2026-09-13",
-      "firstSeen": "2026-09-13",
-      "salary": "₹ 10,000 - 20,000 /month",
-      "type": "Internship",
-      "source": "internshala",
-      "fn": "Consultant",
-      "level": "Mid"
-    }
-  ],
   "avantor": [
     {
       "title": "Area Sales Manager - Diagnostics",
@@ -22689,34 +22338,6 @@
       "level": "Senior",
       "source": "linkedin",
       "fn": "Business Development & Sales"
-    }
-  ],
-  "hubhawks": [
-    {
-      "title": "Business Development Associate",
-      "url": "https://in.linkedin.com/jobs/view/business-development-associate-at-hubhawks-4476629717?trk=public_jobs_topcard-title",
-      "location": "Gurugram, Haryana",
-      "posted": "21 hours ago",
-      "postedAt": "2026-10-14",
-      "firstSeen": "2026-10-15",
-      "type": "Full-time",
-      "level": "Junior",
-      "source": "linkedin",
-      "fn": "Business Development & Sales"
-    }
-  ],
-  "cinch": [
-    {
-      "title": "Pricing Analyst",
-      "url": "https://in.linkedin.com/jobs/view/pricing-analyst-at-cinch-4479560387?trk=public_jobs_topcard-title",
-      "location": "Delhi",
-      "posted": "12 hours ago",
-      "postedAt": "2026-10-14",
-      "firstSeen": "2026-10-15",
-      "type": "Full-time",
-      "level": "Junior",
-      "source": "linkedin",
-      "fn": "Data Analyst"
     }
   ],
   "aisensy": [
@@ -22866,20 +22487,6 @@
       "firstSeen": "2026-10-15",
       "type": "Full-time",
       "level": "Junior",
-      "source": "linkedin",
-      "fn": "Business Development & Sales"
-    }
-  ],
-  "kreative-catalyst": [
-    {
-      "title": "Sales Specialist",
-      "url": "https://in.linkedin.com/jobs/view/sales-specialist-at-kreative-catalyst-4478418878?trk=public_jobs_topcard-title",
-      "location": "Saket, Delhi",
-      "posted": "20 hours ago",
-      "postedAt": "2026-10-14",
-      "firstSeen": "2026-10-15",
-      "type": "Full-time",
-      "level": "Senior",
       "source": "linkedin",
       "fn": "Business Development & Sales"
     }
@@ -23136,128 +22743,6 @@
       "fn": "Business Development & Sales"
     }
   ],
-  "acura-solutions-ltd": [
-    {
-      "title": "Current Account Sales Officer",
-      "url": "https://in.linkedin.com/jobs/view/current-account-sales-officer-at-acura-solutions-ltd-4479694037?trk=public_jobs_topcard-title",
-      "location": "Faridabad, Haryana",
-      "posted": "16 hours ago",
-      "postedAt": "2026-10-17",
-      "firstSeen": "2026-10-18",
-      "type": "Full-time",
-      "level": "Mid",
-      "source": "linkedin",
-      "fn": "Business Development & Sales"
-    },
-    {
-      "title": "Car Rental Sales Executive",
-      "url": "https://in.linkedin.com/jobs/view/car-rental-sales-executive-at-acura-solutions-ltd-4478416766?trk=public_jobs_topcard-title",
-      "location": "Delhi, Delhi",
-      "posted": "21 hours ago",
-      "postedAt": "2026-10-14",
-      "firstSeen": "2026-10-15",
-      "type": "Full-time",
-      "level": "Junior",
-      "source": "linkedin",
-      "fn": "Business Development & Sales"
-    },
-    {
-      "title": "Corporate Car Rental Manager",
-      "url": "https://in.linkedin.com/jobs/view/corporate-car-rental-manager-at-acura-solutions-ltd-4478420497?trk=public_jobs_topcard-title",
-      "location": "Delhi, Delhi",
-      "posted": "21 hours ago",
-      "postedAt": "2026-10-14",
-      "firstSeen": "2026-10-15",
-      "type": "Full-time",
-      "level": "Senior",
-      "source": "linkedin",
-      "fn": "Other"
-    },
-    {
-      "title": "Corporate Car Leasing Specialist",
-      "url": "https://in.linkedin.com/jobs/view/corporate-car-leasing-specialist-at-acura-solutions-ltd-4478411947?trk=public_jobs_topcard-title",
-      "location": "Noida, Uttar Pradesh",
-      "posted": "21 hours ago",
-      "postedAt": "2026-10-14",
-      "firstSeen": "2026-10-15",
-      "type": "Full-time",
-      "level": "Senior",
-      "source": "linkedin",
-      "fn": "Business Development & Sales"
-    },
-    {
-      "title": "Car Leasing and Rental Specialist",
-      "url": "https://in.linkedin.com/jobs/view/car-leasing-and-rental-specialist-at-acura-solutions-ltd-4478420525?trk=public_jobs_topcard-title",
-      "location": "Ghaziabad, Uttar Pradesh",
-      "posted": "21 hours ago",
-      "postedAt": "2026-10-14",
-      "firstSeen": "2026-10-15",
-      "type": "Full-time",
-      "level": "Senior",
-      "source": "linkedin",
-      "fn": "Business Development & Sales"
-    },
-    {
-      "title": "Business Development Manager - Car Leasing",
-      "url": "https://in.linkedin.com/jobs/view/business-development-manager-car-leasing-at-acura-solutions-ltd-4478425401?trk=public_jobs_topcard-title",
-      "location": "Delhi, Delhi",
-      "posted": "21 hours ago",
-      "postedAt": "2026-10-14",
-      "firstSeen": "2026-10-15",
-      "type": "Full-time",
-      "level": "Senior",
-      "source": "linkedin",
-      "fn": "Business Development & Sales"
-    },
-    {
-      "title": "Acquisition Manager - Forex and Banking",
-      "url": "https://in.linkedin.com/jobs/view/acquisition-manager-forex-and-banking-at-acura-solutions-ltd-4478858226?trk=public_jobs_topcard-title",
-      "location": "Delhi, Delhi",
-      "posted": "21 hours ago",
-      "postedAt": "2026-10-15",
-      "firstSeen": "2026-10-16",
-      "type": "Full-time",
-      "level": "Senior",
-      "source": "linkedin",
-      "fn": "Other"
-    },
-    {
-      "title": "Fleet Manager",
-      "url": "https://in.linkedin.com/jobs/view/fleet-manager-at-acura-solutions-ltd-4478845963?trk=public_jobs_topcard-title",
-      "location": "Delhi, Delhi",
-      "posted": "21 hours ago",
-      "postedAt": "2026-10-15",
-      "firstSeen": "2026-10-16",
-      "type": "Full-time",
-      "level": "Senior",
-      "source": "linkedin",
-      "fn": "Operations & Supply Chain"
-    },
-    {
-      "title": "Working Capital Operations Manager",
-      "url": "https://in.linkedin.com/jobs/view/working-capital-operations-manager-at-acura-solutions-ltd-4479325920?trk=public_jobs_topcard-title",
-      "location": "Faridabad, Haryana",
-      "posted": "21 hours ago",
-      "postedAt": "2026-10-16",
-      "firstSeen": "2026-10-17",
-      "type": "Full-time",
-      "level": "Senior",
-      "source": "linkedin",
-      "fn": "Operations & Supply Chain"
-    },
-    {
-      "title": "Statistical Programmer",
-      "url": "https://in.linkedin.com/jobs/view/statistical-programmer-at-acura-solutions-ltd-4479334601?trk=public_jobs_topcard-title",
-      "location": "Gurugram, Haryana",
-      "posted": "21 hours ago",
-      "postedAt": "2026-10-16",
-      "firstSeen": "2026-10-17",
-      "type": "Full-time",
-      "level": "Mid",
-      "source": "linkedin",
-      "fn": "Software Engineer"
-    }
-  ],
   "univisory": [
     {
       "title": "Inside Sales Advisor - Premium Education",
@@ -23282,20 +22767,6 @@
       "level": "Junior",
       "source": "linkedin",
       "fn": "UI/UX & Graphic Design"
-    }
-  ],
-  "vin-industries": [
-    {
-      "title": "Inside Sales Executive",
-      "url": "https://in.linkedin.com/jobs/view/inside-sales-executive-at-vin-industries-4478448022?trk=public_jobs_topcard-title",
-      "location": "New Delhi, Delhi",
-      "posted": "18 hours ago",
-      "postedAt": "2026-10-14",
-      "firstSeen": "2026-10-15",
-      "type": "Full-time",
-      "level": "Junior",
-      "source": "linkedin",
-      "fn": "Business Development & Sales"
     }
   ],
   "savi-vision-pvt-ltd": [
@@ -23326,20 +22797,6 @@
       "fn": "Business Development & Sales"
     }
   ],
-  "jove": [
-    {
-      "title": "Sales Account Executive, Edtech India",
-      "url": "https://in.linkedin.com/jobs/view/sales-account-executive-edtech-india-at-jove-4478442508?trk=public_jobs_topcard-title",
-      "location": "Gurugram, Haryana",
-      "posted": "17 hours ago",
-      "postedAt": "2026-10-14",
-      "firstSeen": "2026-10-15",
-      "type": "Full-time",
-      "level": "Junior",
-      "source": "linkedin",
-      "fn": "Business Development & Sales"
-    }
-  ],
   "xportel": [
     {
       "title": "Senior Sales Executive",
@@ -23360,8 +22817,9 @@
       "url": "https://in.linkedin.com/jobs/view/amazon-connect-fullstack-developer-at-shyftlabs-4479719647?trk=public_jobs_topcard-title",
       "location": "Noida, Uttar Pradesh",
       "posted": "5 hours ago",
-      "postedAt": "2026-10-15",
+      "postedAt": "2026-10-14",
       "firstSeen": "2026-10-15",
+      "checkedAt": "2026-11-08T06:44:33.198Z",
       "type": "Full-time",
       "level": "Mid",
       "source": "linkedin",
@@ -23413,6 +22871,18 @@
       "type": "Full-time",
       "source": "adzuna",
       "fn": "QA & Testing",
+      "level": "Senior"
+    },
+    {
+      "title": "Business Operations Manager",
+      "url": "https://www.adzuna.in/details/5955821822?utm_medium=api&utm_source=1b39c183",
+      "location": "Noida, Ghaziabad",
+      "posted": "",
+      "postedAt": "2026-11-06",
+      "firstSeen": "2026-11-06",
+      "type": "Full-time",
+      "source": "adzuna",
+      "fn": "Operations & Supply Chain",
       "level": "Senior"
     }
   ],
@@ -23490,43 +22960,6 @@
       "source": "internshala",
       "fn": "Business Development & Sales",
       "level": "Junior"
-    }
-  ],
-  "fairgrowth-management-consultants-pvt-ltd": [
-    {
-      "title": "Sponsorship Sales Manager",
-      "url": "https://in.linkedin.com/jobs/view/sponsorship-sales-manager-at-fairgrowth-management-consultants-pvt-ltd-4476664129?trk=public_jobs_topcard-title",
-      "location": "Delhi",
-      "posted": "18 hours ago",
-      "postedAt": "2026-10-14",
-      "firstSeen": "2026-10-15",
-      "type": "Full-time",
-      "level": "Senior",
-      "source": "linkedin",
-      "fn": "Business Development & Sales"
-    },
-    {
-      "title": "Architecture Manager",
-      "url": "https://in.linkedin.com/jobs/view/architecture-manager-at-fairgrowth-management-consultants-pvt-ltd-4477769318?trk=public_jobs_topcard-title",
-      "location": "New Delhi, Delhi",
-      "posted": "21 hours ago",
-      "postedAt": "2026-10-17",
-      "firstSeen": "2026-10-18",
-      "type": "Full-time",
-      "level": "Senior",
-      "source": "linkedin",
-      "fn": "Software Engineer"
-    },
-    {
-      "title": "Senior Lead Audit / Assurance",
-      "url": "https://www.adzuna.in/land/ad/5868794592?se=cLGjpleo8RGmsIujE42SGA&utm_medium=api&utm_source=116859ef&v=F7927681074A2A45E1F09D6B1056B6A967C8C86C",
-      "location": "Delhi",
-      "posted": "",
-      "postedAt": "2026-09-03",
-      "firstSeen": "2026-09-03",
-      "source": "adzuna",
-      "fn": "Finance & Accounts",
-      "level": "Lead"
     }
   ],
   "skc-technocrat-p-ltd": [
@@ -23617,18 +23050,6 @@
       "source": "linkedin",
       "fn": "Software Engineer",
       "specialty": "Full-stack"
-    },
-    {
-      "title": "AI/ML Engineer",
-      "url": "https://in.linkedin.com/jobs/view/ai-ml-engineer-at-softcrayons-it-education-4479714390?trk=public_jobs_topcard-title",
-      "location": "Noida, Uttar Pradesh",
-      "posted": "7 hours ago",
-      "postedAt": "2026-10-14",
-      "firstSeen": "2026-10-15",
-      "type": "Full-time",
-      "level": "Mid",
-      "source": "linkedin",
-      "fn": "Data Scientist & AI/ML"
     },
     {
       "title": "Full Stack Developer (Backend)",
@@ -24092,57 +23513,6 @@
       "level": "Mid"
     }
   ],
-  "expedia-group": [
-    {
-      "title": "Software Development Engineer II",
-      "url": "https://in.linkedin.com/jobs/view/software-development-engineer-ii-at-expedia-group-4478491183?trk=public_jobs_topcard-title",
-      "location": "Gurgaon, Haryana",
-      "posted": "11 hours ago",
-      "postedAt": "2026-10-14",
-      "firstSeen": "2026-10-15",
-      "type": "Full-time",
-      "level": "Mid",
-      "source": "linkedin",
-      "fn": "Software Engineer"
-    },
-    {
-      "title": "Software Development Engineer III",
-      "url": "https://in.linkedin.com/jobs/view/software-development-engineer-iii-at-expedia-group-4478478553?trk=public_jobs_topcard-title",
-      "location": "Gurgaon, Haryana",
-      "posted": "11 hours ago",
-      "postedAt": "2026-10-14",
-      "firstSeen": "2026-10-15",
-      "type": "Full-time",
-      "level": "Mid",
-      "source": "linkedin",
-      "fn": "Software Engineer"
-    },
-    {
-      "title": "Technical Program Manager III",
-      "url": "https://in.linkedin.com/jobs/view/technical-program-manager-iii-at-expedia-group-4468777435?trk=public_jobs_topcard-title",
-      "location": "Gurgaon, Haryana",
-      "posted": "20 hours ago",
-      "postedAt": "2026-10-17",
-      "firstSeen": "2026-10-18",
-      "type": "Full-time",
-      "level": "Senior",
-      "source": "linkedin",
-      "fn": "Operations & Supply Chain"
-    },
-    {
-      "title": "Mobile Engineer III, iOS",
-      "url": "https://in.linkedin.com/jobs/view/mobile-engineer-iii-ios-at-expedia-group-4478407624?trk=public_jobs_topcard-title",
-      "location": "Gurgaon, Haryana",
-      "posted": "23 hours ago",
-      "postedAt": "2026-10-14",
-      "firstSeen": "2026-10-15",
-      "type": "Full-time",
-      "level": "Mid",
-      "source": "linkedin",
-      "fn": "Software Engineer",
-      "specialty": "Mobile"
-    }
-  ],
   "propkarmaa-private-limited": [
     {
       "title": "Real Estate Sales Executive",
@@ -24355,106 +23725,6 @@
       "level": "Mid",
       "source": "linkedin",
       "fn": "HR & Recruiter"
-    }
-  ],
-  "insight": [
-    {
-      "title": "Software Engineer III",
-      "url": "https://in.linkedin.com/jobs/view/software-engineer-iii-at-insight-4479588922?trk=public_jobs_topcard-title",
-      "location": "Gurugram, Haryana",
-      "posted": "8 hours ago",
-      "postedAt": "2026-10-14",
-      "firstSeen": "2026-10-15",
-      "type": "Full-time",
-      "level": "Mid",
-      "source": "linkedin",
-      "fn": "Software Engineer"
-    },
-    {
-      "title": "Cloud Engineer III",
-      "url": "https://in.linkedin.com/jobs/view/cloud-engineer-iii-at-insight-4470458342?trk=public_jobs_topcard-title",
-      "location": "Gurugram, Haryana",
-      "posted": "11 hours ago",
-      "postedAt": "2026-10-17",
-      "firstSeen": "2026-10-18",
-      "type": "Full-time",
-      "level": "Mid",
-      "source": "linkedin",
-      "fn": "Cloud & DevOps"
-    },
-    {
-      "title": "Principal Engineer- Local AI/Hardware AI",
-      "url": "https://in.linkedin.com/jobs/view/principal-engineer-local-ai-hardware-ai-at-insight-4469119429?trk=public_jobs_topcard-title",
-      "location": "Gurugram, Haryana",
-      "posted": "12 hours ago",
-      "postedAt": "2026-10-14",
-      "firstSeen": "2026-10-15",
-      "type": "Full-time",
-      "level": "Lead",
-      "source": "linkedin",
-      "fn": "Software Engineer",
-      "specialty": "Embedded & hardware"
-    },
-    {
-      "title": "Senior Software Engineer - L4 / .NET",
-      "url": "https://in.linkedin.com/jobs/view/senior-software-engineer-l4-net-at-insight-4480395780?trk=public_jobs_topcard-title",
-      "location": "Gurugram, Haryana",
-      "posted": "12 hours ago",
-      "postedAt": "2026-10-16",
-      "firstSeen": "2026-10-17",
-      "type": "Full-time",
-      "level": "Senior",
-      "source": "linkedin",
-      "fn": "Software Engineer"
-    },
-    {
-      "title": "Security Engineer II",
-      "url": "https://in.linkedin.com/jobs/view/security-engineer-ii-at-insight-4480515004?trk=public_jobs_topcard-title",
-      "location": "Gurugram, Haryana",
-      "posted": "12 hours ago",
-      "postedAt": "2026-10-16",
-      "firstSeen": "2026-10-17",
-      "type": "Full-time",
-      "level": "Mid",
-      "source": "linkedin",
-      "fn": "Cybersecurity"
-    },
-    {
-      "title": "QA Engineer III",
-      "url": "https://in.linkedin.com/jobs/view/qa-engineer-iii-at-insight-4480508371?trk=public_jobs_topcard-title",
-      "location": "Gurugram, Haryana",
-      "posted": "12 hours ago",
-      "postedAt": "2026-10-16",
-      "firstSeen": "2026-10-17",
-      "type": "Full-time",
-      "level": "Mid",
-      "source": "linkedin",
-      "fn": "QA & Testing"
-    },
-    {
-      "title": "Engineer III - Cisco Meraki (Wireless)",
-      "url": "https://in.linkedin.com/jobs/view/engineer-iii-cisco-meraki-wireless-at-insight-4479553212?trk=public_jobs_topcard-title",
-      "location": "Gurugram, Haryana",
-      "posted": "13 hours ago",
-      "postedAt": "2026-10-14",
-      "firstSeen": "2026-10-15",
-      "type": "Full-time",
-      "level": "Mid",
-      "source": "linkedin",
-      "fn": "Software Engineer"
-    },
-    {
-      "title": "Software Engineer III  ( backend ,  Java ,Springboot, ORM/ODM, SQL and NoSQL )",
-      "url": "https://in.linkedin.com/jobs/view/software-engineer-iii-backend-java-springboot-orm-odm-sql-and-nosql-at-insight-4479857203?trk=public_jobs_topcard-title",
-      "location": "Gurugram, Haryana",
-      "posted": "13 hours ago",
-      "postedAt": "2026-10-15",
-      "firstSeen": "2026-10-16",
-      "type": "Full-time",
-      "level": "Mid",
-      "source": "linkedin",
-      "fn": "Software Engineer",
-      "specialty": "Backend"
     }
   ],
   "hilti-india": [
@@ -25456,6 +24726,44 @@
       "level": "Junior"
     }
   ],
+  "traviyo": [
+    {
+      "title": "Human Resources Intern",
+      "url": "https://in.linkedin.com/jobs/view/human-resources-intern-at-traviyo-4478454629?trk=public_jobs_topcard-title",
+      "location": "Noida, Uttar Pradesh",
+      "posted": "14 hours ago",
+      "postedAt": "2026-10-14",
+      "firstSeen": "2026-10-15",
+      "type": "Full-time",
+      "level": "Intern",
+      "source": "linkedin",
+      "fn": "HR & Recruiter"
+    },
+    {
+      "title": "Recruiting Intern",
+      "url": "https://in.linkedin.com/jobs/view/recruiting-intern-at-traviyo-4479104466?trk=public_jobs_topcard-title",
+      "location": "Noida, Uttar Pradesh",
+      "posted": "17 hours ago",
+      "postedAt": "2026-10-15",
+      "firstSeen": "2026-10-16",
+      "type": "Full-time",
+      "level": "Intern",
+      "source": "linkedin",
+      "fn": "HR & Recruiter"
+    },
+    {
+      "title": "Sales Executive",
+      "url": "https://in.linkedin.com/jobs/view/sales-executive-at-traviyo-4479672789?trk=public_jobs_topcard-title",
+      "location": "Noida, Uttar Pradesh",
+      "posted": "17 hours ago",
+      "postedAt": "2026-10-17",
+      "firstSeen": "2026-10-18",
+      "type": "Full-time",
+      "level": "Junior",
+      "source": "linkedin",
+      "fn": "Business Development & Sales"
+    }
+  ],
   "mckinsol-consulting-inc": [
     {
       "title": "SAP EWM (Extended Warehouse Management) Lead Consultant",
@@ -25468,6 +24776,45 @@
       "level": "Lead",
       "source": "linkedin",
       "fn": "Consultant"
+    }
+  ],
+  "expedia-group": [
+    {
+      "title": "Software Development Engineer III",
+      "url": "https://in.linkedin.com/jobs/view/software-development-engineer-iii-at-expedia-group-4478478553?trk=public_jobs_topcard-title",
+      "location": "Gurgaon, Haryana",
+      "posted": "11 hours ago",
+      "postedAt": "2026-10-14",
+      "firstSeen": "2026-10-15",
+      "type": "Full-time",
+      "level": "Mid",
+      "source": "linkedin",
+      "fn": "Software Engineer"
+    },
+    {
+      "title": "Technical Program Manager III",
+      "url": "https://in.linkedin.com/jobs/view/technical-program-manager-iii-at-expedia-group-4468777435?trk=public_jobs_topcard-title",
+      "location": "Gurgaon, Haryana",
+      "posted": "20 hours ago",
+      "postedAt": "2026-10-17",
+      "firstSeen": "2026-10-18",
+      "type": "Full-time",
+      "level": "Senior",
+      "source": "linkedin",
+      "fn": "Operations & Supply Chain"
+    },
+    {
+      "title": "Mobile Engineer III, iOS",
+      "url": "https://in.linkedin.com/jobs/view/mobile-engineer-iii-ios-at-expedia-group-4478407624?trk=public_jobs_topcard-title",
+      "location": "Gurgaon, Haryana",
+      "posted": "23 hours ago",
+      "postedAt": "2026-10-14",
+      "firstSeen": "2026-10-15",
+      "type": "Full-time",
+      "level": "Mid",
+      "source": "linkedin",
+      "fn": "Software Engineer",
+      "specialty": "Mobile"
     }
   ],
   "ncr-voyix": [
@@ -25954,6 +25301,128 @@
       "source": "adzuna",
       "fn": "Software Engineer",
       "level": "Mid"
+    }
+  ],
+  "acura-solutions-ltd": [
+    {
+      "title": "Current Account Sales Officer",
+      "url": "https://in.linkedin.com/jobs/view/current-account-sales-officer-at-acura-solutions-ltd-4479694037?trk=public_jobs_topcard-title",
+      "location": "Faridabad, Haryana",
+      "posted": "16 hours ago",
+      "postedAt": "2026-10-17",
+      "firstSeen": "2026-10-18",
+      "type": "Full-time",
+      "level": "Mid",
+      "source": "linkedin",
+      "fn": "Business Development & Sales"
+    },
+    {
+      "title": "Corporate Car Rental Manager",
+      "url": "https://in.linkedin.com/jobs/view/corporate-car-rental-manager-at-acura-solutions-ltd-4478420497?trk=public_jobs_topcard-title",
+      "location": "Delhi, Delhi",
+      "posted": "21 hours ago",
+      "postedAt": "2026-10-14",
+      "firstSeen": "2026-10-15",
+      "type": "Full-time",
+      "level": "Senior",
+      "source": "linkedin",
+      "fn": "Other"
+    },
+    {
+      "title": "Car Rental Sales Executive",
+      "url": "https://in.linkedin.com/jobs/view/car-rental-sales-executive-at-acura-solutions-ltd-4478412874?trk=public_jobs_topcard-title",
+      "location": "Faridabad, Haryana",
+      "posted": "21 hours ago",
+      "postedAt": "2026-10-14",
+      "firstSeen": "2026-10-15",
+      "type": "Full-time",
+      "level": "Junior",
+      "source": "linkedin",
+      "fn": "Business Development & Sales"
+    },
+    {
+      "title": "Corporate Car Leasing Specialist",
+      "url": "https://in.linkedin.com/jobs/view/corporate-car-leasing-specialist-at-acura-solutions-ltd-4478411947?trk=public_jobs_topcard-title",
+      "location": "Noida, Uttar Pradesh",
+      "posted": "21 hours ago",
+      "postedAt": "2026-10-14",
+      "firstSeen": "2026-10-15",
+      "type": "Full-time",
+      "level": "Senior",
+      "source": "linkedin",
+      "fn": "Business Development & Sales"
+    },
+    {
+      "title": "Car Leasing and Rental Specialist",
+      "url": "https://in.linkedin.com/jobs/view/car-leasing-and-rental-specialist-at-acura-solutions-ltd-4478420525?trk=public_jobs_topcard-title",
+      "location": "Ghaziabad, Uttar Pradesh",
+      "posted": "21 hours ago",
+      "postedAt": "2026-10-14",
+      "firstSeen": "2026-10-15",
+      "type": "Full-time",
+      "level": "Senior",
+      "source": "linkedin",
+      "fn": "Business Development & Sales"
+    },
+    {
+      "title": "Business Development Manager - Car Leasing",
+      "url": "https://in.linkedin.com/jobs/view/business-development-manager-car-leasing-at-acura-solutions-ltd-4478425401?trk=public_jobs_topcard-title",
+      "location": "Delhi, Delhi",
+      "posted": "21 hours ago",
+      "postedAt": "2026-10-14",
+      "firstSeen": "2026-10-15",
+      "type": "Full-time",
+      "level": "Senior",
+      "source": "linkedin",
+      "fn": "Business Development & Sales"
+    },
+    {
+      "title": "Acquisition Manager - Forex and Banking",
+      "url": "https://in.linkedin.com/jobs/view/acquisition-manager-forex-and-banking-at-acura-solutions-ltd-4478858226?trk=public_jobs_topcard-title",
+      "location": "Delhi, Delhi",
+      "posted": "21 hours ago",
+      "postedAt": "2026-10-15",
+      "firstSeen": "2026-10-16",
+      "type": "Full-time",
+      "level": "Senior",
+      "source": "linkedin",
+      "fn": "Other"
+    },
+    {
+      "title": "Fleet Manager",
+      "url": "https://in.linkedin.com/jobs/view/fleet-manager-at-acura-solutions-ltd-4478845963?trk=public_jobs_topcard-title",
+      "location": "Delhi, Delhi",
+      "posted": "21 hours ago",
+      "postedAt": "2026-10-15",
+      "firstSeen": "2026-10-16",
+      "type": "Full-time",
+      "level": "Senior",
+      "source": "linkedin",
+      "fn": "Operations & Supply Chain"
+    },
+    {
+      "title": "Working Capital Operations Manager",
+      "url": "https://in.linkedin.com/jobs/view/working-capital-operations-manager-at-acura-solutions-ltd-4479325920?trk=public_jobs_topcard-title",
+      "location": "Faridabad, Haryana",
+      "posted": "21 hours ago",
+      "postedAt": "2026-10-16",
+      "firstSeen": "2026-10-17",
+      "type": "Full-time",
+      "level": "Senior",
+      "source": "linkedin",
+      "fn": "Operations & Supply Chain"
+    },
+    {
+      "title": "Statistical Programmer",
+      "url": "https://in.linkedin.com/jobs/view/statistical-programmer-at-acura-solutions-ltd-4479334601?trk=public_jobs_topcard-title",
+      "location": "Gurugram, Haryana",
+      "posted": "21 hours ago",
+      "postedAt": "2026-10-16",
+      "firstSeen": "2026-10-17",
+      "type": "Full-time",
+      "level": "Mid",
+      "source": "linkedin",
+      "fn": "Software Engineer"
     }
   ],
   "qloron-pvt-ltd": [
@@ -27816,6 +27285,94 @@
       "fn": "Other"
     }
   ],
+  "insight": [
+    {
+      "title": "Software Engineer III",
+      "url": "https://in.linkedin.com/jobs/view/software-engineer-iii-at-insight-4479588922?trk=public_jobs_topcard-title",
+      "location": "Gurugram, Haryana",
+      "posted": "8 hours ago",
+      "postedAt": "2026-10-14",
+      "firstSeen": "2026-10-15",
+      "type": "Full-time",
+      "level": "Mid",
+      "source": "linkedin",
+      "fn": "Software Engineer"
+    },
+    {
+      "title": "Cloud Engineer III",
+      "url": "https://in.linkedin.com/jobs/view/cloud-engineer-iii-at-insight-4470458342?trk=public_jobs_topcard-title",
+      "location": "Gurugram, Haryana",
+      "posted": "11 hours ago",
+      "postedAt": "2026-10-17",
+      "firstSeen": "2026-10-18",
+      "type": "Full-time",
+      "level": "Mid",
+      "source": "linkedin",
+      "fn": "Cloud & DevOps"
+    },
+    {
+      "title": "Principal Engineer- Local AI/Hardware AI",
+      "url": "https://in.linkedin.com/jobs/view/principal-engineer-local-ai-hardware-ai-at-insight-4469119429?trk=public_jobs_topcard-title",
+      "location": "Gurugram, Haryana",
+      "posted": "12 hours ago",
+      "postedAt": "2026-10-14",
+      "firstSeen": "2026-10-15",
+      "type": "Full-time",
+      "level": "Lead",
+      "source": "linkedin",
+      "fn": "Software Engineer",
+      "specialty": "Embedded & hardware"
+    },
+    {
+      "title": "Senior Software Engineer - L4 / .NET",
+      "url": "https://in.linkedin.com/jobs/view/senior-software-engineer-l4-net-at-insight-4480395780?trk=public_jobs_topcard-title",
+      "location": "Gurugram, Haryana",
+      "posted": "12 hours ago",
+      "postedAt": "2026-10-16",
+      "firstSeen": "2026-10-17",
+      "type": "Full-time",
+      "level": "Senior",
+      "source": "linkedin",
+      "fn": "Software Engineer"
+    },
+    {
+      "title": "Security Engineer II",
+      "url": "https://in.linkedin.com/jobs/view/security-engineer-ii-at-insight-4480515004?trk=public_jobs_topcard-title",
+      "location": "Gurugram, Haryana",
+      "posted": "12 hours ago",
+      "postedAt": "2026-10-16",
+      "firstSeen": "2026-10-17",
+      "type": "Full-time",
+      "level": "Mid",
+      "source": "linkedin",
+      "fn": "Cybersecurity"
+    },
+    {
+      "title": "QA Engineer III",
+      "url": "https://in.linkedin.com/jobs/view/qa-engineer-iii-at-insight-4480508371?trk=public_jobs_topcard-title",
+      "location": "Gurugram, Haryana",
+      "posted": "12 hours ago",
+      "postedAt": "2026-10-16",
+      "firstSeen": "2026-10-17",
+      "type": "Full-time",
+      "level": "Mid",
+      "source": "linkedin",
+      "fn": "QA & Testing"
+    },
+    {
+      "title": "Software Engineer III  ( backend ,  Java ,Springboot, ORM/ODM, SQL and NoSQL )",
+      "url": "https://in.linkedin.com/jobs/view/software-engineer-iii-backend-java-springboot-orm-odm-sql-and-nosql-at-insight-4479857203?trk=public_jobs_topcard-title",
+      "location": "Gurugram, Haryana",
+      "posted": "13 hours ago",
+      "postedAt": "2026-10-15",
+      "firstSeen": "2026-10-16",
+      "type": "Full-time",
+      "level": "Mid",
+      "source": "linkedin",
+      "fn": "Software Engineer",
+      "specialty": "Backend"
+    }
+  ],
   "dynamics-monk-consulting-services": [
     {
       "title": "Project Manager - Microsoft D365",
@@ -29425,6 +28982,17 @@
       "source": "adzuna",
       "fn": "Other",
       "level": "Senior"
+    },
+    {
+      "title": "Senior Associate, Turnaround & Restructuring Services",
+      "url": "https://www.adzuna.in/details/5957247861?utm_medium=api&utm_source=1b39c183",
+      "location": "Gurgaon",
+      "posted": "",
+      "postedAt": "2026-11-07",
+      "firstSeen": "2026-11-07",
+      "source": "adzuna",
+      "fn": "Other",
+      "level": "Senior"
     }
   ],
   "upgrad-study-abroad": [
@@ -29698,6 +29266,17 @@
       "source": "adzuna",
       "fn": "Other",
       "level": "Mid"
+    },
+    {
+      "title": "Regional Training Manager - Sales",
+      "url": "https://www.adzuna.in/details/5953377256?utm_medium=api&utm_source=1b39c183",
+      "location": "Delhi",
+      "posted": "",
+      "postedAt": "2026-11-05",
+      "firstSeen": "2026-11-05",
+      "source": "adzuna",
+      "fn": "Business Development & Sales",
+      "level": "Senior"
     }
   ],
   "getinge": [
@@ -30112,6 +29691,32 @@
       "firstSeen": "2026-10-19",
       "type": "Full-time",
       "level": "Lead",
+      "source": "linkedin",
+      "fn": "Business Development & Sales"
+    }
+  ],
+  "artarium": [
+    {
+      "title": "Field Sales Specialist",
+      "url": "https://in.linkedin.com/jobs/view/field-sales-specialist-at-artarium-4479669964?trk=public_jobs_topcard-title",
+      "location": "Gurugram, Haryana",
+      "posted": "3 hours ago",
+      "postedAt": "2026-10-18",
+      "firstSeen": "2026-10-18",
+      "type": "Full-time",
+      "level": "Senior",
+      "source": "linkedin",
+      "fn": "Business Development & Sales"
+    },
+    {
+      "title": "Retail Sales Executive",
+      "url": "https://in.linkedin.com/jobs/view/retail-sales-executive-at-artarium-4478835588?trk=public_jobs_topcard-title",
+      "location": "Gurgaon, Haryana",
+      "posted": "49 minutes ago",
+      "postedAt": "2026-10-13",
+      "firstSeen": "2026-10-15",
+      "type": "Full-time",
+      "level": "Junior",
       "source": "linkedin",
       "fn": "Business Development & Sales"
     }
@@ -30962,6 +30567,44 @@
       "level": "Junior",
       "source": "linkedin",
       "fn": "Other"
+    }
+  ],
+  "enviropol-engineers-pvt-ltd": [
+    {
+      "title": "Assistant Account Executive",
+      "url": "https://in.linkedin.com/jobs/view/assistant-account-executive-at-enviropol-engineers-pvt-ltd-4479661393?trk=public_jobs_topcard-title",
+      "location": "Noida, Uttar Pradesh",
+      "posted": "1 hour ago",
+      "postedAt": "2026-10-17",
+      "firstSeen": "2026-10-17",
+      "type": "Full-time",
+      "level": "Junior",
+      "source": "linkedin",
+      "fn": "Business Development & Sales"
+    },
+    {
+      "title": "Asi. Account-Executive",
+      "url": "https://in.linkedin.com/jobs/view/asi-account-executive-at-enviropol-engineers-pvt-ltd-4479968019?trk=public_jobs_topcard-title",
+      "location": "Noida, Uttar Pradesh",
+      "posted": "1 hour ago",
+      "postedAt": "2026-10-19",
+      "firstSeen": "2026-10-19",
+      "type": "Full-time",
+      "level": "Junior",
+      "source": "linkedin",
+      "fn": "Other"
+    },
+    {
+      "title": "Account Executive",
+      "url": "https://in.linkedin.com/jobs/view/account-executive-at-enviropol-engineers-pvt-ltd-4478834816?trk=public_jobs_topcard-title",
+      "location": "Noida, Uttar Pradesh",
+      "posted": "4 minutes ago",
+      "postedAt": "2026-10-15",
+      "firstSeen": "2026-10-15",
+      "type": "Full-time",
+      "level": "Junior",
+      "source": "linkedin",
+      "fn": "Business Development & Sales"
     }
   ],
   "haleon": [
@@ -33852,6 +33495,20 @@
       "level": "Senior",
       "source": "linkedin",
       "fn": "Software Engineer"
+    }
+  ],
+  "iitjobs-inc": [
+    {
+      "title": "ServiceNow Administrator - Noida, India",
+      "url": "https://in.linkedin.com/jobs/view/servicenow-administrator-noida-india-at-iitjobs-inc-4478197749?trk=public_jobs_topcard-title",
+      "location": "Noida, Uttar Pradesh",
+      "posted": "1 hour ago",
+      "postedAt": "2026-10-15",
+      "firstSeen": "2026-10-15",
+      "type": "Contract",
+      "level": "Senior",
+      "source": "linkedin",
+      "fn": "IT Support & Admin"
     }
   ],
   "talent-integrators": [
@@ -40365,6 +40022,114 @@
       "fn": "Other"
     }
   ],
+  "skillinabox": [
+    {
+      "title": "Senior Business Development Executive",
+      "url": "https://in.linkedin.com/jobs/view/senior-business-development-executive-at-skillinabox-4479691276?trk=public_jobs_topcard-title",
+      "location": "Noida, Uttar Pradesh",
+      "posted": "15 hours ago",
+      "postedAt": "2026-10-17",
+      "firstSeen": "2026-10-18",
+      "type": "Full-time",
+      "level": "Senior",
+      "source": "linkedin",
+      "fn": "Business Development & Sales"
+    },
+    {
+      "title": "Cinematographer Intern",
+      "url": "https://in.linkedin.com/jobs/view/cinematographer-intern-at-skillinabox-4479690271?trk=public_jobs_topcard-title",
+      "location": "Noida, Uttar Pradesh",
+      "posted": "15 hours ago",
+      "postedAt": "2026-10-17",
+      "firstSeen": "2026-10-18",
+      "type": "Internship",
+      "level": "Intern",
+      "source": "linkedin",
+      "fn": "Other"
+    },
+    {
+      "title": "Social Media Marketing Intern",
+      "url": "https://in.linkedin.com/jobs/view/social-media-marketing-intern-at-skillinabox-4479685604?trk=public_jobs_topcard-title",
+      "location": "Noida, Uttar Pradesh",
+      "posted": "15 hours ago",
+      "postedAt": "2026-10-17",
+      "firstSeen": "2026-10-18",
+      "type": "Internship",
+      "level": "Intern",
+      "source": "linkedin",
+      "fn": "Digital Marketing"
+    },
+    {
+      "title": "Academic Counsellor",
+      "url": "https://www.adzuna.in/land/ad/5881766495?se=ULchKTOv8RGhe8--YZ_w9w&utm_medium=api&utm_source=116859ef&v=EBD7D1BEF69DD7DFBBBF40CC7D2A1F32BD4A6554",
+      "location": "Noida, Ghaziabad",
+      "posted": "",
+      "postedAt": "2026-09-13",
+      "firstSeen": "2026-09-13",
+      "source": "adzuna",
+      "fn": "Business Development & Sales",
+      "level": "Mid"
+    },
+    {
+      "title": "Executive Assistant Intern",
+      "url": "https://www.adzuna.in/land/ad/5882598079?se=ZjxxOfGv8RGQCqo3hlJMDA&utm_medium=api&utm_source=1b39c183&v=3E3DCE19EEA6210673051F0154F594707C27806C",
+      "location": "Noida, Ghaziabad",
+      "posted": "",
+      "postedAt": "2026-09-13",
+      "firstSeen": "2026-09-13",
+      "source": "adzuna",
+      "fn": "Admin & Legal",
+      "level": "Intern"
+    },
+    {
+      "title": "Makeup Artist Trainer",
+      "url": "https://www.adzuna.in/land/ad/5893930141?se=ZoDKgg238RGKAvdujdZdoA&utm_medium=api&utm_source=1b39c183&v=67D0143C28447FEB8EA2C6550F1C9708EB78124E",
+      "location": "Noida, Ghaziabad",
+      "posted": "",
+      "postedAt": "2026-09-22",
+      "firstSeen": "2026-09-22",
+      "type": "Part-time",
+      "source": "adzuna",
+      "fn": "UI/UX & Graphic Design",
+      "level": "Mid"
+    },
+    {
+      "title": "Fashion Designer",
+      "url": "https://www.adzuna.in/land/ad/5893925063?se=ZoDKgg238RGKAvdujdZdoA&utm_medium=api&utm_source=1b39c183&v=FFE2C6FD175B919C83345B4D18203282C7B711B1",
+      "location": "Noida, Ghaziabad",
+      "posted": "",
+      "postedAt": "2026-09-22",
+      "firstSeen": "2026-09-22",
+      "type": "Full-time",
+      "source": "adzuna",
+      "fn": "UI/UX & Graphic Design",
+      "level": "Mid"
+    },
+    {
+      "title": "Business Development Executive",
+      "url": "https://www.adzuna.in/land/ad/5891690276?se=qHY8gw238RGSS7o4hAxT2Q&utm_medium=api&utm_source=1b39c183&v=467F13BEA5D714BA31E8BCAE2A53FE12BB1A89E7",
+      "location": "Noida, Ghaziabad",
+      "posted": "",
+      "postedAt": "2026-09-20",
+      "firstSeen": "2026-09-20",
+      "source": "adzuna",
+      "fn": "Business Development & Sales",
+      "level": "Junior"
+    },
+    {
+      "title": "UI/UX Designer",
+      "url": "https://www.adzuna.in/details/5927319610?utm_medium=api&utm_source=1b39c183",
+      "location": "Noida, Ghaziabad",
+      "posted": "",
+      "postedAt": "2026-10-14",
+      "firstSeen": "2026-10-14",
+      "salary": "3.5 LPA – 5 LPA",
+      "type": "Full-time",
+      "source": "adzuna",
+      "fn": "UI/UX & Graphic Design",
+      "level": "Mid"
+    }
+  ],
   "m-moser-associates": [
     {
       "title": "Construction Manager",
@@ -42209,6 +41974,18 @@
       "source": "adzuna",
       "fn": "Data Analyst",
       "level": "Junior"
+    },
+    {
+      "title": "Gifts and Hospitality and Anti-Bribery & Corruption (GH/ABC) Senior Manager",
+      "url": "https://www.adzuna.in/details/5957248329?utm_medium=api&utm_source=1b39c183",
+      "location": "Gurgaon",
+      "posted": "",
+      "postedAt": "2026-11-07",
+      "firstSeen": "2026-11-07",
+      "type": "Full-time",
+      "source": "adzuna",
+      "fn": "Other",
+      "level": "Senior"
     }
   ],
   "bacardi": [
@@ -43460,6 +43237,17 @@
       "source": "adzuna",
       "fn": "Customer Support",
       "level": "Senior"
+    },
+    {
+      "title": "Modernization Solution Architect",
+      "url": "https://www.adzuna.in/details/5952702228?utm_medium=api&utm_source=1b39c183",
+      "location": "Gurgaon",
+      "posted": "",
+      "postedAt": "2026-11-04",
+      "firstSeen": "2026-11-04",
+      "source": "adzuna",
+      "fn": "Consultant",
+      "level": "Mid"
     }
   ],
   "nation-with-namo": [
@@ -49074,6 +48862,33 @@
       "fn": "Operations & Supply Chain"
     }
   ],
+  "quickflo": [
+    {
+      "title": "Influencer Marketing Manager",
+      "url": "https://in.linkedin.com/jobs/view/influencer-marketing-manager-at-quickflo-4477732143?trk=public_jobs_topcard-title",
+      "location": "Gurugram, Haryana",
+      "posted": "8 hours ago",
+      "postedAt": "2026-10-16",
+      "firstSeen": "2026-10-17",
+      "type": "Full-time",
+      "level": "Senior",
+      "source": "linkedin",
+      "fn": "Digital Marketing"
+    },
+    {
+      "title": "Recruitment Consultant",
+      "url": "https://internshala.com/internship/detail/recruitment-consultant-internship-in-gurgaon-at-quickflo1789302124",
+      "location": "Gurgaon",
+      "posted": "",
+      "postedAt": "2026-09-13",
+      "firstSeen": "2026-09-13",
+      "salary": "₹ 10,000 - 20,000 /month",
+      "type": "Internship",
+      "source": "internshala",
+      "fn": "Consultant",
+      "level": "Mid"
+    }
+  ],
   "mehta-transport-corporation-of-india": [
     {
       "title": "Area Sales Manager",
@@ -50630,6 +50445,17 @@
       "firstSeen": "2026-10-31",
       "source": "adzuna",
       "fn": "Content Writer",
+      "level": "Mid"
+    },
+    {
+      "title": "Consultant - Natural Gas & Fuels",
+      "url": "https://www.adzuna.in/details/5953950095?utm_medium=api&utm_source=1b39c183",
+      "location": "New Delhi",
+      "posted": "",
+      "postedAt": "2026-11-05",
+      "firstSeen": "2026-11-05",
+      "source": "adzuna",
+      "fn": "Consultant",
       "level": "Mid"
     }
   ],
@@ -53591,6 +53417,31 @@
       "fn": "UI/UX & Graphic Design"
     }
   ],
+  "fairgrowth-management-consultants-pvt-ltd": [
+    {
+      "title": "Architecture Manager",
+      "url": "https://in.linkedin.com/jobs/view/architecture-manager-at-fairgrowth-management-consultants-pvt-ltd-4477769318?trk=public_jobs_topcard-title",
+      "location": "New Delhi, Delhi",
+      "posted": "21 hours ago",
+      "postedAt": "2026-10-17",
+      "firstSeen": "2026-10-18",
+      "type": "Full-time",
+      "level": "Senior",
+      "source": "linkedin",
+      "fn": "Software Engineer"
+    },
+    {
+      "title": "Senior Lead Audit / Assurance",
+      "url": "https://www.adzuna.in/land/ad/5868794592?se=cLGjpleo8RGmsIujE42SGA&utm_medium=api&utm_source=116859ef&v=F7927681074A2A45E1F09D6B1056B6A967C8C86C",
+      "location": "Delhi",
+      "posted": "",
+      "postedAt": "2026-09-03",
+      "firstSeen": "2026-09-03",
+      "source": "adzuna",
+      "fn": "Finance & Accounts",
+      "level": "Lead"
+    }
+  ],
   "vrikshit-foundation": [
     {
       "title": "Script Writer",
@@ -56041,6 +55892,20 @@
       "fn": "Business Development & Sales"
     }
   ],
+  "hypronline": [
+    {
+      "title": "Client Servicing Manager- Digital Marketing Agency",
+      "url": "https://in.linkedin.com/jobs/view/client-servicing-manager-digital-marketing-agency-at-hypronline%E2%84%A2-4479949645?trk=public_jobs_topcard-title",
+      "location": "Gurugram, Haryana",
+      "posted": "1 hour ago",
+      "postedAt": "2026-10-19",
+      "firstSeen": "2026-10-19",
+      "type": "Full-time",
+      "level": "Senior",
+      "source": "linkedin",
+      "fn": "Digital Marketing"
+    }
+  ],
   "urbane-the-design-workshop": [
     {
       "title": "Interior purchase manager",
@@ -57672,6 +57537,17 @@
       "firstSeen": "2026-11-05",
       "source": "adzuna",
       "fn": "Other",
+      "level": "Mid"
+    },
+    {
+      "title": "Adobe Analytics & Customer Journey Analytics",
+      "url": "https://www.adzuna.in/details/5953164294?utm_medium=api&utm_source=1b39c183",
+      "location": "Noida, Ghaziabad",
+      "posted": "",
+      "postedAt": "2026-11-04",
+      "firstSeen": "2026-11-04",
+      "source": "adzuna",
+      "fn": "Data Analyst",
       "level": "Mid"
     }
   ],
@@ -59508,19 +59384,6 @@
       "level": "Junior"
     }
   ],
-  "ontic": [
-    {
-      "title": "Manager, Product Design",
-      "url": "https://jobs.ashbyhq.com/Ontic/d47d7285-75bd-43cb-87e4-f06070249283",
-      "location": "Noida, India",
-      "source": "careers",
-      "posted": "",
-      "postedAt": "2026-09-14",
-      "firstSeen": "2026-09-14",
-      "fn": "UI/UX & Graphic Design",
-      "level": "Senior"
-    }
-  ],
   "paypay-india": [
     {
       "title": "01.Backend Engineer",
@@ -59635,19 +59498,6 @@
       "level": "Mid"
     }
   ],
-  "map": [
-    {
-      "title": "Lead QA Engineer",
-      "url": "https://job-boards.greenhouse.io/map/jobs/8441199002",
-      "location": "New Delhi, Delhi, India",
-      "source": "careers",
-      "posted": "",
-      "postedAt": "2026-09-07",
-      "firstSeen": "2026-09-07",
-      "fn": "QA & Testing",
-      "level": "Lead"
-    }
-  ],
   "primevigilance": [
     {
       "title": "Operations Manager (PV Systems)",
@@ -59716,6 +59566,32 @@
       "firstSeen": "2026-09-07",
       "fn": "Business Development & Sales",
       "level": "Senior"
+    }
+  ],
+  "ontic": [
+    {
+      "title": "Manager, Product Design",
+      "url": "https://jobs.ashbyhq.com/Ontic/d47d7285-75bd-43cb-87e4-f06070249283",
+      "location": "Noida, India",
+      "source": "careers",
+      "posted": "",
+      "postedAt": "2026-09-14",
+      "firstSeen": "2026-09-14",
+      "fn": "UI/UX & Graphic Design",
+      "level": "Senior"
+    }
+  ],
+  "map": [
+    {
+      "title": "Lead QA Engineer",
+      "url": "https://job-boards.greenhouse.io/map/jobs/8441199002",
+      "location": "New Delhi, Delhi, India",
+      "source": "careers",
+      "posted": "",
+      "postedAt": "2026-09-07",
+      "firstSeen": "2026-09-07",
+      "fn": "QA & Testing",
+      "level": "Lead"
     }
   ],
   "interpath": [
@@ -62453,6 +62329,18 @@
       "source": "adzuna",
       "fn": "Software Engineer",
       "level": "Senior"
+    },
+    {
+      "title": "Sr. Engineer II - Service Operation Engineer",
+      "url": "https://www.adzuna.in/details/5957247904?utm_medium=api&utm_source=1b39c183",
+      "location": "Noida, Ghaziabad",
+      "posted": "",
+      "postedAt": "2026-11-07",
+      "firstSeen": "2026-11-07",
+      "type": "Full-time",
+      "source": "adzuna",
+      "fn": "Software Engineer",
+      "level": "Senior"
     }
   ],
   "smart-energy-water": [
@@ -64214,6 +64102,18 @@
       "source": "adzuna",
       "fn": "Other",
       "level": "Junior"
+    },
+    {
+      "title": "Jr. Analyst – HR Operations (Temporary/Contingent)",
+      "url": "https://www.adzuna.in/details/5957255574?utm_medium=api&utm_source=1b39c183",
+      "location": "Gurgaon",
+      "posted": "",
+      "postedAt": "2026-11-07",
+      "firstSeen": "2026-11-07",
+      "type": "Full-time",
+      "source": "adzuna",
+      "fn": "HR & Recruiter",
+      "level": "Junior"
     }
   ],
   "konverz-ai": [
@@ -65972,6 +65872,18 @@
       "source": "adzuna",
       "fn": "Other",
       "level": "Senior"
+    },
+    {
+      "title": "HR Associate Partner, AMZL - Last Mile Operation",
+      "url": "https://www.adzuna.in/details/5957024930?utm_medium=api&utm_source=1b39c183",
+      "location": "Ghaziabad",
+      "posted": "",
+      "postedAt": "2026-11-07",
+      "firstSeen": "2026-11-07",
+      "type": "Full-time",
+      "source": "adzuna",
+      "fn": "HR & Recruiter",
+      "level": "Junior"
     }
   ],
   "cognex-corporation": [
@@ -66996,6 +66908,17 @@
       "source": "adzuna",
       "fn": "Data Scientist & AI/ML",
       "level": "Senior"
+    },
+    {
+      "title": "Consultant - R01571473",
+      "url": "https://www.adzuna.in/details/5955790934?utm_medium=api&utm_source=1b39c183",
+      "location": "Gurgaon",
+      "posted": "",
+      "postedAt": "2026-11-06",
+      "firstSeen": "2026-11-06",
+      "source": "adzuna",
+      "fn": "Consultant",
+      "level": "Mid"
     }
   ],
   "situsamc": [
@@ -68749,6 +68672,18 @@
       "source": "adzuna",
       "fn": "Other",
       "level": "Senior"
+    },
+    {
+      "title": "Assistant Cost Manager -MEP",
+      "url": "https://www.adzuna.in/details/5955886933?utm_medium=api&utm_source=1b39c183",
+      "location": "Delhi",
+      "posted": "",
+      "postedAt": "2026-11-07",
+      "firstSeen": "2026-11-07",
+      "type": "Full-time",
+      "source": "adzuna",
+      "fn": "Other",
+      "level": "Senior"
     }
   ],
   "meenaar-global-consultants-llp": [
@@ -69189,6 +69124,18 @@
       "source": "adzuna",
       "fn": "QA & Testing",
       "level": "Mid"
+    },
+    {
+      "title": "Senior .NET Microservices Engineer",
+      "url": "https://www.adzuna.in/details/5956304671?utm_medium=api&utm_source=1b39c183",
+      "location": "Gurgaon",
+      "posted": "",
+      "postedAt": "2026-11-07",
+      "firstSeen": "2026-11-07",
+      "source": "adzuna",
+      "fn": "Software Engineer",
+      "specialty": "Backend",
+      "level": "Senior"
     }
   ],
   "gravity-infosolutions-inc": [
@@ -73619,6 +73566,18 @@
       "source": "adzuna",
       "fn": "Consultant",
       "level": "Mid"
+    },
+    {
+      "title": "Sales Specialist",
+      "url": "https://www.adzuna.in/details/5957257402?utm_medium=api&utm_source=1b39c183",
+      "location": "New Delhi",
+      "posted": "",
+      "postedAt": "2026-11-07",
+      "firstSeen": "2026-11-07",
+      "type": "Full-time",
+      "source": "adzuna",
+      "fn": "Business Development & Sales",
+      "level": "Senior"
     }
   ],
   "plan-india": [
@@ -77013,6 +76972,29 @@
       "postedAt": "2026-11-07",
       "firstSeen": "2026-11-07",
       "type": "Full-time",
+      "source": "adzuna",
+      "fn": "IT Support & Admin",
+      "level": "Lead"
+    },
+    {
+      "title": "Principal Advanced Services Engineer - Oracle DBA",
+      "url": "https://www.adzuna.in/details/5955795995?utm_medium=api&utm_source=1b39c183",
+      "location": "New Delhi",
+      "posted": "",
+      "postedAt": "2026-11-06",
+      "firstSeen": "2026-11-06",
+      "type": "Full-time",
+      "source": "adzuna",
+      "fn": "IT Support & Admin",
+      "level": "Lead"
+    },
+    {
+      "title": "Senior Principal Advanced Services Engineer - Oracle DBA",
+      "url": "https://www.adzuna.in/details/5955404125?utm_medium=api&utm_source=1b39c183",
+      "location": "New Delhi",
+      "posted": "",
+      "postedAt": "2026-11-06",
+      "firstSeen": "2026-11-06",
       "source": "adzuna",
       "fn": "IT Support & Admin",
       "level": "Lead"
