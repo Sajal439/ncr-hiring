@@ -22214,7 +22214,7 @@
     "company": "Per4mance Guru",
     "location": "Delhi",
     "url": "https://internshala.com/job/detail/senior-social-media-marketing-associate-job-in-delhi-at-per4mance-guru1793680518",
-    "actively_hiring": true
+    "actively_hiring": false
   },
   {
     "kind": "job",
@@ -23299,6 +23299,134 @@
     "company": "Art Of Puja",
     "location": "Gurgaon",
     "url": "https://internshala.com/job/detail/graphic-designer-job-in-gurgaon-at-art-of-puja1794067484",
+    "actively_hiring": true
+  },
+  {
+    "kind": "internship",
+    "title": "Video Editing/Making",
+    "company": "Be Rolling Media",
+    "location": "Delhi",
+    "stipend": "₹ 8,000 - 9,000 /month",
+    "duration": "4 Months",
+    "url": "https://internshala.com/internship/detail/video-editing-making-internship-in-delhi-at-be-rolling-media1794165400",
+    "actively_hiring": true
+  },
+  {
+    "kind": "internship",
+    "title": "Client Servicing",
+    "company": "Be Rolling Media",
+    "location": "Delhi",
+    "stipend": "₹ 7,000 - 8,000 /month",
+    "duration": "4 Months",
+    "url": "https://internshala.com/internship/detail/client-servicing-internship-in-delhi-at-be-rolling-media1794165193",
+    "actively_hiring": true
+  },
+  {
+    "kind": "internship",
+    "title": "AI Filmmaking Intern",
+    "company": "Be Rolling Media",
+    "location": "Delhi",
+    "stipend": "₹ 7,000 - 8,000 /month",
+    "duration": "4 Months",
+    "url": "https://internshala.com/internship/detail/ai-filmmaking-intern-internship-in-delhi-at-be-rolling-media1794205091",
+    "actively_hiring": true
+  },
+  {
+    "kind": "internship",
+    "title": "Business Development (Sales)",
+    "company": "Be Rolling Media",
+    "location": "Delhi",
+    "stipend": "₹ 7,000 - 8,000 /month",
+    "duration": "4 Months",
+    "url": "https://internshala.com/internship/detail/business-development-sales-internship-in-delhi-at-be-rolling-media1794165486",
+    "actively_hiring": true
+  },
+  {
+    "kind": "internship",
+    "title": "Copywriting",
+    "company": "Be Rolling Media",
+    "location": "Delhi",
+    "stipend": "₹ 5,000 - 6,000 /month",
+    "duration": "4 Months",
+    "url": "https://internshala.com/internship/detail/copywriting-internship-in-delhi-at-be-rolling-media1794165440",
+    "actively_hiring": true
+  },
+  {
+    "kind": "internship",
+    "title": "Accounting",
+    "company": "Be Rolling Media",
+    "location": "Delhi",
+    "stipend": "₹ 5,000 - 6,000 /month",
+    "duration": "4 Months",
+    "url": "https://internshala.com/internship/detail/accounting-internship-in-delhi-at-be-rolling-media1794165462",
+    "actively_hiring": true
+  },
+  {
+    "kind": "internship",
+    "title": "Telecalling Executive",
+    "company": "RTRIA Consulting Services Private Limited",
+    "location": "Gurgaon",
+    "stipend": "₹ 16,000 - 22,000 /month",
+    "duration": "4 Months",
+    "url": "https://internshala.com/internship/detail/telecalling-executive-internship-in-gurgaon-at-rtria-consulting-services-private-limited1794204526",
+    "actively_hiring": true
+  },
+  {
+    "kind": "internship",
+    "title": "Startup Funding & Grants Research",
+    "company": "Sankar Group",
+    "location": "Delhi",
+    "stipend": "₹ 3,000 - 3,001 /month",
+    "duration": "6 Months",
+    "url": "https://internshala.com/internship/detail/startup-funding-grants-research-internship-in-delhi-at-sankar-group1794199064",
+    "actively_hiring": true
+  },
+  {
+    "kind": "job",
+    "title": "Video Editor",
+    "company": "Be Rolling Media",
+    "location": "Delhi",
+    "url": "https://internshala.com/job/detail/video-editor-job-in-delhi-at-be-rolling-media1794196976",
+    "actively_hiring": true
+  },
+  {
+    "kind": "job",
+    "title": "Junior Accountant",
+    "company": "Be Rolling Media",
+    "location": "Delhi",
+    "url": "https://internshala.com/job/detail/junior-accountant-job-in-delhi-at-be-rolling-media1794167201",
+    "actively_hiring": true
+  },
+  {
+    "kind": "job",
+    "title": "Sales Executive",
+    "company": "RegisterKaro",
+    "location": "Gurgaon",
+    "url": "https://internshala.com/job/detail/fresher-sales-executive-job-in-gurgaon-at-registerkaro1794205474",
+    "actively_hiring": true
+  },
+  {
+    "kind": "job",
+    "title": "Field Sales Executive - Trade Books",
+    "company": "Wisdom Tree",
+    "location": "Gurgaon",
+    "url": "https://internshala.com/job/detail/field-sales-executive-trade-books-job-in-gurgaon-at-wisdom-tree1794194832",
+    "actively_hiring": true
+  },
+  {
+    "kind": "job",
+    "title": "Social Media Content Creator",
+    "company": "Smart Investors",
+    "location": "Gurgaon, Mahendragarh, Rewari",
+    "url": "https://internshala.com/job/detail/fresher-social-media-content-creator-job-in-multiple-locations-at-smart-investors1794194755",
+    "actively_hiring": true
+  },
+  {
+    "kind": "job",
+    "title": "Social Media Manager - Content Creator",
+    "company": "Art Of Puja",
+    "location": "Gurgaon",
+    "url": "https://internshala.com/job/detail/social-media-manager-content-creator-job-in-gurgaon-at-art-of-puja1794196708",
     "actively_hiring": true
   }
 ]
