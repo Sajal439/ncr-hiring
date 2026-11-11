@@ -99,6 +99,14 @@
       "source": "careers"
     }
   ],
+  "primevigilance": [
+    {
+      "title": "Operations Manager (PV Systems)",
+      "url": "https://careers.smartrecruiters.com/Ergomed/744000159560000",
+      "location": "Noida, in",
+      "source": "careers"
+    }
+  ],
   "paypay-india": [
     {
       "title": "01.Backend Engineer",
@@ -161,14 +169,6 @@
       "source": "careers"
     }
   ],
-  "ontic": [
-    {
-      "title": "Manager, Product Design",
-      "url": "https://jobs.ashbyhq.com/Ontic/d47d7285-75bd-43cb-87e4-f06070249283",
-      "location": "Noida, India",
-      "source": "careers"
-    }
-  ],
   "map": [
     {
       "title": "Lead QA Engineer",
@@ -177,16 +177,18 @@
       "source": "careers"
     }
   ],
+  "ontic": [
+    {
+      "title": "Manager, Product Design",
+      "url": "https://jobs.ashbyhq.com/Ontic/d47d7285-75bd-43cb-87e4-f06070249283",
+      "location": "Noida, India",
+      "source": "careers"
+    }
+  ],
   "wizikey": [
     {
-      "title": "Sales Executive - B2B SaaS",
-      "url": "https://careers.smartrecruiters.com/Wizikey/744000150346079",
-      "location": "Gurugram, in",
-      "source": "careers"
-    },
-    {
-      "title": "Sales Manager – B2B SaaS",
-      "url": "https://careers.smartrecruiters.com/Wizikey/744000148672349",
+      "title": "Sales Executive - B2B SaaS ",
+      "url": "https://careers.smartrecruiters.com/Wizikey/744000160831752",
       "location": "Gurugram, in",
       "source": "careers"
     },
@@ -197,19 +199,29 @@
       "source": "careers"
     }
   ],
-  "athena-education": [
+  "welocalize": [
     {
-      "title": "Technical Director- Writing",
-      "url": "https://jobs.lever.co/athena-education/4b1432e7-7ed4-4502-9441-506861d6ebe9",
-      "location": "Gurugram",
+      "title": "Associate Technical Publication Engineer",
+      "url": "https://jobs.lever.co/weloglobal/7903f79a-fe0f-46e3-ac8b-83b607574453",
+      "location": "Gurgaon, India",
       "source": "careers"
-    }
-  ],
-  "primevigilance": [
+    },
     {
-      "title": "Operations Manager (PV Systems)",
-      "url": "https://careers.smartrecruiters.com/Ergomed/744000159560000",
-      "location": "Noida, in",
+      "title": "Hindi Linguist",
+      "url": "https://jobs.lever.co/weloglobal/b1209960-15d0-4bca-883f-0304548215c0",
+      "location": "Gurgaon, India",
+      "source": "careers"
+    },
+    {
+      "title": "Localization Quality Coordinator",
+      "url": "https://jobs.lever.co/weloglobal/de45c6df-455b-4626-9c9d-b46a69ab8c00",
+      "location": "Gurgaon, India",
+      "source": "careers"
+    },
+    {
+      "title": "Trust and Safety Specialist",
+      "url": "https://jobs.lever.co/weloglobal/affa98bf-9d49-4b66-b57b-aae2c8f1c89c",
+      "location": "Gurgaon, India",
       "source": "careers"
     }
   ],
@@ -389,29 +401,11 @@
       "source": "careers"
     }
   ],
-  "welocalize": [
+  "athena-education": [
     {
-      "title": "Associate Technical Publication Engineer",
-      "url": "https://jobs.lever.co/weloglobal/7903f79a-fe0f-46e3-ac8b-83b607574453",
-      "location": "Gurgaon, India",
-      "source": "careers"
-    },
-    {
-      "title": "Hindi Linguist",
-      "url": "https://jobs.lever.co/weloglobal/b1209960-15d0-4bca-883f-0304548215c0",
-      "location": "Gurgaon, India",
-      "source": "careers"
-    },
-    {
-      "title": "Localization Quality Coordinator",
-      "url": "https://jobs.lever.co/weloglobal/de45c6df-455b-4626-9c9d-b46a69ab8c00",
-      "location": "Gurgaon, India",
-      "source": "careers"
-    },
-    {
-      "title": "Trust and Safety Specialist",
-      "url": "https://jobs.lever.co/weloglobal/affa98bf-9d49-4b66-b57b-aae2c8f1c89c",
-      "location": "Gurgaon, India",
+      "title": "Technical Director- Writing",
+      "url": "https://jobs.lever.co/athena-education/4b1432e7-7ed4-4502-9441-506861d6ebe9",
+      "location": "Gurugram",
       "source": "careers"
     }
   ]
