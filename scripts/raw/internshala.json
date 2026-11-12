@@ -21080,7 +21080,7 @@
     "company": "Mai Health",
     "location": "Noida",
     "url": "https://internshala.com/job/detail/sales-executive-job-in-noida-at-mai-health1793180537",
-    "actively_hiring": false
+    "actively_hiring": true
   },
   {
     "kind": "job",
@@ -23914,6 +23914,342 @@
     "company": "Budding Mariners",
     "location": "Delhi, Mumbai, Jaipur, Noida",
     "url": "https://internshala.com/job/detail/fresher-physics-teacher-job-in-multiple-locations-at-budding-mariners1794301109",
+    "actively_hiring": true
+  },
+  {
+    "kind": "internship",
+    "title": "Influencer Marketing",
+    "company": "BookLeaf Publishing",
+    "location": "Delhi",
+    "stipend": "₹ 10,000 - 20,000 /month",
+    "duration": "6 Months",
+    "url": "https://internshala.com/internship/detail/influencer-marketing-internship-in-delhi-at-bookleaf-publishing1794462198",
+    "actively_hiring": true
+  },
+  {
+    "kind": "internship",
+    "title": "Social Media Marketing",
+    "company": "FabAlley",
+    "location": "Noida",
+    "stipend": "₹ 5,000 - 5,001 /month",
+    "duration": "3 Months",
+    "url": "https://internshala.com/internship/detail/social-media-marketing-internship-in-noida-at-faballey1794454688",
+    "actively_hiring": true
+  },
+  {
+    "kind": "internship",
+    "title": "Delegate Acquisition Intern",
+    "company": "Times Internet Limited",
+    "location": "Noida",
+    "stipend": "₹ 10,000 /month",
+    "duration": "6 Months",
+    "url": "https://internshala.com/internship/detail/delegate-acquisition-internship-in-noida-at-times-internet-limited1794467430",
+    "actively_hiring": true
+  },
+  {
+    "kind": "internship",
+    "title": "Client Outreach & Lead Generation",
+    "company": "ConsultBae",
+    "location": "Gurgaon",
+    "stipend": "₹ 10,000 - 12,000 /month",
+    "duration": "6 Months",
+    "url": "https://internshala.com/internship/detail/client-outreach-lead-generation-internship-in-gurgaon-at-consultbae1794466505",
+    "actively_hiring": true
+  },
+  {
+    "kind": "internship",
+    "title": "Outreach Executive",
+    "company": "ConsultBae",
+    "location": "Gurgaon",
+    "stipend": "₹ 10,000 - 12,000 /month",
+    "duration": "6 Months",
+    "url": "https://internshala.com/internship/detail/outreach-executive-internship-in-gurgaon-at-consultbae1794466701",
+    "actively_hiring": true
+  },
+  {
+    "kind": "internship",
+    "title": "Business Development",
+    "company": "ConsultBae",
+    "location": "Gurgaon",
+    "stipend": "₹ 10,000 - 12,000 /month",
+    "duration": "6 Months",
+    "url": "https://internshala.com/internship/detail/business-development-internship-in-gurgaon-at-consultbae1794466610",
+    "actively_hiring": true
+  },
+  {
+    "kind": "internship",
+    "title": "Graphic Design",
+    "company": "RIMS FURNITECH Private Limited",
+    "location": "Delhi",
+    "stipend": "₹ 8,000 /month",
+    "duration": "3 Months",
+    "url": "https://internshala.com/internship/detail/graphic-design-internship-in-delhi-at-rims-furnitech-private-limited1794463872",
+    "actively_hiring": true
+  },
+  {
+    "kind": "internship",
+    "title": "Telecaller Intern – Supremex India",
+    "company": "SUPREMEX INDIA",
+    "location": "Delhi, Gurgaon",
+    "stipend": "₹ 12,000 /month",
+    "duration": "6 Months",
+    "url": "https://internshala.com/internship/detail/telecaller-internship-in-multiple-locations-at-supremex-india1794460372",
+    "actively_hiring": true
+  },
+  {
+    "kind": "internship",
+    "title": "Artificial Intelligence (AI)",
+    "company": "Trijotech Software Consulting Private Limited",
+    "location": "Ghaziabad, Greater Noida, Noida",
+    "stipend": "₹ 15,000 /month",
+    "duration": "6 Months",
+    "url": "https://internshala.com/internship/detail/artificial-intelligence-ai-internship-in-multiple-locations-at-trijotech-software-consulting-private-limited1794459372",
+    "actively_hiring": true
+  },
+  {
+    "kind": "internship",
+    "title": "Graphic Design",
+    "company": "CannonBall India",
+    "location": "Delhi, Gurgaon, Noida, Fariabad",
+    "stipend": "₹ 14,500 - 18,000 /month",
+    "duration": "4 Months",
+    "url": "https://internshala.com/internship/detail/graphic-design-internship-in-multiple-locations-at-cannonball-india1794304676",
+    "actively_hiring": true
+  },
+  {
+    "kind": "internship",
+    "title": "IoT Field Application Engineer",
+    "company": "UNIO Labs",
+    "location": "Delhi, Gurgaon, Greater Noida, Noida",
+    "stipend": "₹ 5,000 - 10,000 /month",
+    "duration": "3 Months",
+    "url": "https://internshala.com/internship/detail/iot-field-application-engineer-internship-in-multiple-locations-at-unio-labs1794398659",
+    "actively_hiring": true
+  },
+  {
+    "kind": "internship",
+    "title": "Program Management",
+    "company": "Times Internet Limited",
+    "location": "Noida",
+    "stipend": "₹ 15,000 - 20,000 /month",
+    "duration": "6 Months",
+    "url": "https://internshala.com/internship/detail/program-management-internship-in-noida-at-times-internet-limited1794384282",
+    "actively_hiring": true
+  },
+  {
+    "kind": "internship",
+    "title": "Reinforcement Learning & Data Science",
+    "company": "Arakoo",
+    "location": "Delhi, Noida",
+    "stipend": "₹ 30,000 - 40,000 /month",
+    "duration": "3 Months",
+    "url": "https://internshala.com/internship/detail/reinforcement-learning-data-science-internship-in-multiple-locations-at-arakoo1794417870",
+    "actively_hiring": true
+  },
+  {
+    "kind": "internship",
+    "title": "Video Editing/Making",
+    "company": "Leaf Studios",
+    "location": "Noida",
+    "stipend": "₹ 15,000 - 20,000 /month",
+    "duration": "3 Months",
+    "url": "https://internshala.com/internship/detail/video-editing-making-internship-in-noida-at-leaf-studios1794380747",
+    "actively_hiring": true
+  },
+  {
+    "kind": "internship",
+    "title": "Outreach & Partnership",
+    "company": "Hack2skill",
+    "location": "Noida",
+    "stipend": "₹ 13,000 - 15,000 /month",
+    "duration": "3 Months",
+    "url": "https://internshala.com/internship/detail/outreach-partnership-internship-in-noida-at-hack2skill1794383938",
+    "actively_hiring": true
+  },
+  {
+    "kind": "internship",
+    "title": "Food Quality Analyast",
+    "company": "FarmDidi",
+    "location": "Greater Noida",
+    "stipend": "₹ 5,000 - 10,000 /month",
+    "duration": "6 Months",
+    "url": "https://internshala.com/internship/detail/food-quality-analyast-internship-in-greater-noida-at-farmdidi1794402510",
+    "actively_hiring": true
+  },
+  {
+    "kind": "job",
+    "title": "Admission Counsellor",
+    "company": "Delhi Film Academy",
+    "location": "Gurgaon, Delhi, Noida, Haryana",
+    "url": "https://internshala.com/job/detail/fresher-admission-counsellor-job-in-multiple-locations-at-delhi-film-academy1794464265",
+    "actively_hiring": true
+  },
+  {
+    "kind": "job",
+    "title": "Business Growth Management",
+    "company": "Echo Booom",
+    "location": "Delhi",
+    "url": "https://internshala.com/job/detail/fresher-business-growth-management-job-in-delhi-at-echo-booom1794460364",
+    "actively_hiring": true
+  },
+  {
+    "kind": "job",
+    "title": "Social Media Manager",
+    "company": "Wo Health Pvt Ltd",
+    "location": "Delhi",
+    "url": "https://internshala.com/job/detail/fresher-social-media-manager-job-in-delhi-at-wo-health-pvt-ltd1794463977",
+    "actively_hiring": true
+  },
+  {
+    "kind": "job",
+    "title": "Paralegal",
+    "company": "UpTalkk",
+    "location": "Delhi",
+    "url": "https://internshala.com/job/detail/paralegal-job-in-delhi-at-uptalkk1794459771",
+    "actively_hiring": true
+  },
+  {
+    "kind": "job",
+    "title": "Area Sales Manager",
+    "company": "SUPREMEX INDIA",
+    "location": "Delhi, Gurgaon",
+    "url": "https://internshala.com/job/detail/area-sales-manager-job-in-multiple-locations-at-supremex-india1794459207",
+    "actively_hiring": true
+  },
+  {
+    "kind": "job",
+    "title": "Graphic Designer & Video Editor",
+    "company": "SUPREMEX INDIA",
+    "location": "Delhi, Gurgaon",
+    "url": "https://internshala.com/job/detail/graphic-designer-video-editor-job-in-multiple-locations-at-supremex-india1794459901",
+    "actively_hiring": true
+  },
+  {
+    "kind": "job",
+    "title": "Sales & Operations Executive",
+    "company": "Elevengroup",
+    "location": "Gurgaon",
+    "url": "https://internshala.com/job/detail/sales-operations-executive-job-in-gurgaon-at-elevengroup1793006373",
+    "actively_hiring": true
+  },
+  {
+    "kind": "job",
+    "title": "Junior Social Media Marketing Executive",
+    "company": "Elevengroup",
+    "location": "Gurgaon",
+    "url": "https://internshala.com/job/detail/junior-social-media-marketing-executive-job-in-gurgaon-at-elevengroup1793792517",
+    "actively_hiring": true
+  },
+  {
+    "kind": "job",
+    "title": "Business Development Executive",
+    "company": "JIRAIYA EDUCATION LLP",
+    "location": "Delhi, Noida",
+    "url": "https://internshala.com/job/detail/fresher-business-development-executive-job-in-multiple-locations-at-jiraiya-education-llp1794388977",
+    "actively_hiring": true
+  },
+  {
+    "kind": "job",
+    "title": "Sales Associate",
+    "company": "PlanetSpark",
+    "location": "Ghaziabad, Lucknow, Bhopal",
+    "url": "https://internshala.com/job/detail/fresher-sales-associate-job-in-multiple-locations-at-planetspark1794401267",
+    "actively_hiring": true
+  },
+  {
+    "kind": "job",
+    "title": "Field Sales Executive",
+    "company": "Shopdeck (Blitzscale Technology Solutions Private Limited)",
+    "location": "Delhi, Surat, Jaipur",
+    "url": "https://internshala.com/job/detail/field-sales-executive-job-in-multiple-locations-at-shopdeck-blitzscale-technology-solutions-private-limited1794386904",
+    "actively_hiring": false
+  },
+  {
+    "kind": "job",
+    "title": "Business Development Executive",
+    "company": "Kraft-Obench",
+    "location": "Delhi",
+    "url": "https://internshala.com/job/detail/business-development-executive-job-in-delhi-at-kraft-obench1794382098",
+    "actively_hiring": true
+  },
+  {
+    "kind": "job",
+    "title": "Business Development Executive",
+    "company": "Bizfoc Business Solutions Private Limited",
+    "location": "Delhi, Gurgaon",
+    "url": "https://internshala.com/job/detail/fresher-business-development-executive-job-in-multiple-locations-at-bizfoc-business-solutions-private-limited1794406919",
+    "actively_hiring": false
+  },
+  {
+    "kind": "job",
+    "title": "Business Development Executive",
+    "company": "Prettify Creative",
+    "location": "Gurgaon",
+    "url": "https://internshala.com/job/detail/business-development-executive-job-in-gurgaon-at-prettify-creative1794383681",
+    "actively_hiring": false
+  },
+  {
+    "kind": "job",
+    "title": "Finance Associate",
+    "company": "RegisterKaro",
+    "location": "Delhi, Gurgaon",
+    "url": "https://internshala.com/job/detail/fresher-finance-associate-job-in-multiple-locations-at-registerkaro1794456599",
+    "actively_hiring": true
+  },
+  {
+    "kind": "job",
+    "title": "Business Development Associate",
+    "company": "Indian Institute Of Vedic Science",
+    "location": "Noida",
+    "url": "https://internshala.com/job/detail/fresher-business-development-associate-job-in-noida-at-indian-institute-of-vedic-science1794399804",
+    "actively_hiring": true
+  },
+  {
+    "kind": "job",
+    "title": "Associate/Senior Associate -Inside Sales",
+    "company": "Room Scholars",
+    "location": "Delhi, Gurgaon, Noida",
+    "url": "https://internshala.com/job/detail/associate-senior-associate-inside-sales-job-in-multiple-locations-at-room-scholars1794390788",
+    "actively_hiring": true
+  },
+  {
+    "kind": "job",
+    "title": "Video Editor",
+    "company": "Impresio Studio",
+    "location": "Noida",
+    "url": "https://internshala.com/job/detail/video-editor-job-in-noida-at-impresio-studio1794380226",
+    "actively_hiring": true
+  },
+  {
+    "kind": "job",
+    "title": "Business Development Executive",
+    "company": "SecureRegent Private Limited",
+    "location": "Noida",
+    "url": "https://internshala.com/job/detail/fresher-business-development-executive-job-in-noida-at-secureregent-private-limited1794395440",
+    "actively_hiring": true
+  },
+  {
+    "kind": "job",
+    "title": "Operations Executive- Customer Support",
+    "company": "Astrotalk",
+    "location": "Noida",
+    "url": "https://internshala.com/job/detail/fresher-operations-executive-customer-support-job-in-noida-at-astrotalk1794397524",
+    "actively_hiring": true
+  },
+  {
+    "kind": "job",
+    "title": "Civil Engineer",
+    "company": "SOLUSI NEXT STEP TALENTS PRIVATE LIMITED",
+    "location": "Noida",
+    "url": "https://internshala.com/job/detail/civil-engineer-job-in-noida-at-solusi-next-step-talents-private-limited1794394577",
+    "actively_hiring": true
+  },
+  {
+    "kind": "job",
+    "title": "Business Development Specialist",
+    "company": "SecureRegent Private Limited",
+    "location": "Noida",
+    "url": "https://internshala.com/job/detail/fresher-business-development-specialist-job-in-noida-at-secureregent-private-limited1794457461",
     "actively_hiring": true
   }
 ]

@@ -1,77 +1,5 @@
 [
   {
-    "companyName": "MongoDB",
-    "jobTitle": "Staff Engineer",
-    "jobUrl": "https://in.linkedin.com/jobs/view/staff-engineer-at-mongodb-4369499266?trk=public_jobs_topcard-title",
-    "location": "Gurugram, Haryana, India",
-    "postedTime": "10 hours ago",
-    "contractType": "Full-time",
-    "experienceLevel": "Mid-Senior level",
-    "postedAt": "2026-09-28",
-    "firstSeen": "2026-09-07",
-    "checkedAt": "2026-10-02T06:12:46.642Z"
-  },
-  {
-    "companyName": "GreyOrange",
-    "jobTitle": "Manager - Projects",
-    "jobUrl": "https://in.linkedin.com/jobs/view/manager-projects-at-greyorange-4427552370?trk=public_jobs_topcard-title",
-    "location": "Gurugram, Haryana, India",
-    "postedTime": "18 hours ago",
-    "contractType": "Full-time",
-    "experienceLevel": "Not Applicable",
-    "postedAt": "2026-09-28",
-    "firstSeen": "2026-09-07",
-    "checkedAt": "2026-09-30T06:00:52.505Z"
-  },
-  {
-    "companyName": "Emerson",
-    "jobTitle": "Technical Sales Manager",
-    "jobUrl": "https://in.linkedin.com/jobs/view/technical-sales-manager-at-emerson-4427931949?trk=public_jobs_topcard-title",
-    "location": "Noida, Uttar Pradesh, India",
-    "postedTime": "18 hours ago",
-    "contractType": "Full-time",
-    "experienceLevel": "Not Applicable",
-    "postedAt": "2026-09-28",
-    "firstSeen": "2026-09-07",
-    "checkedAt": "2026-09-30T06:00:52.505Z"
-  },
-  {
-    "companyName": "Deloitte",
-    "jobTitle": "Manager, Tax Services-Canada-BTS-Hyd/Blr/Ggn/Kol",
-    "jobUrl": "https://in.linkedin.com/jobs/view/manager-tax-services-canada-bts-hyd-blr-ggn-kol-at-deloitte-4426957009?trk=public_jobs_topcard-title",
-    "location": "Gurugram, Haryana, India",
-    "postedTime": "19 hours ago",
-    "contractType": "Full-time",
-    "experienceLevel": "Not Applicable",
-    "postedAt": "2026-09-28",
-    "firstSeen": "2026-09-07",
-    "checkedAt": "2026-10-06T06:53:36.968Z"
-  },
-  {
-    "companyName": "Boston Consulting Group (BCG)",
-    "jobTitle": "India Ops | Senior Executive Assistant - Gurgaon",
-    "jobUrl": "https://in.linkedin.com/jobs/view/india-ops-senior-executive-assistant-gurgaon-at-boston-consulting-group-bcg-4427274693?trk=public_jobs_topcard-title",
-    "location": "Gurgaon, Haryana, India",
-    "postedTime": "12 hours ago",
-    "contractType": "Full-time",
-    "experienceLevel": "Not Applicable",
-    "postedAt": "2026-09-28",
-    "firstSeen": "2026-09-07",
-    "checkedAt": "2026-10-06T06:53:36.968Z"
-  },
-  {
-    "companyName": "Hitachi Energy",
-    "jobTitle": "Site HSE Manager - Nagpur HVDC Converter Station",
-    "jobUrl": "https://in.linkedin.com/jobs/view/site-hse-manager-nagpur-hvdc-converter-station-at-hitachi-energy-4427901333?trk=public_jobs_topcard-title",
-    "location": "Gurgaon, Haryana, India",
-    "postedTime": "14 hours ago",
-    "contractType": "Full-time",
-    "experienceLevel": "Mid-Senior level",
-    "postedAt": "2026-09-28",
-    "firstSeen": "2026-09-07",
-    "checkedAt": "2026-10-02T06:12:46.642Z"
-  },
-  {
     "companyName": "Cialfo",
     "jobTitle": "Pre Counselling Advisor",
     "jobUrl": "https://in.linkedin.com/jobs/view/pre-counselling-advisor-at-cialfo-4441891908?trk=public_jobs_topcard-title",
@@ -96,54 +24,6 @@
     "checkedAt": "2026-10-02T06:12:46.642Z"
   },
   {
-    "companyName": "TeamViewer",
-    "jobTitle": "Software Architect Platform Services",
-    "jobUrl": "https://in.linkedin.com/jobs/view/software-architect-platform-services-at-teamviewer-4433878424?trk=public_jobs_topcard-title",
-    "location": "Noida, Uttar Pradesh, India",
-    "postedTime": "17 hours ago",
-    "contractType": "Full-time",
-    "experienceLevel": "Not Applicable",
-    "postedAt": "2026-09-28",
-    "firstSeen": "2026-09-07",
-    "checkedAt": "2026-10-02T06:12:46.642Z"
-  },
-  {
-    "companyName": "tiket.com",
-    "jobTitle": "Sr SDET",
-    "jobUrl": "https://in.linkedin.com/jobs/view/sr-sdet-at-tiket-com-4462679976?trk=public_jobs_topcard-title",
-    "location": "Noida, Uttar Pradesh, India",
-    "postedTime": "6 hours ago",
-    "contractType": "Full-time",
-    "experienceLevel": "Not Applicable",
-    "postedAt": "2026-09-28",
-    "firstSeen": "2026-09-07",
-    "checkedAt": "2026-10-02T06:12:46.642Z"
-  },
-  {
-    "companyName": "Extreme Networks",
-    "jobTitle": "CHANNEL ACCOUNT MANAGER",
-    "jobUrl": "https://in.linkedin.com/jobs/view/channel-account-manager-at-extreme-networks-4455165841?trk=public_jobs_topcard-title",
-    "location": "New Delhi, Delhi, India",
-    "postedTime": "15 hours ago",
-    "contractType": "Full-time",
-    "experienceLevel": "Not Applicable",
-    "postedAt": "2026-09-28",
-    "firstSeen": "2026-09-07",
-    "checkedAt": "2026-09-29T06:13:40.340Z"
-  },
-  {
-    "companyName": "QIMA",
-    "jobTitle": "Planning Supervisor",
-    "jobUrl": "https://in.linkedin.com/jobs/view/planning-supervisor-at-qima-4275603791?trk=public_jobs_topcard-title",
-    "location": "New Delhi, Delhi, India",
-    "postedTime": "19 hours ago",
-    "contractType": "Full-time",
-    "experienceLevel": "Executive",
-    "postedAt": "2026-09-28",
-    "firstSeen": "2026-09-07",
-    "checkedAt": "2026-09-29T06:13:40.340Z"
-  },
-  {
     "companyName": "Amazon Web Services (AWS)",
     "jobTitle": "Partner Success Manager -FED gov, Public Sector",
     "jobUrl": "https://in.linkedin.com/jobs/view/partner-success-manager-fed-gov-public-sector-at-amazon-web-services-aws-4464317674?trk=public_jobs_topcard-title",
@@ -154,18 +34,6 @@
     "postedAt": "2026-09-29",
     "firstSeen": "2026-09-08",
     "checkedAt": "2026-10-06T06:53:36.968Z"
-  },
-  {
-    "companyName": "Deloitte",
-    "jobTitle": "Tax Manager - Business Tax Services - US Corporate Tax, Operating Partnerships, Private Equity, Investment Management, Real Estate, Fund of Funds, Insurance, RIC, GIR",
-    "jobUrl": "https://in.linkedin.com/jobs/view/tax-manager-business-tax-services-us-corporate-tax-operating-partnerships-private-equity-investment-management-real-estate-fund-of-funds-insurance-ric-gir-at-deloitte-4426631007?trk=public_jobs_topcard-title",
-    "location": "Gurugram, Haryana, India",
-    "postedTime": "19 hours ago",
-    "contractType": "Full-time",
-    "experienceLevel": "Not Applicable",
-    "postedAt": "2026-09-28",
-    "firstSeen": "2026-09-08",
-    "checkedAt": "2026-10-12T06:32:48.180Z"
   },
   {
     "companyName": "Alvarez & Marsal",
@@ -217,42 +85,6 @@
   },
   {
     "companyName": "NXP Semiconductors",
-    "jobTitle": "Senior CAD Engineer",
-    "jobUrl": "https://in.linkedin.com/jobs/view/senior-cad-engineer-at-nxp-semiconductors-4427980542?trk=public_jobs_topcard-title",
-    "location": "Noida, Uttar Pradesh, India",
-    "postedTime": "19 hours ago",
-    "contractType": "Full-time",
-    "experienceLevel": "Mid-Senior level",
-    "postedAt": "2026-09-28",
-    "firstSeen": "2026-09-08",
-    "checkedAt": "2026-10-02T06:12:46.642Z"
-  },
-  {
-    "companyName": "Cadence",
-    "jobTitle": "Lead Software Engineer",
-    "jobUrl": "https://in.linkedin.com/jobs/view/lead-software-engineer-at-cadence-4462932620?trk=public_jobs_topcard-title",
-    "location": "Noida, Uttar Pradesh, India",
-    "postedTime": "11 hours ago",
-    "contractType": "Full-time",
-    "experienceLevel": "Not Applicable",
-    "postedAt": "2026-09-28",
-    "firstSeen": "2026-09-08",
-    "checkedAt": "2026-09-29T06:13:40.340Z"
-  },
-  {
-    "companyName": "NTT DATA North America",
-    "jobTitle": "Engineers (Agentic / Automation)",
-    "jobUrl": "https://in.linkedin.com/jobs/view/engineers-agentic-automation-at-ntt-data-north-america-4464087662?trk=public_jobs_topcard-title",
-    "location": "Gurgaon, Haryana, India",
-    "postedTime": "21 hours ago",
-    "contractType": "Full-time",
-    "experienceLevel": "Not Applicable",
-    "postedAt": "2026-09-28",
-    "firstSeen": "2026-09-08",
-    "checkedAt": "2026-10-01T06:34:24.777Z"
-  },
-  {
-    "companyName": "NXP Semiconductors",
     "jobTitle": "Senior Lead Engineer",
     "jobUrl": "https://in.linkedin.com/jobs/view/senior-lead-engineer-at-nxp-semiconductors-4428691885?trk=public_jobs_topcard-title",
     "location": "Noida, Uttar Pradesh, India",
@@ -260,18 +92,6 @@
     "contractType": "Full-time",
     "experienceLevel": "Mid-Senior level",
     "postedAt": "2026-09-29",
-    "firstSeen": "2026-09-08",
-    "checkedAt": "2026-10-03T05:46:29.517Z"
-  },
-  {
-    "companyName": "Arcadis",
-    "jobTitle": "Principal Engineer - Structures",
-    "jobUrl": "https://in.linkedin.com/jobs/view/principal-engineer-structures-at-arcadis-4414814365?trk=public_jobs_topcard-title",
-    "location": "Noida, Uttar Pradesh, India",
-    "postedTime": "14 hours ago",
-    "contractType": "Full-time",
-    "experienceLevel": "Mid-Senior level",
-    "postedAt": "2026-09-28",
     "firstSeen": "2026-09-08",
     "checkedAt": "2026-10-03T05:46:29.517Z"
   },
@@ -288,18 +108,6 @@
     "checkedAt": "2026-10-01T06:34:24.777Z"
   },
   {
-    "companyName": "Ericsson",
-    "jobTitle": "Engineer/Senior Engineer-Packet Core",
-    "jobUrl": "https://in.linkedin.com/jobs/view/engineer-senior-engineer-packet-core-at-ericsson-4426197773?trk=public_jobs_topcard-title",
-    "location": "Noida, Uttar Pradesh, India",
-    "postedTime": "17 hours ago",
-    "contractType": "Full-time",
-    "experienceLevel": "Not Applicable",
-    "postedAt": "2026-09-28",
-    "firstSeen": "2026-09-08",
-    "checkedAt": "2026-10-02T06:12:46.642Z"
-  },
-  {
     "companyName": "WSP in India",
     "jobTitle": "Senior Engineer - Hydraulic Modelling",
     "jobUrl": "https://in.linkedin.com/jobs/view/senior-engineer-hydraulic-modelling-at-wsp-in-india-4463205011?trk=public_jobs_topcard-title",
@@ -310,66 +118,6 @@
     "postedAt": "2026-09-29",
     "firstSeen": "2026-09-08",
     "checkedAt": "2026-10-03T05:46:29.517Z"
-  },
-  {
-    "companyName": "Arabelle Solutions",
-    "jobTitle": "Lead Engineer - Process & Operability Engineering",
-    "jobUrl": "https://in.linkedin.com/jobs/view/lead-engineer-process-operability-engineering-at-arabelle-solutions-4461882726?trk=public_jobs_topcard-title",
-    "location": "Noida, Uttar Pradesh, India",
-    "postedTime": "19 hours ago",
-    "contractType": "Full-time",
-    "experienceLevel": "Not Applicable",
-    "postedAt": "2026-09-28",
-    "firstSeen": "2026-09-08",
-    "checkedAt": "2026-09-30T06:00:52.505Z"
-  },
-  {
-    "companyName": "EXL",
-    "jobTitle": "3779890-Manager",
-    "jobUrl": "https://in.linkedin.com/jobs/view/3779890-manager-at-exl-4462948437?trk=public_jobs_topcard-title",
-    "location": "Noida, Uttar Pradesh, India",
-    "postedTime": "19 hours ago",
-    "contractType": "Full-time",
-    "experienceLevel": "Not Applicable",
-    "postedAt": "2026-09-28",
-    "firstSeen": "2026-09-08",
-    "checkedAt": "2026-10-04T06:21:59.601Z"
-  },
-  {
-    "companyName": "SimCorp",
-    "jobTitle": "Senior Software Engineer",
-    "jobUrl": "https://in.linkedin.com/jobs/view/senior-software-engineer-at-simcorp-4362710800?trk=public_jobs_topcard-title",
-    "location": "Noida, Uttar Pradesh, India",
-    "postedTime": "18 hours ago",
-    "contractType": "Full-time",
-    "experienceLevel": "Mid-Senior level",
-    "postedAt": "2026-09-28",
-    "firstSeen": "2026-09-08",
-    "checkedAt": "2026-09-30T06:00:52.505Z"
-  },
-  {
-    "companyName": "GlobalLogic",
-    "jobTitle": "JDE (AS/400) / WMi Developers IRC303562",
-    "jobUrl": "https://in.linkedin.com/jobs/view/jde-as-400-wmi-developers-irc303562-at-globallogic-4462930326?trk=public_jobs_topcard-title",
-    "location": "Noida, Uttar Pradesh, India",
-    "postedTime": "20 hours ago",
-    "contractType": "Full-time",
-    "experienceLevel": "Not Applicable",
-    "postedAt": "2026-09-28",
-    "firstSeen": "2026-09-08",
-    "checkedAt": "2026-10-02T06:12:46.642Z"
-  },
-  {
-    "companyName": "Cadence",
-    "jobTitle": "Lead Software Engineer",
-    "jobUrl": "https://in.linkedin.com/jobs/view/lead-software-engineer-at-cadence-4462942566?trk=public_jobs_topcard-title",
-    "location": "Noida, Uttar Pradesh, India",
-    "postedTime": "18 hours ago",
-    "contractType": "Full-time",
-    "experienceLevel": "Not Applicable",
-    "postedAt": "2026-09-28",
-    "firstSeen": "2026-09-08",
-    "checkedAt": "2026-10-02T06:12:46.642Z"
   },
   {
     "companyName": "American Express",
@@ -408,30 +156,6 @@
     "checkedAt": "2026-10-03T05:46:29.517Z"
   },
   {
-    "companyName": "EXL",
-    "jobTitle": "AWS Data Engineer",
-    "jobUrl": "https://in.linkedin.com/jobs/view/aws-data-engineer-at-exl-4462938447?trk=public_jobs_topcard-title",
-    "location": "Gurugram, Haryana, India",
-    "postedTime": "16 hours ago",
-    "contractType": "Full-time",
-    "experienceLevel": "Not Applicable",
-    "postedAt": "2026-09-28",
-    "firstSeen": "2026-09-08",
-    "checkedAt": "2026-10-04T06:21:59.601Z"
-  },
-  {
-    "companyName": "Connor, Clark & Lunn Financial Group (CC&L)",
-    "jobTitle": "Analyst, Market Onboarding",
-    "jobUrl": "https://in.linkedin.com/jobs/view/analyst-market-onboarding-at-connor-clark-lunn-financial-group-cc-l-4436773838?trk=public_jobs_topcard-title",
-    "location": "Gurugram, Haryana, India",
-    "postedTime": "14 hours ago",
-    "contractType": "Full-time",
-    "experienceLevel": "Not Applicable",
-    "postedAt": "2026-09-28",
-    "firstSeen": "2026-09-08",
-    "checkedAt": "2026-10-01T06:34:24.777Z"
-  },
-  {
     "companyName": "NVIDIA",
     "jobTitle": "Senior Network Infrastructure Engineer",
     "jobUrl": "https://in.linkedin.com/jobs/view/senior-network-infrastructure-engineer-at-nvidia-4462979671?trk=public_jobs_topcard-title",
@@ -456,42 +180,6 @@
     "checkedAt": "2026-10-04T06:21:59.601Z"
   },
   {
-    "companyName": "AMD",
-    "jobTitle": "FAE Manager",
-    "jobUrl": "https://in.linkedin.com/jobs/view/fae-manager-at-amd-4461899351?trk=public_jobs_topcard-title",
-    "location": "Gurugram, Haryana, India",
-    "postedTime": "20 hours ago",
-    "contractType": "Full-time",
-    "experienceLevel": "Mid-Senior level",
-    "postedAt": "2026-09-28",
-    "firstSeen": "2026-09-08",
-    "checkedAt": "2026-10-03T05:46:29.517Z"
-  },
-  {
-    "companyName": "Mott MacDonald",
-    "jobTitle": "Assistant Track Engineer / Track Engineer",
-    "jobUrl": "https://in.linkedin.com/jobs/view/assistant-track-engineer-track-engineer-at-mott-macdonald-4445945070?trk=public_jobs_topcard-title",
-    "location": "Noida, Uttar Pradesh, India",
-    "postedTime": "14 hours ago",
-    "contractType": "Full-time",
-    "experienceLevel": "Not Applicable",
-    "postedAt": "2026-09-28",
-    "firstSeen": "2026-09-08",
-    "checkedAt": "2026-10-04T06:21:59.601Z"
-  },
-  {
-    "companyName": "Leica Biosystems",
-    "jobTitle": "Field Service Engineer - Delhi",
-    "jobUrl": "https://in.linkedin.com/jobs/view/field-service-engineer-delhi-at-leica-biosystems-4461888197?trk=public_jobs_topcard-title",
-    "location": "Delhi, Delhi, India",
-    "postedTime": "21 hours ago",
-    "contractType": "Full-time",
-    "experienceLevel": "Not Applicable",
-    "postedAt": "2026-09-28",
-    "firstSeen": "2026-09-08",
-    "checkedAt": "2026-10-06T06:53:36.968Z"
-  },
-  {
     "companyName": "SAP",
     "jobTitle": "Senior Account Executive - Public Sector",
     "jobUrl": "https://in.linkedin.com/jobs/view/senior-account-executive-public-sector-at-sap-4462968619?trk=public_jobs_topcard-title",
@@ -502,18 +190,6 @@
     "postedAt": "2026-09-29",
     "firstSeen": "2026-09-08",
     "checkedAt": "2026-10-03T05:46:29.517Z"
-  },
-  {
-    "companyName": "EXL",
-    "jobTitle": "4399778-Senior Executive",
-    "jobUrl": "https://in.linkedin.com/jobs/view/4399778-senior-executive-at-exl-4462947416?trk=public_jobs_topcard-title",
-    "location": "Noida, Uttar Pradesh, India",
-    "postedTime": "19 hours ago",
-    "contractType": "Full-time",
-    "experienceLevel": "Not Applicable",
-    "postedAt": "2026-09-28",
-    "firstSeen": "2026-09-08",
-    "checkedAt": "2026-10-04T06:21:59.601Z"
   },
   {
     "companyName": "Amazon",
@@ -540,66 +216,6 @@
     "checkedAt": "2026-10-03T05:46:29.517Z"
   },
   {
-    "companyName": "EXL",
-    "jobTitle": "3563555-Lead Assistant Manager",
-    "jobUrl": "https://in.linkedin.com/jobs/view/3563555-lead-assistant-manager-at-exl-4462942456?trk=public_jobs_topcard-title",
-    "location": "Gurugram, Haryana, India",
-    "postedTime": "19 hours ago",
-    "contractType": "Full-time",
-    "experienceLevel": "Not Applicable",
-    "postedAt": "2026-09-28",
-    "firstSeen": "2026-09-08",
-    "checkedAt": "2026-10-06T06:53:36.968Z"
-  },
-  {
-    "companyName": "EXL",
-    "jobTitle": "4423411-Manager",
-    "jobUrl": "https://in.linkedin.com/jobs/view/4423411-manager-at-exl-4462930525?trk=public_jobs_topcard-title",
-    "location": "Noida, Uttar Pradesh, India",
-    "postedTime": "19 hours ago",
-    "contractType": "Full-time",
-    "experienceLevel": "Not Applicable",
-    "postedAt": "2026-09-28",
-    "firstSeen": "2026-09-08",
-    "checkedAt": "2026-10-03T05:46:29.517Z"
-  },
-  {
-    "companyName": "EXL",
-    "jobTitle": "1985306-Lead Assistant Manager",
-    "jobUrl": "https://in.linkedin.com/jobs/view/1985306-lead-assistant-manager-at-exl-4462937479?trk=public_jobs_topcard-title",
-    "location": "Gurugram, Haryana, India",
-    "postedTime": "19 hours ago",
-    "contractType": "Full-time",
-    "experienceLevel": "Not Applicable",
-    "postedAt": "2026-09-28",
-    "firstSeen": "2026-09-08",
-    "checkedAt": "2026-10-03T05:46:29.517Z"
-  },
-  {
-    "companyName": "EXL",
-    "jobTitle": "Senior Manager",
-    "jobUrl": "https://in.linkedin.com/jobs/view/senior-manager-at-exl-4462929510?trk=public_jobs_topcard-title",
-    "location": "Gurugram, Haryana, India",
-    "postedTime": "19 hours ago",
-    "contractType": "Full-time",
-    "experienceLevel": "Not Applicable",
-    "postedAt": "2026-09-28",
-    "firstSeen": "2026-09-08",
-    "checkedAt": "2026-10-06T06:53:36.968Z"
-  },
-  {
-    "companyName": "EY",
-    "jobTitle": "RC FS-BT INS- P and C NON USA-Senior",
-    "jobUrl": "https://in.linkedin.com/jobs/view/rc-fs-bt-ins-p-and-c-non-usa-senior-at-ey-4461899266?trk=public_jobs_topcard-title",
-    "location": "Gurugram, Haryana, India",
-    "postedTime": "20 hours ago",
-    "contractType": "Full-time",
-    "experienceLevel": "Mid-Senior level",
-    "postedAt": "2026-09-28",
-    "firstSeen": "2026-09-08",
-    "checkedAt": "2026-10-07T06:29:27.123Z"
-  },
-  {
     "companyName": "Axtria - Ingenious Insights",
     "jobTitle": "Manager",
     "jobUrl": "https://in.linkedin.com/jobs/view/manager-at-axtria-ingenious-insights-4397866844?trk=public_jobs_topcard-title",
@@ -622,66 +238,6 @@
     "postedAt": "2026-09-29",
     "firstSeen": "2026-09-08",
     "checkedAt": "2026-10-04T06:21:59.601Z"
-  },
-  {
-    "companyName": "EXL",
-    "jobTitle": "3779963-Assistant Manager",
-    "jobUrl": "https://in.linkedin.com/jobs/view/3779963-assistant-manager-at-exl-4462934498?trk=public_jobs_topcard-title",
-    "location": "Noida, Uttar Pradesh, India",
-    "postedTime": "19 hours ago",
-    "contractType": "Full-time",
-    "experienceLevel": "Not Applicable",
-    "postedAt": "2026-09-28",
-    "firstSeen": "2026-09-08",
-    "checkedAt": "2026-10-03T05:46:29.517Z"
-  },
-  {
-    "companyName": "WSP in India",
-    "jobTitle": "Junior Software Developer - Python",
-    "jobUrl": "https://in.linkedin.com/jobs/view/junior-software-developer-python-at-wsp-in-india-4462223623?trk=public_jobs_topcard-title",
-    "location": "Noida, Uttar Pradesh, India",
-    "postedTime": "14 hours ago",
-    "contractType": "Full-time",
-    "experienceLevel": "Not Applicable",
-    "postedAt": "2026-09-28",
-    "firstSeen": "2026-09-08",
-    "checkedAt": "2026-10-14T05:24:54.810Z"
-  },
-  {
-    "companyName": "EXL",
-    "jobTitle": "3774937-Lead Assistant Manager",
-    "jobUrl": "https://in.linkedin.com/jobs/view/3774937-lead-assistant-manager-at-exl-4462949393?trk=public_jobs_topcard-title",
-    "location": "Noida, Uttar Pradesh, India",
-    "postedTime": "19 hours ago",
-    "contractType": "Full-time",
-    "experienceLevel": "Not Applicable",
-    "postedAt": "2026-09-28",
-    "firstSeen": "2026-09-08",
-    "checkedAt": "2026-10-04T06:21:59.601Z"
-  },
-  {
-    "companyName": "EXL",
-    "jobTitle": "3780056-Lead Assistant Manager",
-    "jobUrl": "https://in.linkedin.com/jobs/view/3780056-lead-assistant-manager-at-exl-4462934490?trk=public_jobs_topcard-title",
-    "location": "Noida, Uttar Pradesh, India",
-    "postedTime": "16 hours ago",
-    "contractType": "Full-time",
-    "experienceLevel": "Not Applicable",
-    "postedAt": "2026-09-28",
-    "firstSeen": "2026-09-08",
-    "checkedAt": "2026-10-06T06:53:36.968Z"
-  },
-  {
-    "companyName": "Arcadis",
-    "jobTitle": "Principal Engineer - Civil (UK Water)",
-    "jobUrl": "https://in.linkedin.com/jobs/view/principal-engineer-civil-uk-water-at-arcadis-4375946845?trk=public_jobs_topcard-title",
-    "location": "Noida, Uttar Pradesh, India",
-    "postedTime": "15 hours ago",
-    "contractType": "Full-time",
-    "experienceLevel": "Mid-Senior level",
-    "postedAt": "2026-09-28",
-    "firstSeen": "2026-09-08",
-    "checkedAt": "2026-10-06T06:53:36.968Z"
   },
   {
     "companyName": "WSP in India",
@@ -709,18 +265,6 @@
   },
   {
     "companyName": "WSP in India",
-    "jobTitle": "Senior Engineer - Water Resources.",
-    "jobUrl": "https://in.linkedin.com/jobs/view/senior-engineer-water-resources-at-wsp-in-india-4452243422?trk=public_jobs_topcard-title",
-    "location": "Noida, Uttar Pradesh, India",
-    "postedTime": "13 hours ago",
-    "contractType": "Full-time",
-    "experienceLevel": "Not Applicable",
-    "postedAt": "2026-09-28",
-    "firstSeen": "2026-09-08",
-    "checkedAt": "2026-10-04T06:21:59.601Z"
-  },
-  {
-    "companyName": "WSP in India",
     "jobTitle": "Principal Engineer - Bridges",
     "jobUrl": "https://in.linkedin.com/jobs/view/principal-engineer-bridges-at-wsp-in-india-4462256305?trk=public_jobs_topcard-title",
     "location": "Noida, Uttar Pradesh, India",
@@ -733,66 +277,6 @@
   },
   {
     "companyName": "WSP in India",
-    "jobTitle": "BIM Engineer",
-    "jobUrl": "https://in.linkedin.com/jobs/view/bim-engineer-at-wsp-in-india-4462974224?trk=public_jobs_topcard-title",
-    "location": "Noida, Uttar Pradesh, India",
-    "postedTime": "14 hours ago",
-    "contractType": "Full-time",
-    "experienceLevel": "Not Applicable",
-    "postedAt": "2026-09-28",
-    "firstSeen": "2026-09-08",
-    "checkedAt": "2026-10-05T06:14:46.729Z"
-  },
-  {
-    "companyName": "McCain Foods",
-    "jobTitle": "Responsible AI / Eval Specialist",
-    "jobUrl": "https://in.linkedin.com/jobs/view/responsible-ai-eval-specialist-at-mccain-foods-4455284866?trk=public_jobs_topcard-title",
-    "location": "Gurgaon, Haryana, India",
-    "postedTime": "12 hours ago",
-    "contractType": "Full-time",
-    "experienceLevel": "Not Applicable",
-    "postedAt": "2026-09-28",
-    "firstSeen": "2026-09-08",
-    "checkedAt": "2026-10-04T06:21:59.601Z"
-  },
-  {
-    "companyName": "Kuehne+Nagel",
-    "jobTitle": "Integrated Logistics Process Engineer",
-    "jobUrl": "https://in.linkedin.com/jobs/view/integrated-logistics-process-engineer-at-kuehne%2Bnagel-4464313358?trk=public_jobs_topcard-title",
-    "location": "Gurgaon, Haryana, India",
-    "postedTime": "18 hours ago",
-    "contractType": "Full-time",
-    "experienceLevel": "Not Applicable",
-    "postedAt": "2026-09-28",
-    "firstSeen": "2026-09-08",
-    "checkedAt": "2026-10-05T06:14:46.729Z"
-  },
-  {
-    "companyName": "EXL",
-    "jobTitle": "Lead AI Data Engineer",
-    "jobUrl": "https://in.linkedin.com/jobs/view/lead-ai-data-engineer-at-exl-4462930483?trk=public_jobs_topcard-title",
-    "location": "Noida, Uttar Pradesh, India",
-    "postedTime": "16 hours ago",
-    "contractType": "Full-time",
-    "experienceLevel": "Not Applicable",
-    "postedAt": "2026-09-28",
-    "firstSeen": "2026-09-08",
-    "checkedAt": "2026-10-04T06:21:59.601Z"
-  },
-  {
-    "companyName": "Honeywell Technologies",
-    "jobTitle": "Advanced R&D Engr/Scientist",
-    "jobUrl": "https://in.linkedin.com/jobs/view/advanced-r-d-engr-scientist-at-honeywell-technologies-4464320601?trk=public_jobs_topcard-title",
-    "location": "Gurugram, Haryana, India",
-    "postedTime": "17 hours ago",
-    "contractType": "Full-time",
-    "experienceLevel": "Not Applicable",
-    "postedAt": "2026-09-28",
-    "firstSeen": "2026-09-08",
-    "checkedAt": "2026-10-06T06:53:36.968Z"
-  },
-  {
-    "companyName": "WSP in India",
     "jobTitle": "Principal Engineer - Bridges",
     "jobUrl": "https://in.linkedin.com/jobs/view/principal-engineer-bridges-at-wsp-in-india-4462984975?trk=public_jobs_topcard-title",
     "location": "Noida, Uttar Pradesh, India",
@@ -800,18 +284,6 @@
     "contractType": "Full-time",
     "experienceLevel": "Not Applicable",
     "postedAt": "2026-09-29",
-    "firstSeen": "2026-09-08",
-    "checkedAt": "2026-10-04T06:21:59.601Z"
-  },
-  {
-    "companyName": "Cisco",
-    "jobTitle": "Solutions Development Architect",
-    "jobUrl": "https://in.linkedin.com/jobs/view/solutions-development-architect-at-cisco-4455265395?trk=public_jobs_topcard-title",
-    "location": "Delhi, Delhi, India",
-    "postedTime": "12 hours ago",
-    "contractType": "Full-time",
-    "experienceLevel": "Not Applicable",
-    "postedAt": "2026-09-28",
     "firstSeen": "2026-09-08",
     "checkedAt": "2026-10-04T06:21:59.601Z"
   },
@@ -840,66 +312,6 @@
     "checkedAt": "2026-10-04T06:21:59.601Z"
   },
   {
-    "companyName": "EXL",
-    "jobTitle": "3780013-Lead Assistant Manager",
-    "jobUrl": "https://in.linkedin.com/jobs/view/3780013-lead-assistant-manager-at-exl-4462946412?trk=public_jobs_topcard-title",
-    "location": "Noida, Uttar Pradesh, India",
-    "postedTime": "19 hours ago",
-    "contractType": "Full-time",
-    "experienceLevel": "Not Applicable",
-    "postedAt": "2026-09-28",
-    "firstSeen": "2026-09-08",
-    "checkedAt": "2026-10-09T06:43:37.151Z"
-  },
-  {
-    "companyName": "EXL",
-    "jobTitle": "3513753-Lead Assistant Manager",
-    "jobUrl": "https://in.linkedin.com/jobs/view/3513753-lead-assistant-manager-at-exl-4462928485?trk=public_jobs_topcard-title",
-    "location": "Noida, Uttar Pradesh, India",
-    "postedTime": "19 hours ago",
-    "contractType": "Full-time",
-    "experienceLevel": "Not Applicable",
-    "postedAt": "2026-09-28",
-    "firstSeen": "2026-09-08",
-    "checkedAt": "2026-10-04T06:21:59.601Z"
-  },
-  {
-    "companyName": "EXL",
-    "jobTitle": "3562871-Manager",
-    "jobUrl": "https://in.linkedin.com/jobs/view/3562871-manager-at-exl-4462934504?trk=public_jobs_topcard-title",
-    "location": "Gurugram, Haryana, India",
-    "postedTime": "19 hours ago",
-    "contractType": "Full-time",
-    "experienceLevel": "Not Applicable",
-    "postedAt": "2026-09-28",
-    "firstSeen": "2026-09-08",
-    "checkedAt": "2026-10-12T06:32:48.180Z"
-  },
-  {
-    "companyName": "EXL",
-    "jobTitle": "1984776-Manager",
-    "jobUrl": "https://in.linkedin.com/jobs/view/1984776-manager-at-exl-4462927570?trk=public_jobs_topcard-title",
-    "location": "Gurugram, Haryana, India",
-    "postedTime": "19 hours ago",
-    "contractType": "Full-time",
-    "experienceLevel": "Not Applicable",
-    "postedAt": "2026-09-28",
-    "firstSeen": "2026-09-08",
-    "checkedAt": "2026-10-12T06:32:48.180Z"
-  },
-  {
-    "companyName": "EXL",
-    "jobTitle": "4423578-Lead Assistant Manager",
-    "jobUrl": "https://in.linkedin.com/jobs/view/4423578-lead-assistant-manager-at-exl-4462935490?trk=public_jobs_topcard-title",
-    "location": "Noida, Uttar Pradesh, India",
-    "postedTime": "19 hours ago",
-    "contractType": "Full-time",
-    "experienceLevel": "Not Applicable",
-    "postedAt": "2026-09-28",
-    "firstSeen": "2026-09-08",
-    "checkedAt": "2026-10-09T06:43:37.151Z"
-  },
-  {
     "companyName": "SimCorp",
     "jobTitle": "Lead Full Stack Software Engineer (Angular , C#,.NET)",
     "jobUrl": "https://in.linkedin.com/jobs/view/lead-full-stack-software-engineer-angular-c%23-net-at-simcorp-4361683505?trk=public_jobs_topcard-title",
@@ -912,18 +324,6 @@
     "checkedAt": "2026-10-05T06:14:46.729Z"
   },
   {
-    "companyName": "EXL",
-    "jobTitle": "3876895-Senior Executive",
-    "jobUrl": "https://in.linkedin.com/jobs/view/3876895-senior-executive-at-exl-4462935480?trk=public_jobs_topcard-title",
-    "location": "Noida, Uttar Pradesh, India",
-    "postedTime": "19 hours ago",
-    "contractType": "Full-time",
-    "experienceLevel": "Not Applicable",
-    "postedAt": "2026-09-28",
-    "firstSeen": "2026-09-08",
-    "checkedAt": "2026-10-09T06:43:37.151Z"
-  },
-  {
     "companyName": "Acuity Analytics",
     "jobTitle": "Delivery Manager-Full Stack Data Engineer",
     "jobUrl": "https://in.linkedin.com/jobs/view/delivery-manager-full-stack-data-engineer-at-acuity-analytics-4462230356?trk=public_jobs_topcard-title",
@@ -932,30 +332,6 @@
     "contractType": "Full-time",
     "experienceLevel": "Not Applicable",
     "postedAt": "2026-09-29",
-    "firstSeen": "2026-09-08",
-    "checkedAt": "2026-10-05T06:14:46.729Z"
-  },
-  {
-    "companyName": "EXL",
-    "jobTitle": "3124757-Lead Assistant Manager",
-    "jobUrl": "https://in.linkedin.com/jobs/view/3124757-lead-assistant-manager-at-exl-4462939483?trk=public_jobs_topcard-title",
-    "location": "Gurugram, Haryana, India",
-    "postedTime": "19 hours ago",
-    "contractType": "Full-time",
-    "experienceLevel": "Not Applicable",
-    "postedAt": "2026-09-28",
-    "firstSeen": "2026-09-08",
-    "checkedAt": "2026-10-05T06:14:46.729Z"
-  },
-  {
-    "companyName": "EXL",
-    "jobTitle": "Full Stack Engineer-Application Development-Full Stack Developer",
-    "jobUrl": "https://in.linkedin.com/jobs/view/full-stack-engineer-application-development-full-stack-developer-at-exl-4462940426?trk=public_jobs_topcard-title",
-    "location": "Noida, Uttar Pradesh, India",
-    "postedTime": "19 hours ago",
-    "contractType": "Full-time",
-    "experienceLevel": "Not Applicable",
-    "postedAt": "2026-09-28",
     "firstSeen": "2026-09-08",
     "checkedAt": "2026-10-05T06:14:46.729Z"
   },
@@ -972,210 +348,6 @@
     "checkedAt": "2026-10-05T06:14:46.729Z"
   },
   {
-    "companyName": "EXL",
-    "jobTitle": "3847868-Executives",
-    "jobUrl": "https://in.linkedin.com/jobs/view/3847868-executives-at-exl-4462933459?trk=public_jobs_topcard-title",
-    "location": "Noida, Uttar Pradesh, India",
-    "postedTime": "19 hours ago",
-    "contractType": "Full-time",
-    "experienceLevel": "Not Applicable",
-    "postedAt": "2026-09-28",
-    "firstSeen": "2026-09-08",
-    "checkedAt": "2026-10-09T06:43:37.151Z"
-  },
-  {
-    "companyName": "EXL",
-    "jobTitle": "4423236-Lead Assistant Manager",
-    "jobUrl": "https://in.linkedin.com/jobs/view/4423236-lead-assistant-manager-at-exl-4462936509?trk=public_jobs_topcard-title",
-    "location": "Noida, Uttar Pradesh, India",
-    "postedTime": "19 hours ago",
-    "contractType": "Full-time",
-    "experienceLevel": "Not Applicable",
-    "postedAt": "2026-09-28",
-    "firstSeen": "2026-09-08",
-    "checkedAt": "2026-10-06T06:53:36.968Z"
-  },
-  {
-    "companyName": "EXL",
-    "jobTitle": "3628774-Lead Assistant Manager",
-    "jobUrl": "https://in.linkedin.com/jobs/view/3628774-lead-assistant-manager-at-exl-4462932509?trk=public_jobs_topcard-title",
-    "location": "Noida, Uttar Pradesh, India",
-    "postedTime": "19 hours ago",
-    "contractType": "Full-time",
-    "experienceLevel": "Not Applicable",
-    "postedAt": "2026-09-28",
-    "firstSeen": "2026-09-08",
-    "checkedAt": "2026-10-06T06:53:36.968Z"
-  },
-  {
-    "companyName": "Ericsson",
-    "jobTitle": "Senior Solution Integrator",
-    "jobUrl": "https://in.linkedin.com/jobs/view/senior-solution-integrator-at-ericsson-4404462379?trk=public_jobs_topcard-title",
-    "location": "Noida, Uttar Pradesh, India",
-    "postedTime": "17 hours ago",
-    "contractType": "Full-time",
-    "experienceLevel": "Not Applicable",
-    "postedAt": "2026-09-28",
-    "firstSeen": "2026-09-08",
-    "checkedAt": "2026-10-06T06:53:36.968Z"
-  },
-  {
-    "companyName": "EXL",
-    "jobTitle": "1985150-Lead Assistant Manager",
-    "jobUrl": "https://in.linkedin.com/jobs/view/1985150-lead-assistant-manager-at-exl-4462930518?trk=public_jobs_topcard-title",
-    "location": "Gurugram, Haryana, India",
-    "postedTime": "19 hours ago",
-    "contractType": "Full-time",
-    "experienceLevel": "Not Applicable",
-    "postedAt": "2026-09-28",
-    "firstSeen": "2026-09-08",
-    "checkedAt": "2026-10-05T06:14:46.729Z"
-  },
-  {
-    "companyName": "Fronius India",
-    "jobTitle": "Trainee Sales Engineer",
-    "jobUrl": "https://in.linkedin.com/jobs/view/trainee-sales-engineer-at-fronius-india-4452267519?trk=public_jobs_topcard-title",
-    "location": "Delhi Cantonment, Delhi, India",
-    "postedTime": "13 hours ago",
-    "contractType": "Full-time",
-    "experienceLevel": "Not Applicable",
-    "postedAt": "2026-09-28",
-    "firstSeen": "2026-09-08",
-    "checkedAt": "2026-10-05T06:14:46.729Z"
-  },
-  {
-    "companyName": "Mott MacDonald",
-    "jobTitle": "Assistant Structural BIM Modeller",
-    "jobUrl": "https://in.linkedin.com/jobs/view/assistant-structural-bim-modeller-at-mott-macdonald-4445938108?trk=public_jobs_topcard-title",
-    "location": "Noida, Uttar Pradesh, India",
-    "postedTime": "14 hours ago",
-    "contractType": "Full-time",
-    "experienceLevel": "Not Applicable",
-    "postedAt": "2026-09-28",
-    "firstSeen": "2026-09-08",
-    "checkedAt": "2026-10-05T06:14:46.729Z"
-  },
-  {
-    "companyName": "EXL",
-    "jobTitle": "1077737-Lead Assistant Manager",
-    "jobUrl": "https://in.linkedin.com/jobs/view/1077737-lead-assistant-manager-at-exl-4462939489?trk=public_jobs_topcard-title",
-    "location": "Noida, Uttar Pradesh, India",
-    "postedTime": "19 hours ago",
-    "contractType": "Full-time",
-    "experienceLevel": "Not Applicable",
-    "postedAt": "2026-09-28",
-    "firstSeen": "2026-09-08",
-    "checkedAt": "2026-10-05T06:14:46.729Z"
-  },
-  {
-    "companyName": "EXL",
-    "jobTitle": "3779815-Senior Manager",
-    "jobUrl": "https://in.linkedin.com/jobs/view/3779815-senior-manager-at-exl-4462931531?trk=public_jobs_topcard-title",
-    "location": "Noida, Uttar Pradesh, India",
-    "postedTime": "19 hours ago",
-    "contractType": "Full-time",
-    "experienceLevel": "Not Applicable",
-    "postedAt": "2026-09-28",
-    "firstSeen": "2026-09-08",
-    "checkedAt": "2026-10-05T06:14:46.729Z"
-  },
-  {
-    "companyName": "EXL",
-    "jobTitle": "1077741-Manager",
-    "jobUrl": "https://in.linkedin.com/jobs/view/1077741-manager-at-exl-4462941466?trk=public_jobs_topcard-title",
-    "location": "Noida, Uttar Pradesh, India",
-    "postedTime": "19 hours ago",
-    "contractType": "Full-time",
-    "experienceLevel": "Not Applicable",
-    "postedAt": "2026-09-28",
-    "firstSeen": "2026-09-08",
-    "checkedAt": "2026-10-05T06:14:46.729Z"
-  },
-  {
-    "companyName": "WSP in India",
-    "jobTitle": "Senior Architect - Landscape",
-    "jobUrl": "https://in.linkedin.com/jobs/view/senior-architect-landscape-at-wsp-in-india-4454260716?trk=public_jobs_topcard-title",
-    "location": "Noida, Uttar Pradesh, India",
-    "postedTime": "14 hours ago",
-    "contractType": "Full-time",
-    "experienceLevel": "Not Applicable",
-    "postedAt": "2026-09-28",
-    "firstSeen": "2026-09-08",
-    "checkedAt": "2026-10-15T05:11:54.045Z"
-  },
-  {
-    "companyName": "EXL",
-    "jobTitle": "3563547-Senior Manager",
-    "jobUrl": "https://in.linkedin.com/jobs/view/3563547-senior-manager-at-exl-4462933483?trk=public_jobs_topcard-title",
-    "location": "Gurugram, Haryana, India",
-    "postedTime": "19 hours ago",
-    "contractType": "Full-time",
-    "experienceLevel": "Not Applicable",
-    "postedAt": "2026-09-28",
-    "firstSeen": "2026-09-08",
-    "checkedAt": "2026-10-09T06:43:37.151Z"
-  },
-  {
-    "companyName": "EXL",
-    "jobTitle": "Senior Manager",
-    "jobUrl": "https://in.linkedin.com/jobs/view/senior-manager-at-exl-4462942437?trk=public_jobs_topcard-title",
-    "location": "Gurugram, Haryana, India",
-    "postedTime": "19 hours ago",
-    "contractType": "Full-time",
-    "experienceLevel": "Not Applicable",
-    "postedAt": "2026-09-28",
-    "firstSeen": "2026-09-08",
-    "checkedAt": "2026-10-05T06:14:46.729Z"
-  },
-  {
-    "companyName": "WSP in India",
-    "jobTitle": "Senior Energy Researcher and Policy Consultant",
-    "jobUrl": "https://in.linkedin.com/jobs/view/senior-energy-researcher-and-policy-consultant-at-wsp-in-india-4462948120?trk=public_jobs_topcard-title",
-    "location": "Noida, Uttar Pradesh, India",
-    "postedTime": "20 hours ago",
-    "contractType": "Full-time",
-    "experienceLevel": "Not Applicable",
-    "postedAt": "2026-09-28",
-    "firstSeen": "2026-09-08",
-    "checkedAt": "2026-10-11T06:28:10.397Z"
-  },
-  {
-    "companyName": "EXL",
-    "jobTitle": "Senior Manager",
-    "jobUrl": "https://in.linkedin.com/jobs/view/senior-manager-at-exl-4462930481?trk=public_jobs_topcard-title",
-    "location": "Gurugram, Haryana, India",
-    "postedTime": "19 hours ago",
-    "contractType": "Full-time",
-    "experienceLevel": "Not Applicable",
-    "postedAt": "2026-09-28",
-    "firstSeen": "2026-09-08",
-    "checkedAt": "2026-10-09T06:43:37.151Z"
-  },
-  {
-    "companyName": "EXL",
-    "jobTitle": "3563126-Lead Assistant Manager",
-    "jobUrl": "https://in.linkedin.com/jobs/view/3563126-lead-assistant-manager-at-exl-4462927569?trk=public_jobs_topcard-title",
-    "location": "Gurugram, Haryana, India",
-    "postedTime": "19 hours ago",
-    "contractType": "Full-time",
-    "experienceLevel": "Not Applicable",
-    "postedAt": "2026-09-28",
-    "firstSeen": "2026-09-08",
-    "checkedAt": "2026-10-11T06:28:10.397Z"
-  },
-  {
-    "companyName": "EXL",
-    "jobTitle": "1077737-Lead Assistant Manager",
-    "jobUrl": "https://in.linkedin.com/jobs/view/1077737-lead-assistant-manager-at-exl-4462948447?trk=public_jobs_topcard-title",
-    "location": "Noida, Uttar Pradesh, India",
-    "postedTime": "19 hours ago",
-    "contractType": "Full-time",
-    "experienceLevel": "Not Applicable",
-    "postedAt": "2026-09-28",
-    "firstSeen": "2026-09-08",
-    "checkedAt": "2026-10-09T06:43:37.151Z"
-  },
-  {
     "companyName": "WSP in India",
     "jobTitle": "Architect - Landscape",
     "jobUrl": "https://in.linkedin.com/jobs/view/architect-landscape-at-wsp-in-india-4454276625?trk=public_jobs_topcard-title",
@@ -1186,78 +358,6 @@
     "postedAt": "2026-09-29",
     "firstSeen": "2026-09-08",
     "checkedAt": "2026-10-05T06:14:46.729Z"
-  },
-  {
-    "companyName": "Anaplan",
-    "jobTitle": "AI Architect",
-    "jobUrl": "https://in.linkedin.com/jobs/view/ai-architect-at-anaplan-4445923657?trk=public_jobs_topcard-title",
-    "location": "Gurgaon, Haryana, India",
-    "postedTime": "17 hours ago",
-    "contractType": "Full-time",
-    "experienceLevel": "Not Applicable",
-    "postedAt": "2026-09-28",
-    "firstSeen": "2026-09-08",
-    "checkedAt": "2026-10-05T06:14:46.729Z"
-  },
-  {
-    "companyName": "EXL",
-    "jobTitle": "4688086-Assistant Manager",
-    "jobUrl": "https://in.linkedin.com/jobs/view/4688086-assistant-manager-at-exl-4462940438?trk=public_jobs_topcard-title",
-    "location": "Noida, Uttar Pradesh, India",
-    "postedTime": "19 hours ago",
-    "contractType": "Full-time",
-    "experienceLevel": "Not Applicable",
-    "postedAt": "2026-09-28",
-    "firstSeen": "2026-09-08",
-    "checkedAt": "2026-10-06T06:53:36.968Z"
-  },
-  {
-    "companyName": "EY",
-    "jobTitle": "Customer Tech-Adobe-Senior-PIM Developer",
-    "jobUrl": "https://in.linkedin.com/jobs/view/customer-tech-adobe-senior-pim-developer-at-ey-4461885369?trk=public_jobs_topcard-title",
-    "location": "Gurugram, Haryana, India",
-    "postedTime": "20 hours ago",
-    "contractType": "Full-time",
-    "experienceLevel": "Mid-Senior level",
-    "postedAt": "2026-09-28",
-    "firstSeen": "2026-09-08",
-    "checkedAt": "2026-10-05T06:14:46.729Z"
-  },
-  {
-    "companyName": "EXL",
-    "jobTitle": "Executive",
-    "jobUrl": "https://in.linkedin.com/jobs/view/executive-at-exl-4462936484?trk=public_jobs_topcard-title",
-    "location": "Noida, Uttar Pradesh, India",
-    "postedTime": "16 hours ago",
-    "contractType": "Full-time",
-    "experienceLevel": "Not Applicable",
-    "postedAt": "2026-09-28",
-    "firstSeen": "2026-09-08",
-    "checkedAt": "2026-10-05T06:14:46.729Z"
-  },
-  {
-    "companyName": "AKQA",
-    "jobTitle": "Senior Quality Assurance Analyst (Automation)",
-    "jobUrl": "https://in.linkedin.com/jobs/view/senior-quality-assurance-analyst-automation-at-akqa-4464089603?trk=public_jobs_topcard-title",
-    "location": "Gurgaon, Haryana, India",
-    "postedTime": "21 hours ago",
-    "contractType": "Full-time",
-    "experienceLevel": "Mid-Senior level",
-    "postedAt": "2026-09-28",
-    "firstSeen": "2026-09-08",
-    "checkedAt": "2026-10-14T05:24:54.810Z"
-  },
-  {
-    "companyName": "Landis+Gyr",
-    "jobTitle": "Technical Operations Manager",
-    "jobUrl": "https://in.linkedin.com/jobs/view/technical-operations-manager-at-landis%2Bgyr-4462931643?trk=public_jobs_topcard-title",
-    "location": "Noida, Uttar Pradesh, India",
-    "postedTime": "18 hours ago",
-    "contractType": "Full-time",
-    "experienceLevel": "Mid-Senior level",
-    "postedAt": "2026-09-28",
-    "firstSeen": "2026-09-08",
-    "checkedAt": "2026-10-06T06:53:36.968Z"
   },
   {
     "companyName": "ABB",
@@ -1272,114 +372,6 @@
     "checkedAt": "2026-10-08T06:41:31.418Z"
   },
   {
-    "companyName": "Taboola",
-    "jobTitle": "Sales Support Associate",
-    "jobUrl": "https://in.linkedin.com/jobs/view/sales-support-associate-at-taboola-4455269899?trk=public_jobs_topcard-title",
-    "location": "Gurugram, Haryana, India",
-    "postedTime": "12 hours ago",
-    "contractType": "Full-time",
-    "experienceLevel": "Entry level",
-    "postedAt": "2026-09-28",
-    "firstSeen": "2026-09-08",
-    "checkedAt": "2026-10-10T06:25:23.295Z"
-  },
-  {
-    "companyName": "Mott MacDonald",
-    "jobTitle": "Senior Mechanical Engineer(PHE)",
-    "jobUrl": "https://in.linkedin.com/jobs/view/senior-mechanical-engineer-phe-at-mott-macdonald-4455274756?trk=public_jobs_topcard-title",
-    "location": "Noida, Uttar Pradesh, India",
-    "postedTime": "14 hours ago",
-    "contractType": "Full-time",
-    "experienceLevel": "Not Applicable",
-    "postedAt": "2026-09-28",
-    "firstSeen": "2026-09-08",
-    "checkedAt": "2026-10-06T06:53:36.968Z"
-  },
-  {
-    "companyName": "EXL",
-    "jobTitle": "4400294-Executives",
-    "jobUrl": "https://in.linkedin.com/jobs/view/4400294-executives-at-exl-4462940442?trk=public_jobs_topcard-title",
-    "location": "Gurugram, Haryana, India",
-    "postedTime": "19 hours ago",
-    "contractType": "Full-time",
-    "experienceLevel": "Not Applicable",
-    "postedAt": "2026-09-28",
-    "firstSeen": "2026-09-08",
-    "checkedAt": "2026-10-06T06:53:36.968Z"
-  },
-  {
-    "companyName": "EXL",
-    "jobTitle": "2776770-Senior Assistant Vice President",
-    "jobUrl": "https://in.linkedin.com/jobs/view/2776770-senior-assistant-vice-president-at-exl-4462925849?trk=public_jobs_topcard-title",
-    "location": "Noida, Uttar Pradesh, India",
-    "postedTime": "19 hours ago",
-    "contractType": "Full-time",
-    "experienceLevel": "Not Applicable",
-    "postedAt": "2026-09-28",
-    "firstSeen": "2026-09-08",
-    "checkedAt": "2026-10-13T07:08:37.505Z"
-  },
-  {
-    "companyName": "EXL",
-    "jobTitle": "Executive",
-    "jobUrl": "https://in.linkedin.com/jobs/view/executive-at-exl-4462927547?trk=public_jobs_topcard-title",
-    "location": "Noida, Uttar Pradesh, India",
-    "postedTime": "19 hours ago",
-    "contractType": "Full-time",
-    "experienceLevel": "Not Applicable",
-    "postedAt": "2026-09-28",
-    "firstSeen": "2026-09-08",
-    "checkedAt": "2026-10-08T06:41:31.418Z"
-  },
-  {
-    "companyName": "EXL",
-    "jobTitle": "Executive",
-    "jobUrl": "https://in.linkedin.com/jobs/view/executive-at-exl-4462939469?trk=public_jobs_topcard-title",
-    "location": "Noida, Uttar Pradesh, India",
-    "postedTime": "19 hours ago",
-    "contractType": "Full-time",
-    "experienceLevel": "Not Applicable",
-    "postedAt": "2026-09-28",
-    "firstSeen": "2026-09-08",
-    "checkedAt": "2026-10-09T06:43:37.151Z"
-  },
-  {
-    "companyName": "EXL",
-    "jobTitle": "3848629-Senior Executive",
-    "jobUrl": "https://in.linkedin.com/jobs/view/3848629-senior-executive-at-exl-4462947428?trk=public_jobs_topcard-title",
-    "location": "Noida, Uttar Pradesh, India",
-    "postedTime": "19 hours ago",
-    "contractType": "Full-time",
-    "experienceLevel": "Not Applicable",
-    "postedAt": "2026-09-28",
-    "firstSeen": "2026-09-08",
-    "checkedAt": "2026-10-09T06:43:37.151Z"
-  },
-  {
-    "companyName": "EXL",
-    "jobTitle": "4496090-Executives",
-    "jobUrl": "https://in.linkedin.com/jobs/view/4496090-executives-at-exl-4462940443?trk=public_jobs_topcard-title",
-    "location": "Noida, Uttar Pradesh, India",
-    "postedTime": "19 hours ago",
-    "contractType": "Full-time",
-    "experienceLevel": "Not Applicable",
-    "postedAt": "2026-09-28",
-    "firstSeen": "2026-09-08",
-    "checkedAt": "2026-10-07T06:29:27.123Z"
-  },
-  {
-    "companyName": "EXL",
-    "jobTitle": "3848629-Senior Executive",
-    "jobUrl": "https://in.linkedin.com/jobs/view/3848629-senior-executive-at-exl-4462932495?trk=public_jobs_topcard-title",
-    "location": "Noida, Uttar Pradesh, India",
-    "postedTime": "19 hours ago",
-    "contractType": "Full-time",
-    "experienceLevel": "Not Applicable",
-    "postedAt": "2026-09-28",
-    "firstSeen": "2026-09-08",
-    "checkedAt": "2026-10-10T06:25:23.295Z"
-  },
-  {
     "companyName": "Qualcomm",
     "jobTitle": "Senior RTL Design Engineer",
     "jobUrl": "https://in.linkedin.com/jobs/view/senior-rtl-design-engineer-at-qualcomm-4462953359?trk=public_jobs_topcard-title",
@@ -1390,18 +382,6 @@
     "postedAt": "2026-09-29",
     "firstSeen": "2026-09-08",
     "checkedAt": "2026-10-10T06:25:23.295Z"
-  },
-  {
-    "companyName": "EXL",
-    "jobTitle": "3563126-Lead Assistant Manager",
-    "jobUrl": "https://in.linkedin.com/jobs/view/3563126-lead-assistant-manager-at-exl-4462928494?trk=public_jobs_topcard-title",
-    "location": "Gurugram, Haryana, India",
-    "postedTime": "16 hours ago",
-    "contractType": "Full-time",
-    "experienceLevel": "Not Applicable",
-    "postedAt": "2026-09-28",
-    "firstSeen": "2026-09-08",
-    "checkedAt": "2026-10-11T06:28:10.397Z"
   },
   {
     "companyName": "Yum! Brands",
@@ -1416,78 +396,6 @@
     "checkedAt": "2026-10-09T06:43:37.151Z"
   },
   {
-    "companyName": "EXL",
-    "jobTitle": "Senior Executive",
-    "jobUrl": "https://in.linkedin.com/jobs/view/senior-executive-at-exl-4462944451?trk=public_jobs_topcard-title",
-    "location": "Noida, Uttar Pradesh, India",
-    "postedTime": "19 hours ago",
-    "contractType": "Full-time",
-    "experienceLevel": "Not Applicable",
-    "postedAt": "2026-09-28",
-    "firstSeen": "2026-09-08",
-    "checkedAt": "2026-10-09T06:43:37.151Z"
-  },
-  {
-    "companyName": "EXL",
-    "jobTitle": "3726774-Lead Assistant Manager",
-    "jobUrl": "https://in.linkedin.com/jobs/view/3726774-lead-assistant-manager-at-exl-4462932504?trk=public_jobs_topcard-title",
-    "location": "Gurugram, Haryana, India",
-    "postedTime": "19 hours ago",
-    "contractType": "Full-time",
-    "experienceLevel": "Not Applicable",
-    "postedAt": "2026-09-28",
-    "firstSeen": "2026-09-08",
-    "checkedAt": "2026-10-07T06:29:27.123Z"
-  },
-  {
-    "companyName": "EXL",
-    "jobTitle": "3563126-Lead Assistant Manager",
-    "jobUrl": "https://in.linkedin.com/jobs/view/3563126-lead-assistant-manager-at-exl-4462949381?trk=public_jobs_topcard-title",
-    "location": "Gurugram, Haryana, India",
-    "postedTime": "19 hours ago",
-    "contractType": "Full-time",
-    "experienceLevel": "Not Applicable",
-    "postedAt": "2026-09-28",
-    "firstSeen": "2026-09-08",
-    "checkedAt": "2026-10-11T06:28:10.397Z"
-  },
-  {
-    "companyName": "EXL",
-    "jobTitle": "3855828-Senior Manager",
-    "jobUrl": "https://in.linkedin.com/jobs/view/3855828-senior-manager-at-exl-4462938478?trk=public_jobs_topcard-title",
-    "location": "Gurugram, Haryana, India",
-    "postedTime": "19 hours ago",
-    "contractType": "Full-time",
-    "experienceLevel": "Not Applicable",
-    "postedAt": "2026-09-28",
-    "firstSeen": "2026-09-08",
-    "checkedAt": "2026-10-09T06:43:37.151Z"
-  },
-  {
-    "companyName": "EXL",
-    "jobTitle": "4536089-Manager",
-    "jobUrl": "https://in.linkedin.com/jobs/view/4536089-manager-at-exl-4462928497?trk=public_jobs_topcard-title",
-    "location": "Noida, Uttar Pradesh, India",
-    "postedTime": "19 hours ago",
-    "contractType": "Full-time",
-    "experienceLevel": "Not Applicable",
-    "postedAt": "2026-09-28",
-    "firstSeen": "2026-09-08",
-    "checkedAt": "2026-10-09T06:43:37.151Z"
-  },
-  {
-    "companyName": "EXL",
-    "jobTitle": "3765775-Executives",
-    "jobUrl": "https://in.linkedin.com/jobs/view/3765775-executives-at-exl-4462941464?trk=public_jobs_topcard-title",
-    "location": "Noida, Uttar Pradesh, India",
-    "postedTime": "19 hours ago",
-    "contractType": "Temporary",
-    "experienceLevel": "Not Applicable",
-    "postedAt": "2026-09-28",
-    "firstSeen": "2026-09-08",
-    "checkedAt": "2026-10-09T06:43:37.151Z"
-  },
-  {
     "companyName": "Alvarez & Marsal",
     "jobTitle": "Applications - BEPS Pillar 2, GCC Asia Tax",
     "jobUrl": "https://in.linkedin.com/jobs/view/applications-beps-pillar-2-gcc-asia-tax-at-alvarez-marsal-4455208394?trk=public_jobs_topcard-title",
@@ -1496,18 +404,6 @@
     "contractType": "Full-time",
     "experienceLevel": "Not Applicable",
     "postedAt": "2026-10-07",
-    "firstSeen": "2026-09-08",
-    "checkedAt": "2026-10-09T06:43:37.151Z"
-  },
-  {
-    "companyName": "EXL",
-    "jobTitle": "Lead Assistant Manager",
-    "jobUrl": "https://in.linkedin.com/jobs/view/lead-assistant-manager-at-exl-4462937455?trk=public_jobs_topcard-title",
-    "location": "Noida, Uttar Pradesh, India",
-    "postedTime": "19 hours ago",
-    "contractType": "Full-time",
-    "experienceLevel": "Not Applicable",
-    "postedAt": "2026-09-28",
     "firstSeen": "2026-09-08",
     "checkedAt": "2026-10-09T06:43:37.151Z"
   },
@@ -1536,90 +432,6 @@
     "checkedAt": "2026-10-09T06:43:37.151Z"
   },
   {
-    "companyName": "Cadence",
-    "jobTitle": "Lead Software Engineer",
-    "jobUrl": "https://in.linkedin.com/jobs/view/lead-software-engineer-at-cadence-4462949500?trk=public_jobs_topcard-title",
-    "location": "Noida, Uttar Pradesh, India",
-    "postedTime": "11 hours ago",
-    "contractType": "Full-time",
-    "experienceLevel": "Not Applicable",
-    "postedAt": "2026-09-28",
-    "firstSeen": "2026-09-08",
-    "checkedAt": "2026-10-07T06:29:27.123Z"
-  },
-  {
-    "companyName": "EXL",
-    "jobTitle": "689796-Lead Assistant Manager",
-    "jobUrl": "https://in.linkedin.com/jobs/view/689796-lead-assistant-manager-at-exl-4462947424?trk=public_jobs_topcard-title",
-    "location": "Gurugram, Haryana, India",
-    "postedTime": "19 hours ago",
-    "contractType": "Full-time",
-    "experienceLevel": "Not Applicable",
-    "postedAt": "2026-09-28",
-    "firstSeen": "2026-09-08",
-    "checkedAt": "2026-10-07T06:29:27.123Z"
-  },
-  {
-    "companyName": "EXL",
-    "jobTitle": "3562842-Senior Assistant Vice President",
-    "jobUrl": "https://in.linkedin.com/jobs/view/3562842-senior-assistant-vice-president-at-exl-4462928496?trk=public_jobs_topcard-title",
-    "location": "Gurugram, Haryana, India",
-    "postedTime": "19 hours ago",
-    "contractType": "Full-time",
-    "experienceLevel": "Not Applicable",
-    "postedAt": "2026-09-28",
-    "firstSeen": "2026-09-08",
-    "checkedAt": "2026-10-09T06:43:37.151Z"
-  },
-  {
-    "companyName": "EXL",
-    "jobTitle": "3407793-Assistant Manager",
-    "jobUrl": "https://in.linkedin.com/jobs/view/3407793-assistant-manager-at-exl-4462948449?trk=public_jobs_topcard-title",
-    "location": "Gurugram, Haryana, India",
-    "postedTime": "19 hours ago",
-    "contractType": "Full-time",
-    "experienceLevel": "Not Applicable",
-    "postedAt": "2026-09-28",
-    "firstSeen": "2026-09-08",
-    "checkedAt": "2026-10-07T06:29:27.123Z"
-  },
-  {
-    "companyName": "EXL",
-    "jobTitle": "3628788-Assistant Manager",
-    "jobUrl": "https://in.linkedin.com/jobs/view/3628788-assistant-manager-at-exl-4462938479?trk=public_jobs_topcard-title",
-    "location": "Noida, Uttar Pradesh, India",
-    "postedTime": "19 hours ago",
-    "contractType": "Full-time",
-    "experienceLevel": "Not Applicable",
-    "postedAt": "2026-09-28",
-    "firstSeen": "2026-09-08",
-    "checkedAt": "2026-10-07T06:29:27.123Z"
-  },
-  {
-    "companyName": "EXL",
-    "jobTitle": "240228-Manager",
-    "jobUrl": "https://in.linkedin.com/jobs/view/240228-manager-at-exl-4462935479?trk=public_jobs_topcard-title",
-    "location": "Noida, Uttar Pradesh, India",
-    "postedTime": "19 hours ago",
-    "contractType": "Full-time",
-    "experienceLevel": "Not Applicable",
-    "postedAt": "2026-09-28",
-    "firstSeen": "2026-09-08",
-    "checkedAt": "2026-10-09T06:43:37.151Z"
-  },
-  {
-    "companyName": "Mott MacDonald",
-    "jobTitle": "Structural BIM Modeller",
-    "jobUrl": "https://in.linkedin.com/jobs/view/structural-bim-modeller-at-mott-macdonald-4445946051?trk=public_jobs_topcard-title",
-    "location": "Noida, Uttar Pradesh, India",
-    "postedTime": "16 hours ago",
-    "contractType": "Full-time",
-    "experienceLevel": "Not Applicable",
-    "postedAt": "2026-09-28",
-    "firstSeen": "2026-09-08",
-    "checkedAt": "2026-10-07T06:29:27.123Z"
-  },
-  {
     "companyName": "IDFC FIRST Bank",
     "jobTitle": "Sales Manager - Home Loan and Suvidha LAP",
     "jobUrl": "https://in.linkedin.com/jobs/view/sales-manager-home-loan-and-suvidha-lap-at-idfc-first-bank-4454270246?trk=public_jobs_topcard-title",
@@ -1644,138 +456,6 @@
     "checkedAt": "2026-10-09T06:43:37.151Z"
   },
   {
-    "companyName": "EXL",
-    "jobTitle": "3774830-Executives",
-    "jobUrl": "https://in.linkedin.com/jobs/view/3774830-executives-at-exl-4462926559?trk=public_jobs_topcard-title",
-    "location": "Noida, Uttar Pradesh, India",
-    "postedTime": "19 hours ago",
-    "contractType": "Full-time",
-    "experienceLevel": "Not Applicable",
-    "postedAt": "2026-09-28",
-    "firstSeen": "2026-09-08",
-    "checkedAt": "2026-10-09T06:43:37.151Z"
-  },
-  {
-    "companyName": "EXL",
-    "jobTitle": "Senior Executive",
-    "jobUrl": "https://in.linkedin.com/jobs/view/senior-executive-at-exl-4462948413?trk=public_jobs_topcard-title",
-    "location": "Gurugram, Haryana, India",
-    "postedTime": "19 hours ago",
-    "contractType": "Full-time",
-    "experienceLevel": "Not Applicable",
-    "postedAt": "2026-09-28",
-    "firstSeen": "2026-09-08",
-    "checkedAt": "2026-10-14T05:24:54.810Z"
-  },
-  {
-    "companyName": "EXL",
-    "jobTitle": "Senior Executive",
-    "jobUrl": "https://in.linkedin.com/jobs/view/senior-executive-at-exl-4462927552?trk=public_jobs_topcard-title",
-    "location": "Noida, Uttar Pradesh, India",
-    "postedTime": "19 hours ago",
-    "contractType": "Full-time",
-    "experienceLevel": "Not Applicable",
-    "postedAt": "2026-09-28",
-    "firstSeen": "2026-09-08",
-    "checkedAt": "2026-10-11T06:28:10.397Z"
-  },
-  {
-    "companyName": "EXL",
-    "jobTitle": "Executive",
-    "jobUrl": "https://in.linkedin.com/jobs/view/executive-at-exl-4462935472?trk=public_jobs_topcard-title",
-    "location": "Noida, Uttar Pradesh, India",
-    "postedTime": "19 hours ago",
-    "contractType": "Full-time",
-    "experienceLevel": "Not Applicable",
-    "postedAt": "2026-09-28",
-    "firstSeen": "2026-09-08",
-    "checkedAt": "2026-10-08T06:41:31.418Z"
-  },
-  {
-    "companyName": "EXL",
-    "jobTitle": "4400164-Senior Executive",
-    "jobUrl": "https://in.linkedin.com/jobs/view/4400164-senior-executive-at-exl-4462926558?trk=public_jobs_topcard-title",
-    "location": "Noida, Uttar Pradesh, India",
-    "postedTime": "19 hours ago",
-    "contractType": "Full-time",
-    "experienceLevel": "Not Applicable",
-    "postedAt": "2026-09-28",
-    "firstSeen": "2026-09-08",
-    "checkedAt": "2026-10-11T06:28:10.397Z"
-  },
-  {
-    "companyName": "EXL",
-    "jobTitle": "Executive",
-    "jobUrl": "https://in.linkedin.com/jobs/view/executive-at-exl-4462940424?trk=public_jobs_topcard-title",
-    "location": "Noida, Uttar Pradesh, India",
-    "postedTime": "19 hours ago",
-    "contractType": "Full-time",
-    "experienceLevel": "Not Applicable",
-    "postedAt": "2026-09-28",
-    "firstSeen": "2026-09-08",
-    "checkedAt": "2026-10-13T07:08:37.505Z"
-  },
-  {
-    "companyName": "EXL",
-    "jobTitle": "3847452-Executives",
-    "jobUrl": "https://in.linkedin.com/jobs/view/3847452-executives-at-exl-4462944473?trk=public_jobs_topcard-title",
-    "location": "Noida, Uttar Pradesh, India",
-    "postedTime": "19 hours ago",
-    "contractType": "Temporary",
-    "experienceLevel": "Not Applicable",
-    "postedAt": "2026-09-28",
-    "firstSeen": "2026-09-08",
-    "checkedAt": "2026-10-08T06:41:31.418Z"
-  },
-  {
-    "companyName": "Mastercard",
-    "jobTitle": "Associate Managing Consultant, Advisors & Consulting Services, Marketing",
-    "jobUrl": "https://in.linkedin.com/jobs/view/associate-managing-consultant-advisors-consulting-services-marketing-at-mastercard-4461897851?trk=public_jobs_topcard-title",
-    "location": "Gurugram, Haryana, India",
-    "postedTime": "18 hours ago",
-    "contractType": "Full-time",
-    "experienceLevel": "Not Applicable",
-    "postedAt": "2026-09-28",
-    "firstSeen": "2026-09-08",
-    "checkedAt": "2026-10-09T06:43:37.151Z"
-  },
-  {
-    "companyName": "EXL",
-    "jobTitle": "1985251-Lead Assistant Manager",
-    "jobUrl": "https://in.linkedin.com/jobs/view/1985251-lead-assistant-manager-at-exl-4462948426?trk=public_jobs_topcard-title",
-    "location": "Gurugram, Haryana, India",
-    "postedTime": "19 hours ago",
-    "contractType": "Full-time",
-    "experienceLevel": "Not Applicable",
-    "postedAt": "2026-09-28",
-    "firstSeen": "2026-09-08",
-    "checkedAt": "2026-10-08T06:41:31.418Z"
-  },
-  {
-    "companyName": "SMEC (an SJ Group company)",
-    "jobTitle": "Assistant Manager- Operations",
-    "jobUrl": "https://in.linkedin.com/jobs/view/assistant-manager-operations-at-smec-an-sj-group-company-4414914838?trk=public_jobs_topcard-title",
-    "location": "Gurugram, Haryana, India",
-    "postedTime": "19 hours ago",
-    "contractType": "Full-time",
-    "experienceLevel": "Not Applicable",
-    "postedAt": "2026-09-28",
-    "firstSeen": "2026-09-08",
-    "checkedAt": "2026-10-10T06:25:23.295Z"
-  },
-  {
-    "companyName": "EXL",
-    "jobTitle": "1984864-Lead Assistant Manager",
-    "jobUrl": "https://in.linkedin.com/jobs/view/1984864-lead-assistant-manager-at-exl-4462925857?trk=public_jobs_topcard-title",
-    "location": "Gurugram, Haryana, India",
-    "postedTime": "19 hours ago",
-    "contractType": "Full-time",
-    "experienceLevel": "Not Applicable",
-    "postedAt": "2026-09-28",
-    "firstSeen": "2026-09-08",
-    "checkedAt": "2026-10-09T06:43:37.151Z"
-  },
-  {
     "companyName": "Alvarez & Marsal",
     "jobTitle": "Associate, GDN Advisory - Global Capability Center",
     "jobUrl": "https://in.linkedin.com/jobs/view/associate-gdn-advisory-global-capability-center-at-alvarez-marsal-4464327365?trk=public_jobs_topcard-title",
@@ -1784,30 +464,6 @@
     "contractType": "Full-time",
     "experienceLevel": "Not Applicable",
     "postedAt": "2026-09-29",
-    "firstSeen": "2026-09-08",
-    "checkedAt": "2026-10-09T06:43:37.151Z"
-  },
-  {
-    "companyName": "EXL",
-    "jobTitle": "4516282-Senior Executive",
-    "jobUrl": "https://in.linkedin.com/jobs/view/4516282-senior-executive-at-exl-4462949380?trk=public_jobs_topcard-title",
-    "location": "Noida, Uttar Pradesh, India",
-    "postedTime": "19 hours ago",
-    "contractType": "Full-time",
-    "experienceLevel": "Not Applicable",
-    "postedAt": "2026-09-28",
-    "firstSeen": "2026-09-08",
-    "checkedAt": "2026-10-09T06:43:37.151Z"
-  },
-  {
-    "companyName": "EXL",
-    "jobTitle": "3563404-Lead Assistant Manager",
-    "jobUrl": "https://in.linkedin.com/jobs/view/3563404-lead-assistant-manager-at-exl-4462940441?trk=public_jobs_topcard-title",
-    "location": "Gurugram, Haryana, India",
-    "postedTime": "19 hours ago",
-    "contractType": "Full-time",
-    "experienceLevel": "Not Applicable",
-    "postedAt": "2026-09-28",
     "firstSeen": "2026-09-08",
     "checkedAt": "2026-10-09T06:43:37.151Z"
   },
@@ -1822,78 +478,6 @@
     "postedAt": "2026-09-29",
     "firstSeen": "2026-09-08",
     "checkedAt": "2026-10-09T06:43:37.151Z"
-  },
-  {
-    "companyName": "EXL",
-    "jobTitle": "Senior Executive",
-    "jobUrl": "https://in.linkedin.com/jobs/view/senior-executive-at-exl-4462939471?trk=public_jobs_topcard-title",
-    "location": "Noida, Uttar Pradesh, India",
-    "postedTime": "19 hours ago",
-    "contractType": "Full-time",
-    "experienceLevel": "Not Applicable",
-    "postedAt": "2026-09-28",
-    "firstSeen": "2026-09-08",
-    "checkedAt": "2026-10-11T06:28:10.397Z"
-  },
-  {
-    "companyName": "EXL",
-    "jobTitle": "3563555-Lead Assistant Manager",
-    "jobUrl": "https://in.linkedin.com/jobs/view/3563555-lead-assistant-manager-at-exl-4462932506?trk=public_jobs_topcard-title",
-    "location": "Gurugram, Haryana, India",
-    "postedTime": "19 hours ago",
-    "contractType": "Full-time",
-    "experienceLevel": "Not Applicable",
-    "postedAt": "2026-09-28",
-    "firstSeen": "2026-09-08",
-    "checkedAt": "2026-10-13T07:08:37.505Z"
-  },
-  {
-    "companyName": "EXL",
-    "jobTitle": "Senior Executive",
-    "jobUrl": "https://in.linkedin.com/jobs/view/senior-executive-at-exl-4462939470?trk=public_jobs_topcard-title",
-    "location": "Noida, Uttar Pradesh, India",
-    "postedTime": "19 hours ago",
-    "contractType": "Full-time",
-    "experienceLevel": "Not Applicable",
-    "postedAt": "2026-09-28",
-    "firstSeen": "2026-09-08",
-    "checkedAt": "2026-10-09T06:43:37.151Z"
-  },
-  {
-    "companyName": "EXL",
-    "jobTitle": "Executive",
-    "jobUrl": "https://in.linkedin.com/jobs/view/executive-at-exl-4462939464?trk=public_jobs_topcard-title",
-    "location": "Noida, Uttar Pradesh, India",
-    "postedTime": "19 hours ago",
-    "contractType": "Full-time",
-    "experienceLevel": "Not Applicable",
-    "postedAt": "2026-09-28",
-    "firstSeen": "2026-09-08",
-    "checkedAt": "2026-10-10T06:25:23.295Z"
-  },
-  {
-    "companyName": "EXL",
-    "jobTitle": "Executive",
-    "jobUrl": "https://in.linkedin.com/jobs/view/executive-at-exl-4462933452?trk=public_jobs_topcard-title",
-    "location": "Noida, Uttar Pradesh, India",
-    "postedTime": "19 hours ago",
-    "contractType": "Full-time",
-    "experienceLevel": "Not Applicable",
-    "postedAt": "2026-09-28",
-    "firstSeen": "2026-09-08",
-    "checkedAt": "2026-10-09T06:43:37.151Z"
-  },
-  {
-    "companyName": "EXL",
-    "jobTitle": "Executive",
-    "jobUrl": "https://in.linkedin.com/jobs/view/executive-at-exl-4462930475?trk=public_jobs_topcard-title",
-    "location": "Noida, Uttar Pradesh, India",
-    "postedTime": "19 hours ago",
-    "contractType": "Full-time",
-    "experienceLevel": "Not Applicable",
-    "postedAt": "2026-09-28",
-    "firstSeen": "2026-09-08",
-    "checkedAt": "2026-10-10T06:25:23.295Z"
   },
   {
     "companyName": "Inizio",
@@ -4140,18 +2724,6 @@
     "checkedAt": "2026-10-31T06:20:08.442Z"
   },
   {
-    "companyName": "Air Distribution Technologies, Inc.",
-    "jobTitle": "Design Engineer",
-    "jobUrl": "https://in.linkedin.com/jobs/view/design-engineer-at-air-distribution-technologies-inc-4468618056?trk=public_jobs_topcard-title",
-    "location": "Gurugram Tehsil, Haryana, India",
-    "postedTime": "18 hours ago",
-    "contractType": "Full-time",
-    "experienceLevel": "Not Applicable",
-    "postedAt": "2026-09-28",
-    "firstSeen": "2026-09-18",
-    "checkedAt": "2026-10-31T06:20:08.442Z"
-  },
-  {
     "companyName": "Jacobs",
     "jobTitle": "Senior Design Engineer-Instrumentation & Control",
     "jobUrl": "https://in.linkedin.com/jobs/view/senior-design-engineer-instrumentation-control-at-jacobs-4459694234?trk=public_jobs_topcard-title",
@@ -5076,17 +3648,6 @@
     "checkedAt": "2026-11-01T06:52:47.561Z"
   },
   {
-    "companyName": "Elysion Softwares Private Limited",
-    "jobTitle": "Operations Intern",
-    "jobUrl": "https://in.linkedin.com/jobs/view/operations-intern-at-elysion-softwares-private-limited-4477958989?trk=public_jobs_topcard-title",
-    "location": "Noida, Uttar Pradesh, India",
-    "postedTime": "22 hours ago",
-    "contractType": "Full-time",
-    "experienceLevel": "Internship",
-    "postedAt": "2026-10-13",
-    "firstSeen": "2026-10-14"
-  },
-  {
     "companyName": "Kamakhya Analytics Private Limited",
     "jobTitle": "Senior Software Engineer",
     "jobUrl": "https://in.linkedin.com/jobs/view/senior-software-engineer-at-kamakhya-analytics-private-limited-4478108356?trk=public_jobs_topcard-title",
@@ -5315,17 +3876,6 @@
     "checkedAt": "2026-11-01T06:52:47.561Z"
   },
   {
-    "companyName": "LearningShala",
-    "jobTitle": "Senior Business Development Associate",
-    "jobUrl": "https://in.linkedin.com/jobs/view/senior-business-development-associate-at-learningshala-4477991078?trk=public_jobs_topcard-title",
-    "location": "Delhi, Delhi, India",
-    "postedTime": "21 hours ago",
-    "contractType": "Full-time",
-    "experienceLevel": "Mid-Senior level",
-    "postedAt": "2026-10-13",
-    "firstSeen": "2026-10-14"
-  },
-  {
     "companyName": "Bain & Company",
     "jobTitle": "Associate (CE) - Customer CoE",
     "jobUrl": "https://in.linkedin.com/jobs/view/associate-ce-customer-coe-at-bain-company-4478106655?trk=public_jobs_topcard-title",
@@ -5336,17 +3886,6 @@
     "postedAt": "2026-10-13",
     "firstSeen": "2026-10-14",
     "checkedAt": "2026-11-01T06:52:47.561Z"
-  },
-  {
-    "companyName": "Digital Web Solutions",
-    "jobTitle": "Podcast Outreach",
-    "jobUrl": "https://in.linkedin.com/jobs/view/podcast-outreach-at-digital-web-solutions-4477979908?trk=public_jobs_topcard-title",
-    "location": "Delhi, India",
-    "postedTime": "18 hours ago",
-    "contractType": "Full-time",
-    "experienceLevel": "Entry level",
-    "postedAt": "2026-10-13",
-    "firstSeen": "2026-10-14"
   },
   {
     "companyName": "MongoDB",
@@ -5433,17 +3972,6 @@
     "checkedAt": "2026-11-04T07:01:37.692Z"
   },
   {
-    "companyName": "ShipFast",
-    "jobTitle": "Business Associate",
-    "jobUrl": "https://in.linkedin.com/jobs/view/business-associate-at-shipfast-4477991665?trk=public_jobs_topcard-title",
-    "location": "Gurugram, Haryana, India",
-    "postedTime": "18 hours ago",
-    "contractType": "Full-time",
-    "experienceLevel": "Entry level",
-    "postedAt": "2026-10-13",
-    "firstSeen": "2026-10-14"
-  },
-  {
     "companyName": "Accenture in India",
     "jobTitle": "Advertising Sales Rep Analyst - Voice",
     "jobUrl": "https://in.linkedin.com/jobs/view/advertising-sales-rep-analyst-voice-at-accenture-in-india-4479024714?trk=public_jobs_topcard-title",
@@ -5492,17 +4020,6 @@
     "checkedAt": "2026-11-05T07:25:40.585Z"
   },
   {
-    "companyName": "IBROAD Media",
-    "jobTitle": "Ads Sales Manager",
-    "jobUrl": "https://in.linkedin.com/jobs/view/ads-sales-manager-at-ibroad-media-4477999391?trk=public_jobs_topcard-title",
-    "location": "Noida, Uttar Pradesh, India",
-    "postedTime": "17 hours ago",
-    "contractType": "Full-time",
-    "experienceLevel": "Mid-Senior level",
-    "postedAt": "2026-10-13",
-    "firstSeen": "2026-10-14"
-  },
-  {
     "companyName": "Cvent",
     "jobTitle": "Regional Sales Manager, Event Solutions",
     "jobUrl": "https://in.linkedin.com/jobs/view/regional-sales-manager-event-solutions-at-cvent-4477978744?trk=public_jobs_topcard-title",
@@ -5549,28 +4066,6 @@
     "postedAt": "2026-10-14",
     "firstSeen": "2026-10-14",
     "checkedAt": "2026-11-03T07:17:11.887Z"
-  },
-  {
-    "companyName": "Tsaaro People Consulting",
-    "jobTitle": "Account Manager Sales",
-    "jobUrl": "https://in.linkedin.com/jobs/view/account-manager-sales-at-tsaaro-people-consulting-4478144572?trk=public_jobs_topcard-title",
-    "location": "Noida, Uttar Pradesh, India",
-    "postedTime": "10 hours ago",
-    "contractType": "Full-time",
-    "experienceLevel": "Not Applicable",
-    "postedAt": "2026-10-13",
-    "firstSeen": "2026-10-14"
-  },
-  {
-    "companyName": "Zigsaw",
-    "jobTitle": "Business Development Executive",
-    "jobUrl": "https://in.linkedin.com/jobs/view/business-development-executive-at-zigsaw-4478418243?trk=public_jobs_topcard-title",
-    "location": "Gurugram, Haryana, India",
-    "postedTime": "23 hours ago",
-    "contractType": "Full-time",
-    "experienceLevel": "Associate",
-    "postedAt": "2026-10-14",
-    "firstSeen": "2026-10-14"
   },
   {
     "companyName": "Accenture in India",
@@ -5669,17 +4164,6 @@
     "checkedAt": "2026-11-02T06:51:43.990Z"
   },
   {
-    "companyName": "CollabNexus.AI",
-    "jobTitle": "Business Development Manager",
-    "jobUrl": "https://in.linkedin.com/jobs/view/business-development-manager-at-collabnexus-ai-4476096770?trk=public_jobs_topcard-title",
-    "location": "New Delhi, Delhi, India",
-    "postedTime": "21 hours ago",
-    "contractType": "Full-time",
-    "experienceLevel": "Mid-Senior level",
-    "postedAt": "2026-10-13",
-    "firstSeen": "2026-10-14"
-  },
-  {
     "companyName": "NTT DATA North America",
     "jobTitle": "Call Center Senior Representative",
     "jobUrl": "https://in.linkedin.com/jobs/view/call-center-senior-representative-at-ntt-data-north-america-4479082504?trk=public_jobs_topcard-title",
@@ -5690,17 +4174,6 @@
     "postedAt": "2026-10-13",
     "firstSeen": "2026-10-14",
     "checkedAt": "2026-11-01T06:52:47.561Z"
-  },
-  {
-    "companyName": "Identicube - Video Marketing Company",
-    "jobTitle": "Project Manager Intern: Remote& UnPaid",
-    "jobUrl": "https://in.linkedin.com/jobs/view/project-manager-intern-remote-unpaid-at-identicube-video-marketing-company-4476629272?trk=public_jobs_topcard-title",
-    "location": "Delhi, India",
-    "postedTime": "1 hour ago",
-    "contractType": "Internship",
-    "experienceLevel": "Internship",
-    "postedAt": "2026-10-14",
-    "firstSeen": "2026-10-14"
   },
   {
     "companyName": "My Wall",
@@ -5744,17 +4217,6 @@
     "postedTime": "18 hours ago",
     "contractType": "Full-time",
     "experienceLevel": "Mid-Senior level",
-    "postedAt": "2026-10-13",
-    "firstSeen": "2026-10-14"
-  },
-  {
-    "companyName": "Rage Coffee",
-    "jobTitle": "PERFORMANCE MARKETING SPECIALIST (4-7 YRS)",
-    "jobUrl": "https://in.linkedin.com/jobs/view/performance-marketing-specialist-4-7-yrs-at-rage-coffee-4476460223?trk=public_jobs_topcard-title",
-    "location": "Delhi, Delhi, India",
-    "postedTime": "14 hours ago",
-    "contractType": "Full-time",
-    "experienceLevel": "Not Applicable",
     "postedAt": "2026-10-13",
     "firstSeen": "2026-10-14"
   },
@@ -5813,17 +4275,6 @@
     "postedTime": "23 hours ago",
     "contractType": "Full-time",
     "experienceLevel": "Entry level",
-    "postedAt": "2026-10-13",
-    "firstSeen": "2026-10-14"
-  },
-  {
-    "companyName": "ATOP Consultants",
-    "jobTitle": "UK Accounting & Tax (Sr OR Team Lead) Mumbai , Noida, Ahmedabad",
-    "jobUrl": "https://in.linkedin.com/jobs/view/uk-accounting-tax-sr-or-team-lead-mumbai-noida-ahmedabad-at-atop-consultants-4477980024?trk=public_jobs_topcard-title",
-    "location": "Noida, Uttar Pradesh, India",
-    "postedTime": "22 hours ago",
-    "contractType": "Full-time",
-    "experienceLevel": "Mid-Senior level",
     "postedAt": "2026-10-13",
     "firstSeen": "2026-10-14"
   },
@@ -6192,8 +4643,9 @@
     "postedTime": "12 hours ago",
     "contractType": "Full-time",
     "experienceLevel": "Not Applicable",
-    "postedAt": "2026-10-13",
-    "firstSeen": "2026-10-14"
+    "postedAt": "2026-10-16",
+    "firstSeen": "2026-10-14",
+    "checkedAt": "2026-11-12T07:46:00.563Z"
   },
   {
     "companyName": "Hike Education",
@@ -6204,17 +4656,6 @@
     "contractType": "Full-time",
     "experienceLevel": "Associate",
     "postedAt": "2026-10-13",
-    "firstSeen": "2026-10-14"
-  },
-  {
-    "companyName": "AU SMALL FINANCE BANK",
-    "jobTitle": "Sales Officer Home Loan",
-    "jobUrl": "https://in.linkedin.com/jobs/view/sales-officer-home-loan-at-au-small-finance-bank-4478189333?trk=public_jobs_topcard-title",
-    "location": "Tijara, Rajasthan, India",
-    "postedTime": "5 hours ago",
-    "contractType": "Full-time",
-    "experienceLevel": "Not Applicable",
-    "postedAt": "2026-10-14",
     "firstSeen": "2026-10-14"
   },
   {
@@ -6285,17 +4726,6 @@
     "postedAt": "2026-10-13",
     "firstSeen": "2026-10-14",
     "checkedAt": "2026-11-02T06:51:43.990Z"
-  },
-  {
-    "companyName": "FINOLINK BUSINESS CONSULTING PRIVATE LIMITED",
-    "jobTitle": "Sales And Marketing Specialist",
-    "jobUrl": "https://in.linkedin.com/jobs/view/sales-and-marketing-specialist-at-finolink-business-consulting-private-limited-4476089583?trk=public_jobs_topcard-title",
-    "location": "Noida, Uttar Pradesh, India",
-    "postedTime": "21 hours ago",
-    "contractType": "Full-time",
-    "experienceLevel": "Entry level",
-    "postedAt": "2026-10-13",
-    "firstSeen": "2026-10-14"
   },
   {
     "companyName": "AQUILAW",
@@ -7146,17 +5576,6 @@
     "firstSeen": "2026-10-14"
   },
   {
-    "companyName": "BYLD Group",
-    "jobTitle": "Assistant Manager - Key Account Management | Staffing Industry",
-    "jobUrl": "https://in.linkedin.com/jobs/view/assistant-manager-key-account-management-staffing-industry-at-byld-group-4478104674?trk=public_jobs_topcard-title",
-    "location": "Gurugram, Haryana, India",
-    "postedTime": "15 hours ago",
-    "contractType": "Full-time",
-    "experienceLevel": "Entry level",
-    "postedAt": "2026-10-13",
-    "firstSeen": "2026-10-14"
-  },
-  {
     "companyName": "Accenture in India",
     "jobTitle": "Advertising Sales Rep Associate - Voice",
     "jobUrl": "https://in.linkedin.com/jobs/view/advertising-sales-rep-associate-voice-at-accenture-in-india-4479036285?trk=public_jobs_topcard-title",
@@ -7181,17 +5600,6 @@
     "checkedAt": "2026-11-04T07:01:37.692Z"
   },
   {
-    "companyName": "dentsu",
-    "jobTitle": "Manager - Client Servicing ( Performance Media)",
-    "jobUrl": "https://in.linkedin.com/jobs/view/manager-client-servicing-performance-media-at-dentsu-4478753726?trk=public_jobs_topcard-title",
-    "location": "Gurugram, Haryana, India",
-    "postedTime": "23 hours ago",
-    "contractType": "Full-time",
-    "experienceLevel": "Associate",
-    "postedAt": "2026-10-13",
-    "firstSeen": "2026-10-14"
-  },
-  {
     "companyName": "Jacobs",
     "jobTitle": "Lead Engineer -I&C",
     "jobUrl": "https://in.linkedin.com/jobs/view/lead-engineer-i-c-at-jacobs-4461707596?trk=public_jobs_topcard-title",
@@ -7202,17 +5610,6 @@
     "postedAt": "2026-11-03",
     "firstSeen": "2026-10-14",
     "checkedAt": "2026-11-05T07:25:40.585Z"
-  },
-  {
-    "companyName": "SimCorp",
-    "jobTitle": "Senior Software Engineer - C# .net",
-    "jobUrl": "https://in.linkedin.com/jobs/view/senior-software-engineer-c%23-net-at-simcorp-4478784231?trk=public_jobs_topcard-title",
-    "location": "Noida, Uttar Pradesh, India",
-    "postedTime": "20 hours ago",
-    "contractType": "Full-time",
-    "experienceLevel": "Mid-Senior level",
-    "postedAt": "2026-10-13",
-    "firstSeen": "2026-10-14"
   },
   {
     "companyName": "IQVIA",
@@ -7237,17 +5634,6 @@
     "postedAt": "2026-10-13",
     "firstSeen": "2026-10-14",
     "checkedAt": "2026-11-05T07:25:40.585Z"
-  },
-  {
-    "companyName": "HSBC",
-    "jobTitle": "VP, Stress Testing, GT",
-    "jobUrl": "https://in.linkedin.com/jobs/view/vp-stress-testing-gt-at-hsbc-4478757763?trk=public_jobs_topcard-title",
-    "location": "Gurugram, Haryana, India",
-    "postedTime": "22 hours ago",
-    "contractType": "Full-time",
-    "experienceLevel": "Not Applicable",
-    "postedAt": "2026-10-13",
-    "firstSeen": "2026-10-14"
   },
   {
     "companyName": "Siemens Energy",
@@ -7510,17 +5896,6 @@
     "checkedAt": "2026-11-05T07:25:40.585Z"
   },
   {
-    "companyName": "Jamboree Education Private Limited",
-    "jobTitle": "Social Media Executive/ Content Creator",
-    "jobUrl": "https://in.linkedin.com/jobs/view/social-media-executive-content-creator-at-jamboree-education-private-limited-4475418787?trk=public_jobs_topcard-title",
-    "location": "Delhi, India",
-    "postedTime": "20 hours ago",
-    "contractType": "Full-time",
-    "experienceLevel": "Mid-Senior level",
-    "postedAt": "2026-10-13",
-    "firstSeen": "2026-10-14"
-  },
-  {
     "companyName": "D. E. Shaw India Private Limited",
     "jobTitle": "Associate Director/Director - GenAI Business Strategy & Transformation",
     "jobUrl": "https://in.linkedin.com/jobs/view/associate-director-director-genai-business-strategy-transformation-at-d-e-shaw-india-private-limited-4479073074?trk=public_jobs_topcard-title",
@@ -7596,8 +5971,9 @@
     "postedTime": "19 hours ago",
     "contractType": "Full-time",
     "experienceLevel": "Not Applicable",
-    "postedAt": "2026-10-13",
-    "firstSeen": "2026-10-14"
+    "postedAt": "2026-11-03",
+    "firstSeen": "2026-10-14",
+    "checkedAt": "2026-11-12T07:46:00.563Z"
   },
   {
     "companyName": "Quince",
@@ -8181,17 +6557,6 @@
     "postedTime": "18 hours ago",
     "contractType": "Full-time",
     "experienceLevel": "Mid-Senior level",
-    "postedAt": "2026-10-13",
-    "firstSeen": "2026-10-14"
-  },
-  {
-    "companyName": "Marsh",
-    "jobTitle": "Databricks Platform Engineer",
-    "jobUrl": "https://in.linkedin.com/jobs/view/databricks-platform-engineer-at-marsh-4479056529?trk=public_jobs_topcard-title",
-    "location": "Gurugram, Haryana, India",
-    "postedTime": "12 hours ago",
-    "contractType": "Full-time",
-    "experienceLevel": "Not Applicable",
     "postedAt": "2026-10-13",
     "firstSeen": "2026-10-14"
   },
@@ -9079,17 +7444,6 @@
     "firstSeen": "2026-10-14"
   },
   {
-    "companyName": "Credence Genomics (Pte) Ltd",
-    "jobTitle": "Service Lab Account Manager – Delhi",
-    "jobUrl": "https://in.linkedin.com/jobs/view/service-lab-account-manager-%E2%80%93-delhi-at-credence-genomics-pte-ltd-4478194870?trk=public_jobs_topcard-title",
-    "location": "Delhi, India",
-    "postedTime": "1 hour ago",
-    "contractType": "Contract",
-    "experienceLevel": "Mid-Senior level",
-    "postedAt": "2026-10-14",
-    "firstSeen": "2026-10-14"
-  },
-  {
     "companyName": "Boston Consulting Group (BCG)",
     "jobTitle": "Global IT Quality Engineer Manager",
     "jobUrl": "https://in.linkedin.com/jobs/view/global-it-quality-engineer-manager-at-boston-consulting-group-bcg-4478120912?trk=public_jobs_topcard-title",
@@ -9258,7 +7612,8 @@
     "contractType": "Full-time",
     "experienceLevel": "Mid-Senior level",
     "postedAt": "2026-10-14",
-    "firstSeen": "2026-10-15"
+    "firstSeen": "2026-10-15",
+    "checkedAt": "2026-11-12T07:46:00.563Z"
   },
   {
     "companyName": "Jacobs",
@@ -9271,17 +7626,6 @@
     "postedAt": "2026-11-04",
     "firstSeen": "2026-10-15",
     "checkedAt": "2026-11-07T06:38:08.389Z"
-  },
-  {
-    "companyName": "Geeta Vaibhav Architects",
-    "jobTitle": "Interior Designer",
-    "jobUrl": "https://in.linkedin.com/jobs/view/interior-designer-at-geeta-vaibhav-architects-4478425104?trk=public_jobs_topcard-title",
-    "location": "Noida, Uttar Pradesh, India",
-    "postedTime": "22 hours ago",
-    "contractType": "Full-time",
-    "experienceLevel": "Entry level",
-    "postedAt": "2026-10-14",
-    "firstSeen": "2026-10-15"
   },
   {
     "companyName": "True Balance",
@@ -9629,17 +7973,6 @@
     "firstSeen": "2026-10-15"
   },
   {
-    "companyName": "Optum India",
-    "jobTitle": "Data Analyst",
-    "jobUrl": "https://in.linkedin.com/jobs/view/data-analyst-at-optum-india-4479754879?trk=public_jobs_topcard-title",
-    "location": "Noida, Uttar Pradesh, India",
-    "postedTime": "1 hour ago",
-    "contractType": "Full-time",
-    "experienceLevel": "Not Applicable",
-    "postedAt": "2026-10-15",
-    "firstSeen": "2026-10-15"
-  },
-  {
     "companyName": "Payoneer",
     "jobTitle": "Payroll Analyst - Europe",
     "jobUrl": "https://in.linkedin.com/jobs/view/payroll-analyst-europe-at-payoneer-4479298595?trk=public_jobs_topcard-title",
@@ -9717,8 +8050,9 @@
     "postedTime": "14 hours ago",
     "contractType": "Full-time",
     "experienceLevel": "Mid-Senior level",
-    "postedAt": "2026-10-14",
-    "firstSeen": "2026-10-15"
+    "postedAt": "2026-11-04",
+    "firstSeen": "2026-10-15",
+    "checkedAt": "2026-11-12T07:46:00.563Z"
   },
   {
     "companyName": "EY",
@@ -9753,7 +8087,8 @@
     "contractType": "Full-time",
     "experienceLevel": "Associate",
     "postedAt": "2026-10-14",
-    "firstSeen": "2026-10-15"
+    "firstSeen": "2026-10-15",
+    "checkedAt": "2026-11-12T07:46:00.563Z"
   },
   {
     "companyName": "FNZ",
@@ -9763,8 +8098,9 @@
     "postedTime": "17 hours ago",
     "contractType": "Full-time",
     "experienceLevel": "Not Applicable",
-    "postedAt": "2026-10-14",
-    "firstSeen": "2026-10-15"
+    "postedAt": "2026-11-05",
+    "firstSeen": "2026-10-15",
+    "checkedAt": "2026-11-12T07:46:00.563Z"
   },
   {
     "companyName": "SAS",
@@ -9791,17 +8127,6 @@
     "checkedAt": "2026-11-08T06:44:33.198Z"
   },
   {
-    "companyName": "READINEXT",
-    "jobTitle": "Field Sales Consultant",
-    "jobUrl": "https://in.linkedin.com/jobs/view/field-sales-consultant-at-readinext-4478423577?trk=public_jobs_topcard-title",
-    "location": "Gurugram, Haryana, India",
-    "postedTime": "20 hours ago",
-    "contractType": "Full-time",
-    "experienceLevel": "Mid-Senior level",
-    "postedAt": "2026-10-14",
-    "firstSeen": "2026-10-15"
-  },
-  {
     "companyName": "Hopcharge",
     "jobTitle": "Sales Associate-Inside Sales",
     "jobUrl": "https://in.linkedin.com/jobs/view/sales-associate-inside-sales-at-hopcharge-4478427309?trk=public_jobs_topcard-title",
@@ -9809,17 +8134,6 @@
     "postedTime": "20 hours ago",
     "contractType": "Full-time",
     "experienceLevel": "Entry level",
-    "postedAt": "2026-10-14",
-    "firstSeen": "2026-10-15"
-  },
-  {
-    "companyName": "Accredian",
-    "jobTitle": "Business Development Associate",
-    "jobUrl": "https://in.linkedin.com/jobs/view/business-development-associate-at-accredian-4479768516?trk=public_jobs_topcard-title",
-    "location": "Gurugram, Haryana, India",
-    "postedTime": "21 minutes ago",
-    "contractType": "Full-time",
-    "experienceLevel": "Associate",
     "postedAt": "2026-10-14",
     "firstSeen": "2026-10-15"
   },
@@ -9880,17 +8194,6 @@
     "firstSeen": "2026-10-15"
   },
   {
-    "companyName": "Hostie - Boutique travel homes",
-    "jobTitle": "Senior Sales Executive",
-    "jobUrl": "https://in.linkedin.com/jobs/view/senior-sales-executive-at-hostie-boutique-travel-homes-4478453104?trk=public_jobs_topcard-title",
-    "location": "Gurugram, Haryana, India",
-    "postedTime": "15 hours ago",
-    "contractType": "Full-time",
-    "experienceLevel": "Mid-Senior level",
-    "postedAt": "2026-10-14",
-    "firstSeen": "2026-10-15"
-  },
-  {
     "companyName": "Gartner",
     "jobTitle": "Account Executive",
     "jobUrl": "https://in.linkedin.com/jobs/view/account-executive-at-gartner-4459584760?trk=public_jobs_topcard-title",
@@ -9924,39 +8227,6 @@
     "postedAt": "2026-10-15",
     "firstSeen": "2026-10-15",
     "checkedAt": "2026-11-08T06:44:33.198Z"
-  },
-  {
-    "companyName": "CosmoWellness",
-    "jobTitle": "Sales Manager",
-    "jobUrl": "https://in.linkedin.com/jobs/view/sales-manager-at-cosmowellness-4478849337?trk=public_jobs_topcard-title",
-    "location": "Gurgaon, Haryana, India",
-    "postedTime": "8 minutes ago",
-    "contractType": "Full-time",
-    "experienceLevel": "Entry level",
-    "postedAt": "2026-10-14",
-    "firstSeen": "2026-10-15"
-  },
-  {
-    "companyName": "RegisterKaro",
-    "jobTitle": "Sales Executive",
-    "jobUrl": "https://in.linkedin.com/jobs/view/sales-executive-at-registerkaro-4478410988?trk=public_jobs_topcard-title",
-    "location": "Gurugram, Haryana, India",
-    "postedTime": "21 hours ago",
-    "contractType": "Full-time",
-    "experienceLevel": "Entry level",
-    "postedAt": "2026-10-14",
-    "firstSeen": "2026-10-15"
-  },
-  {
-    "companyName": "OpenHire",
-    "jobTitle": "Medical Sales Representative",
-    "jobUrl": "https://in.linkedin.com/jobs/view/medical-sales-representative-at-openhire-4478835042?trk=public_jobs_topcard-title",
-    "location": "Gurugram, Haryana, India",
-    "postedTime": "3 hours ago",
-    "contractType": "Full-time",
-    "experienceLevel": "Associate",
-    "postedAt": "2026-10-15",
-    "firstSeen": "2026-10-15"
   },
   {
     "companyName": "Savi Vision Pvt. Ltd.",
@@ -9999,17 +8269,6 @@
     "postedTime": "15 hours ago",
     "contractType": "Full-time",
     "experienceLevel": "Entry level",
-    "postedAt": "2026-10-14",
-    "firstSeen": "2026-10-15"
-  },
-  {
-    "companyName": "Jobs Placers",
-    "jobTitle": "Sales Executive",
-    "jobUrl": "https://in.linkedin.com/jobs/view/sales-executive-at-jobs-placers-4478435006?trk=public_jobs_topcard-title",
-    "location": "Faridabad, Haryana, India",
-    "postedTime": "21 hours ago",
-    "contractType": "Full-time",
-    "experienceLevel": "Not Applicable",
     "postedAt": "2026-10-14",
     "firstSeen": "2026-10-15"
   },
@@ -10164,17 +8423,6 @@
     "firstSeen": "2026-10-15"
   },
   {
-    "companyName": "Ciena",
-    "jobTitle": "Network Engineer",
-    "jobUrl": "https://in.linkedin.com/jobs/view/network-engineer-at-ciena-4469445134?trk=public_jobs_topcard-title",
-    "location": "Gurugram, Haryana, India",
-    "postedTime": "16 hours ago",
-    "contractType": "Full-time",
-    "experienceLevel": "Not Applicable",
-    "postedAt": "2026-10-14",
-    "firstSeen": "2026-10-15"
-  },
-  {
     "companyName": "The Designer Hype",
     "jobTitle": "Brand Relations Intern",
     "jobUrl": "https://in.linkedin.com/jobs/view/brand-relations-intern-at-the-designer-hype-4478423441?trk=public_jobs_topcard-title",
@@ -10241,18 +8489,8 @@
     "contractType": "Internship",
     "experienceLevel": "Entry level",
     "postedAt": "2026-10-14",
-    "firstSeen": "2026-10-15"
-  },
-  {
-    "companyName": "Zero Search",
-    "jobTitle": "Business Development Intern",
-    "jobUrl": "https://in.linkedin.com/jobs/view/business-development-intern-at-zero-search-4478414772?trk=public_jobs_topcard-title",
-    "location": "Delhi, India",
-    "postedTime": "14 hours ago",
-    "contractType": "Full-time",
-    "experienceLevel": "Internship",
-    "postedAt": "2026-10-14",
-    "firstSeen": "2026-10-15"
+    "firstSeen": "2026-10-15",
+    "checkedAt": "2026-11-12T07:46:00.563Z"
   },
   {
     "companyName": "Kade Ventures",
@@ -10285,17 +8523,6 @@
     "postedTime": "21 hours ago",
     "contractType": "Full-time",
     "experienceLevel": "Internship",
-    "postedAt": "2026-10-14",
-    "firstSeen": "2026-10-15"
-  },
-  {
-    "companyName": "Prism Consulting Engineers",
-    "jobTitle": "PHE Engineer",
-    "jobUrl": "https://in.linkedin.com/jobs/view/phe-engineer-at-prism-consulting-engineers-4478444535?trk=public_jobs_topcard-title",
-    "location": "Noida, Uttar Pradesh, India",
-    "postedTime": "16 hours ago",
-    "contractType": "Full-time",
-    "experienceLevel": "Entry level",
     "postedAt": "2026-10-14",
     "firstSeen": "2026-10-15"
   },
@@ -10334,17 +8561,6 @@
     "checkedAt": "2026-11-09T07:12:46.130Z"
   },
   {
-    "companyName": "Shrut",
-    "jobTitle": "Content & Webinar Operations Intern",
-    "jobUrl": "https://in.linkedin.com/jobs/view/content-webinar-operations-intern-at-shrut-4478497595?trk=public_jobs_topcard-title",
-    "location": "Gurugram, Haryana, India",
-    "postedTime": "8 hours ago",
-    "contractType": "Internship",
-    "experienceLevel": "Internship",
-    "postedAt": "2026-10-14",
-    "firstSeen": "2026-10-15"
-  },
-  {
     "companyName": "AVPL INTERNATIONAL",
     "jobTitle": "Startup Project Internship",
     "jobUrl": "https://in.linkedin.com/jobs/view/startup-project-internship-at-avpl-international-4478849327?trk=public_jobs_topcard-title",
@@ -10372,17 +8588,6 @@
     "jobUrl": "https://in.linkedin.com/jobs/view/paid-intern-cad-designer-at-synthera-robotics-pvt-ltd-4478479875?trk=public_jobs_topcard-title",
     "location": "Delhi, India",
     "postedTime": "10 hours ago",
-    "contractType": "Internship",
-    "experienceLevel": "Internship",
-    "postedAt": "2026-10-14",
-    "firstSeen": "2026-10-15"
-  },
-  {
-    "companyName": "Showdeck",
-    "jobTitle": "Sales Intern",
-    "jobUrl": "https://in.linkedin.com/jobs/view/sales-intern-at-showdeck-4478494541?trk=public_jobs_topcard-title",
-    "location": "Noida, Uttar Pradesh, India",
-    "postedTime": "9 hours ago",
     "contractType": "Internship",
     "experienceLevel": "Internship",
     "postedAt": "2026-10-14",
@@ -10444,17 +8649,6 @@
     "postedAt": "2026-10-14",
     "firstSeen": "2026-10-15",
     "checkedAt": "2026-11-09T07:12:46.130Z"
-  },
-  {
-    "companyName": "Biggbell.com",
-    "jobTitle": "Brand Partnerships Interns",
-    "jobUrl": "https://in.linkedin.com/jobs/view/brand-partnerships-interns-at-biggbell-com-4478431343?trk=public_jobs_topcard-title",
-    "location": "Noida, Uttar Pradesh, India",
-    "postedTime": "19 hours ago",
-    "contractType": "Full-time",
-    "experienceLevel": "Internship",
-    "postedAt": "2026-10-14",
-    "firstSeen": "2026-10-15"
   },
   {
     "companyName": "Pehchaan The Street School - HR Internship",
@@ -10534,8 +8728,9 @@
     "postedTime": "20 hours ago",
     "contractType": "Full-time",
     "experienceLevel": "Not Applicable",
-    "postedAt": "2026-10-14",
-    "firstSeen": "2026-10-15"
+    "postedAt": "2026-11-05",
+    "firstSeen": "2026-10-15",
+    "checkedAt": "2026-11-12T07:46:00.563Z"
   },
   {
     "companyName": "Bitwarden",
@@ -10741,8 +8936,9 @@
     "postedTime": "15 hours ago",
     "contractType": "Full-time",
     "experienceLevel": "Not Applicable",
-    "postedAt": "2026-10-14",
-    "firstSeen": "2026-10-15"
+    "postedAt": "2026-11-05",
+    "firstSeen": "2026-10-15",
+    "checkedAt": "2026-11-12T07:46:00.563Z"
   },
   {
     "companyName": "Thales",
@@ -10836,7 +9032,8 @@
     "contractType": "Full-time",
     "experienceLevel": "Associate",
     "postedAt": "2026-10-14",
-    "firstSeen": "2026-10-15"
+    "firstSeen": "2026-10-15",
+    "checkedAt": "2026-11-12T07:46:00.563Z"
   },
   {
     "companyName": "Graviton Research Capital",
@@ -10847,7 +9044,8 @@
     "contractType": "Full-time",
     "experienceLevel": "Mid-Senior level",
     "postedAt": "2026-10-14",
-    "firstSeen": "2026-10-15"
+    "firstSeen": "2026-10-15",
+    "checkedAt": "2026-11-12T07:46:00.563Z"
   },
   {
     "companyName": "RN Valves & Faucets",
@@ -10925,7 +9123,8 @@
     "contractType": "Full-time",
     "experienceLevel": "Not Applicable",
     "postedAt": "2026-10-14",
-    "firstSeen": "2026-10-15"
+    "firstSeen": "2026-10-15",
+    "checkedAt": "2026-11-12T07:46:00.563Z"
   },
   {
     "companyName": "Building Services Design & Energy Institute - MEPa2z",
@@ -11135,7 +9334,8 @@
     "contractType": "Full-time",
     "experienceLevel": "Mid-Senior level",
     "postedAt": "2026-10-14",
-    "firstSeen": "2026-10-15"
+    "firstSeen": "2026-10-15",
+    "checkedAt": "2026-11-12T07:46:00.563Z"
   },
   {
     "companyName": "RAPSYS TECHNOLOGIES PTE LTD",
@@ -11474,28 +9674,6 @@
     "checkedAt": "2026-11-11T07:08:16.248Z"
   },
   {
-    "companyName": "WiseYatra",
-    "jobTitle": "Sales and Operations Executive",
-    "jobUrl": "https://in.linkedin.com/jobs/view/sales-and-operations-executive-at-wiseyatra-4424364193?trk=public_jobs_topcard-title",
-    "location": "Delhi, India",
-    "postedTime": "18 hours ago",
-    "contractType": "Full-time",
-    "experienceLevel": "Mid-Senior level",
-    "postedAt": "2026-10-14",
-    "firstSeen": "2026-10-15"
-  },
-  {
-    "companyName": "The Golden Gate",
-    "jobTitle": "Head – Trusteeship",
-    "jobUrl": "https://in.linkedin.com/jobs/view/head-%E2%80%93-trusteeship-at-the-golden-gate-4478410831?trk=public_jobs_topcard-title",
-    "location": "Gurugram, Haryana, India",
-    "postedTime": "21 hours ago",
-    "contractType": "Full-time",
-    "experienceLevel": "Executive",
-    "postedAt": "2026-10-14",
-    "firstSeen": "2026-10-15"
-  },
-  {
     "companyName": "ACURA SOLUTIONS LTD",
     "jobTitle": "Car Rental Sales Executive",
     "jobUrl": "https://in.linkedin.com/jobs/view/car-rental-sales-executive-at-acura-solutions-ltd-4478412874?trk=public_jobs_topcard-title",
@@ -11503,17 +9681,6 @@
     "postedTime": "21 hours ago",
     "contractType": "Full-time",
     "experienceLevel": "Not Applicable",
-    "postedAt": "2026-10-14",
-    "firstSeen": "2026-10-15"
-  },
-  {
-    "companyName": "1234",
-    "jobTitle": "Senior Executive Sales Representative",
-    "jobUrl": "https://in.linkedin.com/jobs/view/senior-executive-sales-representative-at-1234-4478420792?trk=public_jobs_topcard-title",
-    "location": "Noida, Uttar Pradesh, India",
-    "postedTime": "19 hours ago",
-    "contractType": "Full-time",
-    "experienceLevel": "Mid-Senior level",
     "postedAt": "2026-10-14",
     "firstSeen": "2026-10-15"
   },
@@ -11729,17 +9896,6 @@
     "firstSeen": "2026-10-15"
   },
   {
-    "companyName": "Fidelis Healthcare Pvt. Ltd.",
-    "jobTitle": "marketing intern (work from office)",
-    "jobUrl": "https://in.linkedin.com/jobs/view/marketing-intern-work-from-office-at-fidelis-healthcare-pvt-ltd-4478430932?trk=public_jobs_topcard-title",
-    "location": "Faridabad, Haryana, India",
-    "postedTime": "17 hours ago",
-    "contractType": "Full-time",
-    "experienceLevel": "Internship",
-    "postedAt": "2026-10-14",
-    "firstSeen": "2026-10-15"
-  },
-  {
     "companyName": "TravClan",
     "jobTitle": "Area Sales Associate",
     "jobUrl": "https://in.linkedin.com/jobs/view/area-sales-associate-at-travclan-4476631891?trk=public_jobs_topcard-title",
@@ -11862,17 +10018,6 @@
     "checkedAt": "2026-11-11T07:08:16.248Z"
   },
   {
-    "companyName": "Insight",
-    "jobTitle": "Software Engineer III",
-    "jobUrl": "https://in.linkedin.com/jobs/view/software-engineer-iii-at-insight-4479588922?trk=public_jobs_topcard-title",
-    "location": "Gurugram, Haryana, India",
-    "postedTime": "8 hours ago",
-    "contractType": "Full-time",
-    "experienceLevel": "Not Applicable",
-    "postedAt": "2026-10-14",
-    "firstSeen": "2026-10-15"
-  },
-  {
     "companyName": "Bajaj Finserv",
     "jobTitle": "Senior Executive - Debt Management Services - Consumer",
     "jobUrl": "https://in.linkedin.com/jobs/view/senior-executive-debt-management-services-consumer-at-bajaj-finserv-4479743096?trk=public_jobs_topcard-title",
@@ -11904,17 +10049,6 @@
     "postedTime": "7 hours ago",
     "contractType": "Full-time",
     "experienceLevel": "Not Applicable",
-    "postedAt": "2026-10-14",
-    "firstSeen": "2026-10-15"
-  },
-  {
-    "companyName": "MO Designs",
-    "jobTitle": "Home Textile Designer-Intern",
-    "jobUrl": "https://in.linkedin.com/jobs/view/home-textile-designer-intern-at-mo-designs-4478835718?trk=public_jobs_topcard-title",
-    "location": "Gurugram, Haryana, India",
-    "postedTime": "13 minutes ago",
-    "contractType": "Full-time",
-    "experienceLevel": "Internship",
     "postedAt": "2026-10-14",
     "firstSeen": "2026-10-15"
   },
@@ -12065,17 +10199,6 @@
     "firstSeen": "2026-10-15"
   },
   {
-    "companyName": "Viraaj HR Solutions Private Limited",
-    "jobTitle": "NodeJS Developer",
-    "jobUrl": "https://in.linkedin.com/jobs/view/nodejs-developer-at-viraaj-hr-solutions-private-limited-4478422783?trk=public_jobs_topcard-title",
-    "location": "Noida, Uttar Pradesh, India",
-    "postedTime": "20 hours ago",
-    "contractType": "Full-time",
-    "experienceLevel": "Mid-Senior level",
-    "postedAt": "2026-10-14",
-    "firstSeen": "2026-10-15"
-  },
-  {
     "companyName": "SHARDA CONSULTANCY SERVICES",
     "jobTitle": "HREQUIRED .NET FULLSTACK DEVELOPER",
     "jobUrl": "https://in.linkedin.com/jobs/view/hrequired-net-fullstack-developer-at-sharda-consultancy-services-4478423557?trk=public_jobs_topcard-title",
@@ -12116,8 +10239,9 @@
     "postedTime": "6 hours ago",
     "contractType": "Full-time",
     "experienceLevel": "Not Applicable",
-    "postedAt": "2026-10-14",
-    "firstSeen": "2026-10-15"
+    "postedAt": "2026-10-16",
+    "firstSeen": "2026-10-15",
+    "checkedAt": "2026-11-12T07:46:00.563Z"
   },
   {
     "companyName": "Unistal Global",
@@ -12131,17 +10255,6 @@
     "firstSeen": "2026-10-15"
   },
   {
-    "companyName": "Viraaj HR Solutions Private Limited",
-    "jobTitle": "NodeJS Developer",
-    "jobUrl": "https://in.linkedin.com/jobs/view/nodejs-developer-at-viraaj-hr-solutions-private-limited-4478427494?trk=public_jobs_topcard-title",
-    "location": "Gurugram, Haryana, India",
-    "postedTime": "20 hours ago",
-    "contractType": "Full-time",
-    "experienceLevel": "Mid-Senior level",
-    "postedAt": "2026-10-14",
-    "firstSeen": "2026-10-15"
-  },
-  {
     "companyName": "Tata Consultancy Services",
     "jobTitle": "AWS Java Microservices",
     "jobUrl": "https://in.linkedin.com/jobs/view/aws-java-microservices-at-tata-consultancy-services-4479548091?trk=public_jobs_topcard-title",
@@ -12150,7 +10263,8 @@
     "contractType": "Full-time",
     "experienceLevel": "Mid-Senior level",
     "postedAt": "2026-10-14",
-    "firstSeen": "2026-10-15"
+    "firstSeen": "2026-10-15",
+    "checkedAt": "2026-11-12T07:46:00.563Z"
   },
   {
     "companyName": "Turing",
@@ -12164,17 +10278,6 @@
     "firstSeen": "2026-10-15"
   },
   {
-    "companyName": "Softcrayons IT Education",
-    "jobTitle": "Python Developer",
-    "jobUrl": "https://in.linkedin.com/jobs/view/python-developer-at-softcrayons-it-education-4479709623?trk=public_jobs_topcard-title",
-    "location": "Noida, Uttar Pradesh, India",
-    "postedTime": "7 hours ago",
-    "contractType": "Full-time",
-    "experienceLevel": "Not Applicable",
-    "postedAt": "2026-10-14",
-    "firstSeen": "2026-10-15"
-  },
-  {
     "companyName": "Vensure Employer Solutions",
     "jobTitle": "Sr. .Net Developer",
     "jobUrl": "https://in.linkedin.com/jobs/view/sr-net-developer-at-vensure-employer-solutions-4404827299?trk=public_jobs_topcard-title",
@@ -12185,28 +10288,6 @@
     "postedAt": "2026-11-05",
     "firstSeen": "2026-10-15",
     "checkedAt": "2026-11-11T07:08:16.248Z"
-  },
-  {
-    "companyName": "hiiCampus",
-    "jobTitle": "Flutter Developer",
-    "jobUrl": "https://in.linkedin.com/jobs/view/flutter-developer-at-hiicampus-4478421591?trk=public_jobs_topcard-title",
-    "location": "Gurugram, Haryana, India",
-    "postedTime": "19 hours ago",
-    "contractType": "Internship",
-    "experienceLevel": "Entry level",
-    "postedAt": "2026-10-14",
-    "firstSeen": "2026-10-15"
-  },
-  {
-    "companyName": "Google",
-    "jobTitle": "Customer Success Acceleration Lead, LeadGen Business",
-    "jobUrl": "https://in.linkedin.com/jobs/view/customer-success-acceleration-lead-leadgen-business-at-google-4468796599?trk=public_jobs_topcard-title",
-    "location": "Gurugram, Haryana, India",
-    "postedTime": "17 hours ago",
-    "contractType": "Full-time",
-    "experienceLevel": "Mid-Senior level",
-    "postedAt": "2026-10-14",
-    "firstSeen": "2026-10-15"
   },
   {
     "companyName": "Accenture services Pvt Ltd",
@@ -12258,17 +10339,6 @@
     "jobUrl": "https://in.linkedin.com/jobs/view/senior-software-engineer-req-123-at-3pillar-4479293912?trk=public_jobs_topcard-title",
     "location": "Noida, Uttar Pradesh, India",
     "postedTime": "18 hours ago",
-    "contractType": "Full-time",
-    "experienceLevel": "Not Applicable",
-    "postedAt": "2026-10-14",
-    "firstSeen": "2026-10-15"
-  },
-  {
-    "companyName": "Ericsson",
-    "jobTitle": "CA Manager- E2E IP",
-    "jobUrl": "https://in.linkedin.com/jobs/view/ca-manager-e2e-ip-at-ericsson-4460004071?trk=public_jobs_topcard-title",
-    "location": "Noida, Uttar Pradesh, India",
-    "postedTime": "16 hours ago",
     "contractType": "Full-time",
     "experienceLevel": "Not Applicable",
     "postedAt": "2026-10-14",
@@ -12396,28 +10466,6 @@
     "firstSeen": "2026-10-15"
   },
   {
-    "companyName": "The Coca-Cola Company",
-    "jobTitle": "Director, Finance - Franchise Operations (SWA)",
-    "jobUrl": "https://in.linkedin.com/jobs/view/director-finance-franchise-operations-swa-at-the-coca-cola-company-4478414916?trk=public_jobs_topcard-title",
-    "location": "Gurugram, Haryana, India",
-    "postedTime": "20 hours ago",
-    "contractType": "Full-time",
-    "experienceLevel": "Not Applicable",
-    "postedAt": "2026-10-14",
-    "firstSeen": "2026-10-15"
-  },
-  {
-    "companyName": "The Coca-Cola Company",
-    "jobTitle": "Director, Franchise Strategy - Independent Bottlers",
-    "jobUrl": "https://in.linkedin.com/jobs/view/director-franchise-strategy-independent-bottlers-at-the-coca-cola-company-4478415884?trk=public_jobs_topcard-title",
-    "location": "Gurugram, Haryana, India",
-    "postedTime": "20 hours ago",
-    "contractType": "Full-time",
-    "experienceLevel": "Not Applicable",
-    "postedAt": "2026-10-14",
-    "firstSeen": "2026-10-15"
-  },
-  {
     "companyName": "Vserve Group",
     "jobTitle": "Front Desk Executive  in Noida",
     "jobUrl": "https://in.linkedin.com/jobs/view/front-desk-executive-in-noida-at-vserve-group-4479738159?trk=public_jobs_topcard-title",
@@ -12426,18 +10474,8 @@
     "contractType": "Full-time",
     "experienceLevel": "Entry level",
     "postedAt": "2026-10-15",
-    "firstSeen": "2026-10-15"
-  },
-  {
-    "companyName": "Meritshot",
-    "jobTitle": "Sales Executive",
-    "jobUrl": "https://in.linkedin.com/jobs/view/sales-executive-at-meritshot-4478433652?trk=public_jobs_topcard-title",
-    "location": "Delhi, India",
-    "postedTime": "17 hours ago",
-    "contractType": "Full-time",
-    "experienceLevel": "Mid-Senior level",
-    "postedAt": "2026-10-14",
-    "firstSeen": "2026-10-15"
+    "firstSeen": "2026-10-15",
+    "checkedAt": "2026-11-12T07:46:00.563Z"
   },
   {
     "companyName": "Gartner",
@@ -12459,7 +10497,8 @@
     "contractType": "Full-time",
     "experienceLevel": "Mid-Senior level",
     "postedAt": "2026-10-14",
-    "firstSeen": "2026-10-15"
+    "firstSeen": "2026-10-15",
+    "checkedAt": "2026-11-12T07:46:00.563Z"
   },
   {
     "companyName": "One97 Communications Limited",
@@ -12506,17 +10545,6 @@
     "firstSeen": "2026-10-15"
   },
   {
-    "companyName": "TELUS Digital",
-    "jobTitle": "Sr. Applications Developer",
-    "jobUrl": "https://in.linkedin.com/jobs/view/sr-applications-developer-at-telus-digital-4478433805?trk=public_jobs_topcard-title",
-    "location": "Noida, Uttar Pradesh, India",
-    "postedTime": "17 hours ago",
-    "contractType": "Full-time",
-    "experienceLevel": "Not Applicable",
-    "postedAt": "2026-10-14",
-    "firstSeen": "2026-10-15"
-  },
-  {
     "companyName": "Central Square Foundation",
     "jobTitle": "SPL – EdTech and AI",
     "jobUrl": "https://in.linkedin.com/jobs/view/spl-%E2%80%93-edtech-and-ai-at-central-square-foundation-4476629699?trk=public_jobs_topcard-title",
@@ -12525,18 +10553,8 @@
     "contractType": "Full-time",
     "experienceLevel": "Not Applicable",
     "postedAt": "2026-10-14",
-    "firstSeen": "2026-10-15"
-  },
-  {
-    "companyName": "Lumora Estates",
-    "jobTitle": "Deputy General Manager of Sales",
-    "jobUrl": "https://in.linkedin.com/jobs/view/deputy-general-manager-of-sales-at-lumora-estates-4478436656?trk=public_jobs_topcard-title",
-    "location": "Gautam Buddha Nagar, Uttar Pradesh, India",
-    "postedTime": "17 hours ago",
-    "contractType": "Volunteer",
-    "experienceLevel": "Director",
-    "postedAt": "2026-10-14",
-    "firstSeen": "2026-10-15"
+    "firstSeen": "2026-10-15",
+    "checkedAt": "2026-11-12T07:46:00.563Z"
   },
   {
     "companyName": "Adani Realty",
@@ -12546,8 +10564,9 @@
     "postedTime": "11 hours ago",
     "contractType": "Contract",
     "experienceLevel": "Not Applicable",
-    "postedAt": "2026-10-14",
-    "firstSeen": "2026-10-15"
+    "postedAt": "2026-11-04",
+    "firstSeen": "2026-10-15",
+    "checkedAt": "2026-11-12T07:46:00.563Z"
   },
   {
     "companyName": "WSP in India",
@@ -12715,17 +10734,6 @@
     "firstSeen": "2026-10-15"
   },
   {
-    "companyName": "PwC Acceleration Center India",
-    "jobTitle": "Snowflake+Cortex - Senior Manager",
-    "jobUrl": "https://in.linkedin.com/jobs/view/snowflake%2Bcortex-senior-manager-at-pwc-acceleration-center-india-4476675852?trk=public_jobs_topcard-title",
-    "location": "Gurugram, Haryana, India",
-    "postedTime": "13 hours ago",
-    "contractType": "Full-time",
-    "experienceLevel": "Not Applicable",
-    "postedAt": "2026-10-14",
-    "firstSeen": "2026-10-15"
-  },
-  {
     "companyName": "SHARDA CONSULTANCY SERVICES",
     "jobTitle": "International BPO Sales",
     "jobUrl": "https://in.linkedin.com/jobs/view/international-bpo-sales-at-sharda-consultancy-services-4478413878?trk=public_jobs_topcard-title",
@@ -12744,8 +10752,9 @@
     "postedTime": "10 hours ago",
     "contractType": "Full-time",
     "experienceLevel": "Mid-Senior level",
-    "postedAt": "2026-10-14",
-    "firstSeen": "2026-10-15"
+    "postedAt": "2026-11-05",
+    "firstSeen": "2026-10-15",
+    "checkedAt": "2026-11-12T07:46:00.563Z"
   },
   {
     "companyName": "Accenture services Pvt Ltd",
@@ -12766,17 +10775,6 @@
     "postedTime": "4 hours ago",
     "contractType": "Full-time",
     "experienceLevel": "Associate",
-    "postedAt": "2026-10-15",
-    "firstSeen": "2026-10-15"
-  },
-  {
-    "companyName": "EY",
-    "jobTitle": "EY - GDS Consulting - AI And DATA - Databricks Architect - Senior Manager",
-    "jobUrl": "https://in.linkedin.com/jobs/view/ey-gds-consulting-ai-and-data-databricks-architect-senior-manager-at-ey-4477022583?trk=public_jobs_topcard-title",
-    "location": "Noida, Uttar Pradesh, India",
-    "postedTime": "2 hours ago",
-    "contractType": "Full-time",
-    "experienceLevel": "Mid-Senior level",
     "postedAt": "2026-10-15",
     "firstSeen": "2026-10-15"
   },
@@ -12814,28 +10812,6 @@
     "firstSeen": "2026-10-15"
   },
   {
-    "companyName": "Turing",
-    "jobTitle": "Electrical Engineering & Computer Science",
-    "jobUrl": "https://in.linkedin.com/jobs/view/electrical-engineering-computer-science-at-turing-4478831322?trk=public_jobs_topcard-title",
-    "location": "Delhi, India",
-    "postedTime": "2 hours ago",
-    "contractType": "Contract",
-    "experienceLevel": "Mid-Senior level",
-    "postedAt": "2026-10-15",
-    "firstSeen": "2026-10-15"
-  },
-  {
-    "companyName": "SHARDA CONSULTANCY SERVICES",
-    "jobTitle": "International Travel Sales Executive ( Flight Sales/ Car Rental)",
-    "jobUrl": "https://in.linkedin.com/jobs/view/international-travel-sales-executive-flight-sales-car-rental-at-sharda-consultancy-services-4478427268?trk=public_jobs_topcard-title",
-    "location": "Noida, Uttar Pradesh, India",
-    "postedTime": "21 hours ago",
-    "contractType": "Full-time",
-    "experienceLevel": "Not Applicable",
-    "postedAt": "2026-10-14",
-    "firstSeen": "2026-10-15"
-  },
-  {
     "companyName": "Armacell",
     "jobTitle": "Business Manager - North India",
     "jobUrl": "https://in.linkedin.com/jobs/view/business-manager-north-india-at-armacell-4460009397?trk=public_jobs_topcard-title",
@@ -12843,8 +10819,9 @@
     "postedTime": "18 hours ago",
     "contractType": "Full-time",
     "experienceLevel": "Not Applicable",
-    "postedAt": "2026-10-14",
-    "firstSeen": "2026-10-15"
+    "postedAt": "2026-11-05",
+    "firstSeen": "2026-10-15",
+    "checkedAt": "2026-11-12T07:46:00.563Z"
   },
   {
     "companyName": "SHARDA CONSULTANCY SERVICES",
@@ -12954,18 +10931,8 @@
     "contractType": "Full-time",
     "experienceLevel": "Mid-Senior level",
     "postedAt": "2026-10-14",
-    "firstSeen": "2026-10-15"
-  },
-  {
-    "companyName": "Capgemini Engineering",
-    "jobTitle": "NOC Manager | 9 to 16 years | Hyderabad",
-    "jobUrl": "https://in.linkedin.com/jobs/view/noc-manager-9-to-16-years-hyderabad-at-capgemini-engineering-4479293356?trk=public_jobs_topcard-title",
-    "location": "Gurgaon, Haryana, India",
-    "postedTime": "20 hours ago",
-    "contractType": "Full-time",
-    "experienceLevel": "Not Applicable",
-    "postedAt": "2026-10-14",
-    "firstSeen": "2026-10-15"
+    "firstSeen": "2026-10-15",
+    "checkedAt": "2026-11-12T07:46:00.563Z"
   },
   {
     "companyName": "Indiabulls Group",
@@ -12997,8 +10964,9 @@
     "postedTime": "18 hours ago",
     "contractType": "Full-time",
     "experienceLevel": "Mid-Senior level",
-    "postedAt": "2026-10-14",
-    "firstSeen": "2026-10-15"
+    "postedAt": "2026-11-05",
+    "firstSeen": "2026-10-15",
+    "checkedAt": "2026-11-12T07:46:00.563Z"
   },
   {
     "companyName": "Salesforce",
@@ -13006,17 +10974,6 @@
     "jobUrl": "https://in.linkedin.com/jobs/view/specialist-account-executive-slack-at-salesforce-4470429849?trk=public_jobs_topcard-title",
     "location": "Gurgaon, Haryana, India",
     "postedTime": "19 hours ago",
-    "contractType": "Full-time",
-    "experienceLevel": "Not Applicable",
-    "postedAt": "2026-10-14",
-    "firstSeen": "2026-10-15"
-  },
-  {
-    "companyName": "Novartis India",
-    "jobTitle": "Area Manager / Regional Business Manager (Dermatology Specialty Sales)",
-    "jobUrl": "https://in.linkedin.com/jobs/view/area-manager-regional-business-manager-dermatology-specialty-sales-at-novartis-india-4459539167?trk=public_jobs_topcard-title",
-    "location": "Greater Delhi Area",
-    "postedTime": "16 hours ago",
     "contractType": "Full-time",
     "experienceLevel": "Not Applicable",
     "postedAt": "2026-10-14",
@@ -13056,17 +11013,6 @@
     "firstSeen": "2026-10-15"
   },
   {
-    "companyName": "Cloutflow",
-    "jobTitle": "Business Development Executive (Influencer Pricing)",
-    "jobUrl": "https://in.linkedin.com/jobs/view/business-development-executive-influencer-pricing-at-cloutflow-4478467104?trk=public_jobs_topcard-title",
-    "location": "Gurugram, Haryana, India",
-    "postedTime": "15 hours ago",
-    "contractType": "Full-time",
-    "experienceLevel": "Mid-Senior level",
-    "postedAt": "2026-10-14",
-    "firstSeen": "2026-10-15"
-  },
-  {
     "companyName": "SHARDA CONSULTANCY SERVICES",
     "jobTitle": "International BPOs Sales US / Collection/ US Sales Exp.",
     "jobUrl": "https://in.linkedin.com/jobs/view/international-bpos-sales-us-collection-us-sales-exp-at-sharda-consultancy-services-4478427300?trk=public_jobs_topcard-title",
@@ -13096,19 +11042,9 @@
     "postedTime": "3 hours ago",
     "contractType": "Full-time",
     "experienceLevel": "Associate",
-    "postedAt": "2026-10-15",
-    "firstSeen": "2026-10-15"
-  },
-  {
-    "companyName": "FNZ",
-    "jobTitle": "Deputy Head of Technology, APMEA",
-    "jobUrl": "https://in.linkedin.com/jobs/view/deputy-head-of-technology-apmea-at-fnz-4466679835?trk=public_jobs_topcard-title",
-    "location": "Gurugram, Haryana, India",
-    "postedTime": "19 hours ago",
-    "contractType": "Full-time",
-    "experienceLevel": "Associate",
-    "postedAt": "2026-10-14",
-    "firstSeen": "2026-10-15"
+    "postedAt": "2026-10-28",
+    "firstSeen": "2026-10-15",
+    "checkedAt": "2026-11-12T07:46:00.563Z"
   },
   {
     "companyName": "Portage Point Partners",
@@ -13118,8 +11054,9 @@
     "postedTime": "9 hours ago",
     "contractType": "Full-time",
     "experienceLevel": "Executive",
-    "postedAt": "2026-10-14",
-    "firstSeen": "2026-10-15"
+    "postedAt": "2026-11-05",
+    "firstSeen": "2026-10-15",
+    "checkedAt": "2026-11-12T07:46:00.563Z"
   },
   {
     "companyName": "OneMetric",
@@ -13152,7 +11089,8 @@
     "contractType": "Full-time",
     "experienceLevel": "Not Applicable",
     "postedAt": "2026-10-15",
-    "firstSeen": "2026-10-15"
+    "firstSeen": "2026-10-15",
+    "checkedAt": "2026-11-12T07:46:00.563Z"
   },
   {
     "companyName": "Talasha",
