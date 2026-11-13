@@ -191,38 +191,6 @@
       "source": "careers"
     }
   ],
-  "alphasense": [
-    {
-      "title": "Business Analyst II",
-      "url": "https://job-boards.greenhouse.io/alphasense/jobs/8857586002",
-      "location": "Delhi",
-      "source": "careers"
-    },
-    {
-      "title": "Compliance Analyst",
-      "url": "https://job-boards.greenhouse.io/alphasense/jobs/8630664002",
-      "location": "Delhi",
-      "source": "careers"
-    },
-    {
-      "title": "Compliance Analyst, Expert Network",
-      "url": "https://job-boards.greenhouse.io/alphasense/jobs/8693025002",
-      "location": "Delhi",
-      "source": "careers"
-    },
-    {
-      "title": "Content Analyst",
-      "url": "https://job-boards.greenhouse.io/alphasense/jobs/8025882002",
-      "location": "Delhi",
-      "source": "careers"
-    },
-    {
-      "title": "Join AlphaSense India Talent Community",
-      "url": "https://job-boards.greenhouse.io/alphasense/jobs/7119398002",
-      "location": "Delhi",
-      "source": "careers"
-    }
-  ],
   "interpath": [
     {
       "title": "AI - Centre of Excellence Lead, India",
@@ -309,10 +277,64 @@
       "source": "careers"
     }
   ],
+  "athena-education": [
+    {
+      "title": "Technical Director- Writing",
+      "url": "https://jobs.lever.co/athena-education/4b1432e7-7ed4-4502-9441-506861d6ebe9",
+      "location": "Gurugram",
+      "source": "careers"
+    }
+  ],
+  "alphasense": [
+    {
+      "title": "Business Analyst II",
+      "url": "https://job-boards.greenhouse.io/alphasense/jobs/8857586002",
+      "location": "Delhi",
+      "source": "careers"
+    },
+    {
+      "title": "Compliance Analyst",
+      "url": "https://job-boards.greenhouse.io/alphasense/jobs/8630664002",
+      "location": "Delhi",
+      "source": "careers"
+    },
+    {
+      "title": "Compliance Analyst, Expert Network",
+      "url": "https://job-boards.greenhouse.io/alphasense/jobs/8693025002",
+      "location": "Delhi",
+      "source": "careers"
+    },
+    {
+      "title": "Content Analyst",
+      "url": "https://job-boards.greenhouse.io/alphasense/jobs/8025882002",
+      "location": "Delhi",
+      "source": "careers"
+    },
+    {
+      "title": "Join AlphaSense India Talent Community",
+      "url": "https://job-boards.greenhouse.io/alphasense/jobs/7119398002",
+      "location": "Delhi",
+      "source": "careers"
+    }
+  ],
+  "cint": [
+    {
+      "title": "Senior Analyst, Survey Programming & Data Scrubbing ",
+      "url": "https://careers.smartrecruiters.com/Cint/744000154069055",
+      "location": "Gurugram, in",
+      "source": "careers"
+    }
+  ],
   "welocalize": [
     {
       "title": "Associate Technical Publication Engineer",
       "url": "https://jobs.lever.co/weloglobal/7903f79a-fe0f-46e3-ac8b-83b607574453",
+      "location": "Gurgaon, India",
+      "source": "careers"
+    },
+    {
+      "title": "Associate Testing QA Engineer",
+      "url": "https://jobs.lever.co/weloglobal/0628962f-fd19-4bf9-92f0-d067e8115a12",
       "location": "Gurgaon, India",
       "source": "careers"
     },
@@ -335,29 +357,7 @@
       "source": "careers"
     }
   ],
-  "cint": [
-    {
-      "title": "Senior Analyst, Survey Programming & Data Scrubbing ",
-      "url": "https://careers.smartrecruiters.com/Cint/744000154069055",
-      "location": "Gurugram, in",
-      "source": "careers"
-    }
-  ],
-  "athena-education": [
-    {
-      "title": "Technical Director- Writing",
-      "url": "https://jobs.lever.co/athena-education/4b1432e7-7ed4-4502-9441-506861d6ebe9",
-      "location": "Gurugram",
-      "source": "careers"
-    }
-  ],
   "shield-ai": [
-    {
-      "title": "Field Marketing Manager, India (R5942)",
-      "url": "https://jobs.lever.co/shieldai/28136dd4-edd8-4da6-a6a1-7ce139654c96",
-      "location": "New Delhi",
-      "source": "careers"
-    },
     {
       "title": "Senior Proposal Manager",
       "url": "https://jobs.lever.co/shieldai/8a7a6074-0334-4f08-a6d7-303580f5fb01",
