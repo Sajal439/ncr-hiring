@@ -99,6 +99,36 @@
       "source": "careers"
     }
   ],
+  "primevigilance": [
+    {
+      "title": "Operations Manager (PV Systems)",
+      "url": "https://careers.smartrecruiters.com/Ergomed/744000159560000",
+      "location": "Noida, in",
+      "source": "careers"
+    }
+  ],
+  "wizikey": [
+    {
+      "title": "Sales Executive - B2B SaaS ",
+      "url": "https://careers.smartrecruiters.com/Wizikey/744000160831752",
+      "location": "Gurugram, in",
+      "source": "careers"
+    },
+    {
+      "title": "Sales Manager – Media Sales & Advertising Sales( 4-8 yrs)",
+      "url": "https://careers.smartrecruiters.com/Wizikey/744000147203109",
+      "location": "Gurugram, in",
+      "source": "careers"
+    }
+  ],
+  "athena-education": [
+    {
+      "title": "Technical Director- Writing",
+      "url": "https://jobs.lever.co/athena-education/4b1432e7-7ed4-4502-9441-506861d6ebe9",
+      "location": "Gurugram",
+      "source": "careers"
+    }
+  ],
   "paypay-india": [
     {
       "title": "01.Backend Engineer",
@@ -161,14 +191,6 @@
       "source": "careers"
     }
   ],
-  "primevigilance": [
-    {
-      "title": "Operations Manager (PV Systems)",
-      "url": "https://careers.smartrecruiters.com/Ergomed/744000159560000",
-      "location": "Noida, in",
-      "source": "careers"
-    }
-  ],
   "map": [
     {
       "title": "Lead QA Engineer",
@@ -177,17 +199,11 @@
       "source": "careers"
     }
   ],
-  "wizikey": [
+  "archipelago": [
     {
-      "title": "Sales Executive - B2B SaaS ",
-      "url": "https://careers.smartrecruiters.com/Wizikey/744000160831752",
-      "location": "Gurugram, in",
-      "source": "careers"
-    },
-    {
-      "title": "Sales Manager – Media Sales & Advertising Sales( 4-8 yrs)",
-      "url": "https://careers.smartrecruiters.com/Wizikey/744000147203109",
-      "location": "Gurugram, in",
+      "title": "Senior Software Development Engineer in Test",
+      "url": "https://job-boards.greenhouse.io/onarchipelago/jobs/4709368006",
+      "location": "Noida, Uttar Pradesh, India",
       "source": "careers"
     }
   ],
@@ -277,14 +293,6 @@
       "source": "careers"
     }
   ],
-  "athena-education": [
-    {
-      "title": "Technical Director- Writing",
-      "url": "https://jobs.lever.co/athena-education/4b1432e7-7ed4-4502-9441-506861d6ebe9",
-      "location": "Gurugram",
-      "source": "careers"
-    }
-  ],
   "alphasense": [
     {
       "title": "Business Analyst II",
@@ -317,14 +325,6 @@
       "source": "careers"
     }
   ],
-  "cint": [
-    {
-      "title": "Senior Analyst, Survey Programming & Data Scrubbing ",
-      "url": "https://careers.smartrecruiters.com/Cint/744000154069055",
-      "location": "Gurugram, in",
-      "source": "careers"
-    }
-  ],
   "welocalize": [
     {
       "title": "Associate Technical Publication Engineer",
@@ -354,44 +354,6 @@
       "title": "Trust and Safety Specialist",
       "url": "https://jobs.lever.co/weloglobal/affa98bf-9d49-4b66-b57b-aae2c8f1c89c",
       "location": "Gurgaon, India",
-      "source": "careers"
-    }
-  ],
-  "shield-ai": [
-    {
-      "title": "Senior Proposal Manager",
-      "url": "https://jobs.lever.co/shieldai/8a7a6074-0334-4f08-a6d7-303580f5fb01",
-      "location": "New Delhi",
-      "source": "careers"
-    },
-    {
-      "title": "Senior Software Engineer, Autonomy Applications Engineering",
-      "url": "https://jobs.lever.co/shieldai/c223a9c5-e3b3-4da1-b523-1b1045bdf296",
-      "location": "New Delhi",
-      "source": "careers"
-    },
-    {
-      "title": "Senior Staff BD Account Executive - Autonomy Specialist, India (R6015)",
-      "url": "https://jobs.lever.co/shieldai/3964b72e-ae5a-4a9f-a197-1ef07854644d",
-      "location": "New Delhi",
-      "source": "careers"
-    },
-    {
-      "title": "Senior Staff Engineer, Software Autonomy (R5125)",
-      "url": "https://jobs.lever.co/shieldai/0a4c3e5c-3b63-4f16-a483-3a8247f78228",
-      "location": "New Delhi",
-      "source": "careers"
-    },
-    {
-      "title": "Simulation Specialist, India (R6016)",
-      "url": "https://jobs.lever.co/shieldai/dc5f3c97-0b1f-4fc7-bd7e-b4a8504486b5",
-      "location": "New Delhi",
-      "source": "careers"
-    },
-    {
-      "title": "Staff Software Engineer, Autonomy Applications Engineering",
-      "url": "https://jobs.lever.co/shieldai/20ba2fbb-f9b3-4408-ac5c-7809a8446ea3",
-      "location": "New Delhi",
       "source": "careers"
     }
   ]
