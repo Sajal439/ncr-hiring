@@ -1,4 +1,75 @@
 {
+  "xpressbees": {
+    "amount": "₹100 Cr",
+    "round": "Debt",
+    "title": "Exclusive: Xpressbees raises Rs 100 Cr debt from BlackSoil",
+    "url": "https://entrackr.com/exclusive/exclusive-xpressbees-raises-rs-100-cr-debt-from-blacksoil-12813197",
+    "date": "Mon, 16 Nov 2026 11:48:18 +0530",
+    "source": "Entrackr",
+    "history": [
+      {
+        "round": "Series G",
+        "title": "Decoding Xpressbees 80 mn Series g Round Esops Buyback And More",
+        "url": "https://entrackr.com/2024/01/decoding-xpressbees-80-mn-series-g-round-esops-buyback-and-more/",
+        "date": "2024-01-26",
+        "source": "Entrackr"
+      }
+    ]
+  },
+  "urban-company": {
+    "amount": "₹2,500 Cr",
+    "title": "[Update] Urban Company Shareholders Approve ₹2,500 Cr Fundraise",
+    "url": "https://inc42.com/buzz/urban-company-board-clears-plans-to-raise-up-to-%e2%82%b92500-cr/",
+    "date": "Mon, 16 Nov 2026 05:57:51 +0000",
+    "source": "Inc42",
+    "history": [
+      {
+        "amount": "₹854 Cr",
+        "title": "Urban Company Secures rs 854 cr From Anchor Investors",
+        "url": "https://entrackr.com/news/urban-company-secures-rs-854-cr-from-anchor-investors-10066875",
+        "date": "2025-09-09",
+        "source": "Entrackr"
+      },
+      {
+        "amount": "₹854 Cr",
+        "round": "IPO",
+        "title": "Urban Company IPO: INR 854 Cr Raised From Anchor Investors",
+        "url": "https://inc42.com/buzz/urban-company-ipo-inr-854-cr-raised-from-anchor-investors/",
+        "date": "2025-09-09",
+        "source": "Inc42"
+      },
+      {
+        "amount": "₹1395 Cr",
+        "round": "IPO",
+        "title": "Urban Company Founders And Investors Cash Out rs 1395 cr in Pre Ipo Deals",
+        "url": "https://entrackr.com/news/urban-company-founders-and-investors-cash-out-rs-1395-cr-in-pre-ipo-deals-9014293",
+        "date": "2025-04-29",
+        "source": "Entrackr"
+      },
+      {
+        "amount": "₹1900 Cr",
+        "title": "Urban Company Drhp to Raise rs 1900 cr Via Primary Issue And Ofs",
+        "url": "https://entrackr.com/news/urban-company-drhp-to-raise-rs-1900-cr-via-primary-issue-and-ofs-9012100",
+        "date": "2025-04-28",
+        "source": "Entrackr"
+      },
+      {
+        "amount": "₹528 Cr",
+        "round": "IPO",
+        "title": "Urban Company Board Approves rs 528 cr Primary Fundraise Via Ipo",
+        "url": "https://entrackr.com/news/urban-company-board-approves-rs-528-cr-primary-fundraise-via-ipo-8947688",
+        "date": "2025-04-10",
+        "source": "Entrackr"
+      },
+      {
+        "amount": "₹400 Cr",
+        "title": "Urban Company Raises INR 400 Cr From Dharana Capital Via Secondary Deal",
+        "url": "https://inc42.com/buzz/urban-company-raises-inr-400-cr-from-dharana-capital-via-secondary-deal/",
+        "date": "2024-07-17",
+        "source": "Inc42"
+      }
+    ]
+  },
   "baaz-bikes": {
     "round": "Series B",
     "title": "Exclusive: Baaz Bikes to kick off Series B round led by BIG Capital",
@@ -2146,53 +2217,6 @@
       }
     ]
   },
-  "urban-company": {
-    "amount": "₹854 Cr",
-    "title": "Urban Company Secures rs 854 cr From Anchor Investors",
-    "url": "https://entrackr.com/news/urban-company-secures-rs-854-cr-from-anchor-investors-10066875",
-    "date": "2025-09-09",
-    "source": "Entrackr",
-    "history": [
-      {
-        "amount": "₹854 Cr",
-        "round": "IPO",
-        "title": "Urban Company IPO: INR 854 Cr Raised From Anchor Investors",
-        "url": "https://inc42.com/buzz/urban-company-ipo-inr-854-cr-raised-from-anchor-investors/",
-        "date": "2025-09-09",
-        "source": "Inc42"
-      },
-      {
-        "amount": "₹1395 Cr",
-        "round": "IPO",
-        "title": "Urban Company Founders And Investors Cash Out rs 1395 cr in Pre Ipo Deals",
-        "url": "https://entrackr.com/news/urban-company-founders-and-investors-cash-out-rs-1395-cr-in-pre-ipo-deals-9014293",
-        "date": "2025-04-29",
-        "source": "Entrackr"
-      },
-      {
-        "amount": "₹1900 Cr",
-        "title": "Urban Company Drhp to Raise rs 1900 cr Via Primary Issue And Ofs",
-        "url": "https://entrackr.com/news/urban-company-drhp-to-raise-rs-1900-cr-via-primary-issue-and-ofs-9012100",
-        "date": "2025-04-28",
-        "source": "Entrackr"
-      },
-      {
-        "amount": "₹528 Cr",
-        "round": "IPO",
-        "title": "Urban Company Board Approves rs 528 cr Primary Fundraise Via Ipo",
-        "url": "https://entrackr.com/news/urban-company-board-approves-rs-528-cr-primary-fundraise-via-ipo-8947688",
-        "date": "2025-04-10",
-        "source": "Entrackr"
-      },
-      {
-        "amount": "₹400 Cr",
-        "title": "Urban Company Raises INR 400 Cr From Dharana Capital Via Secondary Deal",
-        "url": "https://inc42.com/buzz/urban-company-raises-inr-400-cr-from-dharana-capital-via-secondary-deal/",
-        "date": "2024-07-17",
-        "source": "Inc42"
-      }
-    ]
-  },
   "porter": {
     "amount": "$100 Mn",
     "round": "Series F",
@@ -3284,14 +3308,6 @@
     "title": "Moove Raises 10 mn in Debt Round From Stride Ventures",
     "url": "https://entrackr.com/2024/02/moove-raises-10-mn-in-debt-round-from-stride-ventures/",
     "date": "2024-02-14",
-    "source": "Entrackr",
-    "history": []
-  },
-  "xpressbees": {
-    "round": "Series G",
-    "title": "Decoding Xpressbees 80 mn Series g Round Esops Buyback And More",
-    "url": "https://entrackr.com/2024/01/decoding-xpressbees-80-mn-series-g-round-esops-buyback-and-more/",
-    "date": "2024-01-26",
     "source": "Entrackr",
     "history": []
   },

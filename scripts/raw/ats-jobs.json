@@ -19,6 +19,84 @@
       "source": "careers"
     }
   ],
+  "athena-education": [
+    {
+      "title": "Technical Director- Writing",
+      "url": "https://jobs.lever.co/athena-education/4b1432e7-7ed4-4502-9441-506861d6ebe9",
+      "location": "Gurugram",
+      "source": "careers"
+    }
+  ],
+  "smart-working": [
+    {
+      "title": "Senior DevSecOps Engineer (Remote, Full-Time) [AS355]",
+      "url": "https://jobs.lever.co/smart-working-solutions/ea7609d0-fbe7-443e-ae95-5e92f5d1939f",
+      "location": "Delhi",
+      "source": "careers"
+    }
+  ],
+  "paypay-india": [
+    {
+      "title": "01.Backend Engineer",
+      "url": "https://job-boards.greenhouse.io/pay2dc/jobs/4024283006",
+      "location": "Gurugram,India",
+      "source": "careers"
+    },
+    {
+      "title": "02.Senior Backend Engineer",
+      "url": "https://job-boards.greenhouse.io/pay2dc/jobs/4044556006",
+      "location": "Gurugram,India",
+      "source": "careers"
+    },
+    {
+      "title": "03.QA (Automation) Engineer ",
+      "url": "https://job-boards.greenhouse.io/pay2dc/jobs/4047588006",
+      "location": "Gurugram.India",
+      "source": "careers"
+    },
+    {
+      "title": "04.Product Designer(UX/UI)",
+      "url": "https://job-boards.greenhouse.io/pay2dc/jobs/4309564006",
+      "location": "Gurugram,India",
+      "source": "careers"
+    },
+    {
+      "title": "05. Sr.Technical Program Manager",
+      "url": "https://job-boards.greenhouse.io/pay2dc/jobs/4702609006",
+      "location": "Gurugram,India",
+      "source": "careers"
+    },
+    {
+      "title": "06.Engineering Manager (Java Background)",
+      "url": "https://job-boards.greenhouse.io/pay2dc/jobs/4385870006",
+      "location": "Gurugram,India",
+      "source": "careers"
+    },
+    {
+      "title": "07.Data Engineer",
+      "url": "https://job-boards.greenhouse.io/pay2dc/jobs/4388067006",
+      "location": "Gurugram,India",
+      "source": "careers"
+    },
+    {
+      "title": "08.Corporate Legal Counsel",
+      "url": "https://job-boards.greenhouse.io/pay2dc/jobs/4682590006",
+      "location": "Gurugram,India",
+      "source": "careers"
+    },
+    {
+      "title": "09.Senior Product Manager",
+      "url": "https://job-boards.greenhouse.io/pay2dc/jobs/4722496006",
+      "location": "Gurugram,India",
+      "source": "careers"
+    },
+    {
+      "title": "10.Employee Referral (PayPay India)  - For Internal Use Only",
+      "url": "https://job-boards.greenhouse.io/pay2dc/jobs/4055032006",
+      "location": "Gurugram,India",
+      "source": "careers"
+    }
+  ],
   "trackier": [
     {
       "title": "Business Development Representative - Apptrove",
@@ -99,11 +177,19 @@
       "source": "careers"
     }
   ],
-  "primevigilance": [
+  "map": [
     {
-      "title": "Operations Manager (PV Systems)",
-      "url": "https://careers.smartrecruiters.com/Ergomed/744000159560000",
-      "location": "Noida, in",
+      "title": "Lead QA Engineer",
+      "url": "https://job-boards.greenhouse.io/map/jobs/8441199002",
+      "location": "New Delhi, Delhi, India",
+      "source": "careers"
+    }
+  ],
+  "archipelago": [
+    {
+      "title": "Senior Software Development Engineer in Test",
+      "url": "https://job-boards.greenhouse.io/onarchipelago/jobs/4709368006",
+      "location": "Noida, Uttar Pradesh, India",
       "source": "careers"
     }
   ],
@@ -121,89 +207,11 @@
       "source": "careers"
     }
   ],
-  "athena-education": [
+  "primevigilance": [
     {
-      "title": "Technical Director- Writing",
-      "url": "https://jobs.lever.co/athena-education/4b1432e7-7ed4-4502-9441-506861d6ebe9",
-      "location": "Gurugram",
-      "source": "careers"
-    }
-  ],
-  "paypay-india": [
-    {
-      "title": "01.Backend Engineer",
-      "url": "https://job-boards.greenhouse.io/pay2dc/jobs/4024283006",
-      "location": "Gurugram,India",
-      "source": "careers"
-    },
-    {
-      "title": "02.Senior Backend Engineer",
-      "url": "https://job-boards.greenhouse.io/pay2dc/jobs/4044556006",
-      "location": "Gurugram,India",
-      "source": "careers"
-    },
-    {
-      "title": "03.QA (Automation) Engineer ",
-      "url": "https://job-boards.greenhouse.io/pay2dc/jobs/4047588006",
-      "location": "Gurugram.India",
-      "source": "careers"
-    },
-    {
-      "title": "04.Product Designer(UX/UI)",
-      "url": "https://job-boards.greenhouse.io/pay2dc/jobs/4309564006",
-      "location": "Gurugram,India",
-      "source": "careers"
-    },
-    {
-      "title": "05. Sr.Technical Program Manager",
-      "url": "https://job-boards.greenhouse.io/pay2dc/jobs/4702609006",
-      "location": "Gurugram,India",
-      "source": "careers"
-    },
-    {
-      "title": "06.Engineering Manager (Java Background)",
-      "url": "https://job-boards.greenhouse.io/pay2dc/jobs/4385870006",
-      "location": "Gurugram,India",
-      "source": "careers"
-    },
-    {
-      "title": "07.Data Engineer",
-      "url": "https://job-boards.greenhouse.io/pay2dc/jobs/4388067006",
-      "location": "Gurugram,India",
-      "source": "careers"
-    },
-    {
-      "title": "08.Corporate Legal Counsel",
-      "url": "https://job-boards.greenhouse.io/pay2dc/jobs/4682590006",
-      "location": "Gurugram,India",
-      "source": "careers"
-    },
-    {
-      "title": "09.Senior Product Manager",
-      "url": "https://job-boards.greenhouse.io/pay2dc/jobs/4722496006",
-      "location": "Gurugram,India",
-      "source": "careers"
-    },
-    {
-      "title": "10.Employee Referral (PayPay India)  - For Internal Use Only",
-      "url": "https://job-boards.greenhouse.io/pay2dc/jobs/4055032006",
-      "location": "Gurugram,India",
-      "source": "careers"
-    }
-  ],
-  "map": [
-    {
-      "title": "Lead QA Engineer",
-      "url": "https://job-boards.greenhouse.io/map/jobs/8441199002",
-      "location": "New Delhi, Delhi, India",
-      "source": "careers"
-    }
-  ],
-  "archipelago": [
-    {
-      "title": "Senior Software Development Engineer in Test",
-      "url": "https://job-boards.greenhouse.io/onarchipelago/jobs/4709368006",
-      "location": "Noida, Uttar Pradesh, India",
+      "title": "Operations Manager (PV Systems)",
+      "url": "https://careers.smartrecruiters.com/Ergomed/744000159560000",
+      "location": "Noida, in",
       "source": "careers"
     }
   ],
@@ -322,38 +330,6 @@
       "title": "Value Creation | Data and Analytics | Assistant Manager",
       "url": "https://apply.workable.com/j/3D19B5AC22",
       "location": "Gurugram, India",
-      "source": "careers"
-    }
-  ],
-  "welocalize": [
-    {
-      "title": "Associate Technical Publication Engineer",
-      "url": "https://jobs.lever.co/weloglobal/7903f79a-fe0f-46e3-ac8b-83b607574453",
-      "location": "Gurgaon, India",
-      "source": "careers"
-    },
-    {
-      "title": "Associate Testing QA Engineer",
-      "url": "https://jobs.lever.co/weloglobal/0628962f-fd19-4bf9-92f0-d067e8115a12",
-      "location": "Gurgaon, India",
-      "source": "careers"
-    },
-    {
-      "title": "Hindi Linguist",
-      "url": "https://jobs.lever.co/weloglobal/b1209960-15d0-4bca-883f-0304548215c0",
-      "location": "Gurgaon, India",
-      "source": "careers"
-    },
-    {
-      "title": "Hindi Quality Coordinator",
-      "url": "https://jobs.lever.co/weloglobal/a84abd2f-b1f3-4139-8f7c-a154956c8e6b",
-      "location": "Gurgaon, India",
-      "source": "careers"
-    },
-    {
-      "title": "Trust and Safety Specialist",
-      "url": "https://jobs.lever.co/weloglobal/affa98bf-9d49-4b66-b57b-aae2c8f1c89c",
-      "location": "Gurgaon, India",
       "source": "careers"
     }
   ]
