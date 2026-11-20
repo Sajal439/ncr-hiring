@@ -1,12 +1,4 @@
 {
-  "athena-education": [
-    {
-      "title": "Technical Director- Writing",
-      "url": "https://jobs.lever.co/athena-education/4b1432e7-7ed4-4502-9441-506861d6ebe9",
-      "location": "Gurugram",
-      "source": "careers"
-    }
-  ],
   "the-knot-worldwide": [
     {
       "title": "Account Executive, Core",
@@ -19,11 +11,13 @@
       "url": "https://job-boards.greenhouse.io/theknotworldwide/jobs/5404653008",
       "location": "Gurugram, Haryana, India",
       "source": "careers"
-    },
+    }
+  ],
+  "xebia-india": [
     {
-      "title": "Sales Associate, Venue (Field)",
-      "url": "https://job-boards.greenhouse.io/theknotworldwide/jobs/5437509008",
-      "location": "Gurugram, Haryana, India",
+      "title": "Identity & Access Management Architect ",
+      "url": "https://job-boards.greenhouse.io/xebiaapac/jobs/6231828004",
+      "location": "Gurgaon",
       "source": "careers"
     }
   ],
@@ -107,69 +101,11 @@
       "source": "careers"
     }
   ],
-  "welocalize": [
+  "athena-education": [
     {
-      "title": "Associate Software Localization Engineer",
-      "url": "https://jobs.lever.co/weloglobal/0316fd7c-6dcd-455a-8f6c-cc2fb986be95",
-      "location": "Gurgaon, India",
-      "source": "careers"
-    },
-    {
-      "title": "Associate Technical Publication Engineer",
-      "url": "https://jobs.lever.co/weloglobal/7903f79a-fe0f-46e3-ac8b-83b607574453",
-      "location": "Gurgaon, India",
-      "source": "careers"
-    },
-    {
-      "title": "Associate Testing QA Engineer",
-      "url": "https://jobs.lever.co/weloglobal/0628962f-fd19-4bf9-92f0-d067e8115a12",
-      "location": "Gurgaon, India",
-      "source": "careers"
-    },
-    {
-      "title": "Hindi Linguist",
-      "url": "https://jobs.lever.co/weloglobal/b1209960-15d0-4bca-883f-0304548215c0",
-      "location": "Gurgaon, India",
-      "source": "careers"
-    },
-    {
-      "title": "Hindi Quality Coordinator",
-      "url": "https://jobs.lever.co/weloglobal/a84abd2f-b1f3-4139-8f7c-a154956c8e6b",
-      "location": "Gurgaon, India",
-      "source": "careers"
-    },
-    {
-      "title": "Instructional Designer",
-      "url": "https://jobs.lever.co/weloglobal/767e262b-1bd2-4d83-9671-b1c1140f200f",
-      "location": "Gurgaon, India",
-      "source": "careers"
-    },
-    {
-      "title": "Software Localization Engineer",
-      "url": "https://jobs.lever.co/weloglobal/8ca2e39c-ee06-48ef-9f41-e3ddb7e5bd1a",
-      "location": "Gurgaon, India",
-      "source": "careers"
-    },
-    {
-      "title": "Trust and Safety Specialist",
-      "url": "https://jobs.lever.co/weloglobal/affa98bf-9d49-4b66-b57b-aae2c8f1c89c",
-      "location": "Gurgaon, India",
-      "source": "careers"
-    }
-  ],
-  "ontic": [
-    {
-      "title": "Senior Software Engineer (iOS Developer)",
-      "url": "https://jobs.ashbyhq.com/Ontic/cf5b7f81-d1d1-4ae6-9894-da3aa4775e86",
-      "location": "Noida, India",
-      "source": "careers"
-    }
-  ],
-  "map": [
-    {
-      "title": "Lead QA Engineer",
-      "url": "https://job-boards.greenhouse.io/map/jobs/8441199002",
-      "location": "New Delhi, Delhi, India",
+      "title": "Technical Director- Writing",
+      "url": "https://jobs.lever.co/athena-education/4b1432e7-7ed4-4502-9441-506861d6ebe9",
+      "location": "Gurugram",
       "source": "careers"
     }
   ],
@@ -235,14 +171,6 @@
       "source": "careers"
     }
   ],
-  "archipelago": [
-    {
-      "title": "Senior Software Development Engineer in Test",
-      "url": "https://job-boards.greenhouse.io/onarchipelago/jobs/4709368006",
-      "location": "Noida, Uttar Pradesh, India",
-      "source": "careers"
-    }
-  ],
   "wizikey": [
     {
       "title": "Sales Executive - B2B SaaS ",
@@ -257,35 +185,35 @@
       "source": "careers"
     }
   ],
-  "alphasense": [
+  "ontic": [
     {
-      "title": "Business Analyst II",
-      "url": "https://job-boards.greenhouse.io/alphasense/jobs/8857586002",
+      "title": "Senior Software Engineer (iOS Developer)",
+      "url": "https://jobs.ashbyhq.com/Ontic/cf5b7f81-d1d1-4ae6-9894-da3aa4775e86",
+      "location": "Noida, India",
+      "source": "careers"
+    }
+  ],
+  "map": [
+    {
+      "title": "Lead QA Engineer",
+      "url": "https://job-boards.greenhouse.io/map/jobs/8441199002",
+      "location": "New Delhi, Delhi, India",
+      "source": "careers"
+    }
+  ],
+  "smart-working": [
+    {
+      "title": "Senior DevSecOps Engineer (Remote, Full-Time) [AS355]",
+      "url": "https://jobs.lever.co/smart-working-solutions/ea7609d0-fbe7-443e-ae95-5e92f5d1939f",
       "location": "Delhi",
       "source": "careers"
-    },
+    }
+  ],
+  "archipelago": [
     {
-      "title": "Compliance Analyst",
-      "url": "https://job-boards.greenhouse.io/alphasense/jobs/8630664002",
-      "location": "Delhi",
-      "source": "careers"
-    },
-    {
-      "title": "Compliance Analyst, Expert Network",
-      "url": "https://job-boards.greenhouse.io/alphasense/jobs/8693025002",
-      "location": "Delhi",
-      "source": "careers"
-    },
-    {
-      "title": "Content Analyst",
-      "url": "https://job-boards.greenhouse.io/alphasense/jobs/8025882002",
-      "location": "Delhi",
-      "source": "careers"
-    },
-    {
-      "title": "Join AlphaSense India Talent Community",
-      "url": "https://job-boards.greenhouse.io/alphasense/jobs/7119398002",
-      "location": "Delhi",
+      "title": "Senior Software Development Engineer in Test",
+      "url": "https://job-boards.greenhouse.io/onarchipelago/jobs/4709368006",
+      "location": "Noida, Uttar Pradesh, India",
       "source": "careers"
     }
   ],
@@ -387,10 +315,28 @@
       "source": "careers"
     }
   ],
-  "smart-working": [
+  "alphasense": [
     {
-      "title": "Senior DevSecOps Engineer (Remote, Full-Time) [AS355]",
-      "url": "https://jobs.lever.co/smart-working-solutions/ea7609d0-fbe7-443e-ae95-5e92f5d1939f",
+      "title": "Business Analyst II",
+      "url": "https://job-boards.greenhouse.io/alphasense/jobs/8857586002",
+      "location": "Delhi",
+      "source": "careers"
+    },
+    {
+      "title": "Compliance Analyst",
+      "url": "https://job-boards.greenhouse.io/alphasense/jobs/8630664002",
+      "location": "Delhi",
+      "source": "careers"
+    },
+    {
+      "title": "Content Analyst",
+      "url": "https://job-boards.greenhouse.io/alphasense/jobs/8025882002",
+      "location": "Delhi",
+      "source": "careers"
+    },
+    {
+      "title": "Join AlphaSense India Talent Community",
+      "url": "https://job-boards.greenhouse.io/alphasense/jobs/7119398002",
       "location": "Delhi",
       "source": "careers"
     }

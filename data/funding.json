@@ -1,31 +1,84 @@
 {
-  "amazon-india": {
-    "amount": "$7 Bn",
-    "title": "Amazon To Invest $7 Bn In Indian Green Energy Projects By 2030",
-    "url": "https://inc42.com/buzz/amazon-to-invest-7-bn-in-indian-renewable-energy-projects-by-2030/",
-    "date": "Tue, 17 Nov 2026 22:13:15 +0000",
+  "urban-company": {
+    "amount": "₹2,500 Cr",
+    "title": "Urban Company Raises ₹2,500 Cr Via QIP, Draws Bids Worth Over ₹15,000 Cr",
+    "url": "https://inc42.com/buzz/urban-company-raises-%e2%82%b92500-cr-via-qip-draws-bids-worth-over-%e2%82%b915000-cr/",
+    "date": "Fri, 20 Nov 2026 04:43:19 +0000",
     "source": "Inc42",
     "history": [
       {
-        "amount": "$13 Bn",
-        "title": "Amazon Announces Additional $13 Bn Investment In India To Boost AI, Cloud Infra",
-        "url": "https://inc42.com/buzz/amazon-announces-additional-13-bn-investment-in-india-to-boost-ai-cloud-infra/",
-        "date": "2026-06-25",
-        "source": "Inc42"
-      },
-      {
-        "amount": "₹2800 Cr",
-        "title": "Amazon India to Invest rs 2800 cr to Boost Logistics Quick Commerce Push",
-        "url": "https://entrackr.com/snippets/amazon-india-to-invest-rs-2800-cr-to-boost-logistics-quick-commerce-push-11757284",
-        "date": "2026-04-23",
+        "amount": "₹854 Cr",
+        "title": "Urban Company Secures rs 854 cr From Anchor Investors",
+        "url": "https://entrackr.com/news/urban-company-secures-rs-854-cr-from-anchor-investors-10066875",
+        "date": "2025-09-09",
         "source": "Entrackr"
       },
       {
-        "amount": "₹2,000 Cr",
+        "amount": "₹854 Cr",
         "round": "IPO",
-        "title": "Amazon-Backed More Retail Plans To Raise INR 2,000 Cr Via IPO: Report",
-        "url": "https://inc42.com/buzz/amazon-backed-more-retail-plans-to-raise-inr-2000-cr-via-ipo-report/",
-        "date": "2025-05-13",
+        "title": "Urban Company IPO: INR 854 Cr Raised From Anchor Investors",
+        "url": "https://inc42.com/buzz/urban-company-ipo-inr-854-cr-raised-from-anchor-investors/",
+        "date": "2025-09-09",
+        "source": "Inc42"
+      },
+      {
+        "amount": "₹1395 Cr",
+        "round": "IPO",
+        "title": "Urban Company Founders And Investors Cash Out rs 1395 cr in Pre Ipo Deals",
+        "url": "https://entrackr.com/news/urban-company-founders-and-investors-cash-out-rs-1395-cr-in-pre-ipo-deals-9014293",
+        "date": "2025-04-29",
+        "source": "Entrackr"
+      },
+      {
+        "amount": "₹1900 Cr",
+        "title": "Urban Company Drhp to Raise rs 1900 cr Via Primary Issue And Ofs",
+        "url": "https://entrackr.com/news/urban-company-drhp-to-raise-rs-1900-cr-via-primary-issue-and-ofs-9012100",
+        "date": "2025-04-28",
+        "source": "Entrackr"
+      },
+      {
+        "amount": "₹528 Cr",
+        "round": "IPO",
+        "title": "Urban Company Board Approves rs 528 cr Primary Fundraise Via Ipo",
+        "url": "https://entrackr.com/news/urban-company-board-approves-rs-528-cr-primary-fundraise-via-ipo-8947688",
+        "date": "2025-04-10",
+        "source": "Entrackr"
+      },
+      {
+        "amount": "₹400 Cr",
+        "title": "Urban Company Raises INR 400 Cr From Dharana Capital Via Secondary Deal",
+        "url": "https://inc42.com/buzz/urban-company-raises-inr-400-cr-from-dharana-capital-via-secondary-deal/",
+        "date": "2024-07-17",
+        "source": "Inc42"
+      }
+    ]
+  },
+  "paytm": {
+    "amount": "₹200 Cr",
+    "title": "Paytm Lines Up ₹200 Cr Investment in Singapore&#8217;s Funding Societies",
+    "url": "https://inc42.com/buzz/paytm-lines-up-%e2%82%b9200-cr-investment-in-singapores-funding-societies/",
+    "date": "Thu, 19 Nov 2026 15:27:42 +0000",
+    "source": "Inc42",
+    "history": [
+      {
+        "round": "IPO",
+        "title": "Paytm Founder Vijay Shekhar Sharma Laments His Choice Of Investment Bankers For IPO",
+        "url": "https://inc42.com/buzz/paytm-founder-vijay-shekhar-sharma-laments-his-choice-of-investment-bankers-for-ipo/",
+        "date": "2024-09-27",
+        "source": "Inc42"
+      },
+      {
+        "amount": "₹7.16 Cr",
+        "title": "Ex-Paytm Money CEO’s Raise Fintech Turns Profitable In FY23, Posts PAT Of INR 7.16 Cr",
+        "url": "https://inc42.com/buzz/ex-paytm-money-ceos-raise-fintech-turns-profitable-in-fy23-posts-pat-of-inr-7-16-cr/",
+        "date": "2024-07-26",
+        "source": "Inc42"
+      },
+      {
+        "amount": "₹50 Cr",
+        "title": "Paytm Gets Govt Nod For INR 50 Cr Investment In Its Payments Arm, Stock Rallies 10%",
+        "url": "https://inc42.com/buzz/paytm-gets-govt-nod-for-inr-50-cr-investment-in-its-payment-arm-stock-rallies-10/",
+        "date": "2024-07-26",
         "source": "Inc42"
       }
     ]
@@ -621,6 +674,30 @@
         "url": "https://entrackr.com/snippets/juice-brand-alienkind-raises-12-mn-in-seed-round-8924648",
         "date": "2025-04-04",
         "source": "Entrackr"
+      }
+    ]
+  },
+  "amazon-india": {
+    "amount": "$13 Bn",
+    "title": "Amazon Announces Additional $13 Bn Investment In India To Boost AI, Cloud Infra",
+    "url": "https://inc42.com/buzz/amazon-announces-additional-13-bn-investment-in-india-to-boost-ai-cloud-infra/",
+    "date": "2026-06-25",
+    "source": "Inc42",
+    "history": [
+      {
+        "amount": "₹2800 Cr",
+        "title": "Amazon India to Invest rs 2800 cr to Boost Logistics Quick Commerce Push",
+        "url": "https://entrackr.com/snippets/amazon-india-to-invest-rs-2800-cr-to-boost-logistics-quick-commerce-push-11757284",
+        "date": "2026-04-23",
+        "source": "Entrackr"
+      },
+      {
+        "amount": "₹2,000 Cr",
+        "round": "IPO",
+        "title": "Amazon-Backed More Retail Plans To Raise INR 2,000 Cr Via IPO: Report",
+        "url": "https://inc42.com/buzz/amazon-backed-more-retail-plans-to-raise-inr-2000-cr-via-ipo-report/",
+        "date": "2025-05-13",
+        "source": "Inc42"
       }
     ]
   },
@@ -2170,53 +2247,6 @@
       }
     ]
   },
-  "urban-company": {
-    "amount": "₹854 Cr",
-    "title": "Urban Company Secures rs 854 cr From Anchor Investors",
-    "url": "https://entrackr.com/news/urban-company-secures-rs-854-cr-from-anchor-investors-10066875",
-    "date": "2025-09-09",
-    "source": "Entrackr",
-    "history": [
-      {
-        "amount": "₹854 Cr",
-        "round": "IPO",
-        "title": "Urban Company IPO: INR 854 Cr Raised From Anchor Investors",
-        "url": "https://inc42.com/buzz/urban-company-ipo-inr-854-cr-raised-from-anchor-investors/",
-        "date": "2025-09-09",
-        "source": "Inc42"
-      },
-      {
-        "amount": "₹1395 Cr",
-        "round": "IPO",
-        "title": "Urban Company Founders And Investors Cash Out rs 1395 cr in Pre Ipo Deals",
-        "url": "https://entrackr.com/news/urban-company-founders-and-investors-cash-out-rs-1395-cr-in-pre-ipo-deals-9014293",
-        "date": "2025-04-29",
-        "source": "Entrackr"
-      },
-      {
-        "amount": "₹1900 Cr",
-        "title": "Urban Company Drhp to Raise rs 1900 cr Via Primary Issue And Ofs",
-        "url": "https://entrackr.com/news/urban-company-drhp-to-raise-rs-1900-cr-via-primary-issue-and-ofs-9012100",
-        "date": "2025-04-28",
-        "source": "Entrackr"
-      },
-      {
-        "amount": "₹528 Cr",
-        "round": "IPO",
-        "title": "Urban Company Board Approves rs 528 cr Primary Fundraise Via Ipo",
-        "url": "https://entrackr.com/news/urban-company-board-approves-rs-528-cr-primary-fundraise-via-ipo-8947688",
-        "date": "2025-04-10",
-        "source": "Entrackr"
-      },
-      {
-        "amount": "₹400 Cr",
-        "title": "Urban Company Raises INR 400 Cr From Dharana Capital Via Secondary Deal",
-        "url": "https://inc42.com/buzz/urban-company-raises-inr-400-cr-from-dharana-capital-via-secondary-deal/",
-        "date": "2024-07-17",
-        "source": "Inc42"
-      }
-    ]
-  },
   "porter": {
     "amount": "$100 Mn",
     "round": "Series F",
@@ -3132,29 +3162,6 @@
         "url": "https://entrackr.com/2023/12/robotics-company-greyorange-raises-135-mn-in-series-d/",
         "date": "2023-12-21",
         "source": "Entrackr"
-      }
-    ]
-  },
-  "paytm": {
-    "round": "IPO",
-    "title": "Paytm Founder Vijay Shekhar Sharma Laments His Choice Of Investment Bankers For IPO",
-    "url": "https://inc42.com/buzz/paytm-founder-vijay-shekhar-sharma-laments-his-choice-of-investment-bankers-for-ipo/",
-    "date": "2024-09-27",
-    "source": "Inc42",
-    "history": [
-      {
-        "amount": "₹7.16 Cr",
-        "title": "Ex-Paytm Money CEO’s Raise Fintech Turns Profitable In FY23, Posts PAT Of INR 7.16 Cr",
-        "url": "https://inc42.com/buzz/ex-paytm-money-ceos-raise-fintech-turns-profitable-in-fy23-posts-pat-of-inr-7-16-cr/",
-        "date": "2024-07-26",
-        "source": "Inc42"
-      },
-      {
-        "amount": "₹50 Cr",
-        "title": "Paytm Gets Govt Nod For INR 50 Cr Investment In Its Payments Arm, Stock Rallies 10%",
-        "url": "https://inc42.com/buzz/paytm-gets-govt-nod-for-inr-50-cr-investment-in-its-payment-arm-stock-rallies-10/",
-        "date": "2024-07-26",
-        "source": "Inc42"
       }
     ]
   },
